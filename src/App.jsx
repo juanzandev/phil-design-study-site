@@ -28,8 +28,8 @@ function HomePage() {
   return (
     <Layout>
       {categories.map((category) => (
-        <section key={category} className="panel">
-          <h2>{category}</h2>
+        <section key={category} className="sectionBlock">
+          <h2 className="sectionTitle">{category}</h2>
           <div className="grid">
             {data.readings
               .filter((reading) => reading.category === category)
@@ -53,7 +53,7 @@ function ReadingPage() {
 
   return (
     <Layout>
-      <section className="panel">
+      <section className="sectionBlock readingView">
         <p className="eyebrow">{reading.category}</p>
         <h2>{reading.title}</h2>
         <div className="summary">
@@ -69,7 +69,7 @@ function QuestionsPage() {
   return (
     <Layout>
       {data.givenQuestions.map((question) => (
-        <section className="panel" key={question.id}>
+        <section className="sectionBlock" key={question.id}>
           <h2>{question.question}</h2>
           <p className="synth">{question.synthesizedAnswer}</p>
           <div className="qaList">
@@ -93,6 +93,7 @@ function FlashcardsPage() {
   const [selected, setSelected] = useState(data.readings[0]?.id ?? "");
   const [activeCard, setActiveCard] = useState(0);
   const [revealed, setRevealed] = useState(false);
+  const [completed, setCompleted] = useState([]);
 
   const reading = useMemo(
     () => data.readings.find((item) => item.id === selected) ?? data.readings[0],
@@ -100,11 +101,23 @@ function FlashcardsPage() {
   );
 
   const card = reading.flashcards[activeCard];
+  const progress = Math.round((completed.length / reading.flashcards.length) * 100);
+
+  const goNext = () => {
+    setActiveCard((current) => (current + 1) % reading.flashcards.length);
+    setRevealed(false);
+  };
+
+  const goPrevious = () => {
+    setActiveCard((current) => (current - 1 + reading.flashcards.length) % reading.flashcards.length);
+    setRevealed(false);
+  };
 
   return (
     <Layout>
-      <section className="panel">
+      <section className="sectionBlock">
         <h2>Flashcard Practice</h2>
+        <p className="flashcardSubtext">Tap card to flip. Keep answers short and verbalize your own version.</p>
         <div className="controls">
           <select
             value={reading.id}
@@ -112,6 +125,7 @@ function FlashcardsPage() {
               setSelected(event.target.value);
               setActiveCard(0);
               setRevealed(false);
+              setCompleted([]);
             }}
           >
             {data.readings.map((item) => (
@@ -145,6 +159,33 @@ function FlashcardsPage() {
           <p className="faceLabel">{revealed ? "Answer" : "Question"}</p>
           <p>{revealed ? card.answer : card.question}</p>
         </button>
+
+        <div className="flashcardActions">
+          <button type="button" className="ghostBtn" onClick={goPrevious}>
+            Previous
+          </button>
+          <button type="button" className="ghostBtn" onClick={goNext}>
+            Next
+          </button>
+          <button
+            type="button"
+            className="ghostBtn"
+            onClick={() => {
+              if (!completed.includes(activeCard)) {
+                setCompleted((current) => [...current, activeCard]);
+              }
+              goNext();
+            }}
+          >
+            Mark Done
+          </button>
+        </div>
+        <div className="progressWrap" aria-label="flashcard progress">
+          <div className="progressFill" style={{ width: `${progress}%` }} />
+        </div>
+        <p className="progressText">
+          {completed.length} of {reading.flashcards.length} cards reviewed
+        </p>
       </section>
     </Layout>
   );

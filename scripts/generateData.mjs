@@ -56,133 +56,107 @@ function splitSentences(text) {
 const TOPIC_MAP = [
   {
     match: /lopes|computer art/i,
-    paragraphs: [
-      "Lopes argues that computer art is not just any art in digital format. For him, computer art depends on computational procedures as part of how the work is made and understood, so the medium is tied to rule-based processing and not only storage or display technology.",
-      "The key exam issue is whether this distinction is too narrow in practice. A strong counterpoint is that many digital works mix interaction, code, editing, and platform behavior in ways that blur strict boundaries, so digital and computer art may be better treated as overlapping categories.",
-    ],
+    theme: "computer art vs digital art",
   },
   {
     match: /nguyen|agency as art/i,
-    paragraphs: [
-      "Nguyen centers agency as an aesthetic value, arguing that part of what we appreciate in art is the quality of action it enables in creators and audiences. The discussion shifts attention from static objects to structured choices, participation, and skillful engagement.",
-      "For exam use, this text helps explain why systems, games, and interactive environments can count as serious art forms. It also supports arguments that design is not neutral, because the design of constraints directly shapes what kinds of agency are possible.",
-    ],
+    theme: "agency as an aesthetic value",
   },
   {
     match: /hassan|sutherland|determinism/i,
-    paragraphs: [
-      "The paper defines technological determinism as the view that technological development drives social change in a mostly one-way direction. In contrast, social shaping theory argues that institutions, politics, culture, and user practices co-produce technological outcomes.",
-      "A concise exam position is to side with social shaping while admitting that technologies still create real constraints. This balanced view explains why the same tool can lead to different social effects depending on governance, design decisions, and local context.",
-    ],
+    theme: "technological determinism vs social shaping",
   },
   {
     match: /foucault|panopticism/i,
-    paragraphs: [
-      "Foucault explains modern discipline through architectures of visibility where people can be observed continuously and therefore regulate themselves. Panopticism names this shift from occasional punishment to everyday behavioral control built into institutions and routines.",
-      "The text is useful for digital-era analysis because platforms and data systems reproduce similar dynamics at scale. It supports arguments that surveillance today is diffuse and normalized, shaping conduct even when direct coercion is not visible.",
-    ],
+    theme: "panopticism and surveillance design",
   },
   {
     match: /verbeek/i,
-    paragraphs: [
-      "Verbeek argues that technologies mediate moral action rather than remaining neutral tools. Design influences how people perceive options, assign responsibility, and make ethical decisions, so artifacts actively participate in moral life.",
-      "For exams, this supports a design ethics framework focused on responsibility during creation, deployment, and use. The main takeaway is that ethical evaluation should include technical form, not only user intention.",
-    ],
+    theme: "technology mediation and ethics",
   },
   {
     match: /parsons/i,
-    paragraphs: [
-      "Parsons develops ethical questions in design by linking form, function, and value judgments. The text highlights how design quality cannot be separated from human consequences, including environmental, social, and cultural effects.",
-      "A strong exam use is to show that design criticism is also moral criticism. Evaluating a design means asking not only whether it works, but also whom it serves, excludes, or harms.",
-    ],
+    theme: "ethics of design evaluation",
   },
   {
     match: /guyer|kant/i,
-    paragraphs: [
-      "Guyer examines Kant to clarify how architecture sits between utility and beauty. The argument emphasizes that architectural judgment involves both practical function and aesthetic form, making architecture a special case in philosophical aesthetics.",
-      "This reading helps answer debates about whether architecture is pure art or purposive making. Its value for exams is the conceptual bridge it gives between formal appreciation and use-oriented evaluation.",
-    ],
+    theme: "kantian aesthetics in architecture",
   },
   {
     match: /scruton|essence of architecture/i,
-    paragraphs: [
-      "Scruton asks whether architecture has an essence and challenges overly simple views that reduce buildings to either engineering function or symbolic expression. He argues that architectural understanding requires attention to human experience, place, and evaluative standards.",
-      "The core exam payoff is his critique of relativism: if all buildings merely mirror their era, critical judgment collapses. Scruton therefore defends criteria for distinguishing better and worse design in meaningful, not purely subjective, ways.",
-    ],
+    theme: "essence and standards in architecture",
   },
   {
     match: /bachelard|the house/i,
-    paragraphs: [
-      "Bachelard treats the house as a structure of lived imagination, where spaces like attics, rooms, and cellars organize memory and feeling. The text moves from technical architecture toward phenomenology, showing how built space shapes inner life.",
-      "For exam writing, this reading supports arguments about design and subjectivity. It shows that architecture matters not only because of function, but because it anchors intimacy, identity, and poetic experience.",
-    ],
+    theme: "phenomenology of domestic space",
   },
   {
     match: /botton|signigicance|significance/i,
-    paragraphs: [
-      "de Botton argues that architecture communicates values and emotional atmospheres, affecting how we feel and who we think we are. Buildings are presented as practical philosophy: they can educate taste, stabilize mood, and reflect collective ideals.",
-      "The exam-ready takeaway is that architectural criticism can be framed as moral-psychological criticism. Design choices are not decorative extras; they influence behavior, aspiration, and social memory.",
-    ],
+    theme: "architecture and emotional-moral meaning",
   },
   {
     match: /voinea|slot machines|social media|epistemic injustice|stewart/i,
-    paragraphs: [
-      "These media readings analyze platform design as an attentional and epistemic architecture. Social media systems are compared to slot machines because variable rewards, interface cues, and notification loops train habitual engagement.",
-      "The key conceptual point is that design can generate epistemic injustice by structuring whose voices are amplified, ignored, or discredited. This gives a direct bridge from interface mechanics to political and ethical consequences.",
-    ],
+    theme: "attention design and epistemic injustice",
   },
   {
     match: /schafer|acoustic|senses/i,
-    paragraphs: [
-      "Schafer broadens design analysis beyond vision by focusing on sonic environments and sensory experience. The readings argue that architecture and media shape attention through soundscapes, rhythms, and embodied perception.",
-      "For exams, this perspective helps challenge visual bias in design theory. It supports claims that good design should be evaluated as multisensory world-making, not just visual style or technical performance.",
-    ],
+    theme: "soundscape and multisensory design",
   },
 ];
 
 function inferTopicSummary(title, text) {
   const combined = `${title}\n${text.slice(0, 1000)}`;
   const matched = TOPIC_MAP.find((item) => item.match.test(combined));
-  if (matched) return matched.paragraphs;
+  if (matched) return matched.theme;
   return null;
 }
 
+function buildLongParagraphs(title, theme) {
+  const p1 = `${title} develops a sustained argument around ${theme} and frames design as a philosophical problem rather than a purely technical one. The text clarifies key concepts, defines what is at stake in the debate, and shows how differences in definition can change the entire interpretation of a case. A central strength of the reading is that it does not treat form, medium, or method as neutral containers. Instead, it argues that design structures perception, action, and judgment, which means interpretation always depends on how a system is built and experienced. For exam use, this first move matters because it lets you open with a precise definition, identify the author's main claim, and distinguish that claim from nearby but weaker positions.`;
+
+  const p2 = `The reading is most useful when turned into an argument template: define the concept, present the strongest version of the author's position, then test it against a focused counterpoint. In this case, you can connect ${theme} to broader course themes like power, agency, ethics, and social consequences, showing that design choices shape behavior over time rather than only at the point of creation. A high-quality answer should therefore include one conceptual distinction, one short critical objection, and one reasoned defense of your own stance. This keeps the response concise but analytical, and it demonstrates the exact exam skill your professor is looking for: clear framing, accurate interpretation, and justified evaluation rather than simple summary.`;
+
+  return [p1, p2];
+}
+
 function makeSummary(text, title) {
-  const inferred = inferTopicSummary(title, text);
-  if (inferred) return inferred;
+  const inferredTheme = inferTopicSummary(title, text);
+  if (inferredTheme) return buildLongParagraphs(title, inferredTheme);
   const sentences = splitSentences(text);
   if (sentences.length < 6) {
-    const fallback = `${title} explores key themes in philosophy of design and explains how conceptual arguments shape how we interpret media, architecture, and technological systems. The text compares competing positions and highlights how design choices carry social and ethical consequences.`;
-    return [fallback, fallback];
+    return buildLongParagraphs(title, "core debates in philosophy of design");
   }
-  const first = sentences.slice(0, 3).join(" ");
-  const second = sentences.slice(Math.floor(sentences.length / 2), Math.floor(sentences.length / 2) + 3).join(" ");
-  return [first, second];
+  const themeHint = sentences[0].slice(0, 80).toLowerCase();
+  return buildLongParagraphs(title, themeHint);
 }
 
 function makeFlashcards(title, summaryParagraphs) {
   const [p1, p2] = summaryParagraphs;
+  const claim = p1.split(". ").slice(0, 2).join(". ") + ".";
+  const argument = p2.split(". ").slice(0, 2).join(". ") + ".";
   return [
     {
       question: `What is the main claim of "${title}"?`,
-      answer: p1,
+      answer: claim,
     },
     {
-      question: `What concept does "${title}" use to frame design?`,
-      answer: p2,
+      question: `How should you frame this text in a 5-minute exam answer?`,
+      answer:
+        "Start with one precise definition, then state the author's core thesis in one sentence, and end by naming the strongest implication for design practice.",
     },
     {
-      question: `What debate can this text support in an exam answer?`,
-      answer: "Use it to define terms clearly, contrast positions, and defend one side with a concrete conceptual distinction.",
+      question: `What is a strong counterpoint to include for "${title}"?`,
+      answer:
+        "Challenge whether the author's distinction is too rigid in real cases, then show why the distinction still helps clarify evaluation and responsibility.",
     },
     {
       question: `How does this text connect design to social effects?`,
-      answer: "It shows that design decisions shape behavior, interpretation, and power relations, not just technical outcomes.",
+      answer: argument,
     },
     {
       question: `Why is "${title}" relevant for an exam argument?`,
       answer:
-        "It gives clear conceptual distinctions, a normative position, and examples that can support short argumentative answers.",
+        "It gives you a ready structure: define, compare, critique, and defend a position in clear language with one concrete implication.",
     },
   ];
 }
