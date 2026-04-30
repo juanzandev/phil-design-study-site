@@ -1,4 +1,4 @@
-import { useMemo, useRef, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import { Link, Navigate, Route, Routes, useParams } from "react-router-dom";
 import data from "./data/readings.json";
 import "./App.css";
@@ -291,12 +291,27 @@ function CarModePage() {
   const [isPlaying, setIsPlaying] = useState(false);
   const [rate, setRate] = useState("1");
   const audioRef = useRef(null);
+  const shouldAutoPlayNext = useRef(false);
 
   const current = playlist[index];
   const currentSrc = `${import.meta.env.BASE_URL}${current.audioPath}`;
 
-  const goNext = () => setIndex((currentIndex) => (currentIndex + 1) % playlist.length);
-  const goPrev = () => setIndex((currentIndex) => (currentIndex - 1 + playlist.length) % playlist.length);
+  const goNext = () => {
+    shouldAutoPlayNext.current = Boolean(audioRef.current && !audioRef.current.paused);
+    setIndex((currentIndex) => (currentIndex + 1) % playlist.length);
+  };
+
+  const goPrev = () => {
+    shouldAutoPlayNext.current = Boolean(audioRef.current && !audioRef.current.paused);
+    setIndex((currentIndex) => (currentIndex - 1 + playlist.length) % playlist.length);
+  };
+
+  useEffect(() => {
+    if (!audioRef.current) return;
+    if (!shouldAutoPlayNext.current) return;
+    shouldAutoPlayNext.current = false;
+    audioRef.current.play().then(() => setIsPlaying(true)).catch(() => setIsPlaying(false));
+  }, [index]);
 
   const togglePlay = async () => {
     if (!audioRef.current) return;
@@ -329,7 +344,10 @@ function CarModePage() {
           controls
           preload="metadata"
           src={currentSrc}
-          onEnded={goNext}
+          onEnded={() => {
+            shouldAutoPlayNext.current = true;
+            setIndex((currentIndex) => (currentIndex + 1) % playlist.length);
+          }}
           onPlay={() => setIsPlaying(true)}
           onPause={() => setIsPlaying(false)}
           onLoadedMetadata={(event) => {
