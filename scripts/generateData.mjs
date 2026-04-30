@@ -184,28 +184,32 @@ function makeSummary(text, title) {
 
 function makeFlashcards(title, summaryParagraphs) {
   const [p1, p2] = summaryParagraphs;
-  const firstTwo = p1.split(/(?<=[.!?])\s+/).slice(0, 2).join(" ");
-  const nextTwo = p2.split(/(?<=[.!?])\s+/).slice(0, 2).join(" ");
+  const s1 = p1.split(/(?<=[.!?])\s+/);
+  const s2 = p2.split(/(?<=[.!?])\s+/);
+  const firstTwo = s1.slice(0, 2).join(" ");
+  const middleTwo = s1.slice(2, 4).join(" ");
+  const nextTwo = s2.slice(0, 2).join(" ");
+  const lastTwo = s2.slice(2, 4).join(" ");
   return [
     {
-      question: `What is the main claim of "${title}"?`,
+      question: `In the essay, "${title}", what does the author argue is the central distinction or core claim? Offer one concise explanation.`,
       answer: firstTwo,
     },
     {
-      question: `What distinction is central in "${title}"?`,
-      answer: p1.split(/(?<=[.!?])\s+/).slice(2, 4).join(" "),
+      question: `In "${title}", what conceptual distinction is used to organize the argument? Explain why that distinction matters for interpreting the text.`,
+      answer: middleTwo,
     },
     {
-      question: `What method or approach does the author use in "${title}"?`,
-      answer: p2.split(/(?<=[.!?])\s+/).slice(0, 2).join(" "),
-    },
-    {
-      question: `What implication about design follows from "${title}"?`,
+      question: `How does "${title}" define or frame its key concept, and what position does the author take in relation to competing views?`,
       answer: nextTwo,
     },
     {
-      question: `What is one concise takeaway from "${title}"?`,
-      answer: p2.split(/(?<=[.!?])\s+/).slice(2, 4).join(" "),
+      question: `In "${title}", what broader implication follows for how we understand design, media, or architecture in social life?`,
+      answer: nextTwo,
+    },
+    {
+      question: `Which side of the debate in "${title}" do you find more convincing, and why? Give one reasoned justification grounded in the text.`,
+      answer: lastTwo || nextTwo,
     },
   ];
 }
