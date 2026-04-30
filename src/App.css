@@ -189,9 +189,36 @@
   margin-top: 0.6rem;
 }
 
-.audioPlayer {
+.customAudio {
   margin-top: 0.6rem;
+  padding: 0.7rem;
+  border-radius: 12px;
+  background: rgba(7, 12, 22, 0.62);
+}
+
+.customAudioButtons {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 0.45rem;
+}
+
+.customAudioTimeline {
+  margin-top: 0.55rem;
+  display: grid;
+  grid-template-columns: 42px 1fr 42px;
+  align-items: center;
+  gap: 0.45rem;
+}
+
+.customAudioTimeline span {
+  color: #9db4d6;
+  font-size: 0.78rem;
+  text-align: center;
+}
+
+.customAudioTimeline input[type="range"] {
   width: 100%;
+  accent-color: #a78bfa;
 }
 
 .readerHint {
@@ -526,6 +553,14 @@ select option {
 
   .carControls {
     grid-template-columns: 1fr 1fr;
+  }
+
+  .customAudioButtons {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .customAudioTimeline {
+    grid-template-columns: 38px 1fr 38px;
   }
 
   .carPrimary {

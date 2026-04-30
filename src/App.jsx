@@ -6,6 +6,12 @@ import "./App.css";
 const categories = ["Possible Question Readings", "Pres", "Questions", "Unlikely"];
 const byWeek = (a, b) => (a.week ?? 99) - (b.week ?? 99) || a.textName.localeCompare(b.textName);
 const previewText = (text) => (text.length > 190 ? `${text.slice(0, 190)}...` : text);
+const formatTime = (seconds) => {
+  if (!Number.isFinite(seconds)) return "0:00";
+  const mins = Math.floor(seconds / 60);
+  const secs = Math.floor(seconds % 60).toString().padStart(2, "0");
+  return `${mins}:${secs}`;
+};
 
 function Layout({ children }) {
   return (
@@ -69,9 +75,101 @@ function HomePage() {
   );
 }
 
+function CustomAudioPlayer({ src, rate, onEnded, onPlayStateChange, audioRef, compact = false }) {
+  const internalRef = useRef(null);
+  const playerRef = audioRef ?? internalRef;
+  const [isPlaying, setIsPlaying] = useState(false);
+  const [currentTime, setCurrentTime] = useState(0);
+  const [duration, setDuration] = useState(0);
+
+  const setPlaying = (value) => {
+    setIsPlaying(value);
+    if (onPlayStateChange) onPlayStateChange(value);
+  };
+
+  const togglePlay = async () => {
+    if (!playerRef.current) return;
+    if (playerRef.current.paused) {
+      await playerRef.current.play();
+      setPlaying(true);
+    } else {
+      playerRef.current.pause();
+      setPlaying(false);
+    }
+  };
+
+  const stop = () => {
+    if (!playerRef.current) return;
+    playerRef.current.pause();
+    playerRef.current.currentTime = 0;
+    setCurrentTime(0);
+    setPlaying(false);
+  };
+
+  const seekTo = (event) => {
+    if (!playerRef.current) return;
+    const value = Number.parseFloat(event.target.value);
+    playerRef.current.currentTime = value;
+    setCurrentTime(value);
+  };
+
+  const skip = (delta) => {
+    if (!playerRef.current) return;
+    const next = Math.min(Math.max(playerRef.current.currentTime + delta, 0), duration || 0);
+    playerRef.current.currentTime = next;
+    setCurrentTime(next);
+  };
+
+  return (
+    <div className={compact ? "customAudio compact" : "customAudio"}>
+      <audio
+        ref={playerRef}
+        preload="metadata"
+        src={src}
+        onEnded={() => {
+          setPlaying(false);
+          if (onEnded) onEnded();
+        }}
+        onLoadedMetadata={(event) => {
+          event.currentTarget.playbackRate = Number.parseFloat(rate);
+          setDuration(event.currentTarget.duration || 0);
+        }}
+        onTimeUpdate={(event) => setCurrentTime(event.currentTarget.currentTime || 0)}
+        onPlay={() => setPlaying(true)}
+        onPause={() => setPlaying(false)}
+      />
+      <div className="customAudioButtons">
+        <button type="button" className="ghostBtn" onClick={() => skip(-10)}>
+          -10s
+        </button>
+        <button type="button" className="ghostBtn" onClick={togglePlay}>
+          {isPlaying ? "Pause" : "Play"}
+        </button>
+        <button type="button" className="ghostBtn" onClick={stop}>
+          Stop
+        </button>
+        <button type="button" className="ghostBtn" onClick={() => skip(10)}>
+          +10s
+        </button>
+      </div>
+      <div className="customAudioTimeline">
+        <span>{formatTime(currentTime)}</span>
+        <input
+          type="range"
+          min="0"
+          max={duration || 0}
+          step="0.1"
+          value={Math.min(currentTime, duration || 0)}
+          onChange={seekTo}
+        />
+        <span>{formatTime(duration)}</span>
+      </div>
+    </div>
+  );
+}
+
 function SummaryReader({ audioPath }) {
   const [rate, setRate] = useState("1");
-  const [audioMissing, setAudioMissing] = useState(false);
   const audioRef = useRef(null);
   const source = `${import.meta.env.BASE_URL}${audioPath}`;
   return (
@@ -96,26 +194,13 @@ function SummaryReader({ audioPath }) {
           </select>
         </label>
       </div>
-      <audio
-        ref={audioRef}
-        className="audioPlayer"
-        controls
-        preload="none"
+      <CustomAudioPlayer
+        key={source}
+        audioRef={audioRef}
         src={source}
-        onError={() => setAudioMissing(true)}
-        onLoadedMetadata={(event) => {
-          event.currentTarget.playbackRate = Number.parseFloat(rate);
-        }}
-        onRateChange={(event) => {
-          const current = event.currentTarget.playbackRate.toString();
-          if (["1", "1.25", "1.5", "1.75", "2"].includes(current)) setRate(current);
-        }}
+        rate={rate}
       />
-      <p className="readerHint">
-        {audioMissing
-          ? "Audio file not generated yet for this reading."
-          : "OpenAI neural voice audio for this summary."}
-      </p>
+      <p className="readerHint">OpenAI neural voice audio for this summary.</p>
     </div>
   );
 }
@@ -338,21 +423,16 @@ function CarModePage() {
           </p>
         </div>
 
-        <audio
-          ref={audioRef}
-          className="audioPlayer"
-          controls
-          preload="metadata"
+        <CustomAudioPlayer
+          key={currentSrc}
+          audioRef={audioRef}
           src={currentSrc}
+          rate={rate}
           onEnded={() => {
             shouldAutoPlayNext.current = true;
             setIndex((currentIndex) => (currentIndex + 1) % playlist.length);
           }}
-          onPlay={() => setIsPlaying(true)}
-          onPause={() => setIsPlaying(false)}
-          onLoadedMetadata={(event) => {
-            event.currentTarget.playbackRate = Number.parseFloat(rate);
-          }}
+          onPlayStateChange={setIsPlaying}
         />
 
         <div className="carControls">
