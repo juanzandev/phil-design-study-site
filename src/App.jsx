@@ -21,13 +21,14 @@ function Layout({ children }) {
               target="_blank"
               rel="noreferrer"
             >
-              juanzandev
+              By: juanzandev
             </a>
           </div>
         </div>
         <nav>
           <Link to="/">Texts</Link>
           <Link to="/questions">Given Questions</Link>
+          <Link to="/flashcards">Flashcards</Link>
           <a
             className="githubStarBtn"
             href="https://github.com/juanzandev/phil-design-study-site"
@@ -37,7 +38,6 @@ function Layout({ children }) {
             <span aria-hidden="true">★</span>
             <span>my repository</span>
           </a>
-          <Link to="/flashcards">Flashcards</Link>
         </nav>
       </header>
       <main>{children}</main>
