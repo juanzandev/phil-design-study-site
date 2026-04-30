@@ -60,8 +60,9 @@ function ReadingPage() {
         <p className="eyebrow">{reading.category}</p>
         <h2>{reading.title}</h2>
         <div className="summary">
-          <p>{reading.summary[0]}</p>
-          <p>{reading.summary[1]}</p>
+          {reading.summary.map((paragraph, index) => (
+            <p key={index}>{paragraph}</p>
+          ))}
         </div>
         {reading.keyPoints?.length ? (
           <div className="keyPoints">
