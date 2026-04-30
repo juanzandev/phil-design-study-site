@@ -5,6 +5,7 @@ import "./App.css";
 
 const categories = ["Possible Question Readings", "Pres", "Questions", "Unlikely"];
 const byWeek = (a, b) => (a.week ?? 99) - (b.week ?? 99) || a.textName.localeCompare(b.textName);
+const previewText = (text) => (text.length > 190 ? `${text.slice(0, 190)}...` : text);
 
 function Layout({ children }) {
   return (
@@ -38,7 +39,7 @@ function HomePage() {
               .map((reading) => (
                 <Link key={reading.id} className="card" to={`/reading/${reading.id}`}>
                   <h3>{reading.title}</h3>
-                  <p>{reading.summary[0]}</p>
+                  <p>{previewText(reading.summary[0])}</p>
                 </Link>
               ))}
           </div>
@@ -120,7 +121,7 @@ function FlashcardsPage() {
     <Layout>
       <section className="sectionBlock">
         <h2>Flashcard Practice</h2>
-        <p className="flashcardSubtext">Tap card to flip. Keep answers short and verbalize your own version.</p>
+        <p className="flashcardSubtext">Tap card to flip between question and answer.</p>
         <div className="controls">
           <select
             value={reading.id}

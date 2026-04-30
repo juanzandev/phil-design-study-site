@@ -76,7 +76,7 @@ function splitSentences(text) {
   return text
     .split(/(?<=[.!?])\s+/)
     .map((s) => s.trim())
-    .filter((s) => s.length > 70 && s.length < 260);
+    .filter((s) => s.length > 70 && s.length < 320);
 }
 
 function parseReadingMeta(fileName) {
@@ -102,110 +102,110 @@ function parseReadingMeta(fileName) {
   };
 }
 
-const TOPIC_MAP = [
-  {
-    match: /lopes|computer art/i,
-    theme: "computer art vs digital art",
-  },
-  {
-    match: /nguyen|agency as art/i,
-    theme: "agency as an aesthetic value",
-  },
-  {
-    match: /hassan|sutherland|determinism/i,
-    theme: "technological determinism vs social shaping",
-  },
-  {
-    match: /foucault|panopticism/i,
-    theme: "panopticism and surveillance design",
-  },
-  {
-    match: /verbeek/i,
-    theme: "technology mediation and ethics",
-  },
-  {
-    match: /parsons/i,
-    theme: "ethics of design evaluation",
-  },
-  {
-    match: /guyer|kant/i,
-    theme: "kantian aesthetics in architecture",
-  },
-  {
-    match: /scruton|essence of architecture/i,
-    theme: "essence and standards in architecture",
-  },
-  {
-    match: /bachelard|the house/i,
-    theme: "phenomenology of domestic space",
-  },
-  {
-    match: /botton|signigicance|significance/i,
-    theme: "architecture and emotional-moral meaning",
-  },
-  {
-    match: /voinea|slot machines|social media|epistemic injustice|stewart/i,
-    theme: "attention design and epistemic injustice",
-  },
-  {
-    match: /schafer|acoustic|senses/i,
-    theme: "soundscape and multisensory design",
-  },
-];
+const STOPWORDS = new Set([
+  "the", "and", "for", "with", "that", "this", "from", "into", "their", "there", "were", "have",
+  "been", "will", "would", "about", "which", "when", "what", "where", "while", "also", "than",
+  "they", "them", "then", "such", "these", "those", "because", "through", "over", "under", "between",
+  "after", "before", "being", "used", "using", "most", "more", "less", "very", "only", "many", "some",
+  "text", "page", "pages", "jstor", "week", "author", "source",
+]);
 
-function inferTopicSummary(title, text) {
-  const combined = `${title}\n${text.slice(0, 1000)}`;
-  const matched = TOPIC_MAP.find((item) => item.match.test(combined));
-  if (matched) return matched.theme;
-  return null;
+function sanitizeForSummary(text) {
+  return text
+    .replace(/--\s*\d+\s*of\s*\d+\s*--/gi, " ")
+    .replace(/\n\d+\n/g, " ")
+    .replace(/copyright[^\n]*/gi, " ")
+    .replace(/doi:[^\s]+/gi, " ")
+    .replace(/\s+/g, " ")
+    .trim();
 }
 
-function buildLongParagraphs(title, theme) {
-  const p1 = `${title} develops a sustained argument around ${theme} and frames design as a philosophical problem rather than a purely technical one. The text clarifies key concepts, defines what is at stake in the debate, and shows how differences in definition can change the entire interpretation of a case. A central strength of the reading is that it does not treat form, medium, or method as neutral containers. Instead, it argues that design structures perception, action, and judgment, which means interpretation always depends on how a system is built and experienced. For exam use, this first move matters because it lets you open with a precise definition, identify the author's main claim, and distinguish that claim from nearby but weaker positions.`;
+function sentenceScore(sentence, termWeights) {
+  const words = sentence.toLowerCase().match(/[a-z]{4,}/g) ?? [];
+  let score = 0;
+  for (const word of words) score += termWeights.get(word) ?? 0;
+  if (/\b(argues?|claims?|defines?|distinguishes?|describes?|analy[sz]es?|explores?)\b/i.test(sentence)) {
+    score += 2;
+  }
+  return score;
+}
 
-  const p2 = `The reading is most useful when turned into an argument template: define the concept, present the strongest version of the author's position, then test it against a focused counterpoint. In this case, you can connect ${theme} to broader course themes like power, agency, ethics, and social consequences, showing that design choices shape behavior over time rather than only at the point of creation. A high-quality answer should therefore include one conceptual distinction, one short critical objection, and one reasoned defense of your own stance. This keeps the response concise but analytical, and it demonstrates the exact exam skill your professor is looking for: clear framing, accurate interpretation, and justified evaluation rather than simple summary.`;
+function keywordWeights(text) {
+  const words = text.toLowerCase().match(/[a-z]{4,}/g) ?? [];
+  const counts = new Map();
+  for (const word of words) {
+    if (STOPWORDS.has(word)) continue;
+    counts.set(word, (counts.get(word) ?? 0) + 1);
+  }
+  const top = [...counts.entries()]
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 40);
+  return new Map(top);
+}
 
-  return [p1, p2];
+function buildParagraph(candidates, minSentences = 4) {
+  if (!candidates.length) return "";
+  const ordered = [...candidates].sort((a, b) => a.index - b.index);
+  const chosen = ordered.slice(0, Math.max(minSentences, Math.min(6, ordered.length)));
+  return chosen.map((item) => item.sentence).join(" ");
 }
 
 function makeSummary(text, title) {
-  const inferredTheme = inferTopicSummary(title, text);
-  if (inferredTheme) return buildLongParagraphs(title, inferredTheme);
-  const sentences = splitSentences(text);
-  if (sentences.length < 6) {
-    return buildLongParagraphs(title, "core debates in philosophy of design");
+  const clean = sanitizeForSummary(text);
+  const sentences = splitSentences(clean);
+  if (sentences.length < 8) {
+    return [
+      `${title} examines core questions in philosophy of design by focusing on how form, medium, and interpretation shape meaning. The reading develops conceptual distinctions and uses examples to show how design decisions influence aesthetic and social understanding.`,
+      `The text follows a structured argument that clarifies key terms, compares competing positions, and identifies implications for how we evaluate artifacts. Its central contribution is a detailed account of how design frameworks influence perception, judgment, and the relation between practice and theory.`,
+    ];
   }
-  const themeHint = sentences[0].slice(0, 80).toLowerCase();
-  return buildLongParagraphs(title, themeHint);
+
+  const weights = keywordWeights(clean);
+  const scored = sentences.map((sentence, index) => ({
+    sentence,
+    index,
+    score: sentenceScore(sentence, weights),
+  }));
+
+  const mid = Math.floor(scored.length / 2);
+  const firstPool = scored
+    .filter((item) => item.index < mid + 2)
+    .sort((a, b) => b.score - a.score || a.index - b.index)
+    .slice(0, 8);
+  const secondPool = scored
+    .filter((item) => item.index >= Math.max(2, mid - 2))
+    .sort((a, b) => b.score - a.score || a.index - b.index)
+    .slice(0, 8);
+
+  const firstParagraph = buildParagraph(firstPool, 4);
+  const secondParagraph = buildParagraph(secondPool, 4);
+  return [firstParagraph, secondParagraph];
 }
 
 function makeFlashcards(title, summaryParagraphs) {
   const [p1, p2] = summaryParagraphs;
-  const claim = p1.split(". ").slice(0, 2).join(". ") + ".";
-  const argument = p2.split(". ").slice(0, 2).join(". ") + ".";
+  const firstTwo = p1.split(/(?<=[.!?])\s+/).slice(0, 2).join(" ");
+  const nextTwo = p2.split(/(?<=[.!?])\s+/).slice(0, 2).join(" ");
   return [
     {
       question: `What is the main claim of "${title}"?`,
-      answer: claim,
+      answer: firstTwo,
     },
     {
-      question: `How should you frame this text in a 5-minute exam answer?`,
-      answer:
-        "Start with one precise definition, then state the author's core thesis in one sentence, and end by naming the strongest implication for design practice.",
+      question: `What distinction is central in "${title}"?`,
+      answer: p1.split(/(?<=[.!?])\s+/).slice(2, 4).join(" "),
     },
     {
-      question: `What is a strong counterpoint to include for "${title}"?`,
-      answer:
-        "Challenge whether the author's distinction is too rigid in real cases, then show why the distinction still helps clarify evaluation and responsibility.",
+      question: `What method or approach does the author use in "${title}"?`,
+      answer: p2.split(/(?<=[.!?])\s+/).slice(0, 2).join(" "),
     },
     {
-      question: `How does this text connect design to social effects?`,
-      answer: argument,
+      question: `What implication about design follows from "${title}"?`,
+      answer: nextTwo,
     },
     {
-      question: `Why is "${title}" relevant for an exam argument?`,
-      answer:
-        "It gives you a ready structure: define, compare, critique, and defend a position in clear language with one concrete implication.",
+      question: `What is one concise takeaway from "${title}"?`,
+      answer: p2.split(/(?<=[.!?])\s+/).slice(2, 4).join(" "),
     },
   ];
 }
