@@ -281,7 +281,7 @@ select option {
 .flashcardActions {
   display: flex;
   gap: 0.55rem;
-  flex-wrap: wrap;
+  align-items: center;
   margin-top: 0.8rem;
 }
 
@@ -293,6 +293,15 @@ select option {
   border-radius: 999px;
   cursor: pointer;
   font-size: 0.92rem;
+}
+
+.cardCounter {
+  margin: 0;
+  min-width: 3rem;
+  text-align: center;
+  color: #c7d5ec;
+  font-weight: 600;
+  letter-spacing: 0.02em;
 }
 
 .ghostBtn:hover {
@@ -374,7 +383,8 @@ select option {
 
   .flashcardActions {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(4, 1fr);
+    align-items: center;
   }
 
   .ghostBtn {
@@ -382,6 +392,11 @@ select option {
     text-align: center;
     padding: 0.5rem 0.3rem;
     font-size: 0.86rem;
+  }
+
+  .cardCounter {
+    min-width: 0;
+    font-size: 0.88rem;
   }
 }
 

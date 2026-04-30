@@ -177,21 +177,6 @@ function FlashcardsPage() {
               </option>
             ))}
           </select>
-          <div className="chips">
-            {reading.flashcards.map((_, index) => (
-              <button
-                type="button"
-                key={index}
-                className={index === activeCard ? "chip active" : "chip"}
-                onClick={() => {
-                  setActiveCard(index);
-                  setRevealed(false);
-                }}
-              >
-                Card {index + 1}
-              </button>
-            ))}
-          </div>
         </div>
 
         <button
@@ -207,6 +192,9 @@ function FlashcardsPage() {
           <button type="button" className="ghostBtn" onClick={goPrevious}>
             Previous
           </button>
+          <p className="cardCounter" aria-live="polite">
+            {activeCard + 1}/{reading.flashcards.length}
+          </p>
           <button type="button" className="ghostBtn" onClick={goNext}>
             Next
           </button>
