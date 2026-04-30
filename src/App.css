@@ -158,6 +158,43 @@
   margin-top: 1.2rem;
 }
 
+.audioReader {
+  margin-top: 1.25rem;
+  padding: 0.85rem;
+  border-radius: 12px;
+  background: rgba(16, 22, 36, 0.68);
+}
+
+.audioReader h3 {
+  margin-bottom: 0.55rem;
+  color: #dde9ff;
+}
+
+.readerControls {
+  display: grid;
+  grid-template-columns: 1fr 160px;
+  gap: 0.6rem;
+}
+
+.readerControls label {
+  display: grid;
+  gap: 0.28rem;
+  color: #9cb3d5;
+  font-size: 0.85rem;
+}
+
+.readerButtons {
+  display: flex;
+  gap: 0.5rem;
+  margin-top: 0.6rem;
+}
+
+.readerHint {
+  margin-top: 0.5rem;
+  color: #8aa2c7;
+  font-size: 0.85rem;
+}
+
 .keyPoints h3 {
   color: #dcd6fe;
   margin-bottom: 0.45rem;
@@ -379,6 +416,15 @@ select option {
 
   .flashcard p:last-child {
     font-size: 1.02rem;
+  }
+
+  .readerControls {
+    grid-template-columns: 1fr;
+  }
+
+  .readerButtons {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
   }
 
   .flashcardActions {
