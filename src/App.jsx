@@ -123,7 +123,16 @@ function QuestionsPage() {
 }
 
 function FlashcardsPage() {
-  const sortedReadings = useMemo(() => [...data.readings].sort(byWeek), []);
+  const sortedReadings = useMemo(() => {
+    const unique = [];
+    const seenTitles = new Set();
+    for (const reading of [...data.readings].sort(byWeek)) {
+      if (seenTitles.has(reading.title)) continue;
+      seenTitles.add(reading.title);
+      unique.push(reading);
+    }
+    return unique;
+  }, []);
   const [selected, setSelected] = useState(sortedReadings[0]?.id ?? "");
   const [activeCard, setActiveCard] = useState(0);
   const [revealed, setRevealed] = useState(false);
