@@ -12,24 +12,30 @@ function Layout({ children }) {
     <div className="shell">
       <header className="topbar">
         <div className="brandWrap">
-          <a
-            className="devTag"
-            href="https://github.com/juanzandev"
-            target="_blank"
-            rel="noreferrer"
-          >
-            juanzandev
-          </a>
           <div>
-          <p className="eyebrow">Philosophy of Design</p>
-          <h1>Exam Prep Studio</h1>
+            <p className="eyebrow">Philosophy of Design</p>
+            <h1>Exam Prep Studio</h1>
+            <a
+              className="devTag"
+              href="https://github.com/juanzandev"
+              target="_blank"
+              rel="noreferrer"
+            >
+              juanzandev
+            </a>
           </div>
         </div>
         <nav>
           <Link to="/">Texts</Link>
           <Link to="/questions">Given Questions</Link>
-          <a href="https://github.com/juanzandev/phil-design-study-site" target="_blank" rel="noreferrer">
-            Star my repository
+          <a
+            className="githubStarBtn"
+            href="https://github.com/juanzandev/phil-design-study-site"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <span aria-hidden="true">★</span>
+            <span>my repository</span>
           </a>
           <Link to="/flashcards">Flashcards</Link>
         </nav>
