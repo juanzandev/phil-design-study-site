@@ -1,0 +1,17 @@
+{
+  "name": "Philosophy of Design Exam Prep",
+  "short_name": "PhilDesign Prep",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "description": "Study summaries, questions, flashcards, and audio mode for Philosophy of Design.",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
