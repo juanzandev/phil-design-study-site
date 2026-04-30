@@ -372,6 +372,80 @@ select option {
   margin-bottom: 0.8rem;
 }
 
+.carMode {
+  padding-bottom: 1.2rem;
+}
+
+.carNowPlaying {
+  padding: 0.85rem;
+  border-radius: 12px;
+  background: rgba(10, 15, 28, 0.68);
+  margin-top: 0.5rem;
+}
+
+.carLabel {
+  margin: 0;
+  color: #96acd0;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 0.72rem;
+}
+
+.carNowPlaying h3 {
+  margin: 0.4rem 0 0.2rem;
+  color: #eff5ff;
+  font-size: 1.1rem;
+}
+
+.carControls {
+  margin-top: 0.75rem;
+  display: grid;
+  grid-template-columns: 1fr 1.2fr 1fr 140px;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.carBtn {
+  border: 1px solid rgba(132, 154, 192, 0.3);
+  background: rgba(23, 32, 52, 0.75);
+  color: #e2ecfb;
+  border-radius: 999px;
+  padding: 0.6rem 0.8rem;
+  font-size: 0.95rem;
+  cursor: pointer;
+}
+
+.carPrimary {
+  background: linear-gradient(135deg, rgba(93, 85, 202, 0.8), rgba(125, 89, 233, 0.8));
+  border: 1px solid rgba(176, 158, 255, 0.5);
+  font-weight: 700;
+}
+
+.carQueue {
+  margin-top: 0.85rem;
+  display: grid;
+  gap: 0.45rem;
+  max-height: 320px;
+  overflow: auto;
+  padding-right: 0.25rem;
+}
+
+.queueItem {
+  text-align: left;
+  border: 1px solid rgba(80, 101, 140, 0.28);
+  background: rgba(9, 14, 24, 0.72);
+  color: #cddcf5;
+  border-radius: 10px;
+  padding: 0.55rem 0.7rem;
+  cursor: pointer;
+}
+
+.queueItem.active {
+  border-color: rgba(161, 132, 255, 0.7);
+  background: rgba(63, 53, 118, 0.35);
+  color: #f0eaff;
+}
+
 @media (max-width: 760px) {
   .shell {
     padding: 1rem 0.9rem 3rem;
@@ -448,6 +522,18 @@ select option {
   .cardCounter {
     min-width: 0;
     font-size: 0.88rem;
+  }
+
+  .carControls {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .carPrimary {
+    grid-column: span 2;
+  }
+
+  .carQueue {
+    max-height: 260px;
   }
 }
 

@@ -29,6 +29,7 @@ function Layout({ children }) {
           <Link to="/">Texts</Link>
           <Link to="/questions">Given Questions</Link>
           <Link to="/flashcards">Flashcards</Link>
+          <Link to="/car-mode">Car Mode</Link>
           <a
             className="githubStarBtn"
             href="https://github.com/juanzandev/phil-design-study-site"
@@ -274,6 +275,111 @@ function FlashcardsPage() {
   );
 }
 
+function CarModePage() {
+  const playlist = useMemo(() => {
+    const unique = [];
+    const seenAudio = new Set();
+    for (const reading of [...data.readings].sort(byWeek)) {
+      if (seenAudio.has(reading.audioPath)) continue;
+      seenAudio.add(reading.audioPath);
+      unique.push(reading);
+    }
+    return unique;
+  }, []);
+
+  const [index, setIndex] = useState(0);
+  const [isPlaying, setIsPlaying] = useState(false);
+  const [rate, setRate] = useState("1");
+  const audioRef = useRef(null);
+
+  const current = playlist[index];
+  const currentSrc = `${import.meta.env.BASE_URL}${current.audioPath}`;
+
+  const goNext = () => setIndex((currentIndex) => (currentIndex + 1) % playlist.length);
+  const goPrev = () => setIndex((currentIndex) => (currentIndex - 1 + playlist.length) % playlist.length);
+
+  const togglePlay = async () => {
+    if (!audioRef.current) return;
+    if (audioRef.current.paused) {
+      await audioRef.current.play();
+      setIsPlaying(true);
+    } else {
+      audioRef.current.pause();
+      setIsPlaying(false);
+    }
+  };
+
+  return (
+    <Layout>
+      <section className="sectionBlock carMode">
+        <p className="eyebrow">Drive-Friendly Player</p>
+        <h2>Car Mode</h2>
+
+        <div className="carNowPlaying">
+          <p className="carLabel">Now Playing</p>
+          <h3>{current.title}</h3>
+          <p className="readerHint">
+            Track {index + 1} of {playlist.length}
+          </p>
+        </div>
+
+        <audio
+          ref={audioRef}
+          className="audioPlayer"
+          controls
+          preload="metadata"
+          src={currentSrc}
+          onEnded={goNext}
+          onPlay={() => setIsPlaying(true)}
+          onPause={() => setIsPlaying(false)}
+          onLoadedMetadata={(event) => {
+            event.currentTarget.playbackRate = Number.parseFloat(rate);
+          }}
+        />
+
+        <div className="carControls">
+          <button type="button" className="carBtn" onClick={goPrev}>
+            ◀◀
+          </button>
+          <button type="button" className="carBtn carPrimary" onClick={togglePlay}>
+            {isPlaying ? "Pause" : "Play"}
+          </button>
+          <button type="button" className="carBtn" onClick={goNext}>
+            ▶▶
+          </button>
+          <select
+            value={rate}
+            onChange={(event) => {
+              const next = event.target.value;
+              setRate(next);
+              if (audioRef.current) audioRef.current.playbackRate = Number.parseFloat(next);
+            }}
+          >
+            <option value="1">1.0x</option>
+            <option value="1.25">1.25x</option>
+            <option value="1.5">1.5x</option>
+            <option value="1.75">1.75x</option>
+            <option value="2">2.0x</option>
+          </select>
+        </div>
+
+        <div className="carQueue">
+          {playlist.map((item, itemIndex) => (
+            <button
+              key={item.id}
+              type="button"
+              className={itemIndex === index ? "queueItem active" : "queueItem"}
+              onClick={() => setIndex(itemIndex)}
+            >
+              {item.title}
+            </button>
+          ))}
+        </div>
+      </section>
+    </Layout>
+  );
+}
+
 export default function App() {
   return (
     <Routes>
@@ -281,6 +387,7 @@ export default function App() {
       <Route path="/reading/:id" element={<ReadingPage />} />
       <Route path="/questions" element={<QuestionsPage />} />
       <Route path="/flashcards" element={<FlashcardsPage />} />
+      <Route path="/car-mode" element={<CarModePage />} />
     </Routes>
   );
 }
