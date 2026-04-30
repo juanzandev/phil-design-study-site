@@ -30,6 +30,32 @@ const GIVEN_QUESTIONS = [
   },
 ];
 
+const TITLE_OVERRIDES = [
+  { match: /computer art form/i, textName: "A Computer Art Form", author: "Dominic Lopes" },
+  { match: /technological determinism/i, textName: "Technological Determinism", author: "Hassan and Sutherland" },
+  { match: /panopticism/i, textName: "Panopticism", author: "Michel Foucault" },
+  { match: /agency as art/i, textName: "Agency as Art", author: "C. Thi Nguyen" },
+  { match: /verbeek/i, textName: "Design Ethics", author: "Peter-Paul Verbeek" },
+  { match: /parsons/i, textName: "Ethics of Design", author: "Glenn Parsons" },
+  { match: /kantphilosophyarchitecture|guyer/i, textName: "Kant and the Philosophy of Architecture", author: "Paul Guyer" },
+  { match: /essence.*scruton|has architecture have an essence/i, textName: "Does Architecture Have an Essence?", author: "Roger Scruton" },
+  { match: /the house.*bachelard/i, textName: "The House", author: "Gaston Bachelard" },
+  { match: /signigicance|significance.*botton/i, textName: "The Significance of Architecture", author: "Alain de Botton" },
+  { match: /slot machines.*attentional scaffolds|voinea/i, textName: "Digital Slot Machines and Attentional Scaffolds", author: "Voinea et al." },
+  { match: /perfect storm.*epistemic injustice|stewart/i, textName: "A Perfect Storm for Epistemic Injustice", author: "Stewart et al." },
+  { match: /acoustic designer|schafer part 1/i, textName: "The Acoustic Designer", author: "Murray Schafer" },
+  { match: /architecture and the senses|schafer part 2/i, textName: "Architecture and the Senses", author: "Murray Schafer" },
+  { match: /week 10,\s*lopes/i, textName: "A Computer Art Form", author: "Dominic Lopes" },
+  { match: /week 10,\s*nguyen/i, textName: "Agency as Art", author: "C. Thi Nguyen" },
+  { match: /week 11,\s*sutherland and hassan/i, textName: "Technological Determinism", author: "Hassan and Sutherland" },
+  { match: /week 12,\s*foucault/i, textName: "Panopticism", author: "Michel Foucault" },
+  { match: /week 12,\s*parsons/i, textName: "Ethics of Design", author: "Glenn Parsons" },
+  { match: /week 13,\s*scruton/i, textName: "Does Architecture Have an Essence?", author: "Roger Scruton" },
+  { match: /week 13,\s*guyer/i, textName: "Kant and the Philosophy of Architecture", author: "Paul Guyer" },
+  { match: /week 14,\s*bachelard/i, textName: "The House", author: "Gaston Bachelard" },
+  { match: /week 14,\s*botton/i, textName: "The Significance of Architecture", author: "Alain de Botton" },
+];
+
 function toId(text) {
   return text
     .toLowerCase()
@@ -51,6 +77,29 @@ function splitSentences(text) {
     .split(/(?<=[.!?])\s+/)
     .map((s) => s.trim())
     .filter((s) => s.length > 70 && s.length < 260);
+}
+
+function parseReadingMeta(fileName) {
+  const base = fileName.replace(/\.pdf$/i, "").replace(/\s+/g, " ").trim();
+  const weekMatch = base.match(/(?:wk|week)\s*(\d{1,2})/i);
+  const week = weekMatch ? Number.parseInt(weekMatch[1], 10) : 99;
+  const withoutWeek = base.replace(/^(?:wk|week)\s*\d{1,2}\s*[-,]?\s*/i, "").trim();
+  const fallbackParts = withoutWeek.split(",").map((s) => s.trim()).filter(Boolean);
+  let textName = fallbackParts[0] || withoutWeek || base;
+  let author = fallbackParts.length > 1 ? fallbackParts.at(-1) : "Unknown Author";
+  const override = TITLE_OVERRIDES.find((item) => item.match.test(base));
+  if (override) {
+    textName = override.textName;
+    author = override.author;
+  }
+  textName = textName.replace(/^[-_ ]+|[-_ ]+$/g, "");
+  author = author.replace(/^[-_ ]+|[-_ ]+$/g, "");
+  return {
+    week,
+    textName,
+    author,
+    displayTitle: `Week ${week}: ${textName} - ${author}`,
+  };
 }
 
 const TOPIC_MAP = [
@@ -227,15 +276,18 @@ async function main() {
     for (const fileName of files) {
       const filePath = path.join(catPath, fileName);
       const text = await readPdfText(filePath);
-      const title = fileName.replace(/\.pdf$/i, "");
-      const summary = makeSummary(text, title);
+      const meta = parseReadingMeta(fileName);
+      const summary = makeSummary(text, `${meta.textName} by ${meta.author}`);
       readings.push({
-        id: toId(`${category}-${title}`),
-        title,
+        id: toId(`${category}-${meta.displayTitle}`),
+        title: meta.displayTitle,
+        textName: meta.textName,
+        author: meta.author,
+        week: meta.week,
         category,
         fileName,
         summary,
-        flashcards: makeFlashcards(title, summary),
+        flashcards: makeFlashcards(meta.textName, summary),
       });
     }
   }

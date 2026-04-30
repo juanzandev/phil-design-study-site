@@ -4,6 +4,7 @@ import data from "./data/readings.json";
 import "./App.css";
 
 const categories = ["Possible Question Readings", "Pres", "Questions", "Unlikely"];
+const byWeek = (a, b) => (a.week ?? 99) - (b.week ?? 99) || a.textName.localeCompare(b.textName);
 
 function Layout({ children }) {
   return (
@@ -33,6 +34,7 @@ function HomePage() {
           <div className="grid">
             {data.readings
               .filter((reading) => reading.category === category)
+              .sort(byWeek)
               .map((reading) => (
                 <Link key={reading.id} className="card" to={`/reading/${reading.id}`}>
                   <h3>{reading.title}</h3>
@@ -90,14 +92,15 @@ function QuestionsPage() {
 }
 
 function FlashcardsPage() {
-  const [selected, setSelected] = useState(data.readings[0]?.id ?? "");
+  const sortedReadings = useMemo(() => [...data.readings].sort(byWeek), []);
+  const [selected, setSelected] = useState(sortedReadings[0]?.id ?? "");
   const [activeCard, setActiveCard] = useState(0);
   const [revealed, setRevealed] = useState(false);
   const [completed, setCompleted] = useState([]);
 
   const reading = useMemo(
-    () => data.readings.find((item) => item.id === selected) ?? data.readings[0],
-    [selected],
+    () => sortedReadings.find((item) => item.id === selected) ?? sortedReadings[0],
+    [selected, sortedReadings],
   );
 
   const card = reading.flashcards[activeCard];
@@ -128,7 +131,7 @@ function FlashcardsPage() {
               setCompleted([]);
             }}
           >
-            {data.readings.map((item) => (
+            {sortedReadings.map((item) => (
               <option key={item.id} value={item.id}>
                 {item.title}
               </option>
