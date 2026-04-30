@@ -2,6 +2,10 @@
   --accent: #8b5cf6;
   --accent-soft: rgba(139, 92, 246, 0.18);
   --surface: rgba(20, 28, 45, 0.55);
+  --surface-strong: rgba(12, 18, 30, 0.72);
+  --text-main: #d1dcee;
+  --text-muted: #9bb0cf;
+  --border-soft: rgba(126, 181, 255, 0.25);
 }
 
 .shell {
@@ -56,6 +60,11 @@
   font-size: 0.92rem;
 }
 
+.topbar nav a.active {
+  color: #f8fafc;
+  background: var(--accent-soft);
+}
+
 .topbar nav a:hover {
   color: #f8fafc;
   background: var(--accent-soft);
@@ -65,9 +74,23 @@
   margin-bottom: 1rem;
   padding: 0.75rem;
   border-radius: 12px;
-  background: rgba(12, 18, 30, 0.55);
+  background: var(--surface-strong);
   display: grid;
   gap: 0.7rem;
+  position: sticky;
+  top: 0.5rem;
+  z-index: 12;
+}
+
+.controlsToggle {
+  display: none;
+  border: 1px solid var(--border-soft);
+  background: rgba(11, 17, 30, 0.8);
+  color: #dce8ff;
+  border-radius: 10px;
+  padding: 0.55rem 0.75rem;
+  cursor: pointer;
+  font-size: 0.9rem;
 }
 
 .filterGroup {
@@ -150,7 +173,7 @@
 .card {
   display: block;
   text-decoration: none;
-  color: #d1dcee;
+  color: var(--text-main);
   padding: 0.4rem 0;
   transition: transform 0.2s ease, opacity 0.2s ease;
 }
@@ -168,7 +191,7 @@
 
 .card p {
   line-height: 1.5;
-  color: #9bb0cf;
+  color: var(--text-muted);
 }
 
 .summary p,
@@ -391,6 +414,13 @@ select option {
   margin-top: 0.8rem;
 }
 
+.ratingRow {
+  display: flex;
+  gap: 0.45rem;
+  flex-wrap: wrap;
+  margin-top: 0.6rem;
+}
+
 .ghostBtn {
   border: none;
   background: rgba(95, 120, 158, 0.24);
@@ -410,6 +440,13 @@ select option {
   letter-spacing: 0.02em;
 }
 
+.customAudioButtons.large .ghostBtn,
+.carControls .carBtn,
+.miniDock .chip {
+  min-height: 44px;
+  padding: 0.62rem 0.95rem;
+}
+
 .ghostBtn:hover {
   background: rgba(115, 145, 190, 0.3);
 }
@@ -420,6 +457,12 @@ select option {
   height: 4px;
   background: rgba(124, 150, 184, 0.2);
   border-radius: 999px;
+}
+
+.progressWrap.tiny {
+  margin-top: 0.25rem;
+  height: 3px;
+  max-width: 260px;
 }
 
 .progressFill {
@@ -488,6 +531,13 @@ select option {
   padding-right: 0.25rem;
 }
 
+.queueRow {
+  display: grid;
+  grid-template-columns: 1fr auto auto auto;
+  gap: 0.35rem;
+  align-items: center;
+}
+
 .queueItem {
   text-align: left;
   border: 1px solid rgba(80, 101, 140, 0.28);
@@ -502,6 +552,94 @@ select option {
   border-color: rgba(161, 132, 255, 0.7);
   background: rgba(63, 53, 118, 0.35);
   color: #f0eaff;
+}
+
+.emptyState p {
+  color: var(--text-muted);
+}
+
+.skeletonTitle,
+.skeletonLine {
+  border-radius: 8px;
+  background: linear-gradient(90deg, rgba(78, 95, 126, 0.3), rgba(102, 122, 154, 0.5), rgba(78, 95, 126, 0.3));
+  background-size: 220% 100%;
+  animation: shimmer 1.2s linear infinite;
+}
+
+.skeletonTitle {
+  width: 36%;
+  height: 20px;
+  margin-bottom: 0.9rem;
+}
+
+.skeletonCard {
+  padding: 0.6rem 0;
+}
+
+.skeletonLine {
+  height: 12px;
+  margin-bottom: 0.45rem;
+}
+
+.skeletonLine.short {
+  width: 55%;
+}
+
+.toastWrap {
+  position: fixed;
+  right: 1rem;
+  bottom: 1rem;
+  display: grid;
+  gap: 0.4rem;
+  z-index: 80;
+}
+
+.toastItem {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  border: 1px solid rgba(167, 139, 250, 0.35);
+  background: rgba(12, 18, 30, 0.95);
+  color: #ecf3ff;
+  border-radius: 10px;
+  padding: 0.5rem 0.7rem;
+  min-width: 200px;
+}
+
+.toastItem button {
+  border: none;
+  background: transparent;
+  color: #b8cae8;
+  cursor: pointer;
+}
+
+.miniDock {
+  position: fixed;
+  left: 1rem;
+  right: 1rem;
+  bottom: 1rem;
+  z-index: 70;
+  border: 1px solid rgba(137, 164, 206, 0.28);
+  background: rgba(9, 14, 24, 0.96);
+  border-radius: 12px;
+  padding: 0.6rem 0.75rem;
+}
+
+.miniDock strong {
+  color: #f1f6ff;
+  font-size: 0.92rem;
+}
+
+.miniDockControls {
+  margin-top: 0.45rem;
+  display: flex;
+  gap: 0.4rem;
+  flex-wrap: wrap;
+}
+
+*:focus-visible {
+  outline: 2px solid #a78bfa;
+  outline-offset: 2px;
 }
 
 @media (max-width: 760px) {
@@ -543,6 +681,12 @@ select option {
 
   .typeControls {
     grid-template-columns: 1fr;
+  }
+
+  .controlsToggle {
+    display: inline-flex;
+    width: 100%;
+    justify-content: center;
   }
 
   .grid {
@@ -590,6 +734,10 @@ select option {
     grid-template-columns: 1fr 1fr;
   }
 
+  .queueRow {
+    grid-template-columns: 1fr;
+  }
+
   .carControls select,
   .carControls .chip {
     grid-column: span 1;
@@ -606,6 +754,16 @@ select option {
   .carQueue {
     max-height: 260px;
   }
+
+  .toastWrap {
+    left: 0.8rem;
+    right: 0.8rem;
+    bottom: 5.4rem;
+  }
+
+  .toastItem {
+    min-width: 0;
+  }
 }
 
 @keyframes rise {
@@ -616,5 +774,14 @@ select option {
   to {
     opacity: 1;
     transform: translateY(0);
+  }
+}
+
+@keyframes shimmer {
+  from {
+    background-position: 200% 0;
+  }
+  to {
+    background-position: -200% 0;
   }
 }

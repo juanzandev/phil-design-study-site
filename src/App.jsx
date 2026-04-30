@@ -1,5 +1,5 @@
-import { useEffect, useMemo, useRef, useState } from "react";
-import { Link, Navigate, Route, Routes, useParams } from "react-router-dom";
+import { useCallback, useEffect, useMemo, useRef, useState } from "react";
+import { Link, NavLink, Navigate, Route, Routes, useParams } from "react-router-dom";
 import data from "./data/readings.json";
 import "./App.css";
 
@@ -16,6 +16,7 @@ const STORAGE = {
   carAutoplay: "study_car_autoplay",
   carShuffle: "study_car_shuffle",
   carRepeat: "study_car_repeat",
+  controlsOpen: "study_controls_open",
 };
 
 const readStored = (key, fallback) => {
@@ -40,6 +41,38 @@ const estimateMinutes = (reading) => {
   return Math.max(1, Math.round(words / 150));
 };
 
+function Toasts({ items, removeToast }) {
+  return (
+    <div className="toastWrap" aria-live="polite" aria-atomic="true">
+      {items.map((item) => (
+        <div key={item.id} className="toastItem">
+          {item.text}
+          <button type="button" onClick={() => removeToast(item.id)} aria-label="Dismiss notification">
+            ×
+          </button>
+        </div>
+      ))}
+    </div>
+  );
+}
+
+function SkeletonBlocks({ count = 3 }) {
+  return (
+    <section className="sectionBlock">
+      <div className="skeletonTitle" />
+      <div className="grid">
+        {Array.from({ length: count }).map((_, index) => (
+          <article key={index} className="skeletonCard">
+            <div className="skeletonLine short" />
+            <div className="skeletonLine" />
+            <div className="skeletonLine" />
+          </article>
+        ))}
+      </div>
+    </section>
+  );
+}
+
 function Layout({
   children,
   selectedCategories,
@@ -50,6 +83,9 @@ function Layout({
   setLineHeight,
   studiedCount,
   totalCount,
+  controlsOpen,
+  setControlsOpen,
+  hideChrome = false,
 } = {}) {
   const toggleCategory = (category) => {
     if (!setSelectedCategories) return;
@@ -66,7 +102,7 @@ function Layout({
 
   return (
     <div className="shell" style={{ fontSize: `${textScale}rem`, lineHeight }}>
-      <header className="topbar">
+      <header className="topbar" hidden={hideChrome}>
         <div className="brandWrap">
           <div>
             <p className="eyebrow">Philosophy of Design</p>
@@ -82,10 +118,12 @@ function Layout({
           </div>
         </div>
         <nav>
-          <Link to="/">Texts</Link>
-          <Link to="/questions">Given Questions</Link>
-          <Link to="/flashcards">Flashcards</Link>
-          <Link to="/car-mode">Car Mode</Link>
+          <NavLink to="/" end>
+            Texts
+          </NavLink>
+          <NavLink to="/questions">Given Questions</NavLink>
+          <NavLink to="/flashcards">Flashcards</NavLink>
+          <NavLink to="/car-mode">Car Mode</NavLink>
           <a
             className="githubStarBtn"
             href="https://github.com/juanzandev/phil-design-study-site"
@@ -97,7 +135,11 @@ function Layout({
           </a>
         </nav>
       </header>
-      <section className="settingsBar" hidden={!setSelectedCategories}>
+      <section className="settingsBar" hidden={!setSelectedCategories || hideChrome} data-open={controlsOpen}>
+        <button type="button" className="controlsToggle" onClick={() => setControlsOpen((value) => !value)}>
+          {controlsOpen ? "Hide Study Controls" : "Show Study Controls"}
+        </button>
+        <div className="settingsBody" hidden={!controlsOpen}>
         <div className="filterGroup">
           <button type="button" className="chip" onClick={selectAll}>
             All sections
@@ -140,17 +182,36 @@ function Layout({
             Studied {studiedCount}/{totalCount}
           </p>
         </div>
+        </div>
       </section>
       <main>{children}</main>
     </div>
   );
 }
 
-function HomePage({ readings, selectedCategories, continueReadingId, bookmarks, studied, layoutProps }) {
+function HomePage({ readings, selectedCategories, continueReadingId, bookmarks, studied, layoutProps, booting }) {
   const continueReading = readings.find((item) => item.id === continueReadingId);
   const bookmarkedReadings = readings.filter((reading) => bookmarks.has(reading.id));
+  const byCategoryProgress = useMemo(
+    () =>
+      categories.map((category) => {
+        const inCategory = readings.filter((reading) => reading.category === category);
+        const done = inCategory.filter((reading) => studied.has(reading.id)).length;
+        const percent = inCategory.length ? Math.round((done / inCategory.length) * 100) : 0;
+        return { category, done, total: inCategory.length, percent };
+      }),
+    [readings, studied],
+  );
+
   return (
     <Layout {...layoutProps}>
+      {booting ? <SkeletonBlocks /> : null}
+      {selectedCategories.length === 0 ? (
+        <section className="sectionBlock emptyState">
+          <h2>All sections hidden</h2>
+          <p>Select at least one section in Study Controls to see readings.</p>
+        </section>
+      ) : null}
       {continueReading ? (
         <section className="sectionBlock">
           <h2 className="sectionTitle">Continue Listening/Reading</h2>
@@ -173,9 +234,25 @@ function HomePage({ readings, selectedCategories, continueReadingId, bookmarks, 
           </div>
         </section>
       ) : null}
+      {!bookmarkedReadings.length ? (
+        <section className="sectionBlock emptyState">
+          <h2>No bookmarks yet</h2>
+          <p>Open any reading and press Bookmark to pin it here.</p>
+        </section>
+      ) : null}
       {categories.map((category) => (
         <section key={category} className="sectionBlock" hidden={!selectedCategories.includes(category)}>
           <h2 className="sectionTitle">{category}</h2>
+          <p className="progressText">
+            {byCategoryProgress.find((item) => item.category === category)?.done ?? 0}/
+            {byCategoryProgress.find((item) => item.category === category)?.total ?? 0} studied
+          </p>
+          <div className="progressWrap tiny">
+            <div
+              className="progressFill"
+              style={{ width: `${byCategoryProgress.find((item) => item.category === category)?.percent ?? 0}%` }}
+            />
+          </div>
           <div className="grid">
             {readings
               .filter((reading) => reading.category === category)
@@ -197,7 +274,7 @@ function HomePage({ readings, selectedCategories, continueReadingId, bookmarks, 
   );
 }
 
-function CustomAudioPlayer({ src, rate, onEnded, onPlayStateChange, audioRef, compact = false }) {
+function CustomAudioPlayer({ src, rate, onEnded, onPlayStateChange, audioRef, compact = false, largeButtons = false }) {
   const internalRef = useRef(null);
   const playerRef = audioRef ?? internalRef;
   const [isPlaying, setIsPlaying] = useState(false);
@@ -260,17 +337,17 @@ function CustomAudioPlayer({ src, rate, onEnded, onPlayStateChange, audioRef, co
         onPlay={() => setPlaying(true)}
         onPause={() => setPlaying(false)}
       />
-      <div className="customAudioButtons">
-        <button type="button" className="ghostBtn" onClick={() => skip(-10)}>
+      <div className={largeButtons ? "customAudioButtons large" : "customAudioButtons"}>
+        <button type="button" className="ghostBtn" onClick={() => skip(-10)} aria-label="Back 10 seconds">
           -10s
         </button>
-        <button type="button" className="ghostBtn" onClick={togglePlay}>
+        <button type="button" className="ghostBtn" onClick={togglePlay} aria-label={isPlaying ? "Pause" : "Play"}>
           {isPlaying ? "Pause" : "Play"}
         </button>
-        <button type="button" className="ghostBtn" onClick={stop}>
+        <button type="button" className="ghostBtn" onClick={stop} aria-label="Stop and reset">
           Stop
         </button>
-        <button type="button" className="ghostBtn" onClick={() => skip(10)}>
+        <button type="button" className="ghostBtn" onClick={() => skip(10)} aria-label="Forward 10 seconds">
           +10s
         </button>
       </div>
@@ -321,22 +398,33 @@ function SummaryReader({ audioPath }) {
         audioRef={audioRef}
         src={source}
         rate={rate}
+        largeButtons
       />
       <p className="readerHint">OpenAI neural voice audio for this summary.</p>
     </div>
   );
 }
 
-function ReadingPage({ readings, bookmarks, toggleBookmark, studied, toggleStudied, setContinueReadingId, layoutProps }) {
+function ReadingPage({
+  readings,
+  bookmarks,
+  toggleBookmark,
+  studied,
+  toggleStudied,
+  setContinueReadingId,
+  layoutProps,
+  pushToast,
+  setMiniQueueFromSingle,
+}) {
   const { id } = useParams();
+  const [focusMode, setFocusMode] = useState(false);
   const reading = readings.find((item) => item.id === id);
   useEffect(() => {
     if (reading) setContinueReadingId(reading.id);
   }, [reading, setContinueReadingId]);
   if (!reading) return <Navigate to="/" replace />;
-
   return (
-    <Layout {...layoutProps}>
+    <Layout {...layoutProps} hideChrome={focusMode}>
       <section className="sectionBlock readingView">
         <p className="eyebrow">{reading.category}</p>
         <h2>{reading.title}</h2>
@@ -348,6 +436,23 @@ function ReadingPage({ readings, bookmarks, toggleBookmark, studied, toggleStudi
             {studied.has(reading.id) ? "Studied" : "Mark studied"}
           </button>
           <p className="readerHint">Estimated listen: ~{estimateMinutes(reading)} min</p>
+          <button
+            type="button"
+            className={focusMode ? "chip active" : "chip"}
+            onClick={() => setFocusMode((value) => !value)}
+          >
+            {focusMode ? "Exit focus" : "Focus mode"}
+          </button>
+          <button
+            type="button"
+            className="chip"
+            onClick={() => {
+              setMiniQueueFromSingle(reading);
+              pushToast(`Mini player ready: ${reading.textName}`);
+            }}
+          >
+            Send to mini player
+          </button>
         </div>
         <div className="summary">
           {reading.summary.map((paragraph, index) => (
@@ -370,10 +475,18 @@ function ReadingPage({ readings, bookmarks, toggleBookmark, studied, toggleStudi
   );
 }
 
-function QuestionsPage({ readings, layoutProps }) {
+function QuestionsPage({ readings, layoutProps, booting }) {
   const allowedIds = new Set(readings.map((reading) => reading.id));
+  const hasAny = data.givenQuestions.some((question) => question.byText.some((item) => allowedIds.has(item.readingId)));
   return (
     <Layout {...layoutProps}>
+      {booting ? <SkeletonBlocks count={2} /> : null}
+      {!hasAny ? (
+        <section className="sectionBlock emptyState">
+          <h2>No question matches</h2>
+          <p>Change section filters to include readings linked to these questions.</p>
+        </section>
+      ) : null}
       {data.givenQuestions.map((question) => (
         <section className="sectionBlock" key={question.id}>
           <h2>{question.question}</h2>
@@ -395,7 +508,7 @@ function QuestionsPage({ readings, layoutProps }) {
   );
 }
 
-function FlashcardsPage({ readings, layoutProps }) {
+function FlashcardsPage({ readings, layoutProps, booting, pushToast }) {
   const sortedReadings = useMemo(() => {
     const unique = [];
     const seenTitles = new Set();
@@ -410,30 +523,70 @@ function FlashcardsPage({ readings, layoutProps }) {
   const [activeCard, setActiveCard] = useState(0);
   const [revealed, setRevealed] = useState(false);
   const [completed, setCompleted] = useState([]);
+  const [ratings, setRatings] = useState({});
 
   const reading = useMemo(
     () => sortedReadings.find((item) => item.id === selected) ?? sortedReadings[0],
     [selected, sortedReadings],
   );
+  const totalCards = reading?.flashcards?.length ?? 0;
+  const card = reading?.flashcards?.[activeCard] ?? null;
+  const progress = totalCards ? Math.round((completed.length / totalCards) * 100) : 0;
+  const ratedCount = Object.keys(ratings).length;
 
-  const card = reading.flashcards[activeCard];
-  const progress = Math.round((completed.length / reading.flashcards.length) * 100);
-
-  const goNext = () => {
-    setActiveCard((current) => (current + 1) % reading.flashcards.length);
+  const goNext = useCallback(() => {
+    if (!totalCards) return;
+    setActiveCard((current) => (current + 1) % totalCards);
     setRevealed(false);
-  };
+  }, [totalCards]);
 
-  const goPrevious = () => {
-    setActiveCard((current) => (current - 1 + reading.flashcards.length) % reading.flashcards.length);
+  const goPrevious = useCallback(() => {
+    if (!totalCards) return;
+    setActiveCard((current) => (current - 1 + totalCards) % totalCards);
     setRevealed(false);
+  }, [totalCards]);
+
+  useEffect(() => {
+    const handler = (event) => {
+      if (event.target && ["INPUT", "TEXTAREA", "SELECT"].includes(event.target.tagName)) return;
+      if (event.code === "Space") {
+        event.preventDefault();
+        setRevealed((current) => !current);
+      } else if (event.key === "ArrowRight") {
+        event.preventDefault();
+        goNext();
+      } else if (event.key === "ArrowLeft") {
+        event.preventDefault();
+        goPrevious();
+      } else if (event.key.toLowerCase() === "m") {
+        event.preventDefault();
+        if (!completed.includes(activeCard)) setCompleted((current) => [...current, activeCard]);
+        goNext();
+      }
+    };
+    window.addEventListener("keydown", handler);
+    return () => window.removeEventListener("keydown", handler);
+  }, [activeCard, completed, goNext, goPrevious]);
+
+  const rateCard = (rating) => {
+    setRatings((current) => ({ ...current, [activeCard]: rating }));
+    if (!completed.includes(activeCard)) setCompleted((current) => [...current, activeCard]);
+    pushToast(`Card rated: ${rating}`);
+    goNext();
   };
 
   return (
     <Layout {...layoutProps}>
-      <section className="sectionBlock">
+      {booting ? <SkeletonBlocks count={1} /> : null}
+      {!reading ? (
+        <section className="sectionBlock emptyState">
+          <h2>No flashcards in this filter</h2>
+          <p>Pick more sections in Study Controls to practice flashcards.</p>
+        </section>
+      ) : (
+        <section className="sectionBlock">
         <h2>Flashcard Practice</h2>
-        <p className="flashcardSubtext">Tap card to flip between question and answer.</p>
+        <p className="flashcardSubtext">Tap to flip. Shortcuts: Space flip, Left/Right navigate, M mark done.</p>
         <div className="controls">
           <select
             value={reading.id}
@@ -442,6 +595,7 @@ function FlashcardsPage({ readings, layoutProps }) {
               setActiveCard(0);
               setRevealed(false);
               setCompleted([]);
+              setRatings({});
             }}
           >
             {sortedReadings.map((item) => (
@@ -458,7 +612,7 @@ function FlashcardsPage({ readings, layoutProps }) {
           onClick={() => setRevealed((current) => !current)}
         >
           <p className="faceLabel">{revealed ? "Answer" : "Question"}</p>
-          <p>{revealed ? card.answer : card.question}</p>
+          <p>{revealed ? card?.answer : card?.question}</p>
         </button>
 
         <div className="flashcardActions">
@@ -466,7 +620,7 @@ function FlashcardsPage({ readings, layoutProps }) {
             Previous
           </button>
           <p className="cardCounter" aria-live="polite">
-            {activeCard + 1}/{reading.flashcards.length}
+            {activeCard + 1}/{totalCards}
           </p>
           <button type="button" className="ghostBtn" onClick={goNext}>
             Next
@@ -478,24 +632,44 @@ function FlashcardsPage({ readings, layoutProps }) {
               if (!completed.includes(activeCard)) {
                 setCompleted((current) => [...current, activeCard]);
               }
+              pushToast("Marked card done");
               goNext();
             }}
           >
             Mark Done
           </button>
         </div>
+        <div className="ratingRow">
+          {["Again", "Hard", "Good", "Easy"].map((rating) => (
+            <button key={rating} type="button" className="chip" onClick={() => rateCard(rating)}>
+              {rating}
+            </button>
+          ))}
+        </div>
         <div className="progressWrap" aria-label="flashcard progress">
           <div className="progressFill" style={{ width: `${progress}%` }} />
         </div>
         <p className="progressText">
-          {completed.length} of {reading.flashcards.length} cards reviewed
+          {completed.length} of {totalCards} reviewed · {ratedCount} confidence ratings
         </p>
-      </section>
+        </section>
+      )}
     </Layout>
   );
 }
 
-function CarModePage({ readings, carAutoplay, setCarAutoplay, carShuffle, setCarShuffle, carRepeat, setCarRepeat, layoutProps }) {
+function CarModePage({
+  readings,
+  carAutoplay,
+  setCarAutoplay,
+  carShuffle,
+  setCarShuffle,
+  carRepeat,
+  setCarRepeat,
+  layoutProps,
+  pushToast,
+  setMiniQueue,
+}) {
   const playlist = useMemo(() => {
     const unique = [];
     const seenAudio = new Set();
@@ -509,11 +683,12 @@ function CarModePage({ readings, carAutoplay, setCarAutoplay, carShuffle, setCar
 
   const [index, setIndex] = useState(0);
   const [rate, setRate] = useState("1");
+  const [completedTracks, setCompletedTracks] = useState([]);
   const audioRef = useRef(null);
   const shouldAutoPlayNext = useRef(false);
 
   const current = playlist[index];
-  const currentSrc = `${import.meta.env.BASE_URL}${current.audioPath}`;
+  const currentSrc = current ? `${import.meta.env.BASE_URL}${current.audioPath}` : "";
 
   const goNext = () => {
     shouldAutoPlayNext.current = Boolean(audioRef.current && !audioRef.current.paused);
@@ -543,6 +718,7 @@ function CarModePage({ readings, carAutoplay, setCarAutoplay, carShuffle, setCar
   }, [index]);
 
   const handleTrackEnd = () => {
+    setCompletedTracks((current) => (current.includes(index) ? current : [...current, index]));
     if (!carAutoplay) return;
     if (carRepeat === "one" && audioRef.current) {
       audioRef.current.currentTime = 0;
@@ -565,6 +741,13 @@ function CarModePage({ readings, carAutoplay, setCarAutoplay, carShuffle, setCar
 
   return (
     <Layout {...layoutProps}>
+      {!playlist.length ? (
+        <section className="sectionBlock emptyState">
+          <h2>No tracks in this filter</h2>
+          <p>Enable more sections to build a playable car mode queue.</p>
+        </section>
+      ) : null}
+      {playlist.length ? (
       <section className="sectionBlock carMode">
         <p className="eyebrow">Drive-Friendly Player</p>
         <h2>Car Mode</h2>
@@ -583,6 +766,7 @@ function CarModePage({ readings, carAutoplay, setCarAutoplay, carShuffle, setCar
           src={currentSrc}
           rate={rate}
           onEnded={handleTrackEnd}
+          largeButtons
         />
 
         <div className="carControls">
@@ -617,22 +801,127 @@ function CarModePage({ readings, carAutoplay, setCarAutoplay, carShuffle, setCar
             <option value="one">Repeat one</option>
             <option value="all">Repeat all</option>
           </select>
+          <button
+            type="button"
+            className="chip"
+            onClick={() => {
+              setMiniQueue(playlist, index, rate);
+              pushToast("Car queue sent to mini player");
+            }}
+          >
+            Open mini player
+          </button>
+          <button type="button" className="chip" onClick={() => setCompletedTracks([])}>
+            Clear completed
+          </button>
         </div>
 
         <div className="carQueue">
           {playlist.map((item, itemIndex) => (
-            <button
-              key={item.id}
-              type="button"
-              className={itemIndex === index ? "queueItem active" : "queueItem"}
-              onClick={() => setIndex(itemIndex)}
-            >
-              {item.title}
-            </button>
+            <div key={item.id} className="queueRow">
+              <button
+                type="button"
+                className={itemIndex === index ? "queueItem active" : "queueItem"}
+                onClick={() => setIndex(itemIndex)}
+              >
+                {item.title} {completedTracks.includes(itemIndex) ? "✓" : ""}
+              </button>
+              <button type="button" className="chip" onClick={() => setIndex(itemIndex)}>
+                Play
+              </button>
+              <button
+                type="button"
+                className="chip"
+                onClick={() => {
+                  setIndex(itemIndex);
+                  shouldAutoPlayNext.current = true;
+                  pushToast("Play from here");
+                }}
+              >
+                Play from here
+              </button>
+              <button
+                type="button"
+                className="chip"
+                onClick={() => {
+                  const selected = playlist[itemIndex];
+                  const reordered = [selected, ...playlist.filter((entry) => entry.id !== selected.id)];
+                  const inOrder = reordered.map((entry) => entry.id);
+                  const actual = readings
+                    .filter((reading) => inOrder.includes(reading.id))
+                    .sort((a, b) => inOrder.indexOf(a.id) - inOrder.indexOf(b.id));
+                  setMiniQueue(actual, 0, rate);
+                  pushToast("Moved track to top in mini queue");
+                }}
+              >
+                Move to top
+              </button>
+            </div>
           ))}
         </div>
       </section>
+      ) : null}
     </Layout>
+  );
+}
+
+function MiniPlayerDock({ queue, index, setIndex, rate, setRate, isPlaying, setIsPlaying }) {
+  const audioRef = useRef(null);
+  const current = queue[index];
+  const src = current ? `${import.meta.env.BASE_URL}${current.audioPath}` : "";
+
+  useEffect(() => {
+    if (!audioRef.current) return;
+    audioRef.current.playbackRate = Number.parseFloat(rate);
+  }, [rate, src]);
+
+  if (!current) return null;
+
+  return (
+    <aside className="miniDock">
+      <p className="carLabel">Mini Player</p>
+      <strong>{current.title}</strong>
+      <div className="miniDockControls">
+        <button
+          type="button"
+          className="chip"
+          onClick={async () => {
+            if (!audioRef.current) return;
+            if (audioRef.current.paused) {
+              await audioRef.current.play();
+              setIsPlaying(true);
+            } else {
+              audioRef.current.pause();
+              setIsPlaying(false);
+            }
+          }}
+        >
+          {isPlaying ? "Pause" : "Play"}
+        </button>
+        <button type="button" className="chip" onClick={() => setIndex((value) => (value - 1 + queue.length) % queue.length)}>
+          Prev
+        </button>
+        <button type="button" className="chip" onClick={() => setIndex((value) => (value + 1) % queue.length)}>
+          Next
+        </button>
+        <select value={rate} onChange={(event) => setRate(event.target.value)}>
+          <option value="1">1.0x</option>
+          <option value="1.25">1.25x</option>
+          <option value="1.5">1.5x</option>
+          <option value="1.75">1.75x</option>
+          <option value="2">2.0x</option>
+        </select>
+      </div>
+      <audio
+        key={src}
+        ref={audioRef}
+        src={src}
+        preload="metadata"
+        onPlay={() => setIsPlaying(true)}
+        onPause={() => setIsPlaying(false)}
+        onEnded={() => setIndex((value) => (value + 1) % queue.length)}
+      />
+    </aside>
   );
 }
 
@@ -646,6 +935,13 @@ export default function App() {
   const [carAutoplay, setCarAutoplay] = useState(() => readStored(STORAGE.carAutoplay, true));
   const [carShuffle, setCarShuffle] = useState(() => readStored(STORAGE.carShuffle, false));
   const [carRepeat, setCarRepeat] = useState(() => readStored(STORAGE.carRepeat, "all"));
+  const [controlsOpen, setControlsOpen] = useState(() => readStored(STORAGE.controlsOpen, true));
+  const [booting, setBooting] = useState(true);
+  const [toasts, setToasts] = useState([]);
+  const [miniQueue, setMiniQueue] = useState([]);
+  const [miniIndex, setMiniIndex] = useState(0);
+  const [miniRate, setMiniRate] = useState("1");
+  const [miniPlaying, setMiniPlaying] = useState(false);
 
   useEffect(() => localStorage.setItem(STORAGE.filters, JSON.stringify(selectedCategories)), [selectedCategories]);
   useEffect(() => localStorage.setItem(STORAGE.bookmarks, JSON.stringify([...bookmarks])), [bookmarks]);
@@ -656,6 +952,11 @@ export default function App() {
   useEffect(() => localStorage.setItem(STORAGE.carAutoplay, JSON.stringify(carAutoplay)), [carAutoplay]);
   useEffect(() => localStorage.setItem(STORAGE.carShuffle, JSON.stringify(carShuffle)), [carShuffle]);
   useEffect(() => localStorage.setItem(STORAGE.carRepeat, JSON.stringify(carRepeat)), [carRepeat]);
+  useEffect(() => localStorage.setItem(STORAGE.controlsOpen, JSON.stringify(controlsOpen)), [controlsOpen]);
+  useEffect(() => {
+    const timeout = window.setTimeout(() => setBooting(false), 450);
+    return () => window.clearTimeout(timeout);
+  }, []);
 
   const filteredReadings = useMemo(
     () => data.readings.filter((reading) => selectedCategories.includes(reading.category)),
@@ -671,13 +972,26 @@ export default function App() {
     setLineHeight,
     studiedCount: studied.size,
     totalCount: data.readings.length,
+    controlsOpen,
+    setControlsOpen,
   };
+
+  const pushToast = (text) => {
+    const id = Date.now() + Math.random();
+    setToasts((current) => [...current, { id, text }]);
+    window.setTimeout(() => {
+      setToasts((current) => current.filter((item) => item.id !== id));
+    }, 2200);
+  };
+
+  const removeToast = (id) => setToasts((current) => current.filter((item) => item.id !== id));
 
   const toggleBookmark = (id) =>
     setBookmarks((current) => {
       const next = new Set(current);
       if (next.has(id)) next.delete(id);
       else next.add(id);
+      pushToast(next.has(id) ? "Bookmarked reading" : "Removed bookmark");
       return next;
     });
 
@@ -686,58 +1000,95 @@ export default function App() {
       const next = new Set(current);
       if (next.has(id)) next.delete(id);
       else next.add(id);
+      pushToast(next.has(id) ? "Marked studied" : "Marked unstudied");
       return next;
     });
 
+  const setMiniQueueFromSingle = (reading) => {
+    setMiniQueue([reading]);
+    setMiniIndex(0);
+    setMiniRate("1");
+  };
+
+  const setMiniQueueFromCar = (queue, index = 0, rate = "1") => {
+    setMiniQueue(queue);
+    setMiniIndex(index);
+    setMiniRate(rate);
+  };
+
   return (
-    <Routes>
-      <Route
-        path="/"
-        element={
-          <HomePage
-            readings={filteredReadings}
-            selectedCategories={selectedCategories}
-            continueReadingId={continueReadingId}
-            bookmarks={bookmarks}
-            studied={studied}
-            layoutProps={layoutProps}
-          />
-        }
+    <>
+      <Routes>
+        <Route
+          path="/"
+          element={
+            <HomePage
+              readings={filteredReadings}
+              selectedCategories={selectedCategories}
+              continueReadingId={continueReadingId}
+              bookmarks={bookmarks}
+              studied={studied}
+              layoutProps={layoutProps}
+              booting={booting}
+            />
+          }
+        />
+        <Route
+          path="/reading/:id"
+          element={
+            <ReadingPage
+              readings={filteredReadings.length ? filteredReadings : data.readings}
+              bookmarks={bookmarks}
+              toggleBookmark={toggleBookmark}
+              studied={studied}
+              toggleStudied={toggleStudied}
+              setContinueReadingId={setContinueReadingId}
+              layoutProps={layoutProps}
+              pushToast={pushToast}
+              setMiniQueueFromSingle={setMiniQueueFromSingle}
+            />
+          }
+        />
+        <Route path="/questions" element={<QuestionsPage readings={filteredReadings} layoutProps={layoutProps} booting={booting} />} />
+        <Route
+          path="/flashcards"
+          element={
+            <FlashcardsPage
+              readings={filteredReadings.length ? filteredReadings : data.readings}
+              layoutProps={layoutProps}
+              booting={booting}
+              pushToast={pushToast}
+            />
+          }
+        />
+        <Route
+          path="/car-mode"
+          element={
+            <CarModePage
+              readings={filteredReadings.length ? filteredReadings : data.readings}
+              carAutoplay={carAutoplay}
+              setCarAutoplay={setCarAutoplay}
+              carShuffle={carShuffle}
+              setCarShuffle={setCarShuffle}
+              carRepeat={carRepeat}
+              setCarRepeat={setCarRepeat}
+              layoutProps={layoutProps}
+              pushToast={pushToast}
+              setMiniQueue={setMiniQueueFromCar}
+            />
+          }
+        />
+      </Routes>
+      <MiniPlayerDock
+        queue={miniQueue}
+        index={miniIndex}
+        setIndex={setMiniIndex}
+        rate={miniRate}
+        setRate={setMiniRate}
+        isPlaying={miniPlaying}
+        setIsPlaying={setMiniPlaying}
       />
-      <Route
-        path="/reading/:id"
-        element={
-          <ReadingPage
-            readings={filteredReadings.length ? filteredReadings : data.readings}
-            bookmarks={bookmarks}
-            toggleBookmark={toggleBookmark}
-            studied={studied}
-            toggleStudied={toggleStudied}
-            setContinueReadingId={setContinueReadingId}
-            layoutProps={layoutProps}
-          />
-        }
-      />
-      <Route path="/questions" element={<QuestionsPage readings={filteredReadings} layoutProps={layoutProps} />} />
-      <Route
-        path="/flashcards"
-        element={<FlashcardsPage readings={filteredReadings.length ? filteredReadings : data.readings} layoutProps={layoutProps} />}
-      />
-      <Route
-        path="/car-mode"
-        element={
-          <CarModePage
-            readings={filteredReadings.length ? filteredReadings : data.readings}
-            carAutoplay={carAutoplay}
-            setCarAutoplay={setCarAutoplay}
-            carShuffle={carShuffle}
-            setCarShuffle={setCarShuffle}
-            carRepeat={carRepeat}
-            setCarRepeat={setCarRepeat}
-            layoutProps={layoutProps}
-          />
-        }
-      />
-    </Routes>
+      <Toasts items={toasts} removeToast={removeToast} />
+    </>
   );
 }
