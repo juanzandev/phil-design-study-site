@@ -56,6 +56,177 @@ const TITLE_OVERRIDES = [
   { match: /week 14,\s*botton/i, textName: "The Significance of Architecture", author: "Alain de Botton" },
 ];
 
+const MANUAL_SUMMARIES = {
+  "A Computer Art Form": {
+    paragraphs: [
+      "Lopes asks whether computer art is just digital art in a new technical format, or a distinct art form with its own criteria. He starts by treating this as a specialization problem: if computer art is a genuine art kind, then works in that kind must share features that matter for appreciation and not only for production. Through examples like Golden Calf, Telegarden, Project X, Boundary Functions, and Kodama, he shows that these works combine familiar artistic materials with computational systems that structure how audiences interact with the work.",
+      "The key move in the chapter is the claim that interactivity alone is not enough to define computer art, because many non-computational practices are interactive in some sense. Lopes therefore narrows the account to works where interactivity is computationally constituted: the computer is not a delivery channel but part of the work's form. His working definition links art status, computational execution, and computer-dependent interaction, setting up later chapters to test whether this framework explains the value and identity of computer art better than broader labels like digital art.",
+    ],
+    keyPoints: [
+      "Lopes treats computer art as an art-kind question, not a hardware question.",
+      "He uses concrete interactive works to show recurring formal features.",
+      "Interactivity is necessary but must be computationally grounded to be distinctive.",
+      "Computer art is defined by how computation structures appreciation, not just display.",
+    ],
+  },
+  "Agency as Art": {
+    paragraphs: [
+      "Nguyen argues that agency itself can be aesthetically valuable and can be part of what an artwork is designed to produce. Instead of centering only finished objects, he focuses on structures of action: rules, constraints, permissions, and decision spaces that let people perform certain kinds of intentional activity. This moves aesthetic analysis toward practices such as games and interactive systems, where design quality is partly measured by how it shapes skill, commitment, and reflective choice.",
+      "A major implication of the essay is that artworks can be evaluated by the form of agency they cultivate. Some works reward shallow optimization, while others support richer practical reasoning, experimentation, and personal style. Nguyen's framework therefore links artistic design to ethics and social life without collapsing one into the other: design decisions influence how people act, what they attend to, and what kinds of selves they can temporarily inhabit through participation.",
+    ],
+    keyPoints: [
+      "Agency is treated as an aesthetic medium, not just a byproduct.",
+      "Design is evaluated by the quality of actions it enables.",
+      "Interactive forms (especially games) become central, not peripheral, art cases.",
+      "Rules and constraints can expand rather than merely limit expression.",
+    ],
+  },
+  "Technological Determinism": {
+    paragraphs: [
+      "Hassan and Sutherland present technological determinism as the claim that technological development is the primary driver of social change, often imagined as directional and unavoidable. They position this view against approaches that treat technology and society as mutually shaping, where institutions, politics, economics, and culture influence both design and use. Rather than reducing the debate to slogans, the text maps stronger and weaker forms of determinism and shows why deterministic language remains persuasive in media theory and public discourse.",
+      "The paper's value is its conceptual clarification of what is actually being claimed when people say 'technology changes society.' It shows that causal priority, inevitability, and autonomy are distinct theses that are often mixed together. By unpacking these layers, the authors make room for more precise analysis: technologies can constrain and enable action without being socially independent forces, and social structures can co-produce technological trajectories while still being transformed by them.",
+    ],
+    keyPoints: [
+      "Determinism is analyzed as a family of claims, not a single thesis.",
+      "The text contrasts one-way causality with social-shaping models.",
+      "It separates inevitability claims from empirical claims about influence.",
+      "Conceptual precision is necessary before taking sides in the debate.",
+    ],
+  },
+  Panopticism: {
+    paragraphs: [
+      "Foucault begins with plague regulations to show a model of power based on partitioning space, fixing individuals in place, and maintaining continuous inspection through record-keeping. From this historical scene he develops panopticism as a general political technology: a way of organizing visibility so that surveillance is constant in principle, whether or not an observer is physically present. The point is not only repression but the production of disciplined subjects through routines, classification, and normalized behavior.",
+      "The panopticon becomes for Foucault a diagram of modern power that extends beyond prisons into schools, hospitals, factories, and administrative systems. What matters is the linkage between observation, documentation, and intervention: individuals become knowable cases inside continuous institutional processes. The chapter therefore reframes punishment and control as embedded in everyday social design, where architecture, procedure, and information systems quietly organize conduct.",
+    ],
+    keyPoints: [
+      "Panopticism is a model of power through visibility and internalized discipline.",
+      "Foucault ties surveillance to documentation and administrative knowledge.",
+      "The plague city is used as a historical prototype for modern control.",
+      "The panopticon is a transferable diagram, not only a prison design.",
+    ],
+  },
+  "Design Ethics": {
+    paragraphs: [
+      "Verbeek argues that technologies are morally mediating rather than neutral instruments. Artifacts shape perception, action, and decision contexts, so ethical analysis must include how technical forms help constitute human-world relations. This perspective critiques simple models where responsibility is located only in individual intention, because design choices pre-structure options and invite specific patterns of behavior.",
+      "The essay proposes an ethics of design that tracks mediation across the lifecycle of artifacts: conception, implementation, adoption, and use. Instead of asking whether technology is good or bad in the abstract, Verbeek asks how concrete design configurations redistribute agency, responsibility, and vulnerability. Ethical reflection therefore becomes a practical task inside design itself, requiring anticipation of use scenarios and attention to how artifacts script action.",
+    ],
+    keyPoints: [
+      "Technologies mediate moral experience; they are not neutral channels.",
+      "Responsibility is distributed across designers, users, and artifacts.",
+      "Ethics must analyze concrete mediation patterns, not abstractions.",
+      "Design practice is itself a site of moral decision-making.",
+    ],
+  },
+  "Ethics of Design": {
+    paragraphs: [
+      "Parsons develops an account of design ethics that integrates functionality, aesthetics, and value consequences. He rejects the idea that ethical criticism is external to design criticism, arguing that judgments about good design already imply claims about wellbeing, inclusion, sustainability, and the quality of shared environments. Design is treated as a norm-governed practice where practical and evaluative dimensions are inseparable.",
+      "The text shows how ethical evaluation operates at multiple levels: object-level harms and benefits, systemic effects, and symbolic-cultural meanings. Parsons emphasizes that even ordinary design decisions can encode priorities about users, bodies, and ways of life. This makes ethical reflection continuous rather than exceptional: design standards, material choices, and interface assumptions all participate in shaping social outcomes.",
+    ],
+    keyPoints: [
+      "Ethical and aesthetic evaluation in design are intertwined.",
+      "Design quality includes social and environmental consequences.",
+      "Normative assumptions are built into ordinary design decisions.",
+      "Ethics applies across both individual artifacts and wider systems.",
+    ],
+  },
+  "Kant and the Philosophy of Architecture": {
+    paragraphs: [
+      "Guyer examines Kant's scattered remarks on architecture and places them against the Vitruvian tradition of utility and beauty. He shows that Kant does not give architecture a central role in his formal system, yet his broader theory of fine art strongly influences later debates about what architecture should express. The essay traces how Kant's framework reorients architectural theory toward questions of meaning and idea-presentation without dissolving architecture into pure symbolism.",
+      "A core tension in Guyer's reading is the relation between function and aesthetic form in adherent beauty. Kant preserves purposiveness as essential in architecture while allowing aesthetic ideas to contribute to architectural value. Guyer argues that this tension helps explain why post-Kantian thinkers diverge: some emphasize construction and force, others moral content, others metaphysical expression. Kant thus functions as a hinge between classical architectural norms and modern philosophical pluralism.",
+    ],
+    keyPoints: [
+      "Guyer situates Kant between Vitruvian utility and modern expressivism.",
+      "Architecture is marginal in Kant's text but central in his legacy.",
+      "Adherent beauty links function with aesthetic significance.",
+      "Post-Kantian theories diverge by stressing different expressive targets.",
+    ],
+  },
+  "Does Architecture Have an Essence?": {
+    paragraphs: [
+      "Scruton reviews dominant theories of architecture - functionalism, spatial theories, and proportional or formal theories - to test whether any single doctrine captures the nature of architectural experience. He argues that each theory explains something real but becomes misleading when elevated to an essence. Functional explanations can ignore experience, spatial explanations can become empty abstractions, and purely formal accounts can detach geometry from lived perception.",
+      "His broader claim is that architecture must be understood through a richer account of meaning, use, appearance, and judgment. Rather than dissolving criticism into historical relativism, Scruton defends the possibility of evaluative standards: buildings can be better or worse in ways that are reason-giving and publicly discussable. The essay therefore positions architecture as an art that demands both conceptual analysis and cultivated critical attention.",
+    ],
+    keyPoints: [
+      "Single-factor theories each capture part of architecture, not its whole.",
+      "Functional, spatial, and formal doctrines fail as total explanations.",
+      "Scruton defends substantive architectural judgment against relativism.",
+      "Architectural criticism requires attention to experience and meaning together.",
+    ],
+  },
+  "The House": {
+    paragraphs: [
+      "Bachelard develops a phenomenology of domestic space in which the house is treated as a lived and imagined structure rather than a neutral container. Through images of attics, cellars, corners, nests, and thresholds, he explores how intimate spaces organize memory, reverie, and psychic orientation. The house becomes a topology of affect where spatial forms correspond to registers of inner life.",
+      "The text's method is poetic-philosophical rather than analytic in a narrow sense: Bachelard reads literary and experiential images to show how inhabitation exceeds physical shelter. Domestic architecture matters because it stabilizes rhythms of solitude, protection, and recollection. His account shifts architectural reflection from external style toward phenomenological depth, showing how material spaces become anchors of imagination and identity.",
+    ],
+    keyPoints: [
+      "The house is interpreted as lived imagination, not mere structure.",
+      "Vertical and enclosed spaces (attic/cellar/corner) map psychic functions.",
+      "Memory and reverie are spatially organized through habitation.",
+      "Bachelard links domestic form to intimacy, identity, and poetic experience.",
+    ],
+  },
+  "The Significance of Architecture": {
+    paragraphs: [
+      "de Botton argues that architecture shapes emotional life and moral aspiration by making values materially present in everyday environments. Buildings are treated as practical philosophy: they can calm or agitate, ennoble or diminish, and orient people toward specific ideals of order, freedom, dignity, or care. The text blends cultural history with criticism to show how aesthetic judgments are bound to psychological and social needs.",
+      "He also critiques modern assumptions that functionality alone settles architectural questions. Even when technical demands are met, built form still communicates attitudes about how life should be lived. Architecture therefore matters not only at monumental scales but in ordinary settings, where design details influence mood, attention, and conduct. The essay frames architectural criticism as an inquiry into the relation between form, feeling, and shared values.",
+    ],
+    keyPoints: [
+      "Architecture is presented as a carrier of emotional and ethical meaning.",
+      "Design influences mood and self-understanding in daily life.",
+      "Functional success does not eliminate aesthetic and moral questions.",
+      "Ordinary built environments have deep psychological significance.",
+    ],
+  },
+  "Digital Slot Machines and Attentional Scaffolds": {
+    paragraphs: [
+      "Voinea and coauthors analyze social media platforms as attentional architectures that borrow mechanisms from slot-machine design: variable rewards, intermittent reinforcement, and uncertainty-driven checking. The paper argues that platform interfaces are not passive channels but active scaffolds that train habits of anticipation and return. User engagement is therefore better explained through designed interaction loops than through isolated individual weakness.",
+      "By framing platforms as engineered environments, the text links micro-level interface features to macro-level effects on agency, attention, and collective discourse. It emphasizes that design decisions about notifications, feeds, and feedback cues can reshape temporal experience and self-regulation. The analysis supports a normative shift from blaming users to evaluating the responsibility embedded in platform design practices.",
+    ],
+    keyPoints: [
+      "Social media is modeled as attentional scaffolding, not neutral communication.",
+      "Variable-reward mechanics help explain compulsive engagement patterns.",
+      "Interface design redistributes responsibility between users and platforms.",
+      "Attention design has ethical and political consequences beyond individual use.",
+    ],
+  },
+  "A Perfect Storm for Epistemic Injustice": {
+    paragraphs: [
+      "Stewart and collaborators argue that contemporary media systems can generate epistemic injustice by systematically shaping who is heard, believed, and amplified. The paper identifies interacting factors - platform affordances, algorithmic ranking, social identity dynamics, and institutional mistrust - that combine into an environment where testimonial credibility is unevenly distributed. Harm emerges not from one mechanism alone but from their cumulative reinforcement.",
+      "The authors show that epistemic injustice in digital contexts is both structural and experiential: marginalized speakers face persistent credibility deficits while dominant narratives receive frictionless circulation. This analysis expands injustice beyond overt exclusion to include design-level conditions that distort recognition and uptake. The result is a framework for understanding media ecosystems as sites where knowledge practices and power relations are co-produced.",
+    ],
+    keyPoints: [
+      "Epistemic injustice is produced through interacting platform and social factors.",
+      "Credibility distribution online is structurally unequal, not merely accidental.",
+      "Algorithmic visibility and social identity jointly shape who is believed.",
+      "Media design conditions are central to contemporary knowledge injustice.",
+    ],
+  },
+  "The Acoustic Designer": {
+    paragraphs: [
+      "Schafer argues that modern environments must be understood and designed as soundscapes, not only as visual or spatial arrangements. He introduces a vocabulary for analyzing sonic environments - keynotes, signals, and soundmarks - to show how collective life is organized through patterns of listening. Industrialization and media technologies transform these patterns, often reducing acoustic diversity and producing forms of sonic overload.",
+      "The essay treats listening as a civic and ecological practice. Acoustic design becomes a normative project aimed at restoring balance, legibility, and care in shared auditory space. Rather than accepting noise as an inevitable byproduct of modern life, Schafer proposes that sonic conditions can be intentionally composed, evaluated, and improved, making sound central to debates about quality of life and environmental responsibility.",
+    ],
+    keyPoints: [
+      "Schafer reframes environment as a designed soundscape.",
+      "Keynotes, signals, and soundmarks organize sonic analysis.",
+      "Modernity alters auditory life through noise and standardization.",
+      "Acoustic design is proposed as a civic and ecological responsibility.",
+    ],
+  },
+  "Architecture and the Senses": {
+    paragraphs: [
+      "This reading challenges the visual dominance of architectural discourse by insisting that built environments are encountered through the full sensorium. Sound, touch, rhythm, temperature, and movement are treated as integral to how spaces are experienced and interpreted. The argument repositions architecture as embodied world-making rather than image production.",
+      "By foregrounding multisensory experience, the text broadens criteria for architectural evaluation. A space can be formally striking yet experientially poor if it neglects acoustic comfort, tactile cues, or bodily orientation. The essay thus supports a more inclusive design perspective in which sensory diversity and lived usability are central to architectural quality.",
+    ],
+    keyPoints: [
+      "Architectural experience is multisensory, not primarily visual.",
+      "Embodiment is central to how spaces acquire meaning.",
+      "Sensory design affects orientation, comfort, and interpretation.",
+      "Evaluation should include acoustic and tactile qualities, not only form.",
+    ],
+  },
+};
+
 function toId(text) {
   return text
     .toLowerCase()
@@ -174,7 +345,8 @@ function buildKeyPoints(scoredSentences) {
   return selected;
 }
 
-function makeSummary(text, title) {
+function makeSummary(text, title, textName) {
+  if (MANUAL_SUMMARIES[textName]) return MANUAL_SUMMARIES[textName];
   const clean = sanitizeForSummary(text);
   const sentences = splitSentences(clean);
   if (sentences.length < 8) {
@@ -308,7 +480,7 @@ async function main() {
     for (const fileName of files) {
       const text = await readTxtFromExtraction(category, fileName);
       const meta = parseReadingMeta(fileName);
-      const summaryObj = makeSummary(text, `${meta.textName} by ${meta.author}`);
+      const summaryObj = makeSummary(text, `${meta.textName} by ${meta.author}`, meta.textName);
       readings.push({
         id: toId(`${category}-${meta.displayTitle}`),
         title: meta.displayTitle,
