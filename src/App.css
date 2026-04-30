@@ -1,0 +1,168 @@
+.shell {
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 2rem 1rem 3rem;
+}
+
+.topbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.topbar nav {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.topbar a {
+  text-decoration: none;
+  color: #cbd5e1;
+  padding: 0.45rem 0.8rem;
+  border: 1px solid #334155;
+  border-radius: 999px;
+  transition: all 0.2s ease;
+}
+
+.topbar a:hover {
+  border-color: #60a5fa;
+  color: #f8fafc;
+}
+
+.eyebrow {
+  color: #94a3b8;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  font-size: 0.75rem;
+  margin-bottom: 0.4rem;
+}
+
+.panel {
+  background: linear-gradient(135deg, #0f172a, #111827);
+  border: 1px solid #1f2937;
+  border-radius: 1rem;
+  padding: 1.25rem;
+  margin-bottom: 1rem;
+  box-shadow: 0 14px 24px rgba(0, 0, 0, 0.22);
+  animation: rise 260ms ease;
+}
+
+.grid {
+  display: grid;
+  gap: 0.75rem;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+}
+
+.card {
+  display: block;
+  text-decoration: none;
+  background: #111827;
+  color: #d1d5db;
+  border: 1px solid #1f2937;
+  border-radius: 0.8rem;
+  padding: 0.9rem;
+  transition: transform 0.2s ease, border-color 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-2px);
+  border-color: #3b82f6;
+}
+
+.summary p,
+.synth {
+  line-height: 1.6;
+  color: #cbd5e1;
+}
+
+.summary p + p {
+  margin-top: 0.9rem;
+}
+
+.qaList {
+  margin-top: 1rem;
+  display: grid;
+  gap: 0.7rem;
+}
+
+.qaItem {
+  border: 1px solid #273448;
+  border-radius: 0.75rem;
+  padding: 0.8rem;
+  background: rgba(2, 6, 23, 0.5);
+}
+
+.controls {
+  display: grid;
+  gap: 0.8rem;
+}
+
+select {
+  background: #0b1221;
+  color: #f8fafc;
+  border: 1px solid #334155;
+  border-radius: 0.65rem;
+  padding: 0.6rem;
+}
+
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.chip {
+  border: 1px solid #334155;
+  background: #0b1221;
+  color: #cbd5e1;
+  padding: 0.4rem 0.7rem;
+  border-radius: 999px;
+  cursor: pointer;
+}
+
+.chip.active {
+  border-color: #60a5fa;
+  color: #f8fafc;
+}
+
+.flashcard {
+  margin-top: 1rem;
+  width: 100%;
+  border-radius: 1rem;
+  border: 1px solid #334155;
+  background: radial-gradient(circle at top, #111827, #020617);
+  color: #f8fafc;
+  text-align: left;
+  padding: 1rem;
+  min-height: 200px;
+  cursor: pointer;
+  transition: transform 0.25s ease;
+}
+
+.flashcard:hover {
+  transform: rotateX(3deg) rotateY(-2deg);
+}
+
+.flashcard.revealed {
+  border-color: #60a5fa;
+}
+
+.faceLabel {
+  color: #93c5fd;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 0.75rem;
+}
+
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
