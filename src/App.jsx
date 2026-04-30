@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useRef, useState } from "react";
+import { useMemo, useRef, useState } from "react";
 import { Link, Navigate, Route, Routes, useParams } from "react-router-dom";
 import data from "./data/readings.json";
 import "./App.css";
@@ -68,128 +68,53 @@ function HomePage() {
   );
 }
 
-function SummaryReader({ title, paragraphs }) {
-  const [voices, setVoices] = useState([]);
-  const [voiceURI, setVoiceURI] = useState("");
+function SummaryReader({ audioPath }) {
   const [rate, setRate] = useState("1");
-  const [isPlaying, setIsPlaying] = useState(false);
-  const [isPaused, setIsPaused] = useState(false);
-  const utteranceRef = useRef(null);
-
-  const hasSpeech = typeof window !== "undefined" && "speechSynthesis" in window;
-  const textToRead = `${title}. ${paragraphs.join(" ")}`;
-
-  useEffect(() => {
-    if (!hasSpeech) return;
-    const loadVoices = () => {
-      const list = window.speechSynthesis.getVoices();
-      const filtered = list.filter((voice) => voice.lang.toLowerCase().startsWith("en"));
-      const chosen = filtered.length ? filtered : list;
-      setVoices(chosen);
-      if (!voiceURI && chosen[0]) setVoiceURI(chosen[0].voiceURI);
-    };
-    loadVoices();
-    window.speechSynthesis.onvoiceschanged = loadVoices;
-    return () => {
-      window.speechSynthesis.cancel();
-      window.speechSynthesis.onvoiceschanged = null;
-    };
-  }, [hasSpeech, voiceURI]);
-
-  const startReading = () => {
-    if (!hasSpeech) return;
-    window.speechSynthesis.cancel();
-    const utterance = new SpeechSynthesisUtterance(textToRead);
-    const selected = voices.find((voice) => voice.voiceURI === voiceURI);
-    if (selected) utterance.voice = selected;
-    utterance.rate = Number.parseFloat(rate);
-    utterance.onend = () => {
-      setIsPlaying(false);
-      setIsPaused(false);
-    };
-    utterance.onerror = () => {
-      setIsPlaying(false);
-      setIsPaused(false);
-    };
-    utteranceRef.current = utterance;
-    window.speechSynthesis.speak(utterance);
-    setIsPlaying(true);
-    setIsPaused(false);
-  };
-
-  const pauseReading = () => {
-    if (!hasSpeech || !isPlaying) return;
-    window.speechSynthesis.pause();
-    setIsPaused(true);
-  };
-
-  const resumeReading = () => {
-    if (!hasSpeech) return;
-    window.speechSynthesis.resume();
-    setIsPaused(false);
-    setIsPlaying(true);
-  };
-
-  const stopReading = () => {
-    if (!hasSpeech) return;
-    window.speechSynthesis.cancel();
-    utteranceRef.current = null;
-    setIsPlaying(false);
-    setIsPaused(false);
-  };
-
+  const [audioMissing, setAudioMissing] = useState(false);
+  const audioRef = useRef(null);
+  const source = `${import.meta.env.BASE_URL}${audioPath}`;
   return (
     <div className="audioReader">
       <h3>Listen to Summary</h3>
-      {!hasSpeech ? (
-        <p className="readerHint">Speech playback is not supported in this browser.</p>
-      ) : (
-        <>
-          <div className="readerControls">
-            <label>
-              Voice
-              <select value={voiceURI} onChange={(event) => setVoiceURI(event.target.value)}>
-                {voices.map((voice) => (
-                  <option key={voice.voiceURI} value={voice.voiceURI}>
-                    {voice.name} ({voice.lang})
-                  </option>
-                ))}
-              </select>
-            </label>
-            <label>
-              Speed
-              <select value={rate} onChange={(event) => setRate(event.target.value)}>
-                <option value="1">1.0x</option>
-                <option value="1.25">1.25x</option>
-                <option value="1.5">1.5x</option>
-                <option value="1.75">1.75x</option>
-                <option value="2">2.0x</option>
-              </select>
-            </label>
-          </div>
-          <div className="readerButtons">
-            {!isPlaying ? (
-              <button type="button" className="ghostBtn" onClick={startReading}>
-                Play
-              </button>
-            ) : isPaused ? (
-              <button type="button" className="ghostBtn" onClick={resumeReading}>
-                Resume
-              </button>
-            ) : (
-              <button type="button" className="ghostBtn" onClick={pauseReading}>
-                Pause
-              </button>
-            )}
-            <button type="button" className="ghostBtn" onClick={stopReading}>
-              Stop
-            </button>
-          </div>
-          <p className="readerHint">
-            {isPlaying ? (isPaused ? "Paused" : "Playing") : "Ready to play"}
-          </p>
-        </>
-      )}
+      <div className="readerControls">
+        <label>
+          Speed
+          <select
+            value={rate}
+            onChange={(event) => {
+              const next = event.target.value;
+              setRate(next);
+              if (audioRef.current) audioRef.current.playbackRate = Number.parseFloat(next);
+            }}
+          >
+            <option value="1">1.0x</option>
+            <option value="1.25">1.25x</option>
+            <option value="1.5">1.5x</option>
+            <option value="1.75">1.75x</option>
+            <option value="2">2.0x</option>
+          </select>
+        </label>
+      </div>
+      <audio
+        ref={audioRef}
+        className="audioPlayer"
+        controls
+        preload="none"
+        src={source}
+        onError={() => setAudioMissing(true)}
+        onLoadedMetadata={(event) => {
+          event.currentTarget.playbackRate = Number.parseFloat(rate);
+        }}
+        onRateChange={(event) => {
+          const current = event.currentTarget.playbackRate.toString();
+          if (["1", "1.25", "1.5", "1.75", "2"].includes(current)) setRate(current);
+        }}
+      />
+      <p className="readerHint">
+        {audioMissing
+          ? "Audio file not generated yet for this reading."
+          : "OpenAI neural voice audio for this summary."}
+      </p>
     </div>
   );
 }
@@ -209,7 +134,7 @@ function ReadingPage() {
             <p key={index}>{paragraph}</p>
           ))}
         </div>
-        <SummaryReader title={reading.title} paragraphs={reading.summary} />
+        <SummaryReader audioPath={reading.audioPath} />
         {reading.keyPoints?.length ? (
           <div className="keyPoints">
             <h3>Key Points</h3>

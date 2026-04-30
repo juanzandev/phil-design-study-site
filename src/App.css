@@ -172,7 +172,7 @@
 
 .readerControls {
   display: grid;
-  grid-template-columns: 1fr 160px;
+  grid-template-columns: 200px;
   gap: 0.6rem;
 }
 
@@ -187,6 +187,11 @@
   display: flex;
   gap: 0.5rem;
   margin-top: 0.6rem;
+}
+
+.audioPlayer {
+  margin-top: 0.6rem;
+  width: 100%;
 }
 
 .readerHint {

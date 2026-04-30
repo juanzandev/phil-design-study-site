@@ -501,6 +501,8 @@ async function main() {
         textName: meta.textName,
         author: meta.author,
         week: meta.week,
+        audioKey: toId(`${meta.textName}-${meta.author}`),
+        audioPath: `audio/${toId(`${meta.textName}-${meta.author}`)}.mp3`,
         category,
         fileName,
         summary: summaryObj.paragraphs,

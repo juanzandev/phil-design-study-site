@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T08:05:47.972Z",
+  "generatedAt": "2026-04-30T08:38:34.806Z",
   "readings": [
     {
       "id": "possible-question-readings-week-13-kant-and-the-philosophy-of-architecture-paul-guyer",
@@ -7,6 +7,8 @@
       "textName": "Kant and the Philosophy of Architecture",
       "author": "Paul Guyer",
       "week": 13,
+      "audioKey": "kant-and-the-philosophy-of-architecture-paul-guyer",
+      "audioPath": "audio/kant-and-the-philosophy-of-architecture-paul-guyer.mp3",
       "category": "Possible Question Readings",
       "fileName": "WK 13 - GUYER-KantPhilosophyArchitecture-2011, Paul Guyer.pdf",
       "summary": [
@@ -49,6 +51,8 @@
       "textName": "Does Architecture Have an Essence?",
       "author": "Roger Scruton",
       "week": 13,
+      "audioKey": "does-architecture-have-an-essence-roger-scruton",
+      "audioPath": "audio/does-architecture-have-an-essence-roger-scruton.mp3",
       "category": "Possible Question Readings",
       "fileName": "WK 13 - Has Architecture have an Essence_ Scruton.pdf",
       "summary": [
@@ -91,6 +95,8 @@
       "textName": "The House",
       "author": "Gaston Bachelard",
       "week": 14,
+      "audioKey": "the-house-gaston-bachelard",
+      "audioPath": "audio/the-house-gaston-bachelard.mp3",
       "category": "Possible Question Readings",
       "fileName": "WK 14 - The House, Gaston Bachelard.pdf",
       "summary": [
@@ -133,6 +139,8 @@
       "textName": "The Significance of Architecture",
       "author": "Alain de Botton",
       "week": 14,
+      "audioKey": "the-significance-of-architecture-alain-de-botton",
+      "audioPath": "audio/the-significance-of-architecture-alain-de-botton.mp3",
       "category": "Possible Question Readings",
       "fileName": "WK 14 - The Signigicance of Architecture, Alain de Botton.pdf",
       "summary": [
@@ -175,6 +183,8 @@
       "textName": "Digital Slot Machines and Attentional Scaffolds",
       "author": "Voinea et al.",
       "week": 8,
+      "audioKey": "digital-slot-machines-and-attentional-scaffolds-voinea-et-al",
+      "audioPath": "audio/digital-slot-machines-and-attentional-scaffolds-voinea-et-al.mp3",
       "category": "Possible Question Readings",
       "fileName": "WK 8 - Digital Slot Machines Social Media Platforms as Attentional Scaffolds, Voinea et al.pdf",
       "summary": [
@@ -217,6 +227,8 @@
       "textName": "A Perfect Storm for Epistemic Injustice",
       "author": "Stewart et al.",
       "week": 8,
+      "audioKey": "a-perfect-storm-for-epistemic-injustice-stewart-et-al",
+      "audioPath": "audio/a-perfect-storm-for-epistemic-injustice-stewart-et-al.mp3",
       "category": "Possible Question Readings",
       "fileName": "WK 8 - View of A Perfect Storm for Epistemic Injustice, Stewart et al.pdf",
       "summary": [
@@ -259,6 +271,8 @@
       "textName": "The Acoustic Designer",
       "author": "Murray Schafer",
       "week": 9,
+      "audioKey": "the-acoustic-designer-murray-schafer",
+      "audioPath": "audio/the-acoustic-designer-murray-schafer.mp3",
       "category": "Possible Question Readings",
       "fileName": "WK 9 - Acoustic Designer, Murray Schafer.pdf",
       "summary": [
@@ -301,6 +315,8 @@
       "textName": "Architecture and the Senses",
       "author": "Murray Schafer",
       "week": 9,
+      "audioKey": "architecture-and-the-senses-murray-schafer",
+      "audioPath": "audio/architecture-and-the-senses-murray-schafer.mp3",
       "category": "Possible Question Readings",
       "fileName": "WK 9 - Architecture and the Senses, Murray Schafer.pdf",
       "summary": [
@@ -343,6 +359,8 @@
       "textName": "A Computer Art Form",
       "author": "Dominic Lopes",
       "week": 10,
+      "audioKey": "a-computer-art-form-dominic-lopes",
+      "audioPath": "audio/a-computer-art-form-dominic-lopes.mp3",
       "category": "Pres",
       "fileName": "Week 10, Lopes .pdf",
       "summary": [
@@ -385,6 +403,8 @@
       "textName": "Agency as Art",
       "author": "C. Thi Nguyen",
       "week": 10,
+      "audioKey": "agency-as-art-c-thi-nguyen",
+      "audioPath": "audio/agency-as-art-c-thi-nguyen.mp3",
       "category": "Pres",
       "fileName": "Week 10, Nguyen.pdf",
       "summary": [
@@ -427,6 +447,8 @@
       "textName": "Technological Determinism",
       "author": "Hassan and Sutherland",
       "week": 11,
+      "audioKey": "technological-determinism-hassan-and-sutherland",
+      "audioPath": "audio/technological-determinism-hassan-and-sutherland.mp3",
       "category": "Pres",
       "fileName": "Week 11, Sutherland and Hassan.pdf",
       "summary": [
@@ -469,6 +491,8 @@
       "textName": "Design Ethics",
       "author": "Peter-Paul Verbeek",
       "week": 11,
+      "audioKey": "design-ethics-peter-paul-verbeek",
+      "audioPath": "audio/design-ethics-peter-paul-verbeek.mp3",
       "category": "Pres",
       "fileName": "Week 11, Verbeek.pdf",
       "summary": [
@@ -511,6 +535,8 @@
       "textName": "Panopticism",
       "author": "Michel Foucault",
       "week": 12,
+      "audioKey": "panopticism-michel-foucault",
+      "audioPath": "audio/panopticism-michel-foucault.mp3",
       "category": "Pres",
       "fileName": "Week 12, Foucault.pdf",
       "summary": [
@@ -553,6 +579,8 @@
       "textName": "Ethics of Design",
       "author": "Glenn Parsons",
       "week": 12,
+      "audioKey": "ethics-of-design-glenn-parsons",
+      "audioPath": "audio/ethics-of-design-glenn-parsons.mp3",
       "category": "Pres",
       "fileName": "Week 12, Parsons.pdf",
       "summary": [
@@ -595,6 +623,8 @@
       "textName": "Kant and the Philosophy of Architecture",
       "author": "Paul Guyer",
       "week": 13,
+      "audioKey": "kant-and-the-philosophy-of-architecture-paul-guyer",
+      "audioPath": "audio/kant-and-the-philosophy-of-architecture-paul-guyer.mp3",
       "category": "Pres",
       "fileName": "Week 13, GUYER.pdf",
       "summary": [
@@ -637,6 +667,8 @@
       "textName": "Does Architecture Have an Essence?",
       "author": "Roger Scruton",
       "week": 13,
+      "audioKey": "does-architecture-have-an-essence-roger-scruton",
+      "audioPath": "audio/does-architecture-have-an-essence-roger-scruton.mp3",
       "category": "Pres",
       "fileName": "Week 13, Scruton.pdf",
       "summary": [
@@ -679,6 +711,8 @@
       "textName": "The House",
       "author": "Gaston Bachelard",
       "week": 14,
+      "audioKey": "the-house-gaston-bachelard",
+      "audioPath": "audio/the-house-gaston-bachelard.mp3",
       "category": "Pres",
       "fileName": "Week 14, Bachelard.pdf",
       "summary": [
@@ -721,6 +755,8 @@
       "textName": "The Significance of Architecture",
       "author": "Alain de Botton",
       "week": 14,
+      "audioKey": "the-significance-of-architecture-alain-de-botton",
+      "audioPath": "audio/the-significance-of-architecture-alain-de-botton.mp3",
       "category": "Pres",
       "fileName": "Week 14, Botton.pdf",
       "summary": [
@@ -763,6 +799,8 @@
       "textName": "Digital Slot Machines and Attentional Scaffolds",
       "author": "Voinea et al.",
       "week": 8,
+      "audioKey": "digital-slot-machines-and-attentional-scaffolds-voinea-et-al",
+      "audioPath": "audio/digital-slot-machines-and-attentional-scaffolds-voinea-et-al.mp3",
       "category": "Pres",
       "fileName": "Week 8, Voinea et al.  .pdf",
       "summary": [
@@ -805,6 +843,8 @@
       "textName": "The Acoustic Designer",
       "author": "Murray Schafer",
       "week": 9,
+      "audioKey": "the-acoustic-designer-murray-schafer",
+      "audioPath": "audio/the-acoustic-designer-murray-schafer.mp3",
       "category": "Pres",
       "fileName": "Week 9, Schafer Part 1.pdf",
       "summary": [
@@ -847,6 +887,8 @@
       "textName": "Architecture and the Senses",
       "author": "Murray Schafer",
       "week": 9,
+      "audioKey": "architecture-and-the-senses-murray-schafer",
+      "audioPath": "audio/architecture-and-the-senses-murray-schafer.mp3",
       "category": "Pres",
       "fileName": "Week 9, Schafer Part 2.pdf",
       "summary": [
@@ -889,6 +931,8 @@
       "textName": "A Computer Art Form",
       "author": "Dominic Lopes",
       "week": 10,
+      "audioKey": "a-computer-art-form-dominic-lopes",
+      "audioPath": "audio/a-computer-art-form-dominic-lopes.mp3",
       "category": "Questions",
       "fileName": "WK 10 - A Computer Art Form, Dominic Lopes.pdf",
       "summary": [
@@ -931,6 +975,8 @@
       "textName": "Technological Determinism",
       "author": "Hassan and Sutherland",
       "week": 11,
+      "audioKey": "technological-determinism-hassan-and-sutherland",
+      "audioPath": "audio/technological-determinism-hassan-and-sutherland.mp3",
       "category": "Questions",
       "fileName": "WK 11 - Technological Determinism, Hassan and Southerland.pdf",
       "summary": [
@@ -973,6 +1019,8 @@
       "textName": "Panopticism",
       "author": "Michel Foucault",
       "week": 12,
+      "audioKey": "panopticism-michel-foucault",
+      "audioPath": "audio/panopticism-michel-foucault.mp3",
       "category": "Questions",
       "fileName": "WK 12 - Panopticism, Michel Foucault.pdf",
       "summary": [
@@ -1015,6 +1063,8 @@
       "textName": "Agency as Art",
       "author": "C. Thi Nguyen",
       "week": 10,
+      "audioKey": "agency-as-art-c-thi-nguyen",
+      "audioPath": "audio/agency-as-art-c-thi-nguyen.mp3",
       "category": "Unlikely",
       "fileName": "WK 10 - Agency as Art, C. Thi Nguyen.pdf",
       "summary": [
@@ -1057,6 +1107,8 @@
       "textName": "Design Ethics",
       "author": "Peter-Paul Verbeek",
       "week": 11,
+      "audioKey": "design-ethics-peter-paul-verbeek",
+      "audioPath": "audio/design-ethics-peter-paul-verbeek.mp3",
       "category": "Unlikely",
       "fileName": "WK 11 - Verbeek_DesignEthics, Verbeek.pdf",
       "summary": [
@@ -1099,6 +1151,8 @@
       "textName": "Ethics of Design",
       "author": "Glenn Parsons",
       "week": 12,
+      "audioKey": "ethics-of-design-glenn-parsons",
+      "audioPath": "audio/ethics-of-design-glenn-parsons.mp3",
       "category": "Unlikely",
       "fileName": "WK 12 - Parsons- Ethics of Design, Glenn Parsons.pdf",
       "summary": [
