@@ -1,0 +1,298 @@
+Philosophy of Design
+Week 11: Technology and
+Design
+1
+-- 1 of 32 --
+2
+Materializing Morality:
+Design Ethics and
+Technological Mediation
+Peter-Paul
+Verbeek
+-- 2 of 32 --
+3
+Ready-to-hand is a key
+philosophical concept from
+Martin Heidegger,
+describing tools or objects
+that are seamlessly used in
+everyday tasks “without
+conscious” thought.
+Ready-to-hand
+-- 3 of 32 --
+Unconscious Use
+When broken they become Conscious Use
+4
+-- 4 of 32 --
+5
+Artifacts mediate action not only from a ready-to-hand position but
+also from a present-at-hand position. A gun, to mention an
+unpleasant example, mediates action from a ready-to-hand
+position, translating "express my anger" or "take revenge" into "kill
+that person." A speed bump, however, cannot be embodied. It will
+never be ready-to-hand; it exerts influence on people's actions
+from a present-at-hand position.
+present-at-hand position
+-- 5 of 32 --
+6
+-- 6 of 32 --
+Unconscious Use
+When you are wrong
+they become
+Conscious Use
+7
+-- 7 of 32 --
+Are these objects taking away your freedom?
+8
+-- 8 of 32 --
+9
+-- 9 of 32 --
+10
+It is not self-evident, after all, that
+all attempts to steer human behavior are
+morally justified, and steering human
+beings with the help of technology raises
+associations with the totalitarian
+technocracy of Orwell's Big Brother.
+Moral Concerns
+-- 10 of 32 --
+11
+Human freedom was thought to be attacked when human actions
+are explicitly and consciously steered with the help of technology.
+This reduction of human freedom was even perceived as a threat to
+human dignity; if human actions are not a result of deliberate
+decisions but of steering technologies, then people were
+thought to be deprived of what makes them human. Moreover, if
+they are not acting in freedom, their actions cannot be called moral.
+Moral Concerns
+-- 11 of 32 --
+“Technological
+Determinism”in Philosophy of Media
+By Thomas Sutherland and Robert Hassan
+12
+-- 12 of 32 --
+V
+Determinism
+Determinism is the philosophical doctrine
+that all events—including human actions,
+choices, and cognition—are necessitated by
+preceding causes, natural laws, and
+environmental or genetic factors. It posits
+that, given the state of the universe at any
+moment, the future is fixed and
+unavoidable, often considered incompatible
+with free will.
+13
+-- 13 of 32 --
+V
+14
+-- 14 of 32 --
+V
+Compatibilism
+…or soft determinism, is the philosophical position
+that free will and determinism are not mutually
+exclusive, allowing both to coexist. It argues that
+freedom is acting according to one’s motivations or
+desires without external constraints, even if those
+desires are determined by prior causes.
+David Hume
+15
+-- 15 of 32 --
+V
+Technological
+Determinism
+The theory that a society's technology
+drives the development of its social
+structure, culture, and history. It argues
+that technological advancements possess
+an internal logic, act as the primary
+independent agent of social change, and
+are often considered uncontrollable,
+creating unstoppable, automatic effects
+on human behavior and organization. Karl Marx
+16
+-- 16 of 32 --
+V
+17
+-- 17 of 32 --
+V
+John Gray
+Humans think they are free, conscious beings, when
+in truth they are deluded animals. [...] Their religions
+are attempts to be rid of a freedom they have never
+possessed. In the twentieth century, the utopias of
+Right and Left served the same function. Today,
+when politics is unconvincing even as entertainment,
+science has taken on the role of mankind’s deliverer.
+18
+-- 18 of 32 --
+V
+Social Shaping of
+Technology (SST)
+A theory holding that human
+choices—social, economic, and political
+factors—shape the design and
+implementation of technology, rather
+than technology alone determining social
+change.
+Bruno Latour
+“The semiotics of human and nonhuman assemblies” The semiotics
+of human and nonhuman assemblies, pioneered by Madeleine
+Akrich and Bruno Latour (1992), studies how meaning and order are
+constructed through interactions between people and technical
+objects (actants) 19
+-- 19 of 32 --
+V
+Tech Adapts
+to us…
+Technologies have to be interpreted and
+appropriated by their users to be more than
+just objects lying around. Only when
+human beings use them, artifacts become
+artifacts for doing something. And this "for
+doing something" is determined not
+entirely by the properties of the artifact
+itself but also by the ways users deal with
+them.
+20
+-- 20 of 32 --
+V
+21
+-- 21 of 32 --
+V
+Humanism
+Mutuality is often stated, but it is always the human
+who does the shaping, who dominates the process,
+and eventually achieves the ends that are positive for
+humans, thereby proving their individual and social
+mastery over technology.
+22
+-- 22 of 32 --
+V
+ARE YOU A
+Social Shaping of
+Technology (SST)
+Which Side
+are you ON?
+Are you a
+Technological
+Determinism
+23
+-- 23 of 32 --
+V
+Computers change
+fundamentally ‘The
+Human’
+We have always been dependent upon technology
+for our survival, but the relationship was one where
+humans had an active role. With computers the
+dependency has increased, but our function is no
+longer so active; it is more passive – and where
+computers lead (and they do lead in highly specific
+directions), we tend to follow.
+24
+-- 24 of 32 --
+V
+Wolfgang
+Hofkirchner
+The spread of ICTs (Information and
+Communications Technology) brings about a change
+in the very sphere of using and creating technology.
+Technology itself changes. By coupling with the
+computer which mechanizes certain abilities of the
+human brain the machine of the industrial age which
+only mechanized abilities of the human body turns
+into an automaton.
+25
+-- 25 of 32 --
+V
+Machines and bodies,
+and computers and
+society, represent two
+distinct technological
+phases in our
+modernity and
+postmodernity.
+26
+-- 26 of 32 --
+V
+Design to Automata
+In the first, that of the tool, the physical energy
+necessary for labour and the required intellectual
+input still depended upon the subject.
+In the second, that of the machine, physical energy
+becomes objectified by means of technique.
+Finally, in the third stage, that of automata, technical
+means make dispensable input from the subject.
+27
+-- 27 of 32 --
+V
+Automation as
+Supremacy
+One could deduce from this that we are
+fundamentally indolent, constantly looking for ways
+to make life easier. But another way to think about it
+is that to automate is also to be able to wield a
+certain power in nature (and over nature). And so,
+functioning as a kind of ‘magic’, automation touches
+that impulse that Gehlen speaks of, where machines
+secure our position of supremacy in nature .
+28
+-- 28 of 32 --
+V
+Pre-programmed
+Automaticity;
+‘media [...] make us lose ourselves [...] in our
+technology to the extent that it generates our lives
+on the basis of a specific set of rules, codes and
+protocols’. What this suggests is a process of
+pre-programmed automaticity; having our analogue
+essence coded, being ourselves programmed and
+fashioned as automatons.
+29
+-- 29 of 32 --
+V
+Human action is
+Removed…
+What Google calls ‘personalization’, no matter the
+extent of it –constitutes a form of determinism. The
+individual as user is cut out of the decision-making
+process and it is the algorithm that ‘anticipates’ the
+user,.
+30
+-- 30 of 32 --
+V
+‘Any sufficiently
+advanced
+technology is
+indistinguishable
+from magic’
+- Arthur C. Clarke
+31
+-- 31 of 32 --
+Question 1
+Does determinism
+scare you? Is it
+possible to stop
+technological
+determinism?
+School Name
+Open Ended
+Questions
+Question 2
+Do you want
+automation? Is it
+possible to have
+automation without
+completely loosing our
+human freedom?
+Question 3
+Why do we form
+ready-to-hand
+attachments to
+objects? Why do we
+become unconscious
+with the use of certain
+tools?
+32
+-- 32 of 32 --

@@ -1,0 +1,258 @@
+Week 10: Computer
+Game Design
+Philosophy
+of Design
+1
+-- 1 of 39 --
+A Computer Art Form
+Dominic Lopes
+A Philosophy of Computer Art
+2009
+2
+-- 2 of 39 --
+The Specialization Question:
+What features of some
+computer-based works make
+them works in the computer
+art form and set them apart
+from other kinds of art?
+3
+-- 3 of 39 --
+Jeffrey Shaw, Golden Calf, 1995
+4
+-- 4 of 39 --
+Ken Goldberg, Telegarden, 1995–2004
+5
+-- 5 of 39 --
+Damian Lopes, Project X, 1997
+6
+-- 6 of 39 --
+Scott Snibbe, Boundary
+Functions, 1998
+7
+-- 7 of 39 --
+Hisako Yamakawa, kodama-
+Mischievous Echoes 2005
+8
+-- 8 of 39 --
+Computer Art is Interactive?
+Every work of computer art must present a display of some
+kind, and the display will exploit text, static images, moving
+images, three-dimensional objects and spaces, bodily
+movements, or sounds.
+Something sets Golden Calf, Telegarden, Project X, Boundary
+Functions, and Kodama apart from traditional art. All five are
+interactive. In every case, what happens with the work is a
+result of some activity on the part of the audience. 9
+-- 9 of 39 --
+Computer Art
+Moreover, this interaction is negotiated by a computer. A
+computer generates the display of Golden Calf from input
+sensors in the LCD screen. Telegarden’s robot takes instructions
+submitted via a website, and Project X also takes input from a
+website in order to determine what text and images to display.
+Like Golden Calf, Boundary Functions uses a location sensor to
+project images, but it runs a Voronoi diagram algorithm to
+direct lasers. Kodama records and manipulates sound for
+playback.
+10
+-- 10 of 39 --
+Computer Art Form Defined…
+CAF: an item is a computer artwork if…
+(1) it’s art,
+(2) it’s run on a computer,
+(3) it’s interactive.
+(4) it’s interactive because it’s run on a computer.
+11
+-- 11 of 39 --
+But is it Art?
+Why do computer-based interactive works count as art?
+Can art be interactive? If so how would the artists
+intentions be met?
+12
+-- 12 of 39 --
+Can this be Computer Art?
+13
+-- 13 of 39 --
+Are Non-fungible tokens (NFTs)
+Computer Art?
+NFT art is digital content—ranging from images and videos to music and 3D
+models—verified on a blockchain as a unique, ownership-tracked asset.
+14
+-- 14 of 39 --
+Scott Snibbe, Boundary
+Functions, 1998
+15
+-- 15 of 39 --
+And is it Valuable?
+What is the value of computer art works?
+What’s the value of an item that’s run on a computer,
+that’s interactive, and that’s interactive because it’s
+run on a computer?
+16
+-- 16 of 39 --
+Jeffrey Shaw, Golden Calf, 1995
+17
+-- 17 of 39 --
+Artistic Value of CAF
+1. A work has value as art only to the extent that it expresses the creativity of its maker.
+2. Computer-based art works inhibit their makers’ creativity.
+3. So computer-based artworks lack artistic value.
+18
+-- 18 of 39 --
+Standardization, Computer
+Programs and Art
+The argument is that a work doesn’t express the creativity of
+its maker if it’s made using a medium that standardizes the
+art-making process, and computer media standardize the
+art-making process, so computer- based works don’t express
+the creativity of their makers.
+19
+-- 19 of 39 --
+What is the term “Standardization”
+referring to with CAF?
+20
+-- 20 of 39 --
+Vilem Flusser
+The Shape of Things
+(1993)
+(1920-1991)
+21
+Call Back to Week Two
+-- 21 of 39 --
+Flusser on the Computer Art
+Take a form, any form, in fact any algorithm that can be expressed
+numerically. Feed this form via a computer into a plotter. Stuff the form thus
+created as completely as possible with particles. And there you have it: worlds
+ready to serve…
+We are the master witches' brewers, the designers, and this makes it possible,
+now that we have outsmarted God, to sweep away all the cant about reality,
+along with Immanuel Kant: 'Real' means anything we, with our social status,
+efficiency and perfectionism, give form to by the use of the computer;
+22
+-- 22 of 39 --
+Ken Goldberg, Telegarden, 1995–2004
+What is Standard about this?
+23
+-- 23 of 39 --
+Art Highlights its Medium
+1 a work (of our era) has value as art only to the extent that it invites experi-
+ence of medium,
+2 computer-based art works don’t invite experience of medium,
+3 so computer-based artworks lack artistic value.
+24
+-- 24 of 39 --
+25
+-- 25 of 39 --
+Computers Hide Their Medium
+A computer might show you a pixelated image or play you a sequence of sounds, but it
+doesn’t reveal to you the computer technology underlying the image or sounds. The
+code that underlies the audio-visual display is invisible. Put metaphorically, “the
+computer is the ultimate black box where production ... is occluded.”
+26
+-- 26 of 39 --
+Active Thought Argument
+1. A work has value as art only to the extent that it abets active thought,
+2. Computer-based art works impede active thought,
+3. So computer-based artworks lack artistic value.
+27
+-- 27 of 39 --
+Distancing for Critical
+Reflection
+“Distance” is a condition of situations which afford active thought. The condition is
+never properly defined, but it’s often described as affording selective and focussed yet
+leisurely attention. When there’s distance, a thinker can inspect an object as she wishes,
+at the pace she wishes. Understood in this way, distance is essential to cognitive
+autonomy – to thinking for yourself – and that makes it an essential precondition for
+critical evaluation.
+28
+-- 28 of 39 --
+29
+-- 29 of 39 --
+Computers Close the Distance
+Mental processes of reflection, problem solving, memory and association are
+externalized, equated with following a link, moving to a new image, choosing a new
+scene or a text ... Now, with interactive media, instead of looking at a painting and
+mentally following our own private associations to other images, memories, ideas, we
+are asked to click on the image on the screen in order to go to another image on the
+screen, and so on. Thus we are asked to follow pre-programmed, objectively existing
+associations ... we are asked to mistake the structure of somebody else’s mind for our
+own. - Lev Manovich
+30
+-- 30 of 39 --
+The argument from mind
+control:
+1. a work has value as art only to the extent that it abets free thought.
+2. computer-based artworks impede free thought.
+3. So computer-based artworks lack artistic value.
+31
+-- 31 of 39 --
+The Argument from Mind
+Control
+The argument from mind control. Having enfeebled the mind, it’s a short step to taking
+control. Horkheimer and Adorno argue that mass media, especially movies and
+television, feed their audiences with a formulaic diet that “produces, controls, and
+disciplines consumers’ needs” by creating the illusion that “the outside world is the
+straightforward continuation of that presented in the screen.”
+Jean Baudrillard pushes the view that mass communication technologies only offer “the
+spectacle of thought and ... people opt for the spectacle of thought rather than thought
+itself.”
+32
+-- 32 of 39 --
+33
+Aesthetic Experience As
+Moral Education: by Joseph
+Kupfer
+Confidential
+33
+Call Back to Week Five
+-- 33 of 39 --
+Not only does cheap art arouse emotions in a way
+not conducive to living fruitfully in the world, but it
+also disposes us to quick undertakings with
+immediate payoffs. We become cheapened by
+enjoyments which do not accrue from the
+mobilization of our creative capacities. Not
+exercising the endowment which makes us
+human, we contribute to a civilization that values
+cheaply.
+Cheap Art
+Confidential
+34
+-- 34 of 39 --
+Plato's Cave
+35
+-- 35 of 39 --
+Argument Against VR Art
+The argument is that a work can’t express the creativity of its maker if its maker is
+bound to copy reality without critical comment, and makers of virtual reality art are
+bound to copy reality without critical comment, so virtual reality works don’t express
+the creativity of their makers.
+36
+-- 36 of 39 --
+37
+-- 37 of 39 --
+Is this Computer Art?
+38
+-- 38 of 39 --
+Have you
+experienced a lot of
+Computer Art? Can
+you give us an
+example of the last
+time you engaged
+with computer art?
+Would you live in a
+virtual reality? If so
+what would it look
+like?
+Is the issue with
+control and creativity
+really specific to
+computer art forms,
+can you think of
+other art forms that
+face this problem?
+Open ended Questions
+39
+-- 39 of 39 --

@@ -1,0 +1,908 @@
+7
+Ethics
+So far, we have investigated some key aspects of Design, attempting
+along the way to assess the various philosophical claims about
+Design implicit in Modernist thinking. Although we have covered
+aesthetics, expression and function, there is one very broad area
+about which we haven’t yet said much: ethics. In this chapter, we
+will take up this important topic, but, before we do, a bit of termi-
+nological clarification is in order.
+In its everyday use, the term “ethics,” and its sister word “moral-
+ity,” perhaps suggest a set of more or less explicit rules or norms
+which constrain our public behavior. To behave in an ethical manner
+is, in this sense, to follow the relevant rules of conduct. In philo-
+sophical contexts, however, the term is used a broader way to refer
+to a concern with the question of how one should live, or what a
+good human life consists in. This broader sense of the term incor-
+porates the narrower sense, since rules or norms that constrain how
+we should treat others are one important aspect of the way we live.
+But it also includes much more, and relates to questions about what
+sort of person we should strive to be, which activities are worthwhile
+and which are not, and so on.
+Design is relevant to ethics in both senses, but particularly in the
+broader sense, given that it has a great effect upon how we live
+through its creation of our material, and, increasingly, our immate-
+rial or virtual, environment. As we have seen, this “mediation” of
+our experience through technology occurs not only when Design
+makes a new kind of deliberate action possible, but also through the
+more subtle ways that Designs shape our unreflective behavior and
+thinking (Verbeek 2005).
+-- 1 of 23 --
+130 THE PHILOSOPHY OF DESIGN
+There are a number of ways to explore the connections between
+Design and ethics; in this chapter, I focus on three.1 The first con-
+cerns perhaps the most obvious point of connection: the way that
+Designers confront and handle ethical rules, regulations and norms
+that apply to the objects they are creating. The second involves
+something more fundamental: the Designer’s very choice of what
+to create. This second issue takes us into a philosophical investiga-
+tion of consumerism and the difference between needs and wants.
+The third issue again takes us into a deep philosophical issue:
+whether a consideration of the role of Design in how we live implies
+a fundamental reconsideration of the very concept of ethics itself.
+In the course of our discussion, we will also examine the Modernist’s
+claim (or hope) that the pursuit of functional Design will, in some
+way, lead us to ethically better Design.
+7.1 Applied Ethics and Design
+It is beyond dispute that to create certain kinds of products, or to
+Design them in certain ways, would be unethical. To Design an
+explosive device in bright colors that would appeal to children, for
+example, would very clearly be wrong. Such cases of inherently
+unethical Design are, thankfully, as rare as they are extreme.2 More
+common are cases where the ethical problem is not with the object
+per se, but in the fact that Designers have negligently compromised
+user safety in some way, usually as a way of cost-cutting. Also famil-
+iar are those cases where an ethical problem is connected with some
+particular way of using (or misusing) the object: handguns would
+be an obvious example. One can argue that it is not the production,
+or use, of the object per se that threatens ethical norms, but only
+certain misuses of the object. Hence the infamous slogan of the
+National Rifle Association, that “Guns don’t kill people, people kill
+people.” On the other hand, some insist that the problem is not
+merely one of misuse and that the very production and “standard
+use” of handguns (as concealed deterrents, for example) is itself
+unethical.
+These sorts of discussions clearly carry Designers into the terri-
+tory of ethics. Before we explore this terrain further, however, it
+will be useful to distinguish three traditional sub-divisions of the
+field: meta-ethics, normative ethics and applied ethics. Meta-ethics
+-- 2 of 23 --
+ETHIcS 131
+is the branch of philosophy that attempts to understand, in a very
+general way, the nature of ethics itself. Questions in this field
+include: What is a moral norm? and What is the basis for moral
+judgement? (Miller 2003). Normative ethics, while not attempting to
+address these very fundamental questions, attempts to spell out the
+most general principles or frameworks for ethical decision-making.
+One such principle, widely debated in normative ethics, is the Utili-
+tarian principle that actions are morally right when they contribute
+to human happiness (Mill [1861] 1979). Finally, applied or practical
+ethics seeks to understand particular moral problems and determine
+whether particular actions (abortion, or euthanasia, for example) are
+morally permissible or not. Overlap between ethics and Design
+typically falls in the last category: the ethical issue around producing
+handguns, for example, is not a meta-ethical one, nor an issue of
+normative ethics, concerning a general moral principle or frame-
+work, but an issue of the ethical status of a particular action – pro-
+ducing handguns.
+This sort of issue typically arises when a new type of thing allows
+a new sort of action that runs up against socially sanctioned ethical
+norms. As the things Designers create, and the actions that those
+things make possible, are subject to society’s ethical norms and
+rules, this means that Design has an important ethical aspect.
+However, this ethical dimension of Designing is sometimes
+obscured, in the popular consciousness at least, by the influence of
+a particular way of thinking about technology and its development
+– the idea of technological determinism. Technological determin-
+ism is the idea that the development of technology is not controlled
+by human thought and decision-making: rather, it is the other way
+around. The development of technology has a “life of its own,” and
+once technologies are in place they shape the nature of society and
+its decisions. On this view, although humans may debate about the
+merits of new technologies, and whether they should be pursued,
+this is ultimately beside the point, as whatever can be made, given
+current scientific and technical knowledge, eventually will be made.3
+However, even if some version of technological determinism is
+true, this would not entail that ethical deliberation about technol-
+ogy is pointless. Even if technology is in some part driven by “inter-
+nal forces,” social values and decisions undoubtedly play a role as
+well. Feng offers the example of the development of microproces-
+sors, which supposedly follow “Moore’s Law” of doubling in power
+-- 3 of 23 --
+132 THE PHILOSOPHY OF DESIGN
+every 18 to 24 months. This development seems to be constrained
+only by internal factors to do with technical improvements in pro-
+cessing speeds. Yet, Feng observes, the development would not
+occur were it not for heavy investment in processing research.
+Thus, social values and demands also play a crucial, if not always
+highly visible, role (Feng 2000; Neeley and Luegenbiehl 2008).
+Furthermore, even if there were a kind of inevitability about what
+things will be produced in the future, there are still many ethically
+important choices to be made about how those things will be
+Designed. Van Gorp and van de Poel (2008, 79–80) offer the simple
+example of Designing a photocopier. Does one make the default
+setting “one-sided printing” or “two-sided printing?” While the
+choice may seem trivial, it could have enormous implications for
+paper use and thereby for environmental sustainability.
+A second factor serving to obscure the ethical aspect of Designing
+is the fact that, although cases of items with some dangerous use
+(or misuse), such as handguns, attract much attention, the bulk of
+the applied ethics of Design concerns more mundane matters of
+safety: it is unethical to Design a device that is unsafe and puts
+people at an unacceptable risk. But this ethical area might seem an
+unproblematic one from the philosophical point of view, given the
+existence of legal product standards for many types of goods. The
+Designer may merely consult the relevant product codes and ensure
+that his or her Design is safe, without any need for ethical
+deliberation.
+However, the nature of Design as a creative activity means that,
+in some cases at least, things will not be so straightforward, since
+there simply will not be extant codes and regulations covering the
+new object (Van Gorp and van de Poel 2008). A narrow focus on
+safety standards also obscures a major complicating factor in the
+applied ethics of Design, which is that safety is far from the only
+relevant ethical value. Others include freedom, availability, con-
+sumer choice, privacy and environmental sustainability (as in the
+above example of the copier button). The applied ethics of Design
+can involve all of these values, given that Design has the potential
+to affect our ability to realize them.
+Nor is applied Design ethics simply a matter of satisfying what-
+ever ethical norms society has instituted, or whatever ethical values
+it happens to hold. For these different ethical norms and values can,
+and often do, conflict with one another as well as with functional
+-- 4 of 23 --
+ETHIcS 133
+criteria for Design. For example, from the point of view of func-
+tionality, it seems that Designers should always strive for the
+highest-quality goods possible. But as Bakker and Loui (1997)
+argue, this might not always result in realizing certain ethical values:
+a Design might fulfill its function very effectively, for example, but
+do so inefficiently, consuming a great deal of resources and there-
+fore compromising environmental sustainability. Also, inefficiency
+might make the item more expensive, reducing consumer choice.
+The operation of a perfectly functional Design might also, through
+its normal operation, compromise user freedom, in the way that
+seatbelt-linked ignition systems do. Security systems that are very
+effective in detecting potential threats to public safety can compro-
+mise privacy, and so on (on value conflicts in engineering design,
+see van de Poel 2009). A very large part of the ethics of Design
+consists in trying to clarify and resolve these conflicts between dif-
+ferent values, in order to determine whether the use of a new item
+would be appropriate, or not.
+7.2 Consumerism, Needs and Wants
+This last point in our discussion of applied ethics in Design has an
+important implication for the Modernist’s claim that purely func-
+tional Design will be ethically good Design. Clearly this thesis
+cannot be maintained, if we consider the ethical values relevant to
+Design in the broadest sense. As mentioned, highly functional
+Designs can negatively affect freedom, privacy and other ethical
+values. However, perhaps the Modernist claim could be understood
+in a more modest sense, as the claim that purely functional Design
+would be ethically beneficent in one respect, by combating wasteful
+consumerism.
+The thought here would be that if we eschew the expressionist
+and aesthetic employments of Design, and instead pursue purely
+functional Design, a great wasting of resources will be avoided.
+There is clearly some truth in this, since much consumption is
+generated by the use of consumer goods as expressive or aesthetic
+aids. A classic example is the automobile, still redesigned year after
+year in the hopes of convincing people to replace their existing
+vehicles. However, this version of the Modernist’s claim is too
+modest, for a Design practice that dispensed with aesthetic and
+-- 5 of 23 --
+134 THE PHILOSOPHY OF DESIGN
+expressive aims could still be massively wasteful of resources by
+producing functionally excellent designs for pointless devices. Con-
+sider, for example, the leaf blower. A well-designed leaf blower
+might be very effective at carrying out its function: blowing leaves
+around. The problem with devices like this one is not that they are
+created for aesthetic or expressive reasons, but that the functions
+they fulfill are, in some sense, gratuitous or unnecessary.4 There
+is no need to blow leaves around, given that one can rake them
+into a pile.
+Thus, if Modernism is to vindicate even the more modest version
+of its claim, it must distinguish between those functions that are
+valid and those that are unnecessary: the most obvious way to do
+this would be to appeal to the conceptual distinction between wants
+and needs. The Modernist could then claim that functional Design
+that addresses needs leads to ethically good Design, at least in the
+sense of reducing consumption. In a sense this distinction is already
+present in the Modernist view, for the very rejection of expression
+is tantamount to the view that expression through Design, while
+certainly something that many people want, is not something that
+they actually need.
+The very distinction between want and need, however, is con-
+tested. Indeed, it can be hard to see this distinction sometimes in
+everyday language, where the terms “want” and “need” are often used
+rather loosely and interchangeably. Writers on Design, for instance,
+will sometimes tackle the question “Do you need new Design item
+X?” when really the issue they are addressing is: “Given its novel
+features, will you want Design item X badly enough to pay what it
+costs?” This casual use of the term “need” aside, however, there does
+appear to be a distinction, in our linguistic practices, between the
+concepts of want and need (Wiggins and Derman 1987). This distinc-
+tion shows itself in several ways, firstly in the fact that we often
+acknowledge that people want things that they don’t need (a third
+pair of red running shoes) and that, conversely, people need things
+that they don’t want (education or a medical treatment, for instance).
+A second aspect of the distinction between needs and wants,
+which helps to explain the first, is that the former are taken to be
+more objective than the latter. For someone to want something is
+merely for that person to be a certain way: it is for him to have a
+certain psychological relation to that thing. For someone to need
+something, more is required than that the subject have a certain
+-- 6 of 23 --
+ETHIcS 135
+psychological relation to it; the thing in question must be in some
+way “called for” by real features of his life situation (Wiggins and
+Derman 1987, 62). This is not to say that desires cannot also be
+called for by features of our life situation, for we often want things
+we need (food, sleep and so on). But wants needn’t possess this
+objective aspect, whereas needs must.
+This second difference leads naturally toward a third, which is
+that needs have a kind of priority over wants. As one philosopher
+puts it, “an assertion that something is needed tends to create an
+impression of an altogether different quality, and to have a substan-
+tially greater moral impact, than an assertion that something is
+desired” (Frankfurt 1984, 1). Thus, if one person desires a new
+espresso machine, and another desires sufficient food to keep himself
+alive, we naturally give precedence to satisfying the second person,
+since he needs the thing in question, whereas the first person does
+not need a new espresso machine, but merely wants one. This is so
+even if the psychological relation of desire that each has toward the
+object is the same (even if the man who wants the espresso machine
+wants it more intensely than the other man wants food to stay alive,
+perhaps because of pain and despair, he still has nothing like an
+equal claim to it). This idea is sometimes referred to as the “Prin-
+ciple of Preference” (Frankfurt 1984, 3).
+Given that we can draw the distinction between wants and needs,
+however, the question arises as to what things fall into the latter
+category. In philosophical discussions, attention is often focused on
+the so-called “basic needs” of food, air, water and shelter. Everyone
+would agree that these are bona fide needs of human beings, and
+not merely wants, for these things are “called for by objective fea-
+tures of one’s life situation” in a very direct way: without them,
+human beings die. However, “things necessary for survival” is a very
+narrow conception of need: if mere biological survival is all that is
+at stake, then humans do not need espresso machines, but neither
+do they need electricity, or even indoor plumbing. As miserable as
+forgoing these might make us, we would no doubt survive (as our
+forebears did).
+More to the point, understanding need in terms of the basic
+needs only is far too narrow a conception of need for use in the
+Modernist claim, since it would restrict Design to things such as
+architecture, agriculture and perhaps medicine. While this would
+no doubt solve the ethical problem of over-consumption, it is too
+-- 7 of 23 --
+136 THE PHILOSOPHY OF DESIGN
+extreme to merit serious consideration.5 Furthermore, and more
+importantly, while many Design objects address aims other than the
+basic needs, they are not thereby unnecessary or gratuitous. For
+example, neither telephones nor leaf blowers are required for bio-
+logical survival but, intuitively, the second is a much clearer example
+of “unnecessary design” than the first. Another way to put the point
+is that we do use the term “need” to cover more than the basic
+needs. We therefore require a more widely applicable criterion for
+being a need, as opposed to a mere want.
+One natural strategy here would be to understand a need as
+something that is not desired merely for its own sake, but is required
+to achieve some larger end. As Harry Frankfurt puts the idea:
+“when something is needed it must . . . be possible to specify
+what it is needed for” (1984, 3). Thus we might say that someone
+who buys a car in order to get to work and pursue a career is fulfill-
+ing a need, but that someone who buys a convertible, “just to have
+it,” is only gratifying a want. In the first case, the object facilitates
+the realization of a larger goal, whereas in the second case, it
+does not.
+This line of thought is appealing, since it is true that we often
+broach the question of whether we need something in this fashion,
+by looking for a larger end to be realized. However, a little reflec-
+tion shows the futility of this approach, since for almost anything
+at all one can easily find a “larger aim” for which that thing is
+essential. Thus the man buying his third convertible can easily
+rationalize his purchase by saying that it is necessary for him to
+complete his convertible collection, which it well may be. Generally
+speaking, it seems that any want can be cast in the form of a need,
+using this criterion.
+The failure of this attempt to find a broader conception of “need”
+might tempt us to skepticism about the very possibility of doing so.
+A skeptic might argue as follows: perhaps the concept of “need,” if
+extended any further than the so-called “basic needs,” is an empty
+one. People want various things, to a greater or a lesser degree, but
+nothing that they desire or might desire is really “called for by their
+life situation” in the objective way that a true (i.e. basic) need is.
+The skeptic could also add a somewhat cynical explanation for why
+we insist on using this broader concept of need, in spite of its empti-
+ness. Here the skeptic may say that, aside from the basic needs, the
+“needs” we speak of are false needs: nothing more than intense
+-- 8 of 23 --
+ETHIcS 137
+desires dressed up in “objective” garb. If this was right, then the
+concept of need, as it might be deployed in Design, would be an
+insidious one: when a man says that he needs a new suit, what he
+really means is just that he really wants one, although he prefers
+not to come out and simply say this, as doing so would make him
+feel less justified in acting to satisfy this desire.
+7.3 Is Need an Empty Concept?
+The skeptical view of needs as no more than intense desires, which
+was sketched in the previous section, is important to consider. If it
+is true, then it seems to throw into doubt the thesis that we can
+reduce consumption by Designing for needs. One problem for this
+skeptical view has already been noted – the fact that we sometimes
+want to say that a person needs something even though she doesn’t
+want it at all (“She needs to change her attitude”; “He needs to
+learn some manners”). These needs, at least, cannot be reduced to
+desires. However, as we have already seen, wants, like needs, can be
+construed as necessary for the attainment of some higher end that
+is desired. Thus perhaps the skeptic can say that, in the above cases,
+a need is something that, given her desires, the person in question
+would want, if she understood her situation rationally.
+What then should we make of this skeptical view? The opponent
+of the skeptic will want to insist that there does seem to be a
+genuine difference between someone’s (false) need for a third con-
+vertible and her true need for, say, education, or social skills. The
+problem is to explain how we can make sense of this apparent
+difference.
+In broaching the distinction between true and false needs, writers
+on Design and consumerism have sometimes appealed to the origin
+of needs as the crucial factor. Victor Papanek, for instance, writes
+that “the economic, spiritual, technological, and intellectual needs
+of a human being are usually more difficult and less profitable to
+satisfy than the carefully engineered and manipulated ‘wants’ incul-
+cated by fad and fashion” (1971, 11).6 Might we not say that false
+needs are needs that we would fail to recognize, were it not for the
+influence of some external force, such as advertising? This is an
+appealing view, given the great power of advertising to instil
+wants and desires, as well as the number of intuitively false needs
+-- 9 of 23 --
+138 THE PHILOSOPHY OF DESIGN
+associated with advertising. It is easy to think of examples of clever
+advertising campaigns that lead people to believe that they need the
+latest product. However, it would be a mistake to understand false
+needs as those with a particular origin (that is, as those we come to
+recognize only through some outside influence). A person with a
+medical condition, or an ignorant person, might never come to
+recognize that they need medical treatment or education without
+being influenced by some outside agency. This influence might
+involve a significant amount of persuasion, just as advertising does.
+But this would not make their needs any less real.
+To distinguish true from false needs, we need to look not to the
+origin of the associated desire, but to the value of that which is
+desired. An approach of this kind was taken by the ancient Greek
+philosopher Aristotle, who defines a need as a thing
+without which . . . it is not possible to live, as for instance breathing
+and nourishment are necessary for an animal, because it is incapable
+of existing without them: and anything without which it is not pos-
+sible for good to exist or come to be, or for bad to be discarded or
+got rid of, as for instance, drinking medicine is necessary so as not
+to be ill, and sailing to Aegina so as to get money. (1015a20)
+In the first part of this quotation, Aristotle gives examples of what
+we have been calling “basic needs,” such as air, food and medical
+treatment. But the second criteria that he gives for a need – being
+necessary “for good to exist or come to be” – is general enough to
+illuminate needs beyond the basic ones.
+The core of Aristotle’s account is that needs are those things
+required for us to achieve things of value (things that are good, or
+worthwhile). Returning to our earlier example, both the person who
+needs education and the person who needs a third convertible are
+trying to achieve some higher aim, and both may have been influenced
+by some external force, but only the former seeks something necessary
+to achieve something of value. The person who wants the third con-
+vertible cannot say that, without it, “good will fail to come to exist,”
+since there is little value or worth in a collection of red convertibles.
+Of course, such a collection may be seen by some as having value (it
+may even thereby have economic value), and the collector may want
+such a collection very intensely, and even think that his happiness and
+fulfillment depend upon it. But this does not make his want into a
+need, since thinking that something is valuable does not make it so.7
+-- 10 of 23 --
+ETHIcS 139
+If this account of needs provides a response to the skeptical view,
+however, it also puts a great deal of weight on the Designer’s value
+judgements about the ways in which we should live. If the Designer
+is to Design, as the Modernist view would hold, only for need, not
+only has she to sort out ethical values relevant to what she makes,
+as we discussed in section 7.1 above, but the very decision to make
+at all implicates her in some kind of conceptualization of the way
+we ought to live. Thus we are brought back to the lingering idea
+of the Designer as a sort of seer or philosopher, whose task is not
+merely to make things or solve problems, but to guide society in
+some larger way.8
+The idea that Designers, or anyone for that matter, can pro-
+nounce about what counts as “genuine need” invites objections.
+Colin Campbell, for example, argues that to declare some needs as
+true and others false is “simply to express a prejudice in favor of
+one specific conception of the good life,” and “will almost certainly
+lead to the endorsing of traditionalistic, Puritanical and in all prob-
+ability authoritarian, attitudes” (2010, 283).
+Much of this is clearly exaggerated. It is no doubt true that it is
+easy to be dogmatic about “the good life” or what is worthwhile or
+valuable, much as it is easy to be dogmatic about other things, such
+as what is true. But this by no means entails that all claims about
+value are mere “prejudice”: claims about value can be mere preju-
+dice but they can also be well thought out and grounded in good
+reasons. It is also plainly not true that making judgements of value
+will lead to authoritarianism: for example, in societies where freedom
+is valued, judgements about the good will not be foisted upon indi-
+viduals who may disagree with them, but the fact that such value
+judgements are not imposed upon everyone does not make them
+any less judgements of value, or any less correct.9 However, Camp-
+bell’s points do have a particular salience in the context of Design,
+for the Designer, unlike others, gets to embed her determinations
+of the “good life” in material culture, and, in that sense, imposes
+them on others.
+7.4 Does Design Alter the Moral Landscape?
+So far we have seen that ethics can have big implications for Design.
+We can turn this around and ask whether Design has implications
+-- 11 of 23 --
+140 THE PHILOSOPHY OF DESIGN
+for ethics. Some thinkers have even suggested that taking stock of
+Design’s connection to ethics not only reveals a new area of ethical
+issues and concerns, but in fact radically changes our understanding
+of ethics itself. One such view is the idea that the products of Design
+themselves should be viewed as moral agents.
+One of the most important inspirations for this thesis is a famous
+1980 essay by Langdon Winner called “Do artifacts have politics?”.
+In that essay, Winner took issue with a widespread view on ethics
+and technology, which is the view that, although people may
+use technology in taking certain actions, it is only the actions
+themselves, and not the artefacts employed, that are properly
+subject to ethical evaluation. Winner elegantly described the view
+as follows:
+It is no surprise to learn that technical systems of various kinds are
+deeply interwoven in the conditions of modern politics . . . But to
+go beyond this obvious fact and to, at first glance, completely mis-
+taken. We all know that people have politics; things do not. To
+discover either virtues or evils in aggregates of steel, plastic, transis-
+tors, integrated circuits, chemicals and the like seems just plain
+wrong, a way of mystifying human artifice and of avoiding the true
+sources, the human sources of freedom and oppression, justice and
+injustice. (1980, 20)
+On this common view, it is conceded that a bit of technology might
+have political effects. Internet search engines, for example, might
+be used to gather information on users in a way that corrodes their
+right to privacy. But, in this case, the common view holds that it
+would be misleading to say that the technological artefact – the
+search engine – is unjust. Rather, the injustice is located in a human
+action – namely, the misuse of that artefact by particular human
+agents.
+Winner acknowledges that this common view seems quite rea-
+sonable, but he rejects it on the grounds that it obscures the
+important role that artefacts play in ethical decision-making. To
+locate the ethical responsibility only in the decisions of the human
+agents, Winner argued, misses the fact that certain technologies, in
+and of themselves, can direct and shape those decisions. Winner
+offered the example of the highway overpasses built in New York
+City in the 1950s by Robert Moses. Apparently, these were
+deliberately built too low for buses to pass underneath, thereby
+-- 12 of 23 --
+ETHIcS 141
+preventing the poorer Black New Yorkers, who did not own cars,
+from reaching certain areas. In this case, Winner argued, there is a
+political aspect to the artefact itself. If we focus only on the actions
+of human agents, on what people in a society do, we fail to account
+for the ways those actions are shaped, often subtly, by the material
+environment. For example, if we looked for racism only in the
+actions of New Yorkers, we would miss the segregation that is
+quietly being carried out by the overpasses.
+In his essay, Winner’s concern was mainly with the political
+aspects of technology, but other authors have extended his general
+approach to encompass moral as well as political values. The soci-
+ologist Bruno Latour, for example, argued that an adequate
+understanding of morality must include, as well as human agents,
+non-human agents such as artefacts. “We have been able to delegate
+to nonhumans . . . values, duties, and ethics,” he writes; “It is
+because of this morality that we, humans, behave so ethically, no
+matter how weak and wicked we feel we are” (1992, 232). Latour
+emphasizes the many, often unnoticed, ways in which artefacts “act”
+in ways that allow us to behave ethically. The speed bump, for
+example, plays a crucial role in getting drivers to obey the laws and
+drive safely. Latour insists that, in order to fully understand ethics,
+we must eliminate the human/non-human distinction and incorpo-
+rate non-human moral agents into our moral framework. Echoing
+the views of Winner and Latour, the philosopher Peter-Paul
+Verbeek maintains, “The conclusion seems justified that artefacts
+have morality: technologies play an active role in moral action
+and decision-making” (2008, 93). Verbeek refers to this phenome-
+non of “the moral agency of technological artefacts” as “material
+morality.”
+The notion of material morality demands some close scrutiny,
+given its great philosophical interest. For it portends nothing less
+than a conceptual revolution with regard to ethical thinking. Tra-
+ditionally, philosophers have reserved the title of “moral agent” for
+a very specific sort of being: creatures capable of rational deliberation
+and free, intentional choice. As it stands, this means that only
+human beings count as moral agents (notice also that the require-
+ment of rational deliberation rules out even humans who are chil-
+dren and others incapable of rational deliberation, such as the
+insane). Further, moral agency, on the traditional view, is intimately
+linked to moral responsibility. If one acts out of moral agency, then
+-- 13 of 23 --
+142 THE PHILOSOPHY OF DESIGN
+one is responsible for one’s action, and can be subjected to praise
+or blame accordingly. However, we do not typically punish artefacts
+for “wrongdoing.” So it would be a major conceptual shift were we
+to do this, as the material morality thesis apparently suggests.
+In support of the notion of material morality, it might be pointed
+out that our ethical framework has undergone major revolution in
+the past. For example, at various times and places, women and slaves
+were regarded as unworthy of moral consideration. Furthermore,
+and more recently, there has been an expansion in moral concern
+to include non-human animals, and even non-sentient parts of the
+environment.
+However, we should examine these changes carefully. This expan-
+sion has not been with respect to what it is to be a moral agent,
+subject to responsibilities and worthy of praise or blame. In the case
+of expanding moral consideration to non-human animals and non-
+sentient entities such as trees or ecosystems, what has been at stake
+is not an attribution of moral agency, but rather the quite different
+status of having moral standing. So although many would argue that
+trees or rivers have some moral standing, in that harming them may
+be morally wrong, we do not think of bestowing moral praise or
+blame on these entities, as we do with moral agents such as adult
+human beings. To attribute moral agency to artefacts, then, would
+be to significantly alter our conceptual framework in a way that has
+no clear precedent.
+Given this, we should ask what arguments can be given for, and
+against, including artefacts amongst moral agents. Would there be
+anything incoherent or problematic about this? One complication
+in this debate is its overlap with a central debate in the field of
+artificial intelligence, which is whether a computer could possess a
+mind, or mental states, in the sense that human beings do. If it is
+indeed possible for a computer to possess a mind, in the same sense
+that a human does, then it is natural to think that such a computer
+would be a moral agent in the same sense that a human being is a
+moral agent.10 However, as Verbeek points out, this debate about
+sentient computers is one that we can set aside in a general discus-
+sion of material morality (2011, 50). For a sentient computer would
+be an artefact of a very specific and sophisticated kind, able to
+behave in ways analogous, or even superior, to a human being. But
+the question of whether artefacts have moral agency is one raised
+about much more mundane artefacts: overpasses, speed bumps and
+-- 14 of 23 --
+ETHIcS 143
+the like. So the question we need to focus on is whether attributing
+moral agency to these artefacts would be problematic.
+One obvious objection to this view is that although such artefacts
+have effects, they do not really “act,” since they cannot form inten-
+tions to do anything. Since moral agency requires that the agent
+perform actions intentionally, or on purpose (having some goal in
+mind), artefacts of this type cannot be moral agents. In response to
+this objection, Verbeek notes that the original etymology of the
+word “intend” is “to direct.” He then argues that, since it is clear
+that artefacts can direct our behavior in various ways (consider the
+examples of the highway overpass and the speed bump, mentioned
+above), they can have intentionality.
+Against this, one might object that “intentionality,” in the context
+of discussions of moral agency, means much more than merely
+“directing a course of action.” It means directing one’s own course
+of action toward some goal or end. As such, it requires a set of
+psychological states on the part of the agent: beliefs about that
+course of action and its relation to a goal, as well as some sort of
+desire that the course of action come about. Without these psycho-
+logical elements, it might be said, we are simply not discussing
+“intentional action” in the sense relevant to moral agency. In this
+sense, it seems that speed bumps and overpasses do not have
+intentionality, and so cannot be considered moral agents. However,
+this argument concerning intentions might ultimately be beside
+the point. After all, one might argue that, whether they have
+intentions or not, artefacts clearly do act in the sense that, when
+humans act ethically, part of the “work” is done by the artefact
+(Latour 1992).
+A different argument against attributing moral agency to such
+artefacts is that they lack a crucial attribute of genuine moral agency
+– freedom. Whereas what artefacts do is determined by causal
+forces, what humans do is not. Thus Deborah Johnson argues that
+humans count as moral agents only because of a “mysterious, non-
+deterministic aspect of moral agency” (2006, 200). Since we have
+no reason to think that artefacts could ever act in this mysterious
+non-deterministic way, we have no grounds for attributing moral
+agency to them. However, this argument is a weak one, relying as
+it does on the premise that humans possess a “mysterious, non-
+deterministic agency.” Many have argued that the apparent freedom
+of will that humans possess is an illusion, and that human action is
+-- 15 of 23 --
+144 THE PHILOSOPHY OF DESIGN
+just as determined as what happens to artefacts and physical objects
+in general. Those who argue this way nonetheless hold that, in some
+sense, people are moral agents.
+Yet another argument against attributing moral agency to arte-
+facts is that moral agency entails moral responsibility, but, as men-
+tioned earlier, it would make no sense to hold artefacts responsible
+for their “actions.” For example, what would it mean to hold some-
+thing like a speed bump or an overpass responsible? Of course, if
+such an artefact was doing harm, we would want to eliminate it, and
+if it were doing some good, we might want to maintain or more
+widely implement it. But this is not the same as holding it respon-
+sible for its actions, as we do with people.
+In response to this sort of objection, Floridi and Sanders (2004)
+argue that the concept of moral agency can be coherently separated
+from the notion of moral responsibility.11 In support of this,
+they point to cases involving dogs and children. We often praise or
+blame these creatures when they carry out an action that we deem
+good or bad (“bad dog”), although we recognize that they are not
+morally responsible for their actions. This seems to show that we
+have a concept of moral agency – being the source of a morally
+good or bad action – that does not require moral responsibility. In
+a similar way, we might say things such as “these speed bumps are
+good” and “those overpasses are evil,” although we do not hold
+them morally responsible in the way we hold people morally
+responsible.
+This reply to the objection, however, only points to a deeper flaw
+with the moral agency thesis, even in its more modest formulations.
+If artefacts are not subject to moral responsibility, then what will be
+the upshot of turning the focus of our ethical analysis toward them?
+It must be to make moral responsibility for whatever effects those
+artefacts have more elusive. A “bad” artefact is one that must be
+replaced, but who is responsible for this? It is not the artefact, or
+any other artefact, but must be some human being, a moral agent
+in the full sense (Johnson 2006; Noorman 2014).
+This can be illustrated with regard to Verbeek’s example of hand-
+guns. Do people kill people, or do guns kill people? Verbeek insists
+that this traditional question is misguided, for “agency should not
+be located exclusively in either the gun or the person shooting, but
+in the assembly of both” (2011, 64). But exactly what is gained by
+assigning part of the moral agency to the gun? If guns cannot be
+-- 16 of 23 --
+ETHIcS 145
+held responsible, as Verbeek elsewhere seems to admit, then what
+is to be done about their “bad behavior?” The guns will not respond
+to our moral reproaches, so some human agent will need to inter-
+vene. Who will this be: gun manufacturers? Law-makers? The
+police? Attributing moral agency to guns does not help address this
+question but in fact only serves to obscure it. The problem with
+extending moral agency to artefacts, then, is that it makes it harder
+for us to focus our ethical analysis where it is ultimately needed: on
+human decisions and actions. Another way to put the point is that
+it reifies technology into something analogous to human moral
+agents, when in fact it is not.
+But what of the argument, given by Latour, that we must acknowl-
+edge the moral agency of artefacts simply because they do so much
+of our “moral work”: that, as Verbeek puts it, “technologies are
+morally active” (2011, 57)? It can certainly be conceded that
+artefacts do “moral work,” in one sense, in that the decisions and
+actions that people take are certainly affected and shaped by
+their material environment. However, in another sense, artefacts do
+no “moral work” at all, for we are not interested in the ways in
+which artefacts influence human moral behavior in the same way
+that we are interested in human moral behavior itself. While the
+former is important, it can only be the preliminary to a full moral
+analysis.
+As an analogy, it is useful to consider the relationship between
+artefacts and athletics. It is indisputable that artefacts influence
+human athletic performance, in numerous ways: improvements in
+bike design improve cycling speed, better shoes improve running
+times, and so on. One might argue that, through Designing this
+technology, we have “delegated” athletic performance to these arte-
+facts, in the sense that significant portions of particular athletic
+achievements can be attributed to these artefacts.12 Nonetheless, no
+one would argue that we should extend the concept of “athlete” to
+shoes and bikes, or say that an athlete is not really a human being,
+but a human being and his bicycle. The reason for this is that,
+although artefacts shape the context of athletic performance in
+multiple ways, we are primarily interested not in this, but in human
+performance itself. In the case of morality, as our primary interest
+lies in human decision-making, not in the influence of artefacts on
+it, we have legitimate reason to exclude artefacts from the category
+of moral agency.
+-- 17 of 23 --
+146 THE PHILOSOPHY OF DESIGN
+7.5 The Designer Stands Alone?
+Whatever we ultimately say on this rather abstruse issue, however,
+it is important to remember that, even if we cannot extend moral
+agency, in some meaningful sense or another, to artefacts, we should
+recognize that they influence the behavior of moral agents to such
+an extent that they must figure in our moral analyses. Certain arte-
+facts may shape the way people live, and the lives they lead, and
+make possible certain moral decisions that were otherwise impos-
+sible. As discussed in section 1.3, this places tremendous weight on
+the Designer as an ethical decision-maker. The artefacts she creates
+will shape the practices and beliefs of, potentially, multiple genera-
+tions of human beings, often in quite subtle ways that may not
+even be recognized by those people. Thus we return, at last, to the
+lonely image, encountered in chapter 2, of the Designer standing
+over against the massive and intractable task of leading society into
+the future.
+In our earlier encounter with this idea, we viewed it in the context
+of the so-called “epistemological problem” for Design: the difficulty
+the Designer has in determining whether or not his novel creation
+is liable to be successful. The issue of uncertainty regarding conse-
+quences arises in the moral context as well (Sollie 2007). But the
+ethical issue has an additional dimension. For the question con-
+fronting the Designer is not simply the empirical question – Will
+this device do what it is supposed to? – but rather the ethical ques-
+tion – Should there be a device that does this? This shift in the
+focus of the question does not make it any more straightforward,
+but only adds a different sort of perplexity. For how is the Designer
+to decide, as we discussed in section 7.3, what things should do –
+what people truly need? Which part of the Designer’s methodology
+or training can equip her to answer these normative questions?
+There is an important question to be raised here about the true
+extent of the Designer’s responsibility. In chapter 2, we discussed
+the fact that Designers are typically not given carte blanche but are
+often handed a very specific brief. Many of the ethically relevant
+aspects of the project may not be up for negotiation; consider a
+commissioned Design for a hospital, for example. There may be all
+sorts of ethically important aspects of the project that are simply
+out of the Designer’s control.13 Perhaps, then, it is society as a whole
+that should be held responsible, rather than the individual Designer.
+-- 18 of 23 --
+ETHIcS 147
+However, while it is true that, in given cases, many of the ethically
+relevant decisions may occur prior to the Design process, it is also
+true that society increasingly views Design as the proper place for
+such ethical deliberation to take place. The question is how Design
+can perform this role.
+This question has led to many attempts to find a “formalized
+approach” for ethical Design, a specific methodology for incorpo-
+rating values into Design. One of the more prominent of these
+approaches is “Value Sensitive Design” (VSD; Friedman et al. 2002;
+Cummings 2006). Value Sensitive Design involves a three-part
+approach, consisting of conceptual, empirical and technical analy-
+ses. The conceptual analysis consists, as one writer puts it, in “an
+analysis informed by those value constructs relevant to the Design
+in question” (Cummings 2006, 702). VSD identifies twelve human
+values that are relevant to Design: human welfare, ownership,
+privacy, freedom from bias, universal usability, trust, autonomy,
+informed consent, accountability, calmness, identity and environ-
+mental sustainability. In the conceptual phase of VSD, the way in
+which the Design may impact upon these values, as they are held
+by the stakeholders affected, is considered. These stakeholders can
+be either direct stakeholders, who use the Design in question, or
+indirect stakeholders, who may be indirectly affected by it.
+The empirical phase of VSD involves taking measurements and
+making observations to assess how the Design in question actually
+affects the relevant human values. In this stage, the focus is on
+testing how people actually respond to and interact with the Design,
+and what effects the Design has in actual situations. Finally, the
+technical phase sees the Designers exploring different ways of
+implementing their concepts so as to best realize the values identi-
+fied in the conceptual phase.
+Cummings illustrates VSD methodology with the example of a
+missile guidance system that allows for missile redirection to a new
+target in mid-flight. In the conceptual phase, human welfare is
+identified as the main relevant value, and the pertinent issue as
+“whether an engineer can ethically design a weapon” (2006, 705).
+This question is addressed by noting that philosophical and legal
+doctrines of “just war,” such as the United Nations Charter, require
+military actions to be discriminatory, targeting only military and
+not civilian targets. Since re-directable missiles are “intended to
+destroy military targets with pinpoint accuracy and thus minimize
+-- 19 of 23 --
+148 THE PHILOSOPHY OF DESIGN
+civilian casualty loss” (706), the Design in question supports the
+value of human welfare. The main Design issue arising from this
+Design concept is the level of automation to be implemented in the
+redirection process: to what extent should redeployment of active
+ordinance to another target be left to human discretion, and to what
+extent should automated recommendations for redirection be
+employed? In the empirical phase, these questions are explored by
+observing human decisions in prototype systems with varying levels
+of automation, and in the technical phase ways of implementing
+automation are considered.
+Methodologies such as VSD are certainly useful tools in drawing
+ethical concerns more fully into the process of Design. However, do
+they really succeed in addressing the sorts of worries raised above
+about the Designer’s ability to tackle ethical issues? It seems clear
+that they do not take us far. Manders-Huits (2011) points out a
+number of important limitations to approaches such as VSD (see
+also Albrechtslund 2007). One problem involves “how to deal with
+the . . . empirical investigations concerning values” (2011, 279). In
+the empirical phase, Designers are to assess how interaction with the
+Design will affect relevant values. In the missile example, this assess-
+ment is relatively straightforward, in that one can measure how
+many missiles struck unwanted targets. But in many cases, deter-
+mining how values are affected must be done by asking subjects.
+These empirical results, however, can be difficult to interpret, as dif-
+ferent subjects may understand a value like “autonomy” or “privacy”
+in very different ways. Furthermore, it is difficult to know what to do
+with these sorts of empirical results. As Manders-Huits writes:
+“What does it mean if 67% of the users say that they fear security
+issues? And do they all refer to the same conception of security? In
+addition, how does the 67% fear of security problems relate to the
+49% fear of privacy issues?” (2011, 279). An even deeper problem
+with the empirical phase is that these assessments of the values held
+by different stakeholders are descriptive, rather than normative.
+Manders-Huits writes, “There is an implicit assumption in the
+methodology of VSD that one will know what to do in a normative
+sense, once these values are known. This, I contend, is where VSD
+runs the risk of committing the naturalistic fallacy” (2011, 279).
+An even more fundamental limitation of the VSD approach,
+however, concerns its conceptual phase. It is in this phase that the
+relevant values are identified, and the overall ethical direction of
+-- 20 of 23 --
+ETHIcS 149
+the Design project is determined. In Cummings’s missile guidance
+system example discussed above, for example, the ethical question
+of whether to build this weapon is decided by appealing to an idea
+within “just war” theory. However, if our aim is to design ethical
+technology, it is not enough for the technology to align with
+accepted ethical theories – it should align with true ethical theories.
+Cummings does not argue for the truth of this theory, nor is it at
+all apparent that Designers would have the capacity to engage with
+this ethical question. Further, in many cases Designers will face
+conflict between different values that can be defended by appealing
+to conflicting ethical theories: the conceptual phase does not indi-
+cate how such conflicts can be addressed or resolved. Manders-
+Huits sums up this line of thought by saying that “VSD requires
+complimentary ethical theory and expertise” (2011, 282).14
+These limitations of VSD are important to note, because if such
+techniques cannot provide a satisfactory answer to the question of
+how Designers are able to do ethics – if, in addition, ethical expertise
+is required – then the question must inevitably be asked: who are
+Designers to be making these ethical decisions? If the Designer has
+no particular ethical expertise, his or her ethical decisions are apt
+to be regarded as arbitrary by the wider community affected by
+them. The Designer will, of course, have his or her own values –
+autonomy, privacy, sustainability or whatever – and these may be as
+sensible as anyone else’s values. But the Designer seems no more
+entitled to “legislate” those values than any other citizen. Yet, this
+is precisely what happens. This generates a particularly acute dif-
+ficulty, given that so many of the mediating effects of Design are
+ones that go unnoticed by users. The Designer, in this context,
+becomes a shadowy figure quietly foisting her values upon an unsus-
+pecting public.
+There are ways to respond to this idea of the Designer as invisible
+tyrant. One is to insist upon the primacy of agency as a value in
+Design. In his study of nanotechnology, the philosopher Alfred
+Nordmann (2005) argues that the raison d’être of technology is to
+increase our control over nature and reduce the extent to which
+nature operates as a set of unknown background forces beyond our
+control. Nordmann employs this premise in his critique of nano-
+technology, arguing that because the operation of nanotechnology
+takes place at an imperceptible level, where it is beyond our control,
+it is flawed technology, reducing rather than enhancing human
+-- 21 of 23 --
+150 THE PHILOSOPHY OF DESIGN
+agency. We might extend Nordmann’s analysis to Design in general,
+arguing that Designers should not create systems that impose
+actions or ways of perceiving upon users, but only ones that present
+them with choices for action or perception. This approach would,
+in a way, allow Designers to dodge the question “Who are you to
+do ethics?” by creating only tools for action. Another way to look
+at this approach is as an attempt to rein in the mediating effects of
+Design entities, and restrict them only to effects that leave room
+for deliberate control and informed consent.
+However, this approach is problematic. Designing for agency
+certainly seems like a good thing in many contexts. However, it is
+probably not desirable, or even possible, to Design in such a way
+as to completely avoid imposing values. Some complex devices, at
+least, might well become unusable if the user had to make conscious
+decisions about every aspect of their operation. Consider our earlier
+example of the photocopier: a photocopier with no default settings
+at all would be so time-consuming to use as to be effectively useless.
+Thus, it doesn’t seem feasible for the Designer to simply dodge the
+problem in this way.
+A second, and related, response to the problem is to endorse
+some version of the idea of participatory Design.15 This is the idea
+that Designers should not create Designs and then make them avail-
+able to users, but rather that Designers and users co-design, thereby
+creating an entity that is better adapted to its users. In an ethical
+context, participatory Design appears to allow the Designer to avoid
+the sting of the objection, since the Designer does not impose her
+personal values in the Design she creates: rather, the Design is as
+much the product of the community of users and their values as it
+is the product of the Designer and her values. Participatory Design
+is thereby seen as inherently democratic.
+But while the general idea of participatory Design is certainly
+important and useful in some contexts, it suffers from many of the
+same limitations that we noted for approaches such as VSD. For
+instance, it runs the risk of committing the naturalistic fallacy:
+simply adopting values people actually hold as opposed to engaging
+in moral analysis. Furthermore, if moral discourse or debate is
+included in the model, as seems appropriate, then the question of
+expertise only re-emerges insofar as the qualifications of the public
+stakeholders are as dubious as those of the Designer herself, if not
+more so.
+-- 22 of 23 --
+ETHIcS 151
+An alternative approach would be to say that if the Designer is
+not, or cannot be, an ethicist, the ethical dimension of her task
+should be handled by a distinct person, working in conjunction
+with the Designer.16 This approach is already employed in certain
+contexts where “qualified ethicists” (usually philosophers) are
+involved in systems Design, such as in the Design of health-care
+protocols. If the ethical problems raised by Design are too much
+for that practice to resolve, then perhaps ultimately it must be
+relieved of them.
+-- 23 of 23 --

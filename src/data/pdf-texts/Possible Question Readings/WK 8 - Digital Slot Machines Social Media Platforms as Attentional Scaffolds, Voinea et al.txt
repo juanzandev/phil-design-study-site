@@ -1,0 +1,1154 @@
+Topoi (2024) 43:685–695
+https://doi.org/10.1007/s11245-024-10031-0
+emotions or cognitive states (Candiotto and Dreon 2021;
+Heersmink 2013; Piredda and Candiotto 2019). Consider-
+ing the diversity of cognitive and affective task we fulfill
+through social media platforms–from informing ourselves,
+communicating with others and building social relations, to
+expressing and performing our identities–it becomes clear
+that digital platforms are suited for the application of scaf-
+folding theory.
+While scaffolding theory has not been used extensively
+in social media research, there is some work done in this
+direction. For example, Krueger and Osler (2019) argue that
+social media platforms are affective scaffolds, as people use
+them to regulate their affective lives, by interacting with
+others to elicit different feelings. But, the same study (2019,
+p. 226) highlights that oftentimes social media platforms
+dysregulate affective states, which is reflected in users’
+decreased ability to focus on essential tasks, indicating a det-
+rimental effect on attention. On the other hand, Heersmink
+and Sutton (2020) argue that Web applications, including
+social media platforms, should rather be seen as cognitive
+and memory scaffolds. This is because social media plat-
+forms aid in cognitive and memory tasks, such as accessing
+information, or reminding users of different events. How-
+ever, the authors stress that Web services have a negative
+impact on users’ attention, as they promote “skimming of
+1 Introduction
+In recent decades, affective and cognitive states are increas-
+ingly conceptualized as extended in the world (Carter et al.
+2016; Clark and Chalmers 1998; Colombetti and Krueger
+2015; Colombetti and Roberts 2015; Krueger and Szanto
+2016; Piredda and Candiotto 2019). According to extended
+theories of cognition and affect, scaffolds are processes
+and artifacts used to express, trigger, intensify or modulate
+Cristina Voinea
+cristina.voinea@philosophy.ox.ac.uk
+Lavinia Marin
+L.Marin@tudelft.nl
+Constantin Vică
+constantin.vica@filosofie.unibuc.ro
+1 The Oxford Uehiro Centre for Practical Ethics, Faculty of
+Philosophy, University of Oxford, LittleGate House, 16-17
+Saint Ebbe’s St, Oxford OX1 1PT, England
+2 Ethics and Philosophy of Technology Section, TU Delft,
+Delft, The Netherlands
+3 Research Center in Applied Ethics, Faculty of Philosophy,
+University of Bucharest, Splaiul Independentei, no. 204,
+Bucharest, Romania
+Abstract
+In this paper we introduce the concept of attentional scaffolds and show the resemblance between social media platforms
+and slot machines, both functioning as hostile attentional scaffolds. The first section establishes the groundwork for the
+concept of attentional scaffolds and draws parallels to the mechanics of slot machines, to argue that social media platforms
+aim to capture users’ attention to maximize engagement through a system of intermittent rewards. The second section
+shifts focus to the interplay between emotions and attention, revealing how online attentional capture through emotion-
+ally triggering stimuli leads to distraction. The final section elucidates the collective implications of scaffolding attention
+through social media platforms. The examination of phenomena such as emotional contagion and the emergence of group
+emotions underscores the transition from individual experiences to shared collective outcomes. Employing online moral
+outrage as a case study, we illustrate how negative emotions serve as scaffolds for individuals’ attention, propagate within
+social groups, and give rise to collective attitudes.
+Keywords Social media platforms · Attentional scaffolds · Digital slot machines · Hostile scaffolds
+Accepted: 22 February 2024 / Published online: 2 March 2024
+© The Author(s) 2024, corrected publication 2024
+Digital Slot Machines: Social Media Platforms as Attentional Scaffolds
+Cristina Voinea1 · Lavinia Marin2 · Constantin Vică3
+1 3
+Content courtesy of Springer Nature, terms of use apply. Rights reserved.
+-- 1 of 12 --
+C. Voinea et al.
+information, cursory reading, and distracted thinking.”
+(2020, p. 161). Last but not least, Steinert et al. (2022) show
+that scaffolds need not be strictly cognitive or affective, as
+most of the time both dimensions are scaffolded at the same
+time. For example, social media platforms are affective
+scaffolds with cognitive effects because they encourage gut
+reactions that subvert critical thinking, by instrumentalizing
+people’s attention (Steinert et al. 2022, p. 19).
+Whether described as affective or cognitive scaffolds,
+most authors cited above recognize that social media plat-
+forms have a considerable, often negative, impact on our
+attention. All this, while our emotions are elicited by the
+content we see online, and our epistemic states are affected
+by the lack of control over how we process and integrate
+information. This raises a new set of questions: how do
+social media platforms manage to affect both our emotions
+and epistemic states? And what role does attention have in
+this process?
+In this paper, we introduce the concept of attentional
+scaffolds and show the resemblance between social media
+platforms and slot machines, both functioning as hostile
+attentional scaffolds. We analyze how these platforms stra-
+tegically harness users’ emotions to capture and retain their
+attention, thus benefiting the platforms at the expense of
+users’ interests. Drawing parallels to the mechanics of slot
+machines, social media platforms aim to capture users’ atten-
+tion to maximize engagement through a system of intermit-
+tent rewards. We then shift focus on the intricate interplay of
+emotions and attention, and their impact on epistemic states,
+to show in more detail how social media platforms work as
+digital slot machines. We argue that despite being designed
+around individual users, digital platforms wield aggregate
+effects at the collective level. By exploring phenomena such
+as emotional contagion and the emergence of group emo-
+tions, we illustrate the transition from individual experiences
+to collective outcomes. Employing online moral outrage as
+a case study, we illustrate how negative emotions serve as
+scaffolds for individuals’ attention, propagate within social
+groups, and give rise to collective attitudes.
+2 Social Media Platforms as Attentional
+Scaffolds
+The central role of attention in the business model of social
+media platforms is driven by the well-established connection
+between revenue generation and user engagement (Zuboff
+2019). Social media platforms rely heavily on personal-
+ized advertisements, which, in turn, depend on collecting
+and analyzing users’ personal data. To gather a substantial
+amount of data for targeted ads, social media platforms must
+ensure that users spend as much time as possible scrolling.
+Consequently, the algorithms underlying these platforms
+are meticulously designed to maximize user engagement,
+while the user interfaces are created to attract users’ attention
+(Narayanan 2023). Engagement is “any score that is defined
+only in terms of the moment-to-moment actions of the user”
+(Narayanan 2023, p. 18). To put it simply, recommendation
+algorithms structure users’ newsfeeds, ranking information
+depending on how likely it is for users to engage with it. For
+this purpose, algorithms look into users’ behavioral data to
+find patterns that could predict engagement with posts. So,
+algorithms are not made, per se, to keep users hooked or to
+make them addicted; they only look for patterns in data to
+maximize engagement. Engagement is easy to measure, and
+it is a good proxy for other goals; for example, “A user who
+is engaged is more likely to keep returning and generate
+ad revenue for the platform.” (Narayanan 2023, p. 18). At
+the same time, every element of the user interface of social
+media platforms is chosen because it works to attract and
+capture people’s attention–for example, ‘pull-to-refresh’
+mechanisms in newsfeeds and infinite scrolling feeds are
+implemented in almost all social media platforms because
+of their potential to maximize time spent online (Burr et al.
+2018, p. 757; Narayanan 2023; Mihailov et al. 2023; Voinea
+et al. 2020).
+Therefore, attention holds a central position in the busi-
+ness model of social media companies. The more attention
+users devote to the platforms, the more data can be collected
+and used for recommending content and targeted advertis-
+ing. This symbiotic relationship between attention, user
+engagement, and advertising revenue drives the constant
+refinement and optimization of algorithms and of platform
+design, all with the ultimate aim of maximizing profitability
+(Deibert 2019). Social media platforms are designed to cap-
+ture, direct and retain people’s attention; they are attentional
+scaffolds.
+2.1 Beneficial and Hostile Attentional Scaffolds
+We define attentional scaffolds as designed external struc-
+tures, artifacts or processes that systematically influence
+users’ focus, management, and direction of attention, either
+benefitting or harming their ability to achieve their goals.
+Following Saarinen (2020) in their theorization of affec-
+tive scaffolds, we advance a broad understanding of atten-
+tional scaffolds, as it allows for richer and more productive
+analyses. A narrower understanding would look to find more
+and more restrictive conditions that describe the concept,
+to clearly delineate between scaffolded and non-scaffolded
+attention. Our focus in this paper is just to put forth a con-
+cept that might reveal something relevant about the rela-
+tions between external objects and people’s attention. Just
+like Saarinen (2020), we side with a broad understanding
+1 3
+686
+Content courtesy of Springer Nature, terms of use apply. Rights reserved.
+-- 2 of 12 --
+Digital Slot Machines: Social Media Platforms as Attentional Scaffolds
+of scaffolds, in our case, attentional, as it is useful to illus-
+trate how our attention is constantly shaped and directed by
+external objects and processes.
+Scaffolds can be beneficial or hostile (Timms and Spur-
+rett 2023), depending on the role they play in users’ abil-
+ity to achieve their goals and on the intentions behind their
+design. Beneficial scaffolds are generally those that are cre-
+ated to help users with various tasks and to advance their
+interests. For example, a GPS map that helps people get
+from point A to point B without investing too much effort
+in this task is a beneficial cognitive scaffold. On the other
+hand, hostile scaffolds undermine the interests of the agent
+using the scaffold, while at the same time, serving the inter-
+ests of another agent, usually the one who created it (Timms
+and Spurrett 2023, p. 63). Slot machines are a paradigmatic
+example of hostile scaffolds (Timms and Spurrett 2023) as
+they are designed to prolong gambling episodes to maxi-
+mize casinos’ profits, even by instilling compulsive behav-
+iors and addiction in gamblers (Schüll 2012). Slot machines
+serve the interests of the casinos, but hurt the interests of
+gamblers–which plausibly have other goals than losing
+money and becoming addicted (e.g., they might play for
+entertainment, for winning, for getting into a state of flow,
+etc.) (Timms and Spurrett 2023, p. 73). It’s important to
+stress the difference between hostile and accidentally harm-
+ful scaffolds, which is given by the intention between the
+design of the scaffold. A malfunctioning GPS, for instance,
+may lead users astray but lacks the deliberate, exploitative
+nature of a hostile scaffold, like slot machines. To put it sim-
+ply, hostile scaffolds have both victims and beneficiaries.
+Attentional scaffolds, too, can be beneficial and det-
+rimental. On the beneficial side, they are created to help
+users focus attention on specific goals or significant events
+that they might otherwise overlook, thus advancing their
+interests. For instance, meditation apps, alarms, or remind-
+ers serve as beneficial attentional scaffolds by guiding
+users’ attention toward tasks or purposes chosen by users
+in advance. Some find meditation apps useful for regain-
+ing control over their attention and improving their mental
+health (Flett et al. 2018). Similarly, consider the benefits of
+alarms reminding someone of a colleague’s birthday dur-
+ing a busy day. Or the signal of an approaching ambulance
+prompting people to clear the way (which advances peo-
+ple’s fundamental interest to live). These examples high-
+light how beneficial attentional scaffolds can support people
+in achieving their goals, by aligning with their intentions or
+by advancing their interests.
+There are also hostile attentional scaffolds. Unlike a bro-
+ken alarm clock that should ring in the morning but fails to
+do so because it malfunctions, intentionally designed hostile
+attentional scaffolds instrumentalize users’ emotions and
+biases to capture their attention and to steer it towards goals
+that were not deliberately chosen by users and which do not
+serve their interests. For example, supermarkets’ product
+layout is designed to maximize impulse purchases (Gul et
+al. 2023), which are not only unplanned, but also immedi-
+ate, triggered by a stimulus that offers hedonic pleasure in
+the spur of the moment, but that oftentimes provokes regret
+in impulsive buyers (Sarwar et al. 2023). Store layouts thus
+work as hostile attentional scaffolds that divert shoppers’
+focus from their shopping lists and lead to purchases of
+unnecessary items, ultimately increasing the store’s revenue
+at the expense of shoppers’ budgets, intentions and interests.
+Social media platforms too are a case of hostile atten-
+tional scaffolds. Algorithms and user interfaces are opti-
+mized for engagement and to keep users engrossed and
+scrolling, directing their attention towards goals that were
+not specifically chosen in advance and that do not serve
+users’ interests (see, for example, Voinea et al. 2023). Many
+users feel that they spend more time on social media than
+they should, which distracts them from other, more impor-
+tant goals. Research backs this up, with studies already
+analyzing the phenomenon of compulsive social media use
+(see, for, example, Aladwani and Almarzouq 2016; Dhir et
+al. 2018; Apaolaza et al. 2019; Ali et al. 2023) or digital
+overuse (Fasoli 2021). Surveys also seem to confirm these
+concerns. For example, a recent Pew survey of social media
+use amongst US teenagers shows that around 36% of the
+interviewees declare that they spend too much time online
+on a daily basis (Massarat 2022). Similarly, another survey
+of adults’ social media use shows that 32% of the respond-
+ers consider that they spend too much time on social media
+(Adults’ Media Use and Attitudes, 2023). Fasoli (2021,
+1412) shows that multiple sources indicate that for some,
+social media use is problematic because it is excessive, and
+interferes with their personal and professional lives.
+This excessive time spent online is a direct consequence
+of platforms’ hostile design, which is created to capture
+users’ attention to maximize the time spent online, serving
+the interests of the platforms, but not those of some users.
+Burr, Cristianini & Ladyman show that some users regret
+using social media platforms and “those apps that we regret
+using the most, also appear to be those apps we spend most
+time on (e.g. Facebook was used for an average of 59 min
+a day, and 64% of users regret their use of the app).” (2018,
+p. 760). Regret can be attributed to users’ realization that
+they get distracted form other, more important and valu-
+able goals. For example, teenagers who spend more time on
+social media report being more distracted than their peers
+who spend less time online and also regret it (Siebers et al.
+2022; Meena et al. 2012).
+For a lot of users, thus, social media platforms work as
+hostile attentional scaffolds which benefits the platforms–
+as users spend more time online, leaving more data behind
+1 3
+687
+Content courtesy of Springer Nature, terms of use apply. Rights reserved.
+-- 3 of 12 --
+C. Voinea et al.
+First, content rewards are posts that attract users’ atten-
+tion when they are online (Anderson and Wood 2021, p. 87).
+The posts that are rewarding and that capture users’ atten-
+tion are usually those that violate users’ expectations, thus
+eliciting strong emotions, such as anger or awe (Brady et al.
+2020a, b). Strong emotional stimuli are motivationally rel-
+evant as they usually require immediate responses (Brady et
+al. 2020a, b, p. 994; Voinea et al. 2023). More precisely, we
+are naturally predisposed to attend to emotionally charged
+information, because it was evolutionarily useful, as it
+helped individuals secure cooperation by punishing norms
+violations or advanced survival (Mihailov et al. 2023).
+Already, there is burgeoning research showing that emotion-
+ally arousing information, such as moral norms transgres-
+sions or negatively valenced information, is more likely to
+be shared on almost all social media platforms (Berger and
+Milkman 2012; Kramer et al. 2014; Heimbach et al. 2015).
+Strong emotional content, either positive or negative, works
+as a reward because these posts “tend to spark conversa-
+tion, capture attention, and spread broadly through others’
+shares” (Anderson and Wood 2021, p. 87). Thus, algorithms
+maximized for engagement effectively work as “attentional
+filters” (Brady et al. 2020a, b, p. 997) which personalize
+content so that they serve users posts that will elicit their
+emotions and will keep them scrolling (Fasoli 2018).
+Second, interactions with one’s social network offer
+social validation which are social rewards, received under
+the form of ‘likes’, ‘shares’, comments or any other type
+of social metric functioning as feedback to one’s online
+social media behavior. Social rewards have long been con-
+nected with social media engagement. For example, stud-
+ies showed that the more ‘likes’ people received for a post,
+the more they engage with it, and the more self-reported
+happiness is identified (Wohn et al. 2016; Zell and Moeller
+2018). Along the same lines, after users post some new con-
+tent, they increase the time spent on social media platforms
+monitoring what they posted, which researchers identified
+as reward anticipation (Grinberg et al. 2016). And, similarly,
+the more feedback users receive, the more feedback they
+themselves give (Eckles et al. 2016). More recently, a large-
+scale analysis of more than one million posts from over 4000
+individual users on various social media platforms provides
+“clear evidence that behavior on social media indeed fol-
+lows principles of reward maximization, and thereby give
+credence to the popular portrayal of social media engage-
+ment as a Skinner Box for the modern human” (Lindström
+et al. 2021, p. 7). This is because users get hooked on the
+positive social feedback they receive when online. Although
+there are other reasons for spending time on social media
+platforms, it seems that rewards seeking is one important
+motivation for it. Moreover, social rewards encourage users
+that could be used for targeting them later with content that
+keeps them engaged–but hurts the interests of the users,
+who, as shown above, report feeling that they spend too
+much time online and also regret doing it. Nonetheless, it
+is important to stress that whether something is a beneficial
+scaffold or not depends very much on how it is used. Some
+users manage to resist the temptations that social media
+platforms throw their way and use these services in order
+to accomplish their goals, such as communicating with oth-
+ers, entertaining or informing themselves, etc. But there are
+worries that for a lot of users, it is very hard to exercise
+self-control when on social media platforms (Fasoli 2021,
+1422). After all, there is an asymmetry between our capaci-
+ties to control our attentional resources and the “armies of
+engineers, programmers, designers, and executives work-
+ing to extract ever-smaller ‘slivers’ of our focus in a highly
+competitive attention economy” (Hanin 2021, p. 397).
+2.2 Digital Slot Machines
+Social media platforms work as digital slot machines,
+instrumentalizing users’ attention through a sophisticated
+system of intermittent rewards. Timms and Spurrett (2023,
+p. 64) consider gambling technologies to be a case of hostile
+scaffolding, precisely because of the intermittent rewards
+they offer. In behavioral sciences and psychology rewards
+refer to any positive reinforcement that encourages spe-
+cific behaviors and feelings, shaping choices and learning
+(Schultz 2010, p. 1). Psychologists argue that intermittent
+rewards can be more effective than predictable rewards in
+establishing habits, regardless of overall gain or loss (Schüll
+2012, p. 108). This is because intermittent rewards lead
+to the release of dopamine which ends up reinforcing the
+behavior that generates the intermittent rewards (Burr et al.
+2018, p. 758). For example, the intermittent rewards (under
+the form of intermittent wins) offered by slot machines acti-
+vate the dopamine circuits in the brain, which facilitates
+further gambling (Winstanley et al. 2011). Slot machines
+dispense rewards frequently enough to keep people playing,
+but not as frequent so that casinos lose money.
+On social media platforms, algorithms and user interfaces
+are designed based on the concept of intermittent rewards
+(Fasoli 2018; Hanin 2021; Williams 2018; Anderson and
+Wood 2021; Lindström et al. 2021). Intermittent rewards
+may manifest in the form of content or social rewards
+(Anderson and Wood 2021, p. 87). Just as in the case of slot
+machines, “our reward learning systems find the cycling of
+action and feedback offered by gambling highly reinforc-
+ing” (Timms and Spurrett 2023, p. 72), so in the case of
+social media platforms, the intermittent rewards offered
+while scrolling reinforce the habit of spending even more
+time online.
+1 3
+688
+Content courtesy of Springer Nature, terms of use apply. Rights reserved.
+-- 4 of 12 --
+Digital Slot Machines: Social Media Platforms as Attentional Scaffolds
+the focus of their attention will remain on the car until it
+stops being a threat. In this focusing of attention, the sub-
+jects’ resources will be mobilized to respond appropriately
+to the threat, which is to step aside from the car’s way (Brady
+2014, p. 53). Thus, stimuli that are emotionally arousing
+will be prioritized in cognitive processing; more precisely,
+our attention is directed toward them (Brady et al. 2020).
+But not all emotions have the same impact on our atten-
+tion, as they serve distinct functions in the organization
+of perception, cognition and action (Izard 1991; Mitchell
+2023). For example, happiness leads to a widening of atten-
+tion and to a shift of attentional focus away from the stimuli
+that triggered the response. This is opposed to fear or anger
+which narrows our attention on the stimuli and keeps its
+focus on the object (Mitchell 2023, p. 76). Emotions are
+puzzling in that despite their unitary status–they are part of
+the same category of mental states– they nonetheless modu-
+late attention differently. Some widen, while others narrow
+attention; some keep the focus of attention on the stimuli,
+while others shift it away from the initial stimuli (Mitch-
+ell 2023, pp. 76–79). The answer to this puzzle lies in the
+functional role emotions play. Emotions have different func-
+tional roles, meaning they are useful for different purposes,
+and varying modulations of attention might help accomplish
+the role of that particular emotion (Mitchell 2023, p. 81).
+But it is not just material objects and events that can be
+motivationally relevant emotional stimuli. Human beings
+are symbolic species, who seek and produce meaning, and
+use abstract systems of communication, such as written and
+spoken language, to convey emotionally charged messages
+and also to communicate simple facts about themselves and
+their environment. Kissler et al. (2009) show that our atten-
+tion can also be drawn by language that represents emotions.
+This means that mediums where emotional language and
+social validation is especially salient, such as social media
+platforms (Brady et al. 2020), will be mediums that will
+draw and captivate individuals’ attention. In what follows,
+we show what are the consequences of capturing people’s
+attention through content and social rewards. In the last sec-
+tion we take the case of moral outrage to show the interplay
+between emotion, attention and epistemic states, at both the
+individual and collective levels. While we acknowledge that
+various emotions can spread on social media platforms and
+can have different outcomes, we focus primarily on anger
+and outrage as examples due to their extensive research but
+also because there is consensus that algorithms push such
+content in users’ feeds, as it spreads faster and deeper within
+networks (Milli et al. 2023; Schöne et al. 2021; Brady et al.
+2020a).
+to engage with specific content or topics, guiding their atten-
+tion toward shared interests and discussions.
+The mechanics behind social media platforms are similar
+to those of slot machines, with the purpose to draw users
+into prolonged engagement through a system of intermit-
+tent rewards. First, algorithms on social media platforms
+are designed to maximize engagement, thus they offer users
+content that elicits emotional responses, under the form of
+moral norms transgressions, shocking news, heartwarming
+clips etc (Vică 2023, p. 141). These emotionally charged
+posts act as intermittent rewards, capturing users’ attention
+and prompting them to continue scrolling in search of simi-
+lar gratifying content. Moreover, interactions within social
+networks offer additional reinforcement, akin to the rewards
+received from winning on a slot machine. ‘Likes’, ‘shares’,
+and comments serve as social validation, triggering a sense
+of accomplishment and satisfaction that encourages users to
+remain active on the platform. Just as gamblers are drawn to
+the anticipation of winning on a slot machine, social media
+users are lured by the promise of captivating content and
+social approval, reinforcing their habit of scrolling and con-
+tributing to the platform’s addictive nature. Obviously, not
+all users are the same, so the effects of social media plat-
+forms on users’ attention will not be uniform.
+3 The Triangle of Distraction: Emotion,
+Attention, Epistemic States
+In this section, we explore in more detail how social media
+platforms work as digital slot machines and what their
+effects are, by analyzing the interplay between emotions,
+attention, and epistemic states. The purpose is to show how
+social media platforms capture attention by exploiting affec-
+tivity, which in the end can have detrimental consequences
+on users’ epistemic states. Our account builds on previous
+literature exploring the emotions-attention-cognition links
+and is neutral with regard to any particular theory about the
+nature of emotions. We acknowledge that emotions are dif-
+ferentiated from moods and feelings, mainly because, unlike
+the former, emotions are intentional mental states, directed
+towards an object and presuppose an evaluative dimension
+(Steinert and Dennis 2022).
+3.1 Emotions and Attention
+From an evolutionary perspective, emotions serve a crucial
+function by quickly and effortlessly directing our attention
+towards potentially important stimuli (Vuilleumier et al.
+2003) that serve us by advancing survival (Brady 2014).
+Take fear: if one sees a car dangerously speeding in their
+direction, they will instinctively be overcome with fear, and
+1 3
+689
+Content courtesy of Springer Nature, terms of use apply. Rights reserved.
+-- 5 of 12 --
+C. Voinea et al.
+them (Brady, Crockett, et al. 2020; Brady et al. 2023; Brady,
+Gantman, et al. 2020; Tanesini 2022). This emotional
+engagement can lead to a state of heightened susceptibility
+to additional distractions (Hanin 2021). In essence, social
+media platforms’ ability to exploit and amplify emotional
+responses in users, captures their attention, drawing them
+away from their original focus, ultimately affecting their
+cognitive and informational processing capabilities. Of
+course, this is not a universal reaction, as some users are
+able to resist distractions and to use social media in produc-
+tive and efficient ways. Nonetheless, for a lot of users, social
+media has the effect of distractions (Koessmeier and Büt-
+tner 2021). Distraction hampers the attainment of evaluative
+knowledge, in that it focuses individuals on a single aspect
+that might not be relevant for a comprehensive evaluation
+of the concerned object, person or phenomena, while also
+making it difficult for individuals to integrate knowledge
+from various sources, weakening self-control, so that “auto-
+matic, bottom-up processes take over” (Williams 2018, p.
+68).
+Attentional capture leads to undesirable epistemic states,
+such as distraction, because it is correlated with weaker self-
+control (Derryberry 2002; Mann and Ward 2007). Self-con-
+trol is essentially the capacity to delay gratification and to
+follow longer-time goals, despite their costs. For some, self-
+control is more than that, it is the capacity to control one’s
+life by controlling the direction of our attention (Bermúdez
+2017, p. 63). Lack of attentional control over one’s men-
+tal landscape means that people will give in to distractions
+and temptations and that they will be unable to order their
+thoughts and act in accordance with them (Burgoyne and
+Engle 2020). Due to the widespread attentional capture fos-
+tered by engagement-maximizing algorithms, individuals
+are less likely to critically reflect on belief-forming mecha-
+nisms and more likely to react impulsively to emotionally-
+triggering stimuli.
+Just like slot machines, social media platforms exploit
+users’ emotional states to grab their attention, by offering
+intermittent rewards under the form of content that elicits
+their emotions and social rewards, which keep them scroll-
+ing. Murch and Clark (2021, p. 221) demonstrate that the
+attention capture seen in gambling leads to a state of immer-
+sion, where repetitive gambling activities absorb indi-
+viduals’ focus, interfering with other goals and activities.
+Similarly, social media platforms engage users’ emotions
+through content that triggers various feelings such as anger,
+fascination, or awe, as well as through social validation in
+the form of likes, shares, and comments. These rewards are
+provided intermittently, fostering compulsive behaviors like
+endless scrolling. However, unlike casino slot machines,
+which impact individual users, social media platforms
+3.2 Attentional Capture and Its Effects
+Attention is cognitively, morally, aesthetically and politi-
+cally relevant (Gardiner 2022; Whiteley 2023; Watzl 2023;
+Bommarito and Ganeri 2022; Voinea et al. 2022). Each indi-
+vidual has certain attentional priority structures, or atten-
+tional patterns, which are relative to a certain environment
+or stimuli (Watzl 2023). Despite the diversity of theories
+of attention and of the multiple ways of conceptualizing
+it, there is a common conception of attention underlying
+this diversity: “a subject’s attention is the subject mentally
+selecting a target to guide behavior” (Wu 2023, p. 2). It put
+it more simply, attention is a form of mental management
+(Whiteley 2023). But one can intentionally focus attention
+towards some stimuli (attentional control, where attention is
+determined endogenously), while at the same time, attention
+can spontaneously and unintentionally be drawn towards
+other strong or unpredictable stimuli (attentional capture,
+where attention is determined exogenously) (Watzl 2023).
+For example, even if one’s attention is invested in reading
+(attention is endogenously determined), if a loud ambulance
+passes nearby attention will be drawn towards it (attention
+becomes exogenously determined) (Watzl 2023; Gardiner
+2022; Bermúdez 2017). When attention is determined
+exclusively endogenously, the person is in a complete state
+of concentration, called hyper-concentration, that may lead
+to blindness to other relevant stimuli. On the other hand,
+when attention is determined exogenously, one deals with
+the phenomenon of attentional capture (Bermúdez 2017, p.
+62). Attentional capture is detrimental inasmuch as it makes
+it hard for individuals to follow their own goals and pur-
+poses which ultimately leads to an incapacity of self-deter-
+mination and self-control (Bermúdez 2017, p. 63).
+Recently, it has become more and more clear that atten-
+tional capture is important in the context of social media
+platforms (Brady et al. 2020). Attentional capture arises
+whenever we shift cognitive resources to attend to some
+stimuli over others. Research points towards the phenom-
+enon of attentional capture online, where content containing
+moral and emotional language captures attention more than
+morally and emotionally neutral content (Brady et al. 2020b;
+Berger and Milkman 2012; Kramer et al. 2014; Heimbach
+et al. 2015). This is because emotional stimuli are motiva-
+tionally relevant, as they either help us survive (we have to
+attend to dangerous situations or objects in order to maxi-
+mize survival, Öhman and Mineka 2001) or they help us
+acquire social goals (such as increased cooperation, social
+bonding or accomplishing of shared goals, Wolf et al. 2016).
+When users encounter content that evokes strong emo-
+tional responses, be it outrage, shock, or fascination, or
+social validation, thus when they encounter content or social
+intermittent rewards, their attention will be captivated by
+1 3
+690
+Content courtesy of Springer Nature, terms of use apply. Rights reserved.
+-- 6 of 12 --
+Digital Slot Machines: Social Media Platforms as Attentional Scaffolds
+and become ‘infected’ by the group’s emotions through
+emotional contagion. A second important feature of group
+emotions is “a form of acceptance and endorsement of the
+emotions of others” (Brady 2016, p. 99). Individuals might
+be angry about the government’s decision when they real-
+ize that other individuals feel anger, based on their group
+allegiance. They might end up endorsing the group emotion,
+as a result not of active deliberation, but of group identity.
+The object of the emotion thus becomes the object of group
+attention.
+Shared attention presupposes an awareness that others
+are predisposed to act in similar ways with respect to the
+object of shared attention. Brady claims that “group emotion
+can draw attention to some important or significant event;
+second, it can motivate or facilitate group understanding of
+that event” (2016, p. 105). This means that group emotions
+predispose people to attend to the same things and to act in
+similar ways. Group-based emotions modulate attention at
+the collective level. This phenomenon is known as shared
+attention, where the group collectively attends to the same
+environmental features (Gardiner 2022; Shteynberg 2015).
+Shared attention stems from an evolved adaptation when
+individuals belonged to a single group, and attending to
+the same objects ensured survival through collective action
+(Shteynberg 2015, p. 581).
+4.2 Emotional Contagion, Shared Attention and
+Their Effects on Social Media Platforms
+In a sense, the fact that there is emotional contagion on social
+media platforms is not news. Already in 2014, a controver-
+sial study by Facebook showed that “emotions expressed by
+others on Facebook influence our own emotions, constitut-
+ing experimental evidence for massive-scale contagion via
+social networks” (Kramer et al. 2014, p. 8788). This study
+showed that emotional contagion arises even without direct
+interactions between people and in the absence of nonverbal
+cues. What is even more interesting is the temporal dimen-
+sion of emotional contagion, as the study shows: “people’s
+emotional expressions on Facebook predict friends’ emo-
+tional expressions, even days later” (Kramer et al. 2014,
+p. 8788). When discussing emotional contagion online, it
+is especially important to take into consideration the plat-
+form that hosts the conversation and, more specifically, their
+purposes and means to accomplish these purposes. Social
+media companies are attentional infrastructures that yield
+collective attention-shaping powers.
+Take the example of moral outrage, one of the most
+prominent collective social phenomena on social media
+platforms. Online platforms expose users to a higher num-
+ber of moral norm violations, triggering anger responses that
+result in outrage cascades (Crockett 2017). Users express
+connect people, leading to effects that are also networked,
+as we will illustrate below.
+4 We Are Not Borg, But We Act Like One
+The preceding sections showed that social media platforms
+are attentional scaffolds that capture users’ attention by
+working as digital slot machines. In this section, we explore
+how the process of attentional capture can have aggregate
+effects at the collective level and can give rise to collec-
+tive epistemic states. We use online moral outrage as a case
+study to demonstrate how negative emotions can shape
+individuals’ attention, propagate within social circles, and
+engender collective epistemic attitudes.
+4.1 Emotional and Attentional Contagion
+People share their emotions with others because it helps
+increase social bonding by showing similarity and emo-
+tional convergence. But it can also serve the purpose of
+strengthening one’s status within a community, as emotional
+expression ultimately conveys the values and norms that
+define not only one’s identity, but also group membership
+(Brady et al. 2020).
+One interesting aspect of emotions is that they spread
+from person to person. Day-to-day experience also speaks
+to this fact: it is not seldom that we are ‘contaminated’ by
+other people’s sadness, joy, or even anger. This phenom-
+enon is referred to as emotional contagion, which has been
+thought of as one of the drivers of individual and collec-
+tive behaviors (Goldenberg and Gross 2020). Emotional
+contagion arises whenever people take others’ emotions
+into consideration when assessing an event (Fischer et al.
+2011), finally experiencing the same emotions they ini-
+tially noticed in others. In other words, people react to other
+people’s reactions, which creates emotion sharing feedback
+loops, especially in times of crisis (Garcia and Rimé 2019;
+Voinea et al. 2023). Emotional contagion contributes to
+strengthening group identity through emotional resonance
+amongst group members (Tanesini 2022). The phenomenon
+of emotional contagion and the salience of group-identity
+give rise to group-emotions which reinforce the boundaries
+and distinctions between groups.
+Think of a protest in education, where professors take
+to the streets in order to oppose the government’s decision
+not to increase wages and governmental expenditures on
+education. Each professor feels anger at the governmen-
+tal decision, but the protest in itself is also an instance of
+a group emotion, namely anger, that mobilizes collective
+action. What is a group emotion? Firstly, it involves a feel-
+ing of solidarity, individuals know what others are feeling
+1 3
+691
+Content courtesy of Springer Nature, terms of use apply. Rights reserved.
+-- 7 of 12 --
+C. Voinea et al.
+reactions, such as awe or anger, which rapidly spread within
+the network. The shared emotional experiences create com-
+mon attentional patterns within social groups, causing them
+to feel, observe, and act similarly.
+5 Conclusions
+The collective negative cognitive effects of emotional con-
+tagion and shared attention on the digital slot machines that
+are todays’ social media platforms are becoming increas-
+ingly evident. The social groups to which individuals belong
+play a decisive role in shaping their epistemic environments
+and beliefs. Negative events and moral norm violations tend
+to attract more attention and provoke moral outrage, which
+is characterized by anger and a focus on the offender. The
+rapid spread of anger on social media platforms consumes
+collective attention and can lead to disproportionate sham-
+ing and bullying campaigns.
+How can the harms caused by the hostile attentional scaf-
+folds that are social media platforms be minimized? One
+obvious solution lies in addressing the root cause—the
+business model underlying these platforms, which relies on
+showing people content that is supposed to engage them.
+And in order to do so, social media platforms have to har-
+vest as much behavioral data as possible. If social media
+platforms were willing to reduce the distractions, social fric-
+tion, and polarization stemming from the use of their ser-
+vices, they could simply modify their business practices and
+tweak algorithms so that they do not optimize for engage-
+ment, but for other, more civic, purposes which do not rely
+on personalized targeting. Similarly, the user interfaces
+of these platforms could be crafted with alternative goals
+beyond capturing and retaining users’ attention. They could,
+for instance, be designed to assist users in more effectively
+curating or processing information, akin to Wikipedia.
+However, there is a lack of incentives for social media
+platforms to alter their very effective profit-generating busi-
+ness models, in lack of direct regulation forcing them to.
+Consequently, the onus falls on users to be more mindful
+of how they use social media. To regain control over their
+digital lives, users should understand how these platforms
+operate and generate profits, which points towards the fact
+that there is a need to educate them about how these plat-
+forms work. Digital literacy programs should start as soon
+as possible, especially for current and future generations of
+digital native for whom social media platforms are a normal
+part of their lives.
+Acknowledgements We thank Emilian Mihailov and Corina Stavilă
+for their valuable input that greatly contributed to making this paper
+stronger.
+strong reactions against moral transgressions, not only
+because the costs of expressing outrage are lower online
+but also because it signals group identity (Mihailov et al.
+2023). Moral outrage presupposes first and foremost anger.
+The functional role of anger is to secure a form of reparation
+after an insult or transgression of a moral norm (Mitchell
+2023, p. 90). The modulation of attention in anger-related
+emotions functions very much like the ‘narrowing’ of atten-
+tion presupposed in the case of fear-responses, described
+above. Attention in this context would be consumed by a
+focus on the offender, in an attempt to restore a desired state
+(Mitchell 2023, p. 91; Ford et al. 2010), which means that
+users are focused on punishing the transgressor.
+One recent empirical study provides evidence for this.
+According to Barron et al. (2023) online public shaming cam-
+paigns, triggered by anger in response to moral norm viola-
+tions, are not necessarily driven by a desire to promote good or
+rectify the situation but rather appear to be rooted in a sense of
+malicious pleasure derived from another’s misfortune, known
+as “schadenfreude”. When individuals encounter anger-induc-
+ing content, their attention tends to become focused on the
+transgressor, as they actively seek weaknesses or flaws with the
+intent of causing harm. Consequently, their attention becomes
+fixated on a singular aspect—the transgression—neglecting
+all other relevant dimensions that should be considered when
+assessing the person involved. This rapid spread of anger con-
+sumes the collective attention of social groups, resulting in an
+excessive and disproportionate escalation of collective sham-
+ing and bullying campaigns in comparison to the initial trans-
+gression that caused them. In these situations, it appears that
+individuals’ capacity for critical self-reflection is suspended,
+leading to a cognitive state that propagates within the collec-
+tive and fosters the emergence of lynching mobs, figuratively
+speaking (Mihailov et al. 2023). What is more, users who
+engage in these outrage cascades also do it because they get
+social validation for reacting in the face of a transgression
+(Brady et al. 2021). Thus, the case of moral outrage shows
+how content and social rewards often work together to capture
+users’ attention, leading them to become focused on the details
+of the transgression while disregarding whether their reactions
+are proportionate to the offense committed.
+The primary objective of social media platforms is
+to maximize users’ time spent online, similar to how slot
+machines aim to increase users’ play time beyond what
+users themselves would actually want. To achieve this goal,
+these platforms offer intermittent rewards under the form
+of highly-arousing emotional content or social validation
+which captures users’ attention (Brady et al. 2020). As a
+result, social media platforms often amplify users’ emotions,
+leading to increased exposure and intensity of emotion con-
+tagion (Goldenberg and Gross 2020, p. 318). This incen-
+tivizes the promotion of content eliciting strong emotional
+1 3
+692
+Content courtesy of Springer Nature, terms of use apply. Rights reserved.
+-- 8 of 12 --
+Digital Slot Machines: Social Media Platforms as Attentional Scaffolds
+Anderson IA, Wood W (2021) Habits and the electronic herd: the psy-
+chology behind social media’s successes and failures. Consumer
+Psychol Rev 4(1):83–99. https://doi.org/10.1002/arcp.1063
+Apaolaza V, Hartmann P, D’Souza C, Gilsanz A (2019) Mindfulness,
+compulsive mobile social media use, and derived stress: the
+mediating roles of self-esteem and social anxiety. Cyberpsychol-
+ogy Behav Social Netw 22(6):388–396. https://doi.org/10.1089/
+cyber.2018.0681
+Berger J, Milkman KL (2012) What makes online content viral? J
+Mark Res 49(2):192–205. https://doi.org/10.1509/jmr.10.0353
+Bermúdez JP (2017) Social Media and Self-Control: the vices and
+virtues of attention. Social media and your brain: web-based
+communication is changing how we think and express ourselves.
+Praeger/ABC-CLIO, pp 57–74
+Bommarito N, Ganeri J (2022) Selfless receptivity: attention as
+an Epistemic Virtue. In: Gendler TS, Hawthorne J, Chung
+J (eds) Oxford studies in Epistemology volume 7. Oxford
+University Press, Oxford, pp 1–14. https://doi.org/10.1093/
+oso/9780192868978.003.0001
+Brady M (2014) Emotion, attention, and the Nature of Value. In:
+Roeser S, Todd C (eds) Emotion and Value. Oxford Univer-
+sity Press, Oxford, pp 52–71. https://doi.org/10.1093/acprof:
+oso/9780199686094.003.0004
+Brady WJ, Crockett MJ, Van Bavel JJ (2020a) The MAD Model of
+Moral Contagion: the role of motivation, attention, and design
+in the spread of Moralized Content Online. Perspect Psychol Sci
+15(4):978–1010. https://doi.org/10.1177/1745691620917336
+Brady WJ, Gantman AP, Van Bavel JJ (2020b) Attentional cap-
+ture helps explain why Moral and Emotional Content go viral.
+J Exp Psychol Gen 149(4):746–756. https://doi.org/10.1037/
+xge0000673
+Brady WJ, McLoughlin K, Doan TN, Crockett M (2021) How social
+learning amplifies moral outrage expression in online social net-
+works. Sci Adv 7(33):eabe5641. https://www.science.org/doi/
+full/https://doi.org/10.1126/sciadv.abe5641
+Brady WJ, Jackson JC, Lindström B, Crockett M (2023) Algorithm-
+mediated Social Learning in Online Social Networks. OSF Pre-
+prints. https://doi.org/10.31219/osf.io/yw5ah
+Burgoyne AP, Engle RW (2020) Attention control: a cornerstone of
+higher-order cognition. Curr Dir Psychol Sci 29(6):624–630.
+https://doi.org/10.1177/0963721420969371
+Burr C, Cristianini N, Ladyman J (2018) An analysis of the Interac-
+tion between Intelligent Software agents and human users. Mind
+Mach 28:735–774. https://doi.org/10.1007/s11023-018-9479-0
+Candiotto L, Dreon R (2021) Affective scaffoldings as habits: a Prag-
+matist Approach. Front Psychol 12. https://doi.org/10.3389/
+fpsyg.2021.629046
+Carter JA, Gordon EC, Palermos SO (2016) Extended emotion. Philo-
+sophical Psychol 29(2):198–217. https://doi.org/10.1080/095150
+89.2015.1063596
+Clark A, Chalmers D (1998) The extended mind. Analysis 58(1):7–19.
+https://doi.org/10.1093/analys/58.1.7
+Colombetti G, Krueger J (2015) Scaffoldings of the affective mind.
+Philosophical Psychol 28(8):1157–1176. https://doi.org/10.1080
+/09515089.2014.976334
+Colombetti G, Roberts T (2015) Extending the extended mind: the
+Case for Extended Affectivity. Philos Stud 172(5):1243–1263.
+https://doi.org/10.1007/s11098-014-0347-3
+Crockett MJ (2017) Moral outrage in the Digital Age. Nat Hum Behav
+1(11):769–771. https://doi.org/10.1038/s41562-017-0213-3
+Deibert RJ (2019) The Road to Digital Unfreedom: three painful
+truths about Social Media. J Democracy 30(1):25–39. https://doi.
+org/10.1353/jod.2019.0002
+Derryberry D (2002) Attention and Voluntary Self-Control. Self Iden-
+tity 1(2):105–111. https://doi.org/10.1080/152988602317319276
+Author Contributions All three authors generated the ideas, the main
+argument, and the outline. Cristina Voinea wrote most of the first draft,
+while Lavinia Marin wrote most of section 2. All three authors edited
+and commented on various versions of the text.
+Funding Cristina Voinea’s work was supported by the European Com-
+mission [grant number 101102749] and UK Research and Innovation
+(UKRI) [grant number EP/Y027973/1].
+Constantin Vică’s work was supported by a grant of the Romanian
+Ministry of Education and Research, CNCS – UEFISCDI, project
+number PN-III-P4-ID-PCE-2020–0521, within PNCDI III.
+Lavinia Marin’s work is part of the research programme Ethics of So-
+cially Disruptive Technologies, which is funded through the Gravita-
+tion programme of the Dutch Ministry of Education, Culture, and Sci-
+ence and the Netherlands Organization for Scientific Research (NWO
+grant number 024.004.031).
+Data Availability No new data were created or analysed in this study.
+Data sharing is not applicable to this article.
+Declarations
+Ethics Approval and Consent to Participate Ethics approval and con-
+sent to participate were not required for this study.
+Consent for Publication We hereby attest that all authors have agreed
+to the submission. This research has not been previously published,
+nor is under review elsewhere, and will not be submitted for review for
+publication while under review at Topoi.
+Competeing Interests The authors have no relevant financial or non-
+financial interests to disclose.
+Open Access This article is licensed under a Creative Commons
+Attribution 4.0 International License, which permits use, sharing,
+adaptation, distribution and reproduction in any medium or format,
+as long as you give appropriate credit to the original author(s) and the
+source, provide a link to the Creative Commons licence, and indicate
+if changes were made. The images or other third party material in this
+article are included in the article’s Creative Commons licence, unless
+indicated otherwise in a credit line to the material. If material is not
+included in the article’s Creative Commons licence and your intended
+use is not permitted by statutory regulation or exceeds the permitted
+use, you will need to obtain permission directly from the copyright
+holder. To view a copy of this licence, visit http://creativecommons.
+org/licenses/by/4.0/.
+References
+Adults’ media use and attitudes. (2023), September 27 Ofcom. https://
+www.ofcom.org.uk/research-and-data/media-literacy-research/
+adults/adults-media-use-and-attitudes
+Aladwani AM, Almarzouq M (2016) Understanding compulsive social
+media use: the premise of complementing self-conceptions mis-
+match with technology. Comput Hum Behav 60:575–581. https://
+doi.org/10.1016/j.chb.2016.02.098
+Ali F, Tauni MZ, Ashfaq M, Zhang Q, Ahsan T (2023) Depressive
+mood and compulsive social media usage: the mediating roles of
+contingent self-esteem and social interaction fears. Inform Tech-
+nol People. https://doi.org/10.1108/ITP-01-2021-0057
+1 3
+693
+Content courtesy of Springer Nature, terms of use apply. Rights reserved.
+-- 9 of 12 --
+C. Voinea et al.
+media engagement. Nat Commun 12(1). https://doi.org/10.1038/
+s41467-020-19607-x
+Mann T, Ward A (2007) Attention, Self-Control, and Health behav-
+iors. Curr Dir Psychol Sci 16(5):280–283. https://doi.org/10.111
+1/j.1467-8721.2007.00520
+Massarat EAV, Gelles-Watnick R (2022), August 10 and Navid.
+Teens, Social Media and Technology 2022. Pew Research Cen-
+ter: Internet, Science & Tech. https://www.pewresearch.org/
+internet/2022/08/10/teens-social-media-and-technology-2022/
+Meena PS, Mittal PK, Solanki R, K (2012) Problematic use of social net-
+working sites among urban school going teenagers. Industrial Psy-
+chiatry J 21(2):94–97. https://doi.org/10.4103/0972-6748.119589
+Mihailov E, Voinea C, Vică C (2023) Is online Moral Outrage Out-
+rageous? Rethinking the indignation machine. Sci Eng Ethics
+29(2):12. https://doi.org/10.1007/s11948-023-00435-3
+Milli S, Carroll M, Pandey S, Wang Y, Dragan AD (2023) Twitter’s
+Algorithm: Amplifying Anger, Animosity, and Affective Polar-
+ization (arXiv:2305.16941). arXiv. https://doi.org/10.48550/
+arXiv.2305.16941
+Mitchell J (2023) Emotion and attention. Philos Stud 180(1):73–99.
+https://doi.org/10.1007/s11098-022-01876-5
+Murch WS, Clark L (2021) Understanding the Slot Machine
+Zone. Curr Addict Rep 8:214–224. https://doi.org/10.1007/
+s40429-021-00371-x
+Narayanan A (2023) Understanding Social Media Recommendation
+Algorithms. 23 – 01 Knight First Amendment Institute (Mar.
+9, 2023), https://knightcolumbia.org/content/understanding-
+social-media-recommendation-algorithms [https://perma.cc/
+F3NP-FEQX]
+Öhman A, Mineka S (2001) Fears, phobias, and preparedness: toward
+an Evolved Module of Fear and Fear Learning. Psychol Rev
+108(3):483–522. https://doi.org/10.1037/0033-295X.108.3.483
+Piredda G, Candiotto L (2019) The Affectively Extended Self: A Prag-
+matist Approach. Humana Mente, 12, 121–145. Retrieved from
+https://www.humanamente.eu/index.php/HM/article/view/284
+Saarinen J (2020) What can the Concept of Affective Scaffolding do
+for us? Philosophical Psychol 33(6):820–839. https://doi.org/10.
+1080/09515089.2020.1761542
+Sarwar MA, Nasir J, Sarwar B, Hussain M, Abbas A (2023) An inves-
+tigation of precursors of online impulse buying and its effects on
+purchase regret: role of consumer innovation. Int J Innov Sci.
+https://doi.org/10.1108/IJIS-12-2022-0244
+Schöne JP, Parkinson B, Goldenberg A (2021) Negativity spreads more
+than positivity on Twitter after both positive and negative politi-
+cal situations. Affect Sci 2(4):379–390. https://doi.org/10.1007/
+s42761-021-00057-7
+Schüll ND (2012) Addiction by design. Princeton University Press
+Shteynberg G (2015) Shared attention. Perspect Psychol Sci
+10(5):579–590. https://doi.org/10.1177/1745691615589104
+Siebers T, Beyens I, Pouwels JL, Valkenburg PM (2022) Social Media
+and distraction: an experience sampling study among adoles-
+cents. Media Psychol 25(3):343–366. https://doi.org/10.1080/15
+213269.2021.1959350
+Steinert S, Dennis MJ (2022) Emotions and Digital Well-Being: on
+Social Media’s emotional affordances. Philos Technol 35(2).
+https://doi.org/10.1007/s13347-022-00530-6
+Steinert S, Marin L, Roeser S (2022) Feeling and thinking on Social
+Media: emotions, affective scaffolding, and critical thinking.
+Inquiry 1–28. https://doi.org/10.1080/0020174X.2022.2126148
+Tanesini A (2022) Affective polarisation and emotional distortions on
+Social Media. Royal Inst Philos Supplements 92:87–109. https://
+doi.org/10.1017/S1358246122000261
+Timms R, Spurrett D (2023) Hostile scaffolding. Philosophical Papers
+0(0):1–30. https://doi.org/10.1080/05568641.2023.2231652
+Vică C (2023) Civilizaţie algoritmică şi viaţa în lumea digitală. Bucha-
+rest University Press
+Dhir A, Yossatorn Y, Kaur P, Chen S (2018) Online social media fatigue
+and psychological wellbeing—A study of compulsive use, fear
+of missing out, fatigue, anxiety and depression. Int J Inf Manag
+40:141–152. https://doi.org/10.1016/j.ijinfomgt.2018.01.012
+Eckles D, Kizilcec RF, Bakshy E (2016) Estimating peer effects in
+networks with peer encouragement designs. Proceedings of the
+National Academy of Sciences, 113(27), 7316–7322. https://doi.
+org/10.1073/pnas.1511201113
+Fasoli M (2021) The overuse of digital technologies: human weak-
+nesses, design strategies and ethical concerns. Philos Technol
+34(4):1409–1427. https://doi.org/10.1007/s13347-021-00463-6
+Fischer AH, Manstead ASR, Zaalberg R (2011) Social influences
+on the emotion process. Eur Rev Social Psychol. https://doi.
+org/10.1080/10463280340000054
+Ford BQ, Tamir M, Brunyé TT, Shirer WR, Mahoney CR, Taylor HA
+(2010) Keeping your eyes on the Prize: anger and visual attention
+to threats and rewards. Psychol Sci 21(8):1098–1105. https://doi.
+org/10.1177/0956797610375450
+Garcia D, Rimé B (2019) Collective emotions and Social Resilience in
+the Digital traces after a Terrorist Attack. Psychol Sci 30(4):617–
+628. https://doi.org/10.1177/0956797619831964
+Gardiner G (2022) Attunement: on the cognitive virtues of attention.
+In: Alfano M, Klein C, Ridder J (eds) Social Virtue Epistemology.
+Routledge, New York
+Goldenberg A, Gross JJ (2020) Digital emotion contagion. Trends Cogn
+Sci 24(4):316–328. https://doi.org/10.1016/j.tics.2020.01.009
+Grinberg N, Dow PA, Adamic LA, Naaman M (2016) Changes in
+Engagement Before and After Posting to Facebook. Proceedings
+of the 2016 CHI Conference on Human Factors in Computing
+Systems, 564–574. https://doi.org/10.1145/2858036.2858501
+Gul E, Lim A, Xu J (2023) Retail store layout optimization for maxi-
+mum product visibility. J Oper Res Soc 74(4):1079–1091. https://
+doi.org/10.1080/01605682.2022.2056532
+Hanin ML (2021) Theorizing Digital Distraction. Philos Technol
+34(2):395–406. https://doi.org/10.1007/s13347-020-00394-8
+Heersmink R (2013) A taxonomy of cognitive artifacts: function,
+information, and categories. Rev Philos Psychol 4(3):465–481.
+https://doi.org/10.1007/s13164-013-0148-1
+Heersmink R, Sutton J (2020) Cognition and the web: extended, Trans-
+active, or scaffolded? Erkenntnis 85(1):139–164. https://doi.
+org/10.1007/s10670-018-0022-8
+Heimbach I, Schiller B, Strufe T, Hinz O (2015) Content viral-
+ity on Online Social networks: empirical evidence from Twit-
+ter, Facebook, and Google + on German news websites. Proc
+26th ACM Conf Hypertext Social Media 39–47. https://doi.
+org/10.1145/2700171.2791032
+Izard CE (1991) The Psychology of Emotions. Plenum Press. https://
+doi.org/10.1007/978-1-4899-0615-1
+Kissler J, Herbert C, Winkler I, Junghofer M (2009) Emotion and atten-
+tion in Visual Word Processing—An ERP study. Biol Psychol
+80(1):75–83. https://doi.org/10.1016/j.biopsycho.2008.03.004
+Koessmeier C, Büttner OB (2021) Why are we distracted by Social
+Media? Distraction situations and strategies, reasons for distrac-
+tion, and individual differences. Front Psychol 12. https://doi.
+org/10.3389/fpsyg.2021.711416
+Kramer AD, Guillory JE, Hancock JT (2014) Experimental evidence
+of massive-scale emotional contagion through Social Networks.
+Proc Natl Acad Sci 111(24):8788–8790. https://doi.org/10.1073/
+pnas.1320040111
+Krueger J, Osler L (2019) Engineering Affect: emotion regulation,
+the internet, and the Techno-Social Niche. Philosophical Top
+47(2):205–232. https://doi.org/10.5840/philtopics201947223
+Krueger J, Szanto T (2016) Extended emotions. Philos Compass
+11(12):863–878. https://doi.org/10.1111/phc3.12390
+Lindström B, Bellander M, Schultner DT, Chang A, Tobler PN, Amo-
+dio DM (2021) A computational reward learning account of social
+1 3
+694
+Content courtesy of Springer Nature, terms of use apply. Rights reserved.
+-- 10 of 12 --
+Digital Slot Machines: Social Media Platforms as Attentional Scaffolds
+Winstanley C, Cocker P, Rogers R (2011) Dopamine modulates
+reward expectancy during performance of a Slot Machine Task in
+rats: evidence for a ‘Near-miss’ Effect. Neuropsychopharmacol
+36:913–925. https://doi.org/10.1038/npp.2010.230
+Wohn DY, Carr CT, Hayes RA (2016) How affective is a Like? The
+Effect of Paralinguistic Digital Affordances on Perceived Social
+Support. Cyberpsychology Behav Social Netw 19(9):562–566.
+https://doi.org/10.1089/cyber.2016.0162
+Wolf W, Launay J, Dunbar RIM (2016) Joint attention, shared goals,
+and social bonding. Br J Psychol 107(2):322–337. https://doi.
+org/10.1111/bjop.12144
+Wu W (2023) We know what attention is! Trends Cogn Sci. https://doi.
+org/10.1016/j.tics.2023.11.007
+Zell AL, Moeller L (2018) Are you happy for me … on Facebook? The
+potential importance of likes and comments. Comput Hum Behav
+78:26–33. https://doi.org/10.1016/j.chb.2017.08.050
+Zuboff S (2019) The age of surveillance capitalism. Profile Books,
+London
+Publisher’s Note Springer Nature remains neutral with regard to juris-
+dictional claims in published maps and institutional affiliations.
+Voinea C, Vică C, Mihailov E, Savulescu J (2020) The internet as cog-
+nitive enhancement. Sci Eng Ethics 26(4):2345–2362. https://doi.
+org/10.1007/s11948-020-00210-8
+Voinea C, Wangmo T, Vică C (2022) Respecting older adults: les-
+sons from the COVID-19 pandemic. Bioethical Inq 19:213–223.
+https://doi.org/10.1007/s11673-021-10164-6
+Voinea C, Marin L, Vică C (2023) The Moral source of collective irra-
+tionality during COVID-19 Vaccination campaigns. Philosophi-
+cal Psychol 36(5):949–968. https://doi.org/10.1080/09515089.20
+22.2164264
+Vuilleumier P, Armony J, Dolan R (2003) Reciprocal links between
+emotion and attention. Hum Brain Function 2:419–444. https://
+doi.org/10.1016/B978-012264841-0/50022-6
+Watzl S (2023) What attention is. The priority structure account. Wires
+Cogn Sci 14(1):e1632. https://doi.org/10.1002/wcs.1632
+Whiteley EK (2023) A Woman First and a Philosopher Second: rela-
+tive attentional surplus on the wrong property. Ethics 133(4):497–
+528. https://doi.org/10.1086/724538
+Williams J (2018) Stand out of our light: Freedom and Resistance in
+the attention economy. Cambridge University Press, Cambridge
+Core. https://doi.org/10.1017/9781108453004
+1 3
+695
+Content courtesy of Springer Nature, terms of use apply. Rights reserved.
+-- 11 of 12 --
+1.
+2.
+3.
+4.
+5.
+6.
+Terms and Conditions
+Springer Nature journal content, brought to you courtesy of Springer Nature Customer Service Center GmbH (“Springer Nature”).
+Springer Nature supports a reasonable amount of sharing of research papers by authors, subscribers and authorised users (“Users”), for small-
+scale personal, non-commercial use provided that all copyright, trade and service marks and other proprietary notices are maintained. By
+accessing, sharing, receiving or otherwise using the Springer Nature journal content you agree to these terms of use (“Terms”). For these
+purposes, Springer Nature considers academic use (by researchers and students) to be non-commercial.
+These Terms are supplementary and will apply in addition to any applicable website terms and conditions, a relevant site licence or a personal
+subscription. These Terms will prevail over any conflict or ambiguity with regards to the relevant terms, a site licence or a personal subscription
+(to the extent of the conflict or ambiguity only). For Creative Commons-licensed articles, the terms of the Creative Commons license used will
+apply.
+We collect and use personal data to provide access to the Springer Nature journal content. We may also use these personal data internally within
+ResearchGate and Springer Nature and as agreed share it, in an anonymised way, for purposes of tracking, analysis and reporting. We will not
+otherwise disclose your personal data outside the ResearchGate or the Springer Nature group of companies unless we have your permission as
+detailed in the Privacy Policy.
+While Users may use the Springer Nature journal content for small scale, personal non-commercial use, it is important to note that Users may
+not:
+use such content for the purpose of providing other users with access on a regular or large scale basis or as a means to circumvent access
+control;
+use such content where to do so would be considered a criminal or statutory offence in any jurisdiction, or gives rise to civil liability, or is
+otherwise unlawful;
+falsely or misleadingly imply or suggest endorsement, approval , sponsorship, or association unless explicitly agreed to by Springer Nature in
+writing;
+use bots or other automated methods to access the content or redirect messages
+override any security feature or exclusionary protocol; or
+share the content in order to create substitute for Springer Nature products or services or a systematic database of Springer Nature journal
+content.
+In line with the restriction against commercial use, Springer Nature does not permit the creation of a product or service that creates revenue,
+royalties, rent or income from our content or its inclusion as part of a paid for service or for other commercial gain. Springer Nature journal
+content cannot be used for inter-library loans and librarians may not upload Springer Nature journal content on a large scale into their, or any
+other, institutional repository.
+These terms of use are reviewed regularly and may be amended at any time. Springer Nature is not obligated to publish any information or
+content on this website and may remove it or features or functionality at our sole discretion, at any time with or without notice. Springer Nature
+may revoke this licence to you at any time and remove access to any copies of the Springer Nature journal content which have been saved.
+To the fullest extent permitted by law, Springer Nature makes no warranties, representations or guarantees to Users, either express or implied
+with respect to the Springer nature journal content and all parties disclaim and waive any implied warranties or warranties imposed by law,
+including merchantability or fitness for any particular purpose.
+Please note that these rights do not automatically extend to content, data or other material published by Springer Nature that may be licensed
+from third parties.
+If you would like to use or distribute our Springer Nature journal content to a wider audience or on a regular basis or in any other manner not
+expressly permitted by these Terms, please contact Springer Nature at
+onlineservice@springernature.com
+-- 12 of 12 --

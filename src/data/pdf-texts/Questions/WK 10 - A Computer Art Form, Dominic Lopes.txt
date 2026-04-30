@@ -1,0 +1,391 @@
+2
+A ComPuter Art form
+The artist must not forget that each of his materials conceals within itself the way in which
+it should be used, and it is this application that the artist must discover.
+Wassily Kandinsky
+The previous chapter defined digital art and then presented an argument
+that explains why digital art isn’t a new art form. This argument also tells
+us what’s needed to show that computer art is a new art form. The task is
+to explain why computer art is an appreciative art kind. In approaching this
+task, it makes sense to address three questions: the specialization question,
+the value question, and the art question.
+what is computer art?
+Art kinds are groups of works that share some common feature not seen in
+other kinds of art. So if computer art is an art kind, then works of computer
+art must share specific features that set them apart from works in other art
+forms. What features? That’s the specialization question:
+what features of some computer-based works make them works in the
+computer art form and set them apart from other kinds of art?
+-- 1 of 14 --
+A PHILOSOPHY OF COMPUTER ART 22
+Chapters 3, 4, and 5 take up the specialization question in detail. For now, here
+are five real-life examples that suggest a working theory of computer art.
+Jeffrey Shaw, Golden Calf, 1995 (fig. 2.1)
+Before you stands a white plinth like those used for displaying statues in
+museums. Next to the plinth is a portable LCD display. When you pick it
+up, it shows the space in front of you; and when you turn to the plinth,
+it shows you the plinth surmounted by a golden calf. You can inspect the
+calf from every angle as you circle the plinth with the display. Perhaps you
+recall Poussin’s Adoration of the Golden Calf or the original Old Testament story
+where the golden calf is a figure of idolatry – taking an image for some-
+thing it’s not.
+Ken Goldberg, Telegarden, 1995–2004 (fig. 2.2)
+A room in Austria contains a small garden over which hovers a robot
+equipped with a video sensor and appendages for delivering water and
+seeds. Along with thousands of other telegardeners around the world,
+you regularly visit a website that allows you to move the robot to get a
+view of different sectors of the garden and tend the plants in those sectors.
+According to one commentator, the work “creates a physical garden as an
+environment to stage social interaction and community in virtual space.
+Telegarden is a metaphor for the care and feeding of the delicate social ecology
+of the net.”1
+Damian Lopes, Project X, 1997 (fig. 2.3)
+You’re looking at a screen of verse telling part of the story of Vasco da Gama’s
+voyage round Africa to Asia. Every word of the text is a hyperlink that trans-
+ports you to a new screen that elaborates, opposes, or recontextualizes the
+previous screen. The text on this screen is also hyperlinked. Having selected
+several links you come to realize that the sequence of screens comprises an
+epic with no prescribed order of reading. Reading the epic is an act of navi-
+gation into the unknown, and you must assemble what you learn from each
+trip through the site into a map that tells the whole story.
+-- 2 of 14 --
+Figure 2.1
+Stills of Jeffrey Shaw,
+Golden Calf, 1995
+-- 3 of 14 --
+Figure 2.2 Still of Ken Goldberg, Telegarden, 1995–2004
+Figure 2.3 Screenshot of Damian Lopes, Project X, 1997
+-- 4 of 14 --
+25 A COMPUTER ART FORM
+Scott Snibbe, Boundary Functions, 1998 (fig. 2.4)
+You and a companion step onto a slightly raised platform and a line is
+projected onto the floor halfway between you. As more people join in, more
+lines are drawn, creating an irregular tiled pattern. Try as you might – and
+some children who have just stepped in are trying very hard – you cannot
+step outside your boundary. Someone remarks that Boundary Functions was the
+title of the doctoral thesis of Theodore Kaczynski, the Unabomber.
+Hisako Yamakawa, Kodama – Mischievous Echoes, 2005
+As you approach the room you hear voices, but when you enter you find
+yourself in a quiet space bounded by rich moving images of an uninhab-
+ited forest. The voices return when you leave the room and, if you spoke
+when you were in the room, you find that one of the voices mischievously
+Figure 2.4 Schematic of Scott Snibbe, Boundary Functions, 1998
+-- 5 of 14 --
+A PHILOSOPHY OF COMPUTER ART 26
+imitates you. The guide explains that, in Japanese lore, kodama are tree spirits
+that steal and play with people’s voices. You return to the room to have a
+word with them.
+These five works have very different kinds of displays. The display of Golden
+Calf is a plinth and a digital image on an LCD screen. Telegarden’s display is a
+living garden and digital images of that garden as well as the movements of
+the robotic armature. Project X displays images alongside text arranged into
+lines of verse for viewing in a web browser. Boundary Functions projects Voronoi
+tessellation patterns in laser light onto a space. Kodama involves sound as well
+as images. Notice that not all of these displays are digital – there’s nothing
+digital about Golden Calf’s plinth, for example.
+Yet all five displays are associated with traditional art forms. All five use
+images. Golden Calf borrows from sculpture and Kodama incorporates elements
+of cinema and music. Project X involves poetry, and there’s obviously some
+theater in Boundary Functions and, less obviously, in Telegarden too. Finally,
+Telegarden takes traditional landscape architecture in a new direction. Every
+work of computer art must present a display of some kind, and the display
+will exploit text, static images, moving images, three-dimensional objects
+and spaces, bodily movements, or sounds. These are the building blocks of
+literature, pictorial art, film, sculpture and architecture, theater, and music.
+It’s easy to doubt that there’s a distinctive computer art form. Why not
+say that our five examples are simply digital art? All of them are made by
+computer and some have displays in a common, digital code.
+Something sets Golden Calf, Telegarden, Project X, Boundary Functions, and Kodama
+apart from traditional art. All five are interactive. In every case, what happens
+with the work is a result of some activity on the part of the audience.
+Moreover, this interaction is negotiated by a computer. A computer gener-
+ates the display of Golden Calf from input sensors in the LCD screen. Telegarden’s
+robot takes instructions submitted via a website, and Project X also takes input
+from a website in order to determine what text and images to display. Like
+Golden Calf, Boundary Functions uses a location sensor to project images, but
+it runs a Voronoi diagram algorithm to direct lasers. Kodama records and
+manipulates sound for playback.
+Interactivity can be defined in a dozen different ways. On some defini-
+tions, every work of art is interactive, or many are, so that interactivity isn’t
+specific to computer art. The next chapter seizes this problem by the horns.
+For now, it’s enough if you grant that the five examples are clearly interac-
+tive in a way that you recognize, even if it remains to be defined.
+-- 6 of 14 --
+27 A COMPUTER ART FORM
+It will be enough to compile a working theory of computer art that will
+tell us which works belong in the art form.
+CAF: an item is a computer art work just in case (1) it’s art, (2) it’s run on
+a computer, (3) it’s interactive, and (4) it’s interactive because it’s run on
+a computer.
+Let’s unpack this a little.
+What is it for a work to be run on a computer? The next chapter supplies
+the answer, but CAF tells us this much. Computer art works exploit the tech-
+nology of computing in order to achieve interactivity. Thus not all works
+that are in some sense run on a computer are works of computer art. My
+iPod plays my favorite tunes for me, and in some sense they’re run on a
+computer, but playing Radiohead on an iPod isn’t interactive in the same
+way as our five cases. The lesson is that we should expect to get a sharper
+idea of interactivity and of the role of computers in computer art at one and
+the same time – that’s the job of chapter 3.
+Second, CAF allows that the displays of computer art works overlap with
+traditional art forms – images and text, for example. In other words, CAF is
+consistent with the obvious fact that computer art shares a lot with digital
+works in traditional art forms. However, it doesn’t follow that computer
+art is the same as digital art. When images, text, sound, and traditional art
+media appear in computer art, they’re harnessed to achieve something not
+found in other art: interactivity.
+So CAF begins to frame an answer to the specialization question: computer-
+based interactivity is the special feature that distinguishes computer art
+from digital art and indeed all the other arts. But it’s only the beginning of an
+answer. The five works described above are interactive in some interesting
+sense, but we must pin down exactly how they’re interactive. It had better
+turn out that they’re interactive in a special way, and it had better turn out
+that their interactivity exploits computing technology, otherwise we should
+talk of “interactive art” instead of “computer art.”
+But is it art?
+The first clause of CAF boldly assumes that some interactive, computer-
+based works are works of art, and this raises the treacherous question: what
+is art? After all, a critic of CAF might say, “I concede that some computer-
+based works are interactive in some special sense. Define it however you like.
+-- 7 of 14 --
+A PHILOSOPHY OF COMPUTER ART 28
+Nevertheless, you can’t get art through interactivity. These interactive works
+you describe are all very interesting, but they’re not art.” In other words,
+nothing satisfies both clause (1) and also clauses (2) to (4) of CAF. Whereas
+this critic assumes a view of art that rules out computer-based interactive
+works, CAF implies a view of art that makes room for computer-based inter-
+active art. Whose view of art is right? What’s the answer to the art question:
+why do computer-based interactive works count as art?
+Chapter 7 tackles this question and a related puzzle. Don’t video games fit
+clauses (2) to (4) of CAF? Aren’t they interactive because they’re run on
+computer? If so, then shouldn’t we count video games as art?
+And is it valuable?
+Chapters 3 to 5 argue that computer art, as defined by CAF, is an apprecia-
+tive kind, and chapter 7 argues that it’s an art kind. So computer art is an
+appreciative art kind. We normally appreciate works like Project X, Telegarden,
+Golden Calf, Boundary Functions, and Kodama by comparison with each other, for
+their computer-based interactivity. Presumably, though, we appreciate art
+works in order to get at their value. There’s no point in appreciating works
+of computer art if they’re utterly worthless. Hence the value question:
+what is the value of computer art works?
+With the help of CAF, we can be more specific: what’s the value of an item
+that’s run on a computer, that’s interactive, and that’s interactive because it’s
+run on a computer?
+The value question doesn’t come up in a vacuum. Computers are the
+objects of some suspicion, and there have been well-publicized critiques
+of computer-based art. Since those who have suspicions about computers
+don’t clearly differentiate digital art from computer art, let’s use
+“computer-based art” neutrally, to apply to either digital art or computer
+art. In chapter 6, we’ll try to figure out which critiques specifically target
+digital art and which ones target computer art as defined by CAF. An
+answer to the value question will depend on CAF as an answer to the
+specialization question.
+The argument from the creativity sink. Some complain that computer technology
+limits the artist’s control over her work. If the value of art lies in its providing
+-- 8 of 14 --
+29 A COMPUTER ART FORM
+an outlet to individual expression, then works made by computer lack this
+value. Putting the argument explicitly,
+1 a work has value as art only to the extent that it expresses the creativity of
+its maker,
+2 computer-based art works inhibit their makers’ creativity,
+3 so computer-based art works lack artistic value.
+If both premises of this argument are true, then its conclusion is true; but
+are its premises true? Premise (1) is rarely stated explicitly, and it’s dubious.
+Accept it for now. Premise (2) is more interesting because the reasons given
+for it bring out a conception of computer-based art.
+Some complain, in support of (2), that computers standardize the art-
+making process.2 Although the computer is in principle a powerful and flex-
+ible machine, artists are severely constrained by software packages which
+impose a uniform appearance on works – like the notorious “Photoshop
+look.” Software standardizes, and an artist who adopts some software adopts
+its standards. The argument is that a work doesn’t express the creativity of its
+maker if it’s made using a medium that standardizes the art-making process,
+and computer media standardize the art-making process, so computer-
+based works don’t express the creativity of their makers.
+A second reason for (2) is just as compelling. In his book on virtual reality
+art, Oliver Grau argues that the makers of interactive virtual reality art must
+cede control of their works.3 In some measure, audience members gain what
+the artist gives up because they get to interact with the work. However, little of
+the control that the artist gives up goes to the audience. Virtual reality works
+are effective only in so far as they mimic reality, so the virtual reality artist is
+compelled to copy reality and has no room to comment on it critically: crit-
+ical commentary would spoil the effect. As Grau puts it, “the technological
+paradigm of virtual reality [does not] acknowledge the responsibility of the
+artist to channel the suggestive power of the images and environments.”4 The
+argument is that a work can’t express the creativity of its maker if its maker is
+bound to copy reality without critical comment, and makers of virtual reality
+art are bound to copy reality without critical comment, so virtual reality
+works don’t express the creativity of their makers. Note that this argument
+makes virtual reality the defining feature of computer-based art.
+The argument from the vanishing work. Clement Greenberg, one of the most
+influential art critics of the last century, thought that the best art of our time
+-- 9 of 14 --
+A PHILOSOPHY OF COMPUTER ART 30
+is characteristically about its own medium. He found its excitement “to
+lie most of all in its pure preoccupation with the invention and arrange-
+ment of spaces, surfaces, shapes, colors, etc. to the exclusion of what is not
+necessarily implicated in these factors.” 5 This doctrine about visual art easily
+generalizes to the other arts. Modern art aims to invite perceptual experi-
+ence of medium and it’s valuable when it succeeds in this aim. However,
+computer art hides its medium, so it fails as art. Laying out the reasoning:
+1 a work (of our era) has value as art only to the extent that it invites experi-
+ence of medium,
+2 computer-based art works don’t invite experience of medium,
+3 so computer-based art works lack artistic value.
+Again, if (1) and (2) are true then (3) follows. The Greenbergian doctrine
+summed up in (1) is at best a point of hot debate, so let’s be generous and
+accept it for now. By focussing on the case for premise (2), we might learn
+something about the nature and value of computer art.
+The case for (2) is this.6 Media are perceptually available in traditional art,
+but not in computer-based art. A painting, for example, is made by applying
+paint to a surface, and Jackson Pollock makes paintings in which we can
+see the act of painting. Likewise, color is a building block of painting, and
+Joseph Albers’s paintings thematize color and color effects. In these works,
+the technology of painting is made visible to the viewer. However, nothing
+like this happens with computer-based art. A computer might show you a
+pixelated image or play you a sequence of sounds, but it doesn’t reveal to
+you the computer technology underlying the image or sounds. The code
+that underlies the audio-visual display is invisible. Put metaphorically, “the
+computer is the ultimate black box where production … is occluded.”7
+This argument seems to fit digital art and perhaps other new media arts
+(like movies and television), but not the traditional arts. It’s an open ques-
+tion whether it applies to computer art.
+The argument from mind numbing. This critique of computer-based art should
+sound familiar. The value of an art work is measured by its power to provoke
+and sustain hard thinking, and works that fail this test of profundity fail as
+art. Such is the destiny of computer-based art, which gives us techno-dazzle
+in place of content, blocks serious reflection, and corrodes the imagination,
+all the while blinding us to its mind-numbing effects. Deleting the strong
+language from this bill of indictment, we get:
+-- 10 of 14 --
+31 A COMPUTER ART FORM
+1 a work has value as art only to the extent that it abets active thought,
+2 computer-based art works impede active thought,
+3 so computer-based art works lack artistic value.
+This reasoning borrows from the ideas of writers like Greenberg, Max
+Horkheimer, and Theodor Adorno, who denounced mass art – especially
+movies, television, and popular music – as mind numbing.8
+Premise (1) is credible enough as long as “active thought” is given a
+reasonable interpretation, and the reasons for (2) must connect a conception
+of computer-based art to a reasonable interpretation of “active thought.”
+After all, nobody denies that all art requires some active thought. Horkheimer
+and Adorno concede that “quickness, powers of observation, and experience
+are undeniably needed to apprehend” mass art works, which nevertheless
+go about “stunting the mass-media consumer’s powers of imagination and
+spontaneity.” 9 Presumably, then, some other ingredient of “active thought”
+is missing from our encounters with computer-based art.
+Two reasons for (2) come directly from other arguments. First, in support
+of the argument from the creativity sink, some accuse virtual reality works
+of stifling creativity by blindly copying reality. This is also reason to suspect
+them of impeding active thought. A convincing illusion of reality must
+be internally coherent. Thus it cannot tolerate contradictions and unlikely
+comparisons. But active thought grapples with contradictions and unlikely
+comparisons. So virtual reality works impede active thought. Second, in
+support of the argument from the vanishing work, some say that we can’t
+attend to digital technology as a medium. But active thought about art is
+thought about the medium of a work and how that medium affords experi-
+ence and carries meaning. 10
+A third argument for (2) is entirely new. Virtual reality art and interactive
+art impede active thought because they’re immersive, but active thought
+requires distance, which is incompatible with immersion.
+Just as different situations afford or inhibit action, different situations
+afford or inhibit cognition. Being in the dark inhibits sight, being drunk
+inhibits memory, being in a library affords learning, and playing chess
+affords strategic planning. “Distance” is a condition of situations which
+afford active thought. The condition is never properly defined, but it’s often
+described as affording selective and focussed yet leisurely attention. When
+there’s distance, a thinker can inspect an object as she wishes, at the pace she
+wishes. Understood in this way, distance is essential to cognitive autonomy
+-- 11 of 14 --
+A PHILOSOPHY OF COMPUTER ART 32
+– to thinking for yourself – and that makes it an essential precondition for
+critical evaluation. The art historian Aby Warburg called distance the “orig-
+inal act of human civilization.”11
+The argument is that computer-based art does away with distance. To begin
+with, virtual reality installations control spectators’ attention, and any interac-
+tions are scripted and circumscribed. For Grau “a core element of art comes
+under threat: the observer’s act of distancing that is a prerequisite for any crit-
+ical reflection. Aesthetic distance always comprises the possibility of attaining
+an overall view, of understanding organization, structure, and function, and
+achieving a critical appraisal.”12 In addition, distance has a temporal dimen-
+sion: distance means time to think. However, computer-based art is too fast
+for distance. Warburg originally made this complaint about the telephone
+and telegraph. Nowadays, Paul Virilio sounds the alarm about the cognitive
+tyranny of real-time processing.13 Computer-based art manages the reactions
+of its audience so that they’re no longer thinking for themselves.
+The argument from mind control. Having enfeebled the mind, it’s a short step
+to taking control. Horkheimer and Adorno argue that mass media, espe-
+cially movies and television, feed their audiences with a formulaic diet
+that “produces, controls, and disciplines consumers’ needs” by creating
+the illusion that “the outside world is the straightforward continuation of
+that presented in the screen.”14 Jean Baudrillard pushes the view that mass
+communication technologies only offer “the spectacle of thought and …
+people opt for the spectacle of thought rather than thought itself.” 15 Lev
+Manovich has added a new element to this argument.
+According to Manovich, some mental processes are externalized. 16
+Moving pictures externalize vision, for example, and stories externalize
+narrative reasoning. We think with these externalizations – and that’s their
+power. We would be lost without maps, which externalize way-finding, for
+example. The trouble is that externalizations can be regulated and manipu-
+lated, and in so far as our own thoughts depend on externalizations, they’re
+also regulated and manipulated. Manovich fears exactly this:
+Mental processes of reflection, problem solving, memory and associa-
+tion are externalized, equated with following a link, moving to a new
+image, choosing a new scene or a text ... Now, with interactive media,
+instead of looking at a painting and mentally following our own private
+associations to other images, memories, ideas, we are asked to click on
+the image on the screen in order to go to another image on the screen,
+and so on. Thus we are asked to follow pre-programmed, objectively
+-- 12 of 14 --
+33 A COMPUTER ART FORM
+existing associations ... we are asked to mistake the structure of some-
+body else’s mind for our own. 17
+The result is that “interactive computer installations indeed represent an
+advanced form of audience manipulation.”18
+Come to think of it, this worry isn’t all that new – it goes back to Plato’s
+allegory of the cave, which echoes all the way down the centuries to The
+Matrix. Plato’s cave-dwellers, exposed only to images on the cave wall, are
+under the illusion that what they see is reality. As a result, they’re vulner-
+able to manipulation if the shadows are cast by puppeteers. In the cinematic
+update of Plato’s cave, Neo’s personal autonomy is linked to seeing the
+Matrix for what it is – lines of green code – and hence to weaning himself
+off it as a vehicle for his own thoughts.
+Defining “free thought” as thought that’s free of manipulation by exter-
+nalization, here’s the argument from mind control:
+1 a work has value as art only to the extent that it abets free thought,
+2 computer-based art works impede free thought,
+3 so computer-based art works lack artistic value.
+Grant (1) as usual. The strength of the argument rests on (2) and thus on
+the idea that computer-based art externalizes thinking in a way that leaves it
+vulnerable to manipulation.
+The arguments from mind numbing and mind control are nakedly polit-
+ical. Adorno writes that high tech art media are designed to “enhance the
+power of the powerful” by blocking the “development of autonomous,
+independent individuals who judge and decide consciously for themselves
+... obstructing the emancipation for which human beings are as ripe as the
+productive forces of the epoch permit.”19 As a Marxist, Adorno views art’s
+value as political and emancipatory: he assumes that a work has value as art
+only to the extent that it abets active and free thought. By granting these
+premises, we can avoid getting into a political debate and we can treat the
+arguments from mind numbing and mind control apolitically.
+All four critiques of computer-based art should be taken seriously by
+anyone who is otherwise suspicious of the kind of speculation that toler-
+ates ungrounded empirical claims and fanciful reasoning. Three of the four
+critiques echo popular worries about new media. These media don’t tap
+the full extent of human creativity. New media art works don’t challenge
+-- 13 of 14 --
+A PHILOSOPHY OF COMPUTER ART 34
+the mind the way traditional works do. Given their seductive slickness and
+commercial ties, they manipulate us as consumers. These popular worries
+aren’t expressed in precisely the same form as the arguments from the crea-
+tivity sink, mind numbing, and mind control. Still, by addressing these
+arguments, we indirectly address popular worries and answer the value
+question. That’s the task of chapters 6 and 7.
+The specialization question, the art question, and the value question come
+as a package. Critics of the value of computer-based art begin with assump-
+tions about its character – that it aims at virtual reality, for example. In other
+words, they begin with an answer to the specialization question. Beginning
+with a different answer may lead to a more optimistic response to the value
+question. So let’s look at CAF as an answer to the specialization question.
+-- 14 of 14 --

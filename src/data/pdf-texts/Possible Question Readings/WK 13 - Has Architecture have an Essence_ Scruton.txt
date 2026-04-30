@@ -1,0 +1,4721 @@
+3
+HAS ARCHITECTURE
+AN ESSENCE?
+THERE are many ways of studying architecture — from the point of view
+of the engineer, of the historian, of the critic, of the client — and each
+way seems to propose its own favoured concepts, and seems to arrive
+at an organization of the subject which, if not at variance with its rivals,
+at least bears no clear relation to them. According to his preconcep-
+tions, therefore, a student of architecture may describe the nature of
+buildings, our experience of them, their meaning and their value, in
+many unrelated ways. And while this to some extent reflects a general
+vagueness in all discussions of anything that aspires to the honorific
+name of ‘art’, there seem to be particular obstacles in the case of
+architecture to a clear understanding of its aesthetic nature. In this
+chapter I propose to take some popular doctrines concerning the
+nature and experience of architecture, with a view to discovering,
+through their inadequacies, both the true complexity of our problem
+and the ground of its ultimate solution.
+The doctrines that I shall consider speak sometimes of the nature of
+architecture, sometimes of its value, sometimes of the experience
+which we derive from it. Nonetheless, they have a certain rhetorical
+affinity which enables them to be used together, and to be combined
+into what has become a compelling critical standpoint. Their very
+vagueness has well adapted them to this end, and the reader might
+therefore consider that I misrepresent them in attributing to them a
+precision that they do not claim. But this attribution will be necessary,
+37
+-- 1 of 34 --
+not
+because
+I
+wish
+to
+disparage
+the
+work
+of
+those
+who
+have
+espoused
+these doctrines,
+but
+because
+I
+wish
+to
+state
+and
+examine
+the
+intellectual
+basis of
+their
+thought.
+The
+doctrines
+I
+shall
+consider
+are
+functionalism,
+the ‘space’
+theory,
+and
+the
+philosophies
+of
+Kunstgeschichte
+and
+propor-
+tion.
+FUNCTIONALISM
+It will not have escaped the reader’s attention that the straw philos-
+ophy which I labelled ‘constructivism’ corresponds to little that has been
+practised by modern architects, and that many of the changes in form
+and style that our century has witnessed have been motivated by just
+that desire for an apt or appropriate appearance which I attributed to
+the theorists of the Renaissance. Despite the aesthetic parsimony of the
+modern movement, the popular ‘functionalist’ theories which have
+surrounded it have been used not to condemn but to articulate aesthe-
+tic values. In its most influential form, functionalism purports not to
+deny the priority of aesthetic values in architecture so much as to
+provide a comprehensive theory of their nature.’ It argues that, in all
+true experience of architecture, form is inseparable from function.
+Aesthetic experience, according to some versions of the theory, is
+nothing more than an experience of function — not function as it is, but
+function as it appears. In the ideal building, therefore, the form must
+express, make clear, or — to use the word favoured by Sullivan —
+‘follow’ the function.
+As we have seen, there is a sound principle behind that theory, the
+principle that the utility of a building is one of its essential properties,
+so that there will be no true understanding of a building that ignores its
+functional side. Hence a feature that is apt or beautiful in a church may
+not be so ina house or factory. Itis, indeed, impossible to abstract from
+our knowledge of a building’s utility, and cast judgement on it in some
+pure ‘aesthetic’ void.
+But, having made those remarks, it is difficult to see what follows
+from them. Certainly, functionalism, as it is normally stated, does not
+follow. Consider this, not too distant, analogy: it is an essential fact
+about a song that it consists in a setting of words to music. It does not
+follow that our experience of song is no more than an experience of
+words uttered in musical form, or that a song is perfect or beautiful just
+so long as it reveals or follows the verbal meaning. For one thing, the
+words may be foolish. Or the music, in following them, may lose all life
+and vigour of its own. There is no doubt that Wolff was a master at
+fitting words and music in an apt relation. But that does not suffice to
+38
+-- 2 of 34 --
+raise
+him
+to
+the
+level
+of
+Schubert
+when,
+for
+all
+his
+genius,
+he
+lacked
+the
+melodic
+gift,
+drama,
+ simplicity
+and
+naturalness
+ which
+would
+ deserve
+such
+praise.
+Nor
+is
+this
+analogy
+really
+misleading.
+For
+it
+shows
+that
+an
+essential
+property
+ may
+ not
+ suffice
+ to
+define
+ the
+nature
+ of
+the
+thing
+which
+possesses
+it.
+While
+it
+is
+true that
+a
+song
+is
+essentially
+a
+musical
+ms
+x
+h
+PLATE5 L. B. Alberti: fagade to S. Maria Novella, Florence
+setting of words, it is also more than that. For example, it involves a
+melody, and might be appreciated for its melody by someone who can
+neither hear nor understand the words. To say otherwise would be to
+affirm that there is no relation between the beauty of the song ‘Death
+and the Maiden’, and the beauty of the slow movement of the Quartet
+which bears that name: an absurd point of view. Likewise in architec-
+ture: function is not the only essential feature of a building; necessarily
+a building must display a form or pattern, and we may come to
+an
+-- 3 of 34 --
+understand the pattern in contexts divorced from the given function.
+Consider, for example, Alberti’s beautifully incrusted fagade to the
+Florentine Church of S. Maria Novella (Plate 5). Many of the patterns
+there exhibited might have formed part of an ornamental cloth, and
+been found similarly beautiful. Moreover, to remove them from the
+facade — to present a bare face of serpentine or marble — would be to
+remove a major part of its charm, while preserving whatever deserves
+the name of an expression or revelation of its use.
+But there is a more serious objection, and this is that the terms of the
+theory are fundamentally, and perhaps irremediably, obscure. What,
+for example, is meant by the term ‘function’? Are we referring to the
+function of the building, or to the function of its parts? If only to the
+latter, does it suffice that a building should simply display all its
+functional details, like the tubes and wires which deck out the Centre
+Pompidou? If that is our ideal of aesthetic excellence, then clearly it
+would be better to discard aesthetics altogether. But it is only in a very
+superficial sense that such a building expresses or reveals its function,
+the function of the building being something quite different from the
+function of its parts. And the function of the whole building — in this
+case of the Centre Pompidou — is something indeterminate. In so far as
+the Centre is in competition with no. 4 Carlton House Terrace (which
+houses London’s moral equivalent, but which was in fact designed as a
+private house), who can say which building best reveals the given use?
+And are we to think that the Round House Theatre, which presumably
+goes on ‘revealing’ or ‘following’ its past function as a railway shed,
+must for that reason be compromised in its present employment? Such
+examples show that the idea of ‘the function’ of a building is far from
+clear, nor is it clear how any particular ‘function’ is to be translated into
+architectural ‘form’. All we can say — failing some more adequate
+aesthetic theory — is that buildings have uses, and should not be
+understood as though they did not.
+Nor is the theory made more plausible by restricting our enquiry to
+the function of architectural parts, although, as later arguments will
+show, the theory, so restricted, contains valuable insights. For we find
+that now, far from providing a comprehensive aesthetic of architec-
+ture, functionalism must depend on some such aesthetic if it is to be
+understood. For example, it could be said that the function of a column
+is to support the entablature above it. But then, it could equally be said,
+that the function of the entablature is to lie on the column. Each of
+these functions is internal to the activity of architecture — which is to
+say, that we can understand them as functions only because we have
+some prior understanding of architecture, of why the parts of a build-
+ing should be combined in this particular way. There is no way of using
+40
+-- 4 of 34 --
+the idea
+of
+function
+to
+cast
+light
+on
+the
+nature
+of
+architecture,
+since
+it
+is
+only
+ if
+we
+ know
+ what
+ architecture
+ is
+that
+ we
+ can
+ understand
+ the
+function.
+ It
+follows
+ that
+the
+theory,
+ as
+an
+ account
+ of
+the
+nature
+ of
+building,
+is
+simply vacuous.
+Another
+ difficulty
+ for
+the
+ theory
+ is
+provided
+ by
+such
+ terms
+ as
+‘follow’
+and
+‘express’.
+As we
+shall
+see,
+the
+only
+way
+of
+making
+sense
+ofthis
+concept
+of
+‘expression’
+is
+one
+that
+removes
+from
+functionalism
+anyuniversal
+ora
+ priori
+validity.
+That
+there
+is
+a
+difficulty
+presented
+by
+the
+notion
+should
+already
+be
+evident.
+Does
+the
+form
+of the strainer
+arch
+in
+Plate
+ 6
+follow
+ or
+ express
+ its
+function
+ more
+ perfectly
+ than
+ would
+ a
+PLATE6 St Mary Finedon, Northants, strainer arch
+stretch of scaffolding? If so, why? And how does the functionalist
+explain the beautiful cresting and pierced quatrefoils in the Gothic
+example, the first adding nothing to the function, the second positively
+detracting from it? It is presumably because of the looseness of this
+concept of ‘expression’ that functionalism tends to be re-cast in ever-
+weaker forms. As a weak doctrine its pretensions are not philosophical
+but critical. That is, it claims not to capture the essence of architecture,
+but simply to denote one kind of architectural success. For example,
+there is a form of functionalism held up by Ruskin as the ‘Lamp of
+Truth’, a form which praises buildings for the structural honesty of
+their appearance. (On this view the Centre Pompidou deserves no
+praise, since what is revealed is structurally inessential, while the
+41
+-- 5 of 34 --
+Gothic
+cathedral has
+much
+to
+recommend
+it,
+evenin
+an
+age
+when
+it
+has
+lost
+its
+principal
+use.)
+To
+elevate
+ this
+principle
+into
+ a
+dogma
+ would
+have
+surprising
+consequences,
+ for
+example,
+ that St
+Paul's
+Cathedral,
+which
+ hides functional buttresses
+ behind
+ screens
+ of stone,
+ is
+of
+less
+merit
+than
+the
+air
+terminal
+at
+Heathrow,
+ or
+that
+the
+RAC
+ Club
+in Pall
+Mall,
+ which
+ disguises
+ steel
+and
+ concrete
+ behind
+a
+classical
+ facade,
+some
+ of
+the
+ columns
+ being
+ mere hollow channels
+ through which
+drains
+are
+conducted,
+ is
+so
+debased
+as
+scarcely
+to
+deserve
+the
+name
+ of
+architecture.
+PLATE 7 (above) Karl Friedrich Schinkel:
+design for Werdersche Kirche, Berlin
+PLATE 8 (right) Karl Friedrich Schinkel:
+design for Werdersche Kirche, Berlin
+The mark of a critical doctrine, as opposed to a principle of aesthe-
+tics, is that it cannot be established a priori. If it lays claim to universal
+validity, then inevitably it must appear arbitrary and uncompelling,
+and to continue to reaffirm it in the face of these obvious counter-
+examples is indicative of nothing so much as a failure to observe what
+is there. As we shall see, a critical doctrine must be established case by
+case, by detailed exploration of the individual experience and the
+individual building. It will therefore be at best a generalization, at
+worst an unrepeatable observation of a single work of art. And even if
+it could be shown that the revelation of structure forms some part of
+our experience of every building, that would not have exhausted the
+resources of criticism. More than one form might ‘follow’ a single
+structure — as in the structurally equivalent plans for Schinkel’s Wer-
+dersche Kirche in Berlin (see Plates 7 and 8). As such an example
+42
+-- 6 of 34 --
+shows,
+ the
+question
+of
+style
+—
+and
+therefore
+ of
+meaning
+—
+might
+still
+arise,
+ even
+ when
+ structural
+ ‘honesty’
+ is
+not
+in
+doubt
+ (for
+neither
+ of
+Schinkel’s plans
+is
+more
+‘honest’
+than
+the
+other).
+It
+follows
+that
+a
+large
+part
+of
+architectural
+ experience
+ will
+be
+simply ignored
+ by
+the
+func-tionalist
+doctrine,
+ and,
+until
+we have
+some
+ independent
+ understand-
+ing
+of
+the aesthetic
+ problem, we
+ shall
+not
+ even
+ know
+ that
+the
+part
+which
+ is
+ignored
+is
+not the
+part
+which
+is
+essential.
+SPACE
+Ever since the work of Wélfflin and Frankl the idea has been prevalent
+of a connection (variously described) between architecture and space.
+Once again the emphasis has been essentialist — this is what architec-
+ture essentially is, and therefore space, spatial relations and the play of
+interlocking voids are the true objects of architectural experience.
+‘Space’, as one modern architect has written, ‘is the most difficult
+aspect of architecture, but it is its essence and the ultimate destination
+to which architecture has to address itself.’” The doctrine represents an
+attempt to find the merit of architecture elsewhere than in its function,
+but like functionalism, which refers to houses, factories and railway
+stations, the space theory has fed itself upon a one-sided diet of
+examples — in this case, palaces, temples and churches, which are,
+among all buildings, the most emancipated from functional constraints,
+and the most given over to dramatic expression.
+Taken literally, the theory that the experience of architecture is an
+experience of space is obviously indefensible. If space were all that
+interested us, then not only musta large part of the architect's activity
+seem like so much useless decoration, but it is even difficult to see why
+he should bother to build at all. If I stand in an open field then I can
+have a full experience of all the separate spaces that are enclosed in St
+Peter’s in Rome. The only difference is that here the shell which
+Bramante and Michelangelo constructed around those spaces does not
+exist, and so does not interfere with the pure unmediated contempla-
+tion of the spaces as they are in themselves.
+But
+it
+is
+clear that the
+theory should
+not
+be taken
+quite
+so literally;
+for
+what
+it
+means
+ to
+say
+is
+that
+the
+essence
+of
+architecture
+is
+not
+space but
+the
+enclosure
+ of
+space,
+ or
+space
+ as
+enclosed.
+ In the
+words
+ of
+Bruno
+Zevi:
+the
+essence
+ of
+architecture
+ .
+.
+.
+does
+not
+lie
+in
+the material
+limita-
+tion
+placed
+on spatial
+freedom,
+ but
+in
+the
+way
+ space
+is
+organized
+into
+ meaningful form through
+ this
+process
+ of limitation
+ . . .
+the
+obstructions which determine
+ the
+ perimeter
+ of
+possible
+ vision,
+rather than the ‘void’ in
+which
+ this
+vision
+is
+given play.”
+43
+-- 7 of 34 --
+It
+is
+that
+conception
+of the
+essence
+ of
+architecture
+ which
+thinkers
+like
+Zevi,
+Giedion and
+their
+numerous
+ following
+have
+ applied with such
+enthusiasm
+to
+every type
+of
+building,
+and from
+which
+a
+certain
+critical
+orthodoxy
+has
+arisen.
+The
+first
+criticism
+to
+be
+made
+is
+that,
+whatever
+it
+strictly
+means
+ (and
+it
+is
+not
+obvious,
+in
+fact,
+what
+it
+does
+mean),
+it
+must
+surely
+fail
+to
+provide
+an
+account
+ofall
+that
+we
+appreciate
+in
+buildings.
+Zevi’s
+description
+may
+seem
+to
+apply without
+strain
+to
+the
+foyer
+of
+the
+Stazione
+ Termini
+ in
+Rome,
+ or to
+the
+treasury
+ of
+Atreus
+ at
+Mycenae,
+where
+ the
+sense
+ of
+‘moulded
+ space’
+is
+prime
+among
+ our
+perceptions,
+but
+it
+certainly
+ does
+ not
+ capture
+ all
+that
+is
+interesting
+ in
+St Paul’s,
+where,
+ despite
+ the
+ ‘spatial’
+ grandeur,
+ we have
+ also
+ deliberate
+ and
+impressive
+effects
+of light
+and
+shade,
+of
+ornament,
+ texture
+and
+mould-
+ings.
+One response of the critic given to the language of ‘space’ is to refer
+to all architectural details — light, ornament, carved and modelled
+forms — as expressing or ‘articulating’ the fundamental spatial rela-
+tions, deriving their interest and value from the outlining, emphasiz-
+ing and clarifying of volume, shape and space. Thus one might be led
+to think of an interior cornice as having an architectural (as opposed to
+a merely functional) interest because it brings the space of the wall to
+an effective conclusion, and defines thereby the hidden geometry of
+the roof cavity: as in the interior of St Peter’s, which we come therefore
+to see as a rectangular box upon which rests a long half-cylinder of
+illuminated space — and here too the lights can be seen as enhancing
+that very same spatial division (see Plate 9). By contrast, the relatively
+unemphatic string courses which divide the wall-space of a northern
+Gothic cathedral serve only, as it were, to rest the eye on its upward
+movement, and do not truly divide the interior space, often breaking at
+the point of contact with the vertical shafts and leading to no sense of
+the roof cavity as a space separate from that defined by the upward
+movement of the walls (see Plate 10). And then, it might be said, it is
+precisely that opening out of space which provides the characteristic
+experience of the Gothic church.
+Now
+ this
+enterprise could succeed
+ in
+establishing
+ the
+primacy
+ of
+space
+ (or of the
+‘shaping’
+ of
+space)
+in
+architectural
+ interest
+ only
+if it
+could
+show how
+each
+important
+feature of
+a
+building
+may
+be seen asafeature of the
+space
+which surrounds
+ it,
+in
+the
+way
+that
+a
+wall
+may
+beseen
+as
+the
+enclosure
+ of
+a
+space,
+and
+a
+door
+as
+an
+aperture
+into
+it.
+So
+that the
+theory
+ falls
+to
+the
+ground
+ as
+soon
+ as
+we discover features
+which cannot be
+so
+translated: consider,
+for
+example,
+the
+nature
+of the
+builder’s material.
+It is
+hard
+to
+think that the
+beauty
+of the
+colonnades
+at S.
+Spirito in
+Florence
+would
+be unaffected were they
+to
+be
+rebuilt in
+wood
+or
+granite, instead of the grey
+sandstone
+(the pietra serena) of the
+44
+-- 8 of 34 --
+PLATEQ St Peter’s, Rome, interior of nave
+Florentines (see Plate 11). And it is odd to suggest that the beauty of the
+Lady Chapel at Ely has remained unaffected by the mutilation of its
+statuary, just because, at any point from which the spatial effect of the
+statuary (its ability, as the vague phrase goes, to ‘articulate’ the sur-
+rounding space) can be observed, the damage remains invisible. It
+might be said that we should accept that last proposition, on the
+grounds that statuary is not of the essence of architecture. But, if we are
+to extract this essence by such drastic strokes of elimination, then it is
+hard to see what will remain at the end. For there are important
+features of architecture which seem not to be detachable, in the way
+that statuary may be detachable, and which cannot be reduced to
+properties of architectural space. Consider the distinction between
+carved and modelled forms, as this is exemplified in building.* Clearly
+it is an immediately perceptible quality of a detail that it is carved into
+45
+-- 9 of 34 --
+OMT
+ECL
+eee
+ROE
+pe
+AE
+=¢
+‘
+Tien
+s
+ig
+yom
+Li
+Het
+pete
+y ‘3 4 5g
+RAE RRS RE
+taitin |
+ee Segteeal erst
+ka
+ee
+en
+ RAMI
+See
+mS we
+-- 10 of 34 --
+PLATE 11 Brunelleschi: S. Spirito, Florence
+stone rather than modelled out of stucco or plaster. And while there
+are minute spatial properties which are responsible for the perceptible
+difference, it is not in terms of a spatial conception that the difference is
+seen. Consider, for example, the flank of Alberti’s Tempio Malates-
+tiana (S. Francesco) in Rimini (Plate 12). The beauty of this composition
+depends not only on the rhythm of the arcade, but also on the immedi-
+ately perceptible quality of workmanship which can be seen in its
+finely sculpted lines. The same forms, moulded into concrete or
+stucco, would possess only the smallest remnant of their present
+emotional power. To reduce the effect to one of space is surely to
+misrepresent the entire nature of our experience.
+Now it might still be argued that there is some architectural essence
+underlying all these examples which can be abstracted from the acci-
+dents of ornament and execution. But the suggestion begins to look
+less and tess plausible, as we recognize that ‘spatial’ effect may itself be
+dependent on significant detail. Consider, for example, the trium-
+phant pouring of light from the cupola of S. Ivo in Rome (Plates 13 and
+14). Itis clearly quite reasonable to refer here to a spatial effect. But how
+could that effect be perceived unless one were also aware of the finely
+modelled mouldings of the cornice, which not only arrest the eye on its
+47
+PLATE 10 N6tre Dame. Paris. interior of nave
+-- 11 of 34 --
+PLATE 12 L. B. Alberti: flank of Tempio Malatestiana, Rimini
+upward movement, but also define and re-define the stunning
+geometry of the church? What is seen is not just a dramatic space, but
+also a complex harmony of interrelated planes. And that harmony is
+observable only because of the finely worked details which principally
+attract our attention. And when one turns to the minutely worked
+interior of the same master’s S. Carlino (Plate 15), where the boldness
+of ‘spatial’ organization depends at every point on yet bolder and yet
+more significant detail, the whole conception of a ‘spatial’ meaning
+falls into the background. Of course, the advocate of ‘space’ may not be
+driven to defeat by these examples; he may try to re-describe all these
+recalcitrant experiences as subtle variations of the one central experi-
+ence which obsesses him. But the more he does so, the more one is
+inclined to suspect that, far from using the concept of space to illumi-
+nate the understanding of architecture, he is rather using that of
+architecture to illuminate what he means by an experience of space.
+His explanation of architectural experience becomes, like that of the
+functionalist, vacuous and circular.
+It is
+for this
+reason
+that
+we
+will
+find that the
+concept
+of ‘space’ can beeliminated from most
+critical
+writings
+which make
+use of
+it
+without any
+48
+-- 12 of 34 --
+PLATE 13 Francesco Borromini: S. Ivo, Rome, cupola
+real detriment to their meaning. Here is Frankl writing of the Jesuit
+churches of Posen and Breslau, and the Schlosskirche in Friedrichs-
+hafen:
+The relative height of the galleries has animportant influence upon
+the spatial effect. If they are entirely below the spring of the nave
+49
+-- 13 of 34 --
+vault,
+ they
+combine
+ additively
+ with
+ the
+chapels below.
+ If
+they
+extend
+above the
+spring,
+so
+that
+they break
+into
+the
+great
+vault
+like
+lunettes,
+ then
+ the
+higher they extend
+ the
+more
+ closely the
+total
+spatial
+effect
+approaches
+ that of
+a
+hall.°
+PLATE 14 Francesco Borromini: S. Ivo, Rome, cupola
+Here the reference to a ‘spatial effect’ is in fact entirely redundant; the
+sense of the passage remains unchanged if one substitutes for the
+expression the simpler term ‘shape’, for clearly all that Frankl’s exam-
+ples show is that the higher the galleries extend the more closely does
+the shape of the church approach that of a hall. The reference to a
+distinct ‘spatial effect’ is brought in by a sleight of hand, asis the idea of
+an ‘experience of space’ in the following passage:
+Alberti wanted to add to S. Francesco in Rimini a circular building
+wider than the nave, and Michelozzo did add one to Sta Maria
+Annunziata in Florence. This space, similar to the Pantheon in
+Rome, is not related organically to the nave, although it does
+enhance our experience of the space.°
+The grounds for this judgement are roughly the following: that the
+circular choir of the Annunziata is too large and ill-lit, and in conse-
+quence falls into no easy relation with the nave; that it continues no
+order established in the rest of the church and brings nothing to a climax
+or resolution. At the same time, it has asombre grandeur of its own, and
+50
+-- 14 of 34 --
+while
+it
+demands
+to
+be
+seen
+as
+a
+self-dependent
+addition
+to
+the
+nave,
+it
+is
+by
+no
+means
+ wholly
+unconnected
+ to
+it.
+I
+doubt
+ that, in
+continuing
+such
+a
+commentary,
+ it
+would
+ ever
+be
+necessary
+ to
+refer
+to
+an
+‘experi-
+ence
+of
+the
+space’
+(which
+space?),
+or
+that
+a
+use
+could
+be
+found
+for
+that
+PLATE 15 Francesco Borromini: S. Carlino, Rome, interior
+notion which might make it into an indispensable critical tool.
+Nevertheless, the doctrine of space remains an influential one, and its
+fascination still needs explaining.
+Perhaps some explanation can be gleaned from the works of Gied-
+ion, the doctrine’s principal advocate, who has used what one might
+perhaps call the rhetoric of space to manufacture the critical orthodox-
+ies of the modern movement, and formed thereby the consciences of a
+generation of architectural students.’ Giedion’s Space, Time and
+Architecture, perhaps the most influential systematic treatise on
+architecture to have been produced in recent years, exhibits all the
+faults to which I have referred, along with many others deriving from
+the author’s journalistic acquaintance with modern physics. (Thus he
+is led to describe modern art and architecture as providing the ‘artistic
+equivalent of space-time’, a conception that falls apart as soon as it is
+applied, and which presupposes — what is false — that the dimension of
+gyi!
+-- 15 of 34 --
+time
+ is
+treated
+ by
+Einstein
+ and
+ Minkowski
+ equivalently
+ to
+the three
+dimensions
+ of
+space.)
+ But
+ the
+interesting feature
+ of
+his
+use
+ of
+the
+doctrine
+of
+space
+is
+that
+he
+manages
+to
+combine
+it
+with
+a
+peculiar
+form
+of
+historical
+analysis,
+and
+that
+this
+combination
+to
+some
+extent
+explains
+the
+doctrine’s
+appeal.
+Consider
+ the
+following passage:
+There are three stages of architectural development. During the
+first stage — the first space conception — space was brought into
+being by the interplay between volumes. This stage encompassed
+the architecture of Egypt, Sumer and Greece. Interior space was
+disregarded. The second space conception began in the midst of
+the Roman period. . . . The third space conception set in at the
+beginning of this century with the optical revolution that abolished
+the single viewpoint of perspective.*
+What does it mean to say that the ‘space’ of the Greek temple was
+‘brought into being’ by the ‘interplay between volumes’ (which vol-
+umes?), or that the Greeks ‘disregarded the interior space’ of the
+building — which is not meant to imply that they never went inside or
+took pleasure in what they found there? (Odysseus, narrating his
+encounter with the souls of the dead, pauses at a certain point to
+survey the silent array of amazed and lamplit faces in the ‘shadowy
+hall’; if there is such a thing as a ‘sense of interior space’, it is certainly
+there in Homer's description (Od. XI, 333-4).) It is clear that Giedion’s
+peculiar theory has some other source than the doctrine of space, and
+that this source provides a new energy and compellingness. For the
+doctrine has here been conjoined to the process of reflection that
+would attempt to divide the history of the world into clear successive
+periods and to find the nature and meaning of art in its relation to the
+period from which it derives. This is the next major confusion that we
+must examine.
+KUNSTGESCHICHTE
+The philosophy
+of
+Hegel
+set
+out not
+only
+to
+explain
+the structure
+of the
+world and
+ the
+ scope
+ of
+human
+ knowledge,
+ but
+ also
+ to
+provide
+ a
+universal
+system
+of
+human
+ society.
+It
+set
+out
+to
+derive
+a
+priori
+what
+at
+first
+seem
+to
+be the
+most
+arbitrary
+and contingent
+among
+all
+observable
+facts
+-
+ the
+ phenomena
+ of history.
+ Beneath
+ the superficial
+ chaos
+ it
+claimed
+ to see
+the
+workings
+ of
+a
+spiritual necessity,
+ a
+kind
+of
+perma-nent proof
+of
+one
+moment
+ of history
+from
+the
+preceding, which movesfrom premise
+ to
+conclusion with
+ all
+the rigour and
+ all
+the abstract
+clarity (for
+those able
+to
+understand
+it)
+of
+a
+mathematical theorem. The
+2
+-- 16 of 34 --
+place
+occupied
+by
+this
+theory
+in
+contemporary
+ thought
+is
+sufficiently
+explained
+by
+its
+consolatory
+value,
+if
+not
+by
+its
+truth.
+History
+tends
+to
+be
+viewed
+ even
+now
+ under
+the
+aspect
+of
+necessity,
+and
+the
+mere
+ fact
+that
+two
+ events
+ are
+ contemporaneous
+ is
+often
+regarded
+ as
+showing
+some
+ real
+connection
+between
+ them. Burckhardt, steeped
+in
+Hegelian
+metaphysics,
+ began
+a
+famous
+ examination
+ of
+the
+Italian
+Renaissance,
+looking
+everywhere
+ for
+its
+dominant
+ urge
+and
+unifying conception.
+ It
+seemed
+ to
+him
+ that
+every
+ work
+ of
+art
+of
+the
+period
+ must
+ derive
+ its
+significance
+from
+the
+same underlying
+ spirit
+or
+idea.
+Wolfflin,
+Burck-
+hardt’s pupil,
+applied
+the
+method
+ to
+architecture,
+and
+Wolfflin’s
+pupil
+Frankl
+passed
+it
+on
+to
+Giedion and
+to
+Pevsner.
+ The
+result
+is
+that
+it
+has
+become
+ an
+established
+ orthodoxy
+ of
+English
+and
+ American
+ architec-
+tural
+scholarship,
+ and
+ while
+ the
+Hegelian philosophy
+ of
+history
+has
+been
+ frequently
+ attacked,
+ in
+ particular
+ by
+Popper,
+ it
+is
+only
+ very
+recently
+ that
+its
+consequences
+ for
+the
+history
+of
+art
+and
+ architecture
+have been
+critically
+examined.’
+Let us suppose, for the sake of argument, that some version of the
+Hegelian view of history is true. It is important to see that it cannot be
+transformed into a basis for aesthetics, nor can it lead us to the true
+significance of architecture. Of course it is rare that the practitioners of
+the Hegelian approach have explicitly claimed to provide such a basis,
+rare, for example, to find them writing with quite the daring and spirit
+of Wolfflin, that:
+[Architecture] is an expression of its time in so far as it reflects the
+corporeal essence of man and his particular habits of deportment
+and movement, it does not matter whether they are light and
+playful, or solemn and grave, or whether his attitude to life is
+agitated or calm; in a word, architecture expresses the ‘Lebens-
+gefiihl’ of an epoch.'°
+Nevertheless, the Hegelian theory has been used as the sole basis for
+aesthetic judgement by many recent critics. '' Its aesthetic implications,
+therefore, are largely taken for granted. Of course, no-one doubts that
+men understood and appreciated architecture long before they fell
+under the spell of Hegel, indeed, long before it was possible to take an
+‘historical’ view of art. But it may still be that, whenever men have
+taken an ‘aesthetic’ interest in some building — whenever they have
+seen a building as something more than a functional device — this has
+been because they have sought for its ‘spirit’ or ‘Lebensgefthl’. And it
+may be true that the best description of such a ‘spirit’ - and the
+description which makes it accessible to men who do not share in it — is
+an historical description, showing its relation to the entire form of life
+through which it was expressed.
+53
+-- 17 of 34 --
+Now
+ it
+might
+be
+argued
+that
+such
+a
+theory
+is
+bound
+ to
+provide
+an
+inadequate
+basis
+for
+aesthetics.
+For
+if
+one
+building
+manifests
+the
+spirit
+of
+its
+epoch,
+ so
+do
+all
+the
+other
+buildings
+ of
+its
+time:
+ in
+which
+ case,
+where
+lies
+the
+difference
+between
+ the
+good
+and
+the
+bad
+examples?
+ A
+theory
+of
+architecture
+which
+ says
+nothing
+about
+its
+characteristic
+suc-
+cess
+cannot
+really
+be
+a
+theory
+of
+its
+essence;
+so
+we
+must
+find an
+answer
+to
+that
+question.
+It
+is
+normal
+for
+criticism
+in
+the art-historical
+tradition
+to
+concentrate only
+on
+ the
+really
+great
+and compelling products
+ of
+a
+period
+—
+consider,
+ for
+example,
+ the
+writings
+of
+Giedion and
+Norberg-
+Schulz.’* This
+habit
+reflects
+a
+covert
+belief
+(rarely
+made
+ explicit)
+that
+it
+is
+only
+the
+successful
+work
+ that
+truly
+expresses
+ its
+Zeitgeist,
+spirit,
+or
+‘ruling
+space
+conception’;’’
+the
+unsuccessful
+work
+is
+merely
+inexpres-
+sive.
+But
+to
+borrow
+this
+concept
+of
+expression
+is
+to
+lay
+oneself
+open
+to
+certain
+objections.
+ Nothing
+ now
+ stands
+in
+the
+way
+ of
+the
+suggestion
+that
+a
+work
+might
+succeed,
+just
+occasionally,
+in
+expressing
+something
+other
+than
+its
+historical
+ reality,
+and
+ derive
+its
+success
+ from
+ that.
+ For
+example,
+ it
+might
+succeed,
+ like
+Westminster
+ Cathedral,
+ in
+expressing
+the
+spirit
+of
+a
+world
+to
+which
+it
+does
+not
+belong,
+or
+in
+expressing
+some
+outlook
+that
+has
+no
+historical
+determinacy whatsoever,
+like
+the
+rugged
+simplicity
+of
+the
+Italian
+hilltop
+town. Indeed,
+ we
+ find
+that,
+like
+func-
+tionalism,
+ the art-historical thesis
+ soon
+ loses
+its
+claim
+ to
+generality,
+once
+it
+has
+laid
+all
+emphasis
+on
+the
+disorderly
+concept
+of
+‘expression’.
+For
+that
+concept
+is
+no
+more
+ than
+a
+critical
+device,
+ a
+means
+ for
+associa-
+ting
+a
+work
+ of
+architecture
+ with
+a
+meaning,
+ while giving
+no
+ general
+principle
+as
+to
+how
+ the
+meaning
+ is
+derived.
+In general, then, it is not surprising to find that the insights of
+‘historicism’ (as it has been called!*) are not hard-won; they come
+ready-made, along with the axioms of the theory. When Giedion
+describes Pascal as a ‘baroque master in another medium’ (meaning
+mathematics),!° all he really intends is that the architectural style
+known for various reasons as the baroque happened to be contem-
+poranecus with Pascal’s work in mathematics. There is nothing further
+to the comparison that would enable it to illuminate either the nature of
+Pascal’s celebrated theorem, or the meaning of the architecture of
+Mansart. The same is true of his description of the Villa Savoie as
+peculiarly appropriate to the age of Relativity, being ‘quite literally . . .
+a construction in space-time’.'°® His evidence for this is the unremark-
+able fact that the villa may not be fully comprehended from any single
+point of view, a feature which it shares with such well-known expres-
+sions of the ethos of Relativity as Lincoln Cathedral and the Taj Mahal.
+For the
+advocate
+of
+Kunstgeschichte, architecture
+is
+one
+among many
+cultural
+ products, which
+ has
+its
+own means
+ of
+conveying
+ a
+signifi-
+cance, but no
+unique
+or
+peculiar significance
+to
+convey.
+ In so far as a
+54
+-- 18 of 34 --
+building
+acquires
+a
+significance
+through
+its
+art-historical
+interpretation
+It
+is a
+significance
+ that
+is
+in
+all
+probability
+ external
+ to
+its
+aims
+ and
+nature,
+a
+significance
+that
+might
+have
+belonged
+to
+any
+other
+expressive
+product
+of
+its
+age,
+and
+which
+is
+siezed
+through
+an
+act
+of
+understanding
+that
+gives
+no
+precedence
+ to
+what
+is
+essentially,
+rather
+than
+only
+acci-
+dentally,
+ architectural.
+ It
+may
+ once
+ again
+be
+true
+ that,
+in
+particular
+cases,
+and
+for
+particular
+reasons,
+it
+might
+be valuable
+to
+see
+a
+building
+in
+this
+way.
+But
+as
+a
+foundation
+for
+aesthetics
+the
+theory
+is
+useless,
+for
+it
+denies
+ itself
+ even
+ the
+ ability
+ to
+ask
+ what
+ is
+fundamental
+ to
+our
+experience
+ of
+architecture
+ -
+ what
+ makes
+ it
+into an
+ experience
+ of
+architecture.
+It is
+for
+this
+reason
+that
+historicism
+tends
+to
+lean
+as
+heavily
+on
+ the
+ doctrine
+ of
+space
+ as
+ that
+ doctrine
+ itself
+ leans on
+ historical
+analysis.
+ The
+ doctrine
+ of
+space
+ provides
+ the
+ needed
+ description
+ of
+architectural
+ experience;
+ the
+ historical
+ analysis
+ is
+then
+ used
+ in
+its
+criticism.
+Like all critical doctrines, the method may be sensitively or crudely
+used. And it is worth remarking on one particular crudeness, deriving
+from the simplistic determinism sometimes associated with Hegelian
+theory. It is often thought that, since a building is necessarily an
+expression of the spirit of its age, the attempt to build in the style of
+another age must be an exercise in ‘false consciousness’, an attempt to
+deny what it is necessary to accept; and as David Watkin has shown,"’
+that belief has been a received dogma among many modern critics,
+from Lethaby to Furneaux Jordan. Such critics have systematically
+assumed that the attempt to build in the style of some other age will be
+necessarily unsuccessful; even thoroughly immoral. This is the most
+widely held of all the critical judgements which the Hegelian vision has
+manufactured, appearing in Giedion’s defence of the forms of the
+modern movement as uniquely adapted to the spiritual reality of
+modern man, and in Pevsner’s influential attack on the desire (experi-
+enced as it happens by almost every serious architect from the Greeks
+to the Edwardians) to build in the style of some preceding age. But
+such spurious determinism loses its force, just as soon as we realize
+that the ‘style of an age’ is not a critical datum, not something that can
+be identified in advance of the individual intentions of individual
+architects. Historicism has no real method whereby to associate the
+works of a given period with its ruling spirit. All it can dois to reflect on
+their association after the event, and try to derive, from a critical
+understanding of individual buildings, a suitable formula with which
+to summarize their worth. It follows that it can say nothing in advance
+of observation, and can set no dogmatic limit either to the architect's
+choice of style or to his expressive aim. There is something truly absurd
+about the attempt to command obedience to a rule which can be
+22
+-- 19 of 34 --
+formulated
+only
+when
+it
+is
+already
+obeyed.
+It
+was,
+for
+example,
+only
+in
+the
+wake
+of
+Perret,
+Maillart
+and
+the
+Bauhaus
+that
+Giedion
+could
+begin
+to
+say
+what
+the
+spirit
+of
+modern
+ man
+ demands
+ in
+architecture.
+ And
+in
+selecting
+just
+those
+architects
+ for
+his
+praise
+he
+was
+ at
+the
+same
+ time
+legislating
+in
+defiance
+ of
+his
+own
+ critical
+method.
+ On
+ what
+ grounds,
+for
+example,
+ could
+he ignore
+that
+great
+classicist
+Lutyens,
+ who
+was
+ as
+much
+ of
+his
+time,
+and
+as
+much
+in
+command
+ of his
+materials,
+as
+any
+of
+the architects
+ whom
+ Giedion
+ praised?
+ One
+ might
+ legitimately
+ feel
+sceptical of
+the
+attempt
+to
+describe
+the
+valid style of
+an
+age
+or
+culture,
+and
+ sceptical
+ too of
+the
+very
+ narrow
+ understanding
+ of
+architectural
+tradition
+which
+ the
+determinist
+analysis involves.
+I remarked earlier upon the ease with which the doctrines of space
+and of Kunstgeschichte can be combined. It is common to find a critic
+writing, for example, of ‘the baroque conception of space’, as though
+the discovery of that conception were the main purpose of critical
+enquiry.'* Once again, as a piece of criticism, such a combination of
+viewpoints may prove fruitful. It goes without saying that the
+emphasis on space in the criticism of baroque architecture is often
+jejune and cliché-ridden. But that does not mean that there is no truth
+in such views as that the baroque ideal of space is more dynamic than
+that of the Renaissance, or that the spatial organization of an English
+cathedral is more disjointed than that of a French. And these observa-
+tions can sometimes be connected in an illuminating way with the
+beliefs and customs from which the particular buildings arise. It is
+perfectly reasonable to remark, not just on the detail and style of the
+late nineteenth-century department store, but also upon a ‘conception
+of space’ with which these are associated. It is not absurd, for example,
+to see the running staircases beneath the glass roof of the Paris Bon
+Marché as ‘taking possession’ of the space surrounding them (Plate
+16).'” And itis an apt critical reflection to connect this act of possession
+with the prevailing spirit of mass consumption which the building
+embodied and announced. The space of the stairwell — being used for
+the display of goods — holds out at every point a promise of possession;
+and the rushing movement, exuberant decoration and cascading light
+all contribute to that stunning effect of massed but ephemeral splen-
+dour which may be scrambled for by every woman or man.
+But to use doctrines of this kind as critical instruments is also
+dangerous. The doctrine of ‘space’ can often simplify the description of
+architectural experience to a point of near vacuity, and that of Kunstges-
+chichte lends itself to the facile manufacture of significances. The critic
+can therefore use them to advance directly from a description of an
+experience to a description of its meaning without any serious under-
+standing of the building which he purports to describe. This, in a
+56
+-- 20 of 34 --
+nutshell,
+is
+the
+critical
+method
+ of
+Giedion and
+his
+followers,
+and
+if
+it
+is
+necessary
+to
+criticize
+it
+at
+such length
+it
+is
+on
+account
+of the
+astonishinginfluence
+ of
+that
+school.
+PLATE 16 _ L. C. Boileau: Bon Marché, Paris
+KUNSTWOLLEN
+There is another Teutonic concept which should be mentioned at this
+juncture — the concept of the Kunstwollen, of the prevailing artistic
+intention which each work of art or architecture is supposed to display.
+The particular brands of ‘historicism’ that we have considered are
+really most plausible when considered as special cases of a more
+general theory, the theory that works of art owe their unity and
+expressive power to some underlying artistic intention or idea, and
+that it is for the critic to lay bare that ruling Kunstwollen” and to display
+its emergence in the concrete forms of the individual work. Historical
+analysis is no more than a part of such critical discovery, though it may
+57
+-- 21 of 34 --
+sometimes
+ be
+a
+necessary
+ part,
+ as
+in
+Panofsky’s
+ association
+ of
+the
+Gothic
+style
+with
+scholasticism,
+ or
+in
+Ruskin’s
+powerful
+description
+of
+the
+Doge’s
+Palace.*!
+This
+more
+general,
+and
+rather
+vague,
+Hegelianism
+contains
+ so
+much
+ truth,
+and
+so
+much
+ that
+is
+dubious
+ or false,
+that
+its
+analysis
+will
+be
+a
+constant
+proccupation during
+later
+chapters. But once
+again,
+we
+cannot regard
+it
+as
+providing any account
+of
+what
+is
+peculiar
+to
+architecture,
+ or
+even
+ a
+more
+ generalized
+ account
+ of
+the
+aesthetic
+enterprise. This
+is
+not
+because,
+ as
+some might
+argue,
+ it
+commits
+ the
+so-called ‘intentional
+fallacy’
+—
+the
+fallacy
+of
+seeing
+and judging
+works
+of
+art
+not
+as
+they
+are
+in
+themselves,
+ but
+only
+in
+relation
+to
+some
+ prior
+‘intention’ of the
+ artist
+ —
+ for
+the idea
+ of
+such
+a
+fallacy
+ rests
+ on
+ a
+philosophical
+mistake,
+ the
+‘Cartesian’
+mistake
+of
+construing
+an inten-
+tion
+and
+ its
+principal
+expression
+ as
+two
+ quite
+separate
+ things.”
+It
+is
+rather
+that
+the
+theory
+is
+vacuous
+ until
+we
+ can
+provide
+some indepen-
+dent
+account
+ of
+aesthetic
+interest.
+ For
+the ‘intention’
+ which
+ the
+critic
+lays
+bare
+is
+specifically
+an
+artistic
+intention,
+one
+which
+can
+be
+described
+only
+in
+terms
+of
+some
+ theory
+or
+conception
+of
+art.
+So
+we
+ shall
+require
+some
+ account
+of
+art
+and
+architecture before
+we
+can
+make
+ sense
+ of that
+idea,
+and
+of the
+concept
+of
+‘expression’
+which
+is
+employed
+in
+it.
+As we
+shall
+ see,
+ words
+ like
+ ‘intention’
+ and
+ ‘idea’,
+ with
+ their
+ mentalistic,
+subjective, artist-oriented
+implications,
+are
+far
+from being
+forced on
+us
+as
+necessary
+instruments
+ in
+the
+critical
+description
+of
+architecture.
+PROPORTION
+Until the three doctrines considered above came to dominate the
+discussion of architecture, theoretical concepts were far more nearly
+indicative of what we would intuitively describe as an ‘aesthetic’ point
+of view. The theorists of the Renaissance were, of course, well aware of
+the multiplicity of architectural standards, and were from the begin-
+ning concerned by Vitruvius’s division of his aims into the utilitas,
+firmitas and venustas which Wotton was to translate as ‘commodity,
+firmness and delight’.*? But they were yet more impressed by Vitru-
+vius’s expansion of the third of these into six separate categories — the
+categories of ordinatio, dispositio, eurythmia, symmetria, decor, and dis-
+tributio, to which he proceeded to subordinate most other architectural
+aims. The consequent delight in the multiplication of ‘aesthetic’ terms
+can be witnessed in all the theoretical writings of the time. Alberti
+referred to many aesthetic virtues, including those of dispositio,
+numerus, finitio, collocatio, proportio, of the aptus, concinnatus, com-
+modatus, proprius, decentus and decus, all of which register subtle grada-
+tions of critical significance. Even the level-headed Vasari was unable
+58
+-- 22 of 34 --
+to
+write
+of
+architecture
+without
+introducing,
+in
+his
+preface
+to
+the
+third
+part
+of
+the
+Lives, five
+separate Vitruvian standards,
+ the
+standards
+ of
+regola,
+ordine,
+ misura,
+ disegno
+and
+maniera.**
+But despite
+this
+seeming
+multiplicity
+of
+aesthetic
+aims,
+critics
+have been
+fairly
+obstinate
+in their
+conviction
+that
+behind Renaissance
+ theories
+of
+architecture
+there
+lies
+a
+single
+ dominant
+ idea
+ -
+ the
+ idea
+ of
+proportion
+ —
+ and
+ that
+ all
+this
+multiplicity
+of
+aesthetic
+terms
+is
+to
+be
+understood
+as
+nothing more
+than
+a
+detailed
+elaboration
+ of
+that
+concept.”°
+The
+classical
+theory
+of
+proportion
+consists
+in
+an
+attempt
+to
+transfer
+to
+architecture
+ the
+quasi-musical
+ notion
+ of an
+‘harmonious
+ order’,
+by
+giving
+specific rules
+and
+principles
+for
+the
+proportionate
+ combination
+of parts.
+And
+it
+might
+be
+thought
+that,
+if
+this
+attempt were
+to
+succeed,
+it
+would
+ provide
+a
+clear
+analysis,
+ both
+ of
+the
+nature
+ of
+architectural
+success,
+ and
+ of the
+value
+ of
+the
+experience
+ which
+ we
+ derive
+from
+ it.
+Since
+the
+only conceivable
+rules of
+proportion
+must
+be
+geometrical,
+the
+essence
+of
+proportion
+(according
+to
+many
+ Renaissance
+ theorists)
+must
+lie
+in
+mathematical
+ relationships. This
+ outlook
+ seems
+ all
+the
+more
+plausible
+when
+ combined
+ with
+Pythagorean
+ reflections
+upon
+the har-
+mony
+ of the
+ universe,
+ a
+harmony
+ illustrated
+ in
+the
+ mathematical
+theory
+ of
+musical
+ consonance
+ attributed
+ to
+Pythagoras, and
+ in
+the
+mathematical
+cosmology
+which
+neo-Platonists
+had
+refined
+and
+propa-
+gated
+throughout
+ the
+Middle
+ Ages.”° There
+ thus
+ arose the
+ambition
+(an
+ambition
+ which
+ is
+still
+present
+in
+the
+writings
+of
+Le
+Corbusier)
+ to
+use
+ mathematics
+ in
+ describing
+ architectural
+ success.
+ From
+ both
+mathematics
+ and
+architecture
+ we
+ obtain
+a
+like
+sense
+ of fittingness:
+in
+contemplating
+ the relations of
+numbers
+ and
+the relations of architec-
+tural
+parts,
+we
+ derive
+ a
+similar satisfaction
+ and
+a
+similar
+sense
+ of
+the
+intrinsic
+ order
+ of
+things.
+ The analogy
+ between
+ mathematical and
+architectural
+harmony
+therefore enables
+us
+to
+use the
+former
+to
+under-
+stand,
+ envisage and manipulate
+ the
+latter.
+Furthermore,
+ our
+sense
+ of
+what
+is
+fitting reflects
+ a
+deeper
+demand
+ for
+order.
+We
+can
+see
+architec-
+tural
+ forms
+ as ‘fitting’
+because
+ architecture
+ reflects
+ the desires
+ and
+responses
+characteristic
+of
+our rational
+nature.
+Architecture helps
+us
+to
+see
+the
+world
+as
+familiar,
+as
+reflecting the
+order
+and
+harmony
+ that
+we
+find
+in
+ourselves:
+ and
+something
+ similar
+is
+true,
+according
+to
+thinkers
+of
+a
+neo-Platonic
+ or
+Pythagorean
+ cast,
+of
+mathematics.
+It is not my purpose to expound this process of thought completely,
+or to introduce the reader to its impressive history. Suffice it to say that
+the Pythagorean cosmology, and the view of architecture which it
+implies, were by no means the invention of the Renaissance. The
+cosmology had survived as a ruling element in Christian thought,
+taking heart from the admiration of St Augustine, Boethius and Macro-
+bius for the arguments of the Timaeus and of the Republic, in particular
+She,
+-- 23 of 34 --
+for
+ the
+ versions
+ of
+these
+ which
+ Cicero
+ had
+ transmitted.
+ The
+ full
+architectural
+ expression
+ of
+Christian
+ neo-Platonism
+ occurred
+ not
+in
+Renaissance
+ Italy
+but
+ in
+‘Mediaeval’
+ France,
+ at
+Chartres,
+ where
+ it
+coincided
+ in
+place
+and
+time
+with
+a
+renowned
+ school
+of
+neo-Platonist
+philosophy.’’
+It
+was
+ not
+a
+peculiar
+property
+of
+Renaissance
+ ‘human-
+ism’
+ that
+it
+should
+ look
+ for
+a
+secret
+ mathematical
+ harmony
+ behind
+every
+form
+of
+architectural
+beauty:
+on
+the
+contrary,
+ this
+has
+been
+the
+most
+ popular conception
+ of
+architecture,
+ from
+ the
+ Egyptians
+ to
+Le
+Corbusier.
+ The
+builders
+ of
+the
+Gothic
+ cathedrals
+ were
+ as
+anxious
+ to
+illustrate
+ the
+divine
+perfection
+ of
+mathematical
+ relations
+ as
+were
+ the
+builders
+ of the
+Renaissance
+ temples,
+ and
+ often,
+ it
+now
+ seems,
+ used
+systems
+of
+proportion
+that
+perfectly
+correspond
+to
+the
+systems
+of
+their
+sucessors.”*
+ The
+ surprising
+disparity
+in style,
+while
+it
+might seem
+ to
+cast
+doubt
+ on
+the
+universal
+ validity of
+the
+rule of
+proportion,
+ as
+the
+essence
+ of
+architectural success, serves
+in
+a
+deeper
+way
+to
+confirm
+it.
+For
+we
+are
+led
+to
+suspect
+the
+existence
+of
+laws
+of
+proportion
+more
+basic
+than
+ the
+stylistic
+accidents
+ of
+any
+particular
+mode
+ of
+building,
+ laws
+which
+ define
+ some
+ common
+ principles
+of
+architectural practice
+to
+be
+followed
+ by
+every successful
+ style.
+The
+ fundamental
+ idea
+ is
+indeed
+simple
+ enough:
+ certain
+ arrangements
+ of
+ shapes and
+ lines
+ seem
+peculiarly
+fitting
+or
+harmonious,
+ while others
+ appear
+ vague,
+ dispro-
+portionate
+and
+unstable. For
+example,
+the
+circle
+and
+the
+square
+have
+a
+property
+of
+intrinsic
+harmony
+ which
+ makes them
+ pleasurable both
+to
+construct
+and
+to see,
+while imperfect forms
+of either
+shape,
+when
+they
+appear
+ as
+decoration
+ or as
+architectural
+ parts,
+ are
+apt
+to
+transmit
+ an
+impression
+of
+clumsiness
+or
+discord,
+like
+the
+ill-executed
+cartwheels
+in
+the
+ crossing
+ of
+S.
+Maria
+ delle
+ Grazie
+ in
+Milan,
+ which
+ compare
+ so
+unfavourably
+with
+the
+geometrical
+perfection
+of
+the
+Gothic
+rose.
+Now
+the architect,
+ who
+ needs
+ to
+combine contiguous
+ parts
+and
+ sections,
+should
+ therefore
+ try
+ to
+ discover,
+ from
+ these
+ simple
+ harmonious
+shapes,
+the
+mathematical
+ law
+of
+their
+harmony,
+ and
+so
+predict
+all
+the
+derivative
+ harmonies which
+ indirectly
+reflect
+it.
+The
+delight
+in
+build-
+ings
+constructed according
+ to
+the
+resulting
+ law
+ will
+be akin
+ to
+the
+delight
+in
+music
+or
+in
+mathematical
+ proof.
+Mathematical
+ relations can
+therefore be
+used
+to
+predict visual
+harmonies, and even
+in
+forms
+which
+are
+without obvious
+ mathematical paradigm, we
+ may
+ still
+discern
+ in
+them
+ the intimations of the perfect
+mathematical
+ relationships
+ from
+which they
+ derive.
+ (Consider,
+ for
+example,
+ the
+ door from
+ Serlio,
+illustrated in Plate
+17.
+One might
+seek
+to
+explain the
+harmonious
+ effect
+of
+such
+a
+composition by
+the
+fact
+of
+its
+mysterious
+visual
+intimation
+of
+the perfect square involved
+ in
+its
+construction.)
+The immediate consequence
+ of
+any mathematical theory
+of
+propor-
+tion
+is
+the availability of
+a
+system of
+proportion,
+a
+rule, or set of rules, for
+60
+-- 24 of 34 --
+the
+creation
+ and
+ combination
+ of
+parts.
+ The
+ architect
+ may
+ now
+ take
+some
+basic
+measure
+—
+or
+module
+—
+from
+which
+to
+derive
+all
+the
+lengths
+and
+forms
+exhibited
+in
+a
+building;
+the parts
+of
+the
+building
+will
+then
+of
+necessity stand
+to
+each
+other
+in
+a
+direct
+and
+intelligible
+mathematical
+relationship. This
+idea
+appears
+ in
+Vitruvius,
+ was
+ clearly
+used
+by
+the
+PLATE17 Door from Serlio
+mediaevals, and was re-expressed by most of the Renaissance theor-
+ists. The theory of the Orders, for example, is usually associated with a
+complete system for the measurement and combination of architec-
+tural parts, and can be seen as a device for the construction of precise
+mathematical relationships, which diffuse their harmony through the
+visual appearance of the building without ever being blatantly stated.”
+Nor is such a theory wholly dead; it is to be found in Le Corbusier’s
+conception of the Modulor, which aims to create a comprehensive
+harmony from understanding the clear mathematical paradigms from
+which an architect must start.
+Le Corbusier based his Vitruvian ‘module’ on the Golden Section
+(well known to the Greeks and the cornerstone of many Euclidean
+proofs), and derived his ‘system’ of measurement from the relation
+between the Golden Section and the Fibonacci Series, an old and
+familiar result of mathematics. It is likely that the Greeks derived their
+systems of proportion in some such way, and this renewed emphasis
+on the Golden Section must provide remarkable confirmation of the
+mathematical analogy.*° For it has been remarked from the first that
+61
+-- 25 of 34 --
+the
+rectangle
+formed
+by
+the
+Golden
+Section
+possesses
+a
+peculiar
+visual
+harmony
+—
+indeed
+it
+is
+the
+rectangle
+which,
+ to
+the
+normal
+eye,
+shows
+the
+same
+visual
+stability
+as
+the
+square. This
+can
+be
+appreciated,
+:
+think,
+from
+the
+courtyard
+of the
+palace
+of
+Quetzalpapalotl,
+illustrated
+in
+Plate
+18,
+in
+which
+ a
+perfect
+square
+ opening
+ is
+flanked
+ by
+two rectangular
+PLATE 18 Courtyard, Quetzalpapalotl’s palace, Mexico
+openings constructed from the Golden Section. (Indeed the whole of
+this fagade seems to be derived from the proportions exhibited by
+those openings. Such a use of the famous Greek measure, combined
+with a version of the well-known Greek composition of distyle in antis,
+exhibited in a civilization that knew nothing of the existence of Greece
+or Rome, must seem to provide yet more striking confirmation of the
+thought that there are basic laws of proportion in architecture, underly-
+ing all the accidents of manner and style.*’)
+The Golden Section rectangle exhibits the ratio (1 + / 5):2 (O, for
+short). This is distinguished by the fact that 1 + @ = @’; moreover, if
+one takes from the rectangle a square formed from its shortest side, the
+fragment which remains is itself a Golden Section rectangle. Such
+properties lend to the rectangle a mysterious mathematical affinity to
+the square, an affinity which, for the Pythagorean, would completely
+explain its visual harmony. And such rectangles, on account of this
+mathematical property, can be combined in ways that lead to the
+convenient generation of right-angles and the ‘nesting’ of correspond-
+ing parts: an example is provided by the bay from the Cancelleria in
+Rome, analysed in Plate 19.** It is of course immensely satisfying to
+observe these mathematical properties, and yet more satisfying to
+contemplate the visual harmony which results from them. Small won-
+62
+-- 26 of 34 --
+der
+that
+the
+Golden
+ Section
+should have
+provided
+such
+inspiration
+to
+the
+builders
+ of
+the
+Greek
+ temples,
+ the
+Gothic
+ cathedrals,
+ the
+Renai-
+ssance
+palaces.
+Small
+wonder
+that
+Le
+Corbusier should have
+tried,
+ina
+moment
+ of
+more
+ than
+usual
+ megalomania,
+ to
+patent
+its
+architectural
+significance
+ as
+a
+personal
+ discovery.** For
+countless
+ architects
+ it
+has
+seemed
+to
+provide
+the
+one
+basic
+measure,
+the
+measure
+which,
+diffused
+throughout
+ a
+building,
+gives
+harmony
+ and
+humanity
+ to
+the
+whole.
+a a Ce
+PLATE19 Cancelleria, Rome, bay of upper storey
+AB: AC = ab: ac = af: ay = ©
+But despite this almost universal sense of an underlying mathemati-
+cal paradigm of architecture, and the widespread confidence in a
+concept of proportion which derives from it, the theory provides no
+general aesthetic of construction. The first difficulty arises when we try
+to relate the abstractly calculated proportionality of a building to a
+concrete experience of proportion. It is true that this difficulty might not
+have worried the theorists of the Renaissance, many of whom were
+more concerned that their buildings should correspond to an idea of
+excellence, comprehensible to the mind of man, but not necessarily to
+his eye. But we cannot rest content with that. For the question that
+concerns us is a question about the appropriate look of things. A perfect
+geometry of architecture might well allow us to derive laws for what is
+‘fitting’, in the sense of a mathematical canon for the combination of
+parts, but what guarantee is there that we will experience a building as
+the proper expression of that mathematical canon, or that we can
+always use it to predict the visual harmony of the result? It is true that
+in a facade, which can be comprehended immediately and from a
+single point of view, geometrical relations impose themselves with a
+certain immediacy and absoluteness. No-one has much difficulty in
+seeing the geometrical rhythms concealed, for example, in the fagade
+to S. Maria Novella (Plate 5, p. 39). But once we move to the consideration
+63
+-- 27 of 34 --
+of
+three-dimensional
+ forms
+ the
+ difficulty
+ of
+visual
+ understanding
+may become
+ insuperable.
+ Consider,
+ for
+example,
+ one
+ of the
+ most
+influential of
+all
+‘mathematical’
+ buildings,
+ Brunelleschi’s
+ Old
+Sacristy
+in
+S.
+Lorenzo,
+ Florence
+(Plate
+20).
+Here
+the
+two
+perfect figures
+of
+cube
+and
+hemisphere
+ are
+combined
+ in
+a
+way
+ that
+is
+immediately
+ apparent
+*:
+PLATE 20 Brunelleschi: Old Sacristy, S. Lorenzo, Florence
+from a study of the cross-section and the plans. But nothing in the
+experience of the building need suggest that perfection: for the
+observer, the square might be only approximate, and the cupola short
+of a perfect hemisphere. Normally the squareness of a room can be
+gauged by standing in the centre, to observe the equidistance of the
+walls; that observation cannot be made at the Old Sacristy, since the
+entire centre of the room is taken up by a massive marble table that has
+been standing there since at least 1433 (four years after the building
+was completed). Nevertheless, the harmony of this building is appar-
+ent at once, long before we can be certain of its mathematical basis.
+64
+-- 28 of 34 --
+The
+true
+Pythagorean
+will
+not
+be
+disturbed
+by
+this
+objection.
+He
+will
+say
+that
+the
+perception
+of
+visual
+harmony
+is
+not
+in
+itself
+a
+knowledge
+of
+mathematical
+ relations:
+ the
+mathematics
+ is
+unconscious, and
+can
+ be
+used
+ to
+predict
+that
+soave
+armonia
+ at
+which
+ Palladio
+aimed**
+but
+is
+no
+part
+of
+what
+is
+known
+ to
+the
+beholder.
+ As Francesco
+di
+Giorgio
+wrote,
+reflecting on
+ Palladio:
+ ‘such
+ harmonies
+ usually please very
+ much,
+without
+ anyone
+ knowing
+ why,
+excepting
+the
+student
+of
+the
+causality
+of
+things
+(le
+ragione
+delle
+cose)’
+.*°
+But
+the
+trouble
+ with
+that
+is
+not
+only
+that
+the ragione
+delle
+cose
+cannot
+be
+described
+in
+Pythagorean
+terms
+(the
+mathematical
+ cosmology
+of
+the
+humanists
+ and
+their
+neo-Platonic
+pre-
+decessors being
+ clearly
+false),
+but
+also
+ that,
+ construed
+ in
+Palladio’s
+sense, these
+‘reasons’
+are strictly
+independent
+of
+aesthetics.
+It
+becomes
+a
+mere
+discovery
+that
+visual
+proportion
+reflects
+ a
+mathematical scheme,
+a
+discovery
+that
+might
+be
+upset
+by
+the
+first
+contrary experience.*°
+And
+as
+soon
+as
+we
+place
+the
+experience
+of
+proportion
+first,
+giving
+it
+prece-
+dence
+ over
+its
+mathematical
+ ‘explanation’,
+ we
+ find,
+not
+only
+that
+the
+mathematical
+laws
+are
+inadequate
+to
+account
+for
+what
+we
+see,
+but
+also
+that
+the
+concept
+of
+‘proportion’
+ is
+plunged
+ once again
+into
+the
+dark-
+ness
+from
+which
+the
+Pythagorean
+ theory
+seemed
+ to
+raise
+it.
+The
+criti-
+cism
+ was
+ levelled
+ again
+ and
+ again
+by
+the
+baroque
+ theorists
+ at
+their
+high-minded
+predecessors,’’
+and
+much
+later
+by
+Hogarth,
+in his
+polem-
+ical
+Analysis
+of
+Beauty.*®
+As
+the
+baroque
+architect
+Guarini
+noted,*’
+what
+is
+harmonious
+ from
+ one angle
+ is
+not
+ necessarily
+ harmonious
+ from
+another,
+ whereas
+ in
+music and mathematics
+ harmony
+ is
+harmony
+from
+whatever
+ point
+of
+view.
+ How
+ then
+can
+any purely
+mathematical
+theory
+be
+used
+to
+predict
+a
+‘harmony’
+that
+is
+in
+essence
+visual,
+depen-
+dent
+on the
+aspect
+of the
+building from
+many
+ points
+of
+view
+in
+space?
+The
+difficulty
+is
+surely
+a
+serious
+one.
+For
+consider
+the
+beautiful
+library
+of St
+Mark’s,
+by
+Sansovino
+ (Plate
+21).
+The
+immoderately
+ high
+cornice
+of
+this
+building,
+ out
+of
+line
+with
+ the Classical
+ Orders, and
+ with
+ the
+geometry
+established
+in
+the
+colonnade,
+ is
+nonetheless
+required
+for
+the
+visual
+ harmony.
+ In
+ fact
+ the
+ stretching
+ of the cornice
+ upwards
+ is
+required
+ precisely
+ because
+ there
+ could
+ be no sense
+ of
+proportion
+unless
+this
+were done.
+The
+length
+of the library
+and
+its
+position
+on the
+piazetta
+entail that
+a
+proper
+frontal
+view
+of
+it
+—
+a
+frontal
+view
+in
+which
+the
+colonnade
+ can be
+fully
+comprehended
+ —
+is
+unobtainable. The only
+complete view
+of the
+building
+must
+be
+obtained
+by approaching
+it
+from
+the
+side;
+perspective
+therefore requires
+the cornice
+to
+be
+raised,
+lest
+the
+colonnade should seem
+ to
+have nothing
+substantial
+ to
+lie
+on
+it.
+Here
+the
+achieved
+harmony
+of the
+appearance
+is
+the sign
+of no
+mathematical
+order
+in
+the building.
+And,
+indeed,
+it
+is
+often precisely the
+pursuit
+of
+a
+mathematical
+ order
+ that leads
+ to
+disproportion
+ —
+ which
+ leads, for
+example,
+ to
+ the stretching
+ of the
+ drum
+ of Ste
+ Genevieve
+ (the
+65
+-- 29 of 34 --
+Panthéon)
+ in
+Paris, in
+order
+ to
+enclose
+ the
+ composition
+ within
+ a
+triangle
+ (see Plate
+ 22).
+The
+ result
+ has
+ none
+ of
+the
+ stability
+ or
+ calm
+proportionality
+of
+its
+model
+(St
+Paul’s),
+and
+despite
+the
+many
+ beauties
+of
+this
+church,
+ it
+is
+difficult
+ to
+view
+ its
+dome
+ from
+ afar
+without
+ an
+inexplicable
+feeling
+of
+unease.
+PLATE 21 Jacopo Sansovino: library of St Mark’s, Venice
+These observations are scarcely unfamiliar to architects in the Ser-
+lian tradition, the tradition that puts perspective before everything,
+and which alters and amends quite freely in the interests of visual
+perfection.*° But they serve to throw the whole concept of proportion
+into doubt. What does it mean to speak of one composition as ‘propor-
+tionable’, another as ‘ill-proportioned’, ‘ill-fitting’ or ‘disjoint’? The
+mathematical theory fails precisely because it does not really capture
+the meaning of the concept which it purports to analyse, but at best only
+the hidden ragione delle cose. To provide a ‘system of proportion’ is not
+in itself to say what ‘proportion’ means, or why we should value it,
+not, that is, unless the system can really lay claim to the universal
+validity which we have refused it. What we have noticed is that the
+rules of proportion area posteriori: they derive, not from the meaning of
+the term, but from some discovered criterion for its application. They
+do not tell us what proportion essentially is, but only give laws for its
+production, laws which hold at best only approximately and from
+certain points of view.
+But what,
+ then,
+is
+proportion? As we
+ reflect
+on that
+question we
+66
+-- 30 of 34 --
+come
+ to
+see
+that,
+far
+from providing
+ a
+general
+basis
+for
+architectural
+aesthetics,
+ the
+concept
+of
+proportion
+requires
+such
+an
+aesthetics
+if
+it
+is
+to
+be
+understood.
+ This
+can
+be
+illustrated
+by showing
+the
+dependence
+that
+exists
+ between
+ our
+ sense
+ of
+proportion
+ and
+ our
+ recognition
+ of
+aesthetically
+ significant
+ detail.
+ We
+ find
+that
+the
+sense
+ of
+proportion
+and the sense of detail are in fact inseparable, and while the theories of
+the Palladian architect may seem to deny this fact,*' his practice seldom
+does so. First of all, itis clear that we are prepared to overlook whatare,
+from the geometrical point of view, manifest incongruities, provided
+only that our sense of detail be properly engaged: consider, for exam-
+ple, the two west towers of Chartres. More interestingly, we are even
+unable to appreciate the harmony of the majority of Gothic composi-
+tions until we can see the detailed correspondences, divergences and
+variations among their parts. Consider the harmonious but asymmet-
+rical fagade of the Ca d’Oro (Plate 23), a composition which represents
+the subtle rhythm of Venetian Gothic at its most delicate and refined.
+There is simply no way of beginning to describe the harmony of this
+building in mathematical terms; nothing that we could recognize as an
+account of its proportionality could really ignore the varied but answer-
+ing details of the windows, the ambiguous rhythms of the tracery, the
+striking bareness of wall against which the round-arched portal is
+balanced. It seems absurd, in the face of such an example, to suggest
+that one might abstract from the knowledge of harmonious composi-
+tions some one set of rules of pure proportion, which can be applied
+67
+-- 31 of 34 --
+dp
+ ir
+gq
+Jee
+ va
+ OOOB
+BO...
+ we
+PLATE 23 Ca d’Oro, Venice, facade
+irrespective of style, detail, and viewpoint. Of course, there are
+accepted patterns of composition which generally please us, such as
+the twin towers of a city gate, a composition imitated for symbolic
+reasons in the massive west towers of Gothic cathedrals, and the more
+fragile towers of the German and Italian baroque.**But there will be no
+universal law, no law to the effect that this composition must always be
+proportionable, whatever the quality of the detail, and whatever the
+style in which it is displayed. Something, after all, is wrong with the
+twin-towered facade of Ste Sulpice, and it is not a fault of material or
+workmanship. Is it not rather that the factitious Romanism of the style
+simply fails to give strength to the arrangement, so that the composi-
+68
+-- 32 of 34 --
+tion
+falls
+apart?
+One
+might
+also
+suggest,
+with
+one
+critic,*’
+that
+the
+fault
+which
+ we
+ noted
+ in
+the
+ drum
+ of
+Ste
+ Genevieve would
+ have been
+overcome by
+a
+more
+ apt disposition
+of
+detail,
+by
+the insertion
+(as
+at
+St
+Paul’s)
+ of
+occasional niches
+ between
+ the
+columns,
+ so
+that
+the
+dome
+ceases
+ to
+‘spin’
+so
+disconcertingly
+on
+its
+uncertain
+ legs.
+Nor
+ is
+it
+only
+the
+sense
+ of
+detail
+that
+is
+necessary
+ for
+this
+proper
+apprehension
+ of
+proportionate
+forms.
+ Every
+aspect
+of
+aesthetic
+inter-
+est
+seems
+ already
+engaged
+ in
+the
+judgement
+ that
+an
+arrangement
+ is
+well-
+or
+ill-proportioned,
+ and
+ the
+idea, that
+the
+meaning
+ of
+‘propor-
+tion’
+can
+be
+captured
+by
+some mathematical
+paradigm
+must
+in
+the
+end
+seem
+little
+more
+ than
+a
+naivety.
+Pugin
+even wrote
+that
+the
+use
+of
+large
+stones
+ is
+in
+itself
+ sufficient
+ to
+ destroy proportion,“*
+ a
+judgement
+which,
+while
+clearly of
+less
+than
+universal
+validity,
+rings
+true of
+many
+forms
+of
+Gothic
+masonry,
+ and
+also,
+as
+one
+writer
+has
+noted,
+**
+of
+much
+unpretentious
+rural
+architecture.
+ And
+ to
+pass
+from
+what
+is
+most
+small
+in
+building,
+to
+what
+is
+most
+grand:
+how
+could one achieve
+a
+mathema-
+tical
+understanding
+ of the visual
+harmony
+created
+by
+Bernini's piazza,
+with
+ its
+ sweep
+ of
+columns imposing
+ unity
+ upon
+ the
+ contrasting
+facades
+of St Peter’s
+and
+the
+Vatican;
+or
+of the
+harmony
+of
+the
+Spanish
+steps
+as
+they
+led
+up
+to
+and
+include
+the
+church
+of
+the
+Trinita dei
+Monti,
+or
+ of
+the
+ Piazza
+ del
+ Popolo,
+ which
+ unites
+ the
+ urbane
+ facades
+ of
+Rainaldi’s
+ churches,*°
+the great gate
+of
+Rome,
+ the
+church
+ of
+S.
+Maria
+del
+Popolo, and
+ the
+greenery
+ of the
+Pincian
+ hill,
+in
+one
+ magnificent
+harmonious sweep?
+The
+meaning
+of
+these architectural
+achievements
+can
+ be
+ understood
+ only
+ in
+terms
+ of
+the
+ chance
+ conglomeration
+ of
+pre-existing forms. Their
+harmony
+is
+an
+effect
+of
+décor,
+and
+as
+such
+is
+the
+ type
+ of
+all
+true
+ architectural
+ proportion.
+ For
+ what
+ builder
+ can
+dispense
+ with
+ a
+concept
+ of
+proportion,
+ and
+ yet
+how many
+ builders
+may
+command
+a
+site
+where
+ the
+demands
+ of
+mathematics
+ can
+be
+satis-
+fied?
+None
+of
+this
+is
+to
+deny
+the
+utility
+of
+‘proportion’
+as
+a
+critical
+concept,
+nor
+ is
+it
+to
+refuse
+ to
+that
+concept
+ a
+fundamental
+ place
+in
+aesthetic
+understanding.
+ But
+it
+is
+precisely
+because proportion
+is
+so
+aesthetically
+fundamental
+ that
+we should beware
+ of
+tying
+it
+down
+ to
+an explicit
+definition.
+As we
+shall
+see,
+Alberti
+was
+careful
+to
+separate
+the
+question
+of the
+meaning
+ of
+‘proportion’ from
+ the
+mathematical
+ theory
+ of
+its
+realization;
+his
+actual
+definition
+can
+be
+understood
+ only
+in
+conjunction
+with
+the
+whole accompanying gamut
+of aesthetic terms,
+some
+of
+which
+I
+mentioned
+ at
+the
+beginning
+of
+this
+section.
+To
+understand proportion
+is
+to
+understand harmony,
+ fittingness,
+appropriate
+detail
+and
+order.
+It
+is
+only
+in
+the
+framework
+ of
+a
+complete
+ aesthetics
+ that the
+meaning
+ of
+these terms
+can be described.
+ It
+will
+be only
+at
+the
+end
+of our investiga-
+tions that
+we
+ shall
+be able
+to
+return
+to
+the
+problem
+of
+proportion, and
+69
+-- 33 of 34 --
+by
+that
+time
+we
+will
+have
+left
+far
+behind
+us
+the
+mathematical
+ analogy,
+and
+the
+intriguing
+speculations
+which
+derive
+from
+it.
+And
+we
+will
+find
+that
+there
+is
+little
+to
+be
+said
+about
+the aesthetic
+significance
+of
+propor-
+tion until
+we
+ have
+ descended
+ from
+ the
+level
+ of
+abstraction
+ that
+the
+mathematical
+ theory
+requires.
+ When
+ we
+ have
+so
+descended, we
+ will
+find
+ ourselves with
+ a
+concept
+ of
+proportion
+ that
+ not
+ only
+is
+much
+altered
+ from
+ its
+Renaissance
+ incarnation, but
+ which
+ can
+ no
+ longer
+occupy
+the
+soverign
+place
+in
+architectural
+criticism that
+it
+once posses-
+sed.
+Until
+then,
+however,
+ we
+ must
+put
+the
+concept
+ to
+one
+ side.
+It
+is
+neither
+clear
+enough
+to
+provide
+a
+basis
+for
+criticism,
+nor
+comprehen-
+sive
+enough
+to
+summarize
+ our
+full
+experience
+ of
+architecture.
+CONCLUSION
+The theories that I have considered in this chapter are premature. They
+try to arrive at abstract principles of architectural success before giving
+a proper description of the experience which it qualifies. Clearly, if we
+are to think of the analysis of the object as casting light on the nature of
+appreciation, then we must consider the object only under its widest
+possible description. In Scholastic language, we must define not the
+material but the formal object of architectural interest and apprecia-
+tion: we must find the description under which an object must be seen
+and appreciated if it is to be appreciated as architecture.*’ Only in this
+way will we begin to characterize what is essential to our interest in
+building. None of the theories that I have discussed provides such a
+‘formal’ description, for each ignores some feature of architecture that
+is both intentional and centrally significant. Moreover, each pretends
+to ana priori status that it cannot justify, pretends, that is, to character-
+ize the essence of architecture and the core of our experience. We must
+now put these theories to one side, and see if we can approach that
+central core more directly.
+70
+-- 34 of 34 --

@@ -1,0 +1,2594 @@
+Kant and the Philosophy of Architecture
+Author(s): PAUL GUYER
+Source:
+The Journal of Aesthetics and Art Criticism, WINTER 2011, Vol. 69, No. 1,
+SPECIAL ISSUE: The Aesthetics of Architecture: Philosophical Investigations into the Art
+of Building (WINTER 2011), pp. 7-19
+Published by: Wiley on behalf of The American Society for Aesthetics
+Stable URL: https://www.jstor.org/stable/42635832
+REFERENCES
+:Linked references are available on JSTOR for this article
+https://www.jstor.org/stable/42635832?seq=1&cid=pdf-reference#references_tab_contents
+You may need to log in to JSTOR to access the linked references.
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+.facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+The American Society for Aesthetics and
+Wiley are collaborating with JSTOR to digitize, preserve and
+extend access to The Journal of Aesthetics and Art Criticism
+This content downloaded from
+216.47.157.192 on Sun, 12 Apr 2026 18:43:16 UTC
+All use subject to https://about.jstor.org/terms
+-- 1 of 14 --
+PAUL GUYER
+Kant and the Philosophy of Architecture
+I.BEFORE AND AFTER KANT
+Architecture does not loom large in Kant's aes-
+thetics, nor has Kant's thought about architecture,
+such as itis,loomed large in the history of thought
+about architecture. But there is a profound differ-
+ence in the philosophy of architecture-by which
+I mean here views about architecture in the writ-
+ings of canonical figures in the history of philoso-
+phy and philosophical aesthetics, not the broader
+body of professional writing that might go under
+the name of "architectural theory"-before and
+after Kant.1 Given the indisputable influence of
+Kant's aesthetics on the next epoch of the disci-
+pline, above all the aesthetics of German ideal-
+ism in the forty years following the publication of
+Kant's Critique of the Power ofJudgment in 1790,
+itthus seems natural to look for the shift in philo-
+sophical thinking about architecture within Kant's
+aesthetics. The shift is there to be found. The shift
+I have in mind is from an essentially Vitruvian
+conception of architecture, according to which its
+two chief goals are beauty and utility, to a cogni-
+tivist or expressivist conception of architecture, in
+which, like other forms of fine art, architecture is
+thought of as expressing and communicating ab-
+stract ideas, not just aiming for beauty and utility.
+The decisive factor in this turn, I would suggest, is
+Kant's thesis that all art involves the expression of
+"aesthetic ideas," that is,the expression of rational
+ideas in a form that yields inexhaustible material
+for the play of the imagination. But I will also
+argue that the range of forms that this general
+thought can take in the philosophy of architec-
+ture, from the thought that a work of architecture
+should express and communicate its own function
+to the thought that itshould express the nature of
+its structure and of the physical forces that under-
+lie that to the thought that a work of architecture
+should give expression to more abstract, meta-
+physical ideas, can be seen as a consequence of,or
+at least allowed by,Kant's own loose specification
+of just what sort of intellectual content aesthetic
+ideas have.
+To the extent that the philosophy of architec-
+ture might be thought to have had any influence
+on architectural theory, Kant might then be seen
+as responsible not only for the idea that architec-
+ture should express ideas but also for the com-
+peting views about what ideas architecture should
+express. Of course, as Hegel famously said, the owl
+of Minerva flies only at dusk, that is,philosophical
+analysis often follows changes in cultural or sci-
+entific practice rather than producing them, and
+expressivist developments in architectural prac-
+tice and theory may have preceded rather than
+succeeded the Kantian and post-Kantian shift
+to an expressivist philosophy of architecture-
+think of the executed and unrealized but pub-
+lished work of Etienne-Louis Boullée and Claude-
+Nicolas Ledoux from the 1770s, for example.2 But
+even ifthe Kantian shift in the philosophy of archi-
+tecture did not cause a shift in architecture proper,
+itcan at least be thought not to have closed off,
+but to have left open, competing conceptions of
+the intellectual ambitions and imperatives of ar-
+chitecture in architectural practice and theory.
+I will only briefly characterize the radically
+divergent tone of philosophies of architecture
+prior to and after Kant before I give my ac-
+count of Kant's own incidental yet influential
+thought about architecture. Philosophical thought
+about architecture before Kant, I asserted, was
+dominated by the Vitruvian paradigm. The Ten
+Books on Architecture of Marcus Vitruvius Pol-
+lio, thought to have been written between 33 and
+© 2011TheAmerican Society forAesthetics
+PAUL GUYER
+Kant and the Philosophy of Architecture
+I.BEFORE AND AFTER KANT
+Architecture does not loom large in Kant's aes-
+thetics, nor has Kant's thought about architecture,
+such as itis,loomed large in the history of thought
+about architecture. But there is a profound differ-
+ence in the philosophy of architecture-by which
+I mean here views about architecture in the writ-
+ings of canonical figures in the history of philoso-
+phy and philosophical aesthetics, not the broader
+body of professional writing that might go under
+the name of "architectural theory"-before and
+after Kant.1 Given the indisputable influence of
+Kant's aesthetics on the next epoch of the disci-
+pline, above all the aesthetics of German ideal-
+ism in the forty years following the publication of
+Kant's Critique of the Power ofJudgment in 1790,
+itthus seems natural to look for the shift in philo-
+sophical thinking about architecture within Kant's
+aesthetics. The shift is there to be found. The shift
+I have in mind is from an essentially Vitruvian
+conception of architecture, according to which its
+two chief goals are beauty and utility, to a cogni-
+tivist or expressivist conception of architecture, in
+which, like other forms of fine art, architecture is
+thought of as expressing and communicating ab-
+stract ideas, not just aiming for beauty and utility.
+The decisive factor in this turn, I would suggest, is
+Kant's thesis that all art involves the expression of
+"aesthetic ideas," that is,the expression of rational
+ideas in a form that yields inexhaustible material
+for the play of the imagination. But I will also
+argue that the range of forms that this general
+thought can take in the philosophy of architec-
+ture, from the thought that a work of architecture
+should express and communicate its own function
+to the thought that itshould express the nature of
+its structure and of the physical forces that under-
+lie that to the thought that a work of architecture
+should give expression to more abstract, meta-
+physical ideas, can be seen as a consequence of,or
+at least allowed by,Kant's own loose specification
+of just what sort of intellectual content aesthetic
+ideas have.
+To the extent that the philosophy of architec-
+ture might be thought to have had any influence
+on architectural theory, Kant might then be seen
+as responsible not only for the idea that architec-
+ture should express ideas but also for the com-
+peting views about what ideas architecture should
+express. Of course, as Hegel famously said, the owl
+of Minerva flies only at dusk, that is,philosophical
+analysis often follows changes in cultural or sci-
+entific practice rather than producing them, and
+expressivist developments in architectural prac-
+tice and theory may have preceded rather than
+succeeded the Kantian and post-Kantian shift
+to an expressivist philosophy of architecture-
+think of the executed and unrealized but pub-
+lished work of Etienne-Louis Boullée and Claude-
+Nicolas Ledoux from the 1770s, for example.2 But
+even ifthe Kantian shift in the philosophy of archi-
+tecture did not cause a shift in architecture proper,
+itcan at least be thought not to have closed off,
+but to have left open, competing conceptions of
+the intellectual ambitions and imperatives of ar-
+chitecture in architectural practice and theory.
+I will only briefly characterize the radically
+divergent tone of philosophies of architecture
+prior to and after Kant before I give my ac-
+count of Kant's own incidental yet influential
+thought about architecture. Philosophical thought
+about architecture before Kant, I asserted, was
+dominated by the Vitruvian paradigm. The Ten
+Books on Architecture of Marcus Vitruvius Pol-
+lio, thought to have been written between 33 and
+© 2011TheAmerican Society forAesthetics
+This content downloaded from
+216.47.157.192 on Sun, 12 Apr 2026 18:43:16 UTC
+All use subject to https://about.jstor.org/terms
+-- 2 of 14 --
+8 The Aesthetics of Architecture
+14 BCE, are primarily a manual on the siting, de-
+sign, and construction of public buildings of vari-
+ous types, from breakwaters and city walls to tem-
+ples and theaters, private villas, and construction
+machinery, and devote only a few introductory
+lines to what we might think of as philosophical
+and aesthetic theories of architecture.3 In Book I,
+Chapter II, under the heading "The Fundamen-
+tal Principles of Architecture," Vitruvius states
+that architecture depends on ordinatio, disposi-
+tioneurythmia, symmetria, decor, and distributio
+or oeceonomia,or (in the early twentieth-century
+translation of M. H. Morgan) "Order, Arrange-
+ment, Eurythmy, Symmetry, Propriety, and Econ-
+omy."4 In Book I, Chapter III, Vitruvius states
+that all types of building must be constructed "with
+due reference" io firmitas, utilitas,and venustas, or
+"durability, convenience, and beauty."5 The rela-
+tions between these two lists and the terms within
+them may be understood the following way. Firmi-
+tas or durability is not an aesthetic quality or merit,
+but a physical and historical quality of a building
+and its other properties: itis what allows a build-
+ing with its utilitas or convenience and venustas
+or beauty to endure and be enjoyed over time. So
+itis not a value in its own right but rather an in-
+strumental condition for the continued enjoyment
+of the intrinsic values of a building, convenience
+and beauty. Similarly, on the firstlist, economy
+is not so much an independent virtue of build-
+ings but rather the requirement to realize them
+and their other virtues as efficiently as possible,
+that is,as cheaply as possible relative to the requi-
+site durability of the structure: "Economy denotes
+the proper management of materials and of site,
+as well as a thrifty balancing of cost and com-
+mon sense in the construction of works."6 Order,
+arrangement, eurythmy, symmetry, and propriety
+are then left to realize the two more general goals
+of utility and beauty. More particularly, order, eu-
+rythmy, and symmetry all concern perceptible pro-
+portions among the shape, size, and number of the
+members of a building, features of its form that
+contribute to its beauty; arrangement concerns the
+layout or "groundplan" of the building, which con-
+tributes to its utility as well as to its beauty, and
+also the elevation of the building, which might
+be thought to contribute more to its beauty than
+to its convenience.7 And propriety concerns, to
+some extent, observation of traditional and there-
+fore beloved patterns for construction (use of the
+orders of columns and entablature, for example),
+but, more importantly, the proper design of the
+building for its intended function, such as the loca-
+tion of "sacred precincts" in "very healthy neigh-
+bourhoods with suitable springs of water" and the
+proper locations of bedrooms, libraries, baths, and
+picture galleries relative to sunlight.8 Thus, or-
+der, eurythmy, and symmetry contribute primarily
+to beauty, while arrangement and propriety con-
+tribute somewhat to beauty but more so to utility.
+The two basic values in architecture remain utility
+and beauty.
+This Vitruvian emphasis on utility and beauty
+as the two fundamental values of architecture re-
+mained prevalent in eighteenth-century philoso-
+phy of architecture prior to Kant. For illustration, I
+choose two authors who not only express this point
+with particular clarity but also who enjoyed enor-
+mous popularity and influence in their own times
+and places precisely because they gave such clear
+voice to widely held assumptions. I refer to Chris-
+tian Freiherr von Wolff in Germany and Henry
+Home, Lord Kames, in Britain, Wolff being the
+chief voice of the German Enlightenment until
+he was dethroned by Kant and Kames being the
+chief voice of the Scottish Enlightenment. Wolff
+(1679-1754) wrote an enormous series of text-
+books, beginning with logic and metaphysics and
+then covering every known field of theoretical and
+practical philosophy, firstin German and then, to
+reach a wider audience, and at even greater length,
+in Latin. In his Vernünftige Gedancken über Gott,
+der Welt, und der Seele des Menschen ("Ratio-
+nal Thoughts on God, the World, and the Soul of
+Man"), or "German Metaphysics," firstpublished
+in 1719, he used architectural examples to illus-
+trate his central conception of perfection, which
+he analyzed as the concordance of the parts of
+any object or action for the realization of its goal.
+But Wolff does not just manifest the Vitruvian
+paradigm in his use of architectural examples in
+his metaphysics; he also devoted an entire treatise
+to architecture in his four-volume encyclopedia
+of mathematics, which appeared both in German
+and in Latin. Here, Wolff begins his treatise on
+the Principles of Architecture with the claim that
+"architecture is a science for constructing a build-
+ing so that itis in complete correspondence with
+the intentions of the architect."9 This locates the
+harmony or agreement in which perfection always
+consists in the relation between the intentions of
+the architect and the building that results from
+his or her plans and supervision. However, as he
+8 The Aesthetics of Architecture
+14 BCE, are primarily a manual on the siting, de-
+sign, and construction of public buildings of vari-
+ous types, from breakwaters and city walls to tem-
+ples and theaters, private villas, and construction
+machinery, and devote only a few introductory
+lines to what we might think of as philosophical
+and aesthetic theories of architecture.3 In Book I,
+Chapter II, under the heading "The Fundamen-
+tal Principles of Architecture," Vitruvius states
+that architecture depends on ordinatio, disposi-
+tioneurythmia, symmetria, decor, and distributio
+or oeceonomia,or (in the early twentieth-century
+translation of M. H. Morgan) "Order, Arrange-
+ment, Eurythmy, Symmetry, Propriety, and Econ-
+omy."4 In Book I, Chapter III, Vitruvius states
+that all types of building must be constructed "with
+due reference" io firmitas, utilitas,and venustas, or
+"durability, convenience, and beauty."5 The rela-
+tions between these two lists and the terms within
+them may be understood the following way. Firmi-
+tas or durability is not an aesthetic quality or merit,
+but a physical and historical quality of a building
+and its other properties: itis what allows a build-
+ing with its utilitas or convenience and venustas
+or beauty to endure and be enjoyed over time. So
+itis not a value in its own right but rather an in-
+strumental condition for the continued enjoyment
+of the intrinsic values of a building, convenience
+and beauty. Similarly, on the firstlist, economy
+is not so much an independent virtue of build-
+ings but rather the requirement to realize them
+and their other virtues as efficiently as possible,
+that is,as cheaply as possible relative to the requi-
+site durability of the structure: "Economy denotes
+the proper management of materials and of site,
+as well as a thrifty balancing of cost and com-
+mon sense in the construction of works."6 Order,
+arrangement, eurythmy, symmetry, and propriety
+are then left to realize the two more general goals
+of utility and beauty. More particularly, order, eu-
+rythmy, and symmetry all concern perceptible pro-
+portions among the shape, size, and number of the
+members of a building, features of its form that
+contribute to its beauty; arrangement concerns the
+layout or "groundplan" of the building, which con-
+tributes to its utility as well as to its beauty, and
+also the elevation of the building, which might
+be thought to contribute more to its beauty than
+to its convenience.7 And propriety concerns, to
+some extent, observation of traditional and there-
+fore beloved patterns for construction (use of the
+orders of columns and entablature, for example),
+but, more importantly, the proper design of the
+building for its intended function, such as the loca-
+tion of "sacred precincts" in "very healthy neigh-
+bourhoods with suitable springs of water" and the
+proper locations of bedrooms, libraries, baths, and
+picture galleries relative to sunlight.8 Thus, or-
+der, eurythmy, and symmetry contribute primarily
+to beauty, while arrangement and propriety con-
+tribute somewhat to beauty but more so to utility.
+The two basic values in architecture remain utility
+and beauty.
+This Vitruvian emphasis on utility and beauty
+as the two fundamental values of architecture re-
+mained prevalent in eighteenth-century philoso-
+phy of architecture prior to Kant. For illustration, I
+choose two authors who not only express this point
+with particular clarity but also who enjoyed enor-
+mous popularity and influence in their own times
+and places precisely because they gave such clear
+voice to widely held assumptions. I refer to Chris-
+tian Freiherr von Wolff in Germany and Henry
+Home, Lord Kames, in Britain, Wolff being the
+chief voice of the German Enlightenment until
+he was dethroned by Kant and Kames being the
+chief voice of the Scottish Enlightenment. Wolff
+(1679-1754) wrote an enormous series of text-
+books, beginning with logic and metaphysics and
+then covering every known field of theoretical and
+practical philosophy, firstin German and then, to
+reach a wider audience, and at even greater length,
+in Latin. In his Vernünftige Gedancken über Gott,
+der Welt, und der Seele des Menschen ("Ratio-
+nal Thoughts on God, the World, and the Soul of
+Man"), or "German Metaphysics," firstpublished
+in 1719, he used architectural examples to illus-
+trate his central conception of perfection, which
+he analyzed as the concordance of the parts of
+any object or action for the realization of its goal.
+But Wolff does not just manifest the Vitruvian
+paradigm in his use of architectural examples in
+his metaphysics; he also devoted an entire treatise
+to architecture in his four-volume encyclopedia
+of mathematics, which appeared both in German
+and in Latin. Here, Wolff begins his treatise on
+the Principles of Architecture with the claim that
+"architecture is a science for constructing a build-
+ing so that itis in complete correspondence with
+the intentions of the architect."9 This locates the
+harmony or agreement in which perfection always
+consists in the relation between the intentions of
+the architect and the building that results from
+his or her plans and supervision. However, as he
+This content downloaded from
+216.47.157.192 on Sun, 12 Apr 2026 18:43:16 UTC
+All use subject to https://about.jstor.org/terms
+-- 3 of 14 --
+Guyer Kant and the Philosophy ofArchitecture 9
+proceeds, Wolff makes itclear that the intention
+of an architect is always to produce a structure
+that is both formally beautiful as well as useful
+and comfortable, so the perfection of the inten-
+tion can only be realized through the perfection
+of both form and utility in the building itself. Thus,
+Wolff argues on the one hand that "[a] building is
+space that is enclosed by art in order that certain
+functions can proceed there securely and unhin-
+dered," and that "[a] building is comfortable if
+all necessary functions can proceed within itwith-
+out hindrance and vexation."10 These definitions
+form the basis for a requirement of perfection in
+the utility of a building. On the other hand, how-
+ever, Wolff also introduces his standard definition
+of beauty, namely, that "[bjeauty is perfection or
+the necessary appearance thereof, insofar as the
+former or the latter is perceived, and causes a
+pleasure in us," and then asserts that "[a] build-
+ing must be constructed beautifully and decora-
+tively."11 This is the basis for the requirement of
+formal rather than utilitarian perfection in a build-
+ing. Through the remainder of the treatise, both
+conceptions of perfection are at work. Thus, Wolff
+argues that the parts of buildings should exem-
+plify certain proportions simply because they are
+pleasing to the eye, and he gives a lengthy analy-
+sis of the proportions of the five canonical orders
+of columns that is based throughout on the as-
+sumption that certain proportions simply appear
+more harmonious to us than others-this is indeed
+the rationale for Wolffs inclusion of this trea-
+tise in his mathematical compendium.12 But Wolff
+gives equal time to considerations of utility, begin-
+ning with a (Vitruvian) discussion of the correct
+use of building materials, continuing through dis-
+cussions of structural matters, such as that lower
+stories of columns must be heavier than higher
+ones because they carry more weight and that the
+pitch of roofs must be determined by balancing
+the need to shed rain and snow (which points to-
+ward a steeper pitch) with the weight of the roof
+itself (which would argue for less pitch), and con-
+cluding with discussions of such matters as (once
+again) the proper sizing of windows for both illu-
+mination and the human pleasure of looking out
+on the passing scene, the location of staircases for
+proper circulation, and the construction of priv-
+ies with proper ventilation and seats that can re-
+main clean. Our overall pleasure in a building,
+in other words, depends on both its beauty and
+utility.
+We find exactly the same assumption in the
+comments on architecture in the Elements of Crit-
+icism published by the Scottish jurist and man of
+letters Henry Home, Lord Kames, in 1761. Kames,
+a cousin of David Hume whose lordship came
+from his seat on the highest court of Scotland,
+published numerous works of jurisprudence and
+history, but his Elements of Criticism was one of
+the most widely read works of the Scottish En-
+lightenment and was certainly the mostly widely
+read work of the Scottish school of aesthetics un-
+til well into the nineteenth century. The general
+premise of Karnes's work is that we enjoy the un-
+hindered motion of the mind along what he calls
+"ideas in a train," and that beauty and other aes-
+thetic qualities facilitate such motion in one way
+or another; this idea may be regarded as one of
+the forerunners of Kant's conception of our plea-
+sure in beauty as due to the free play of imag-
+ination and understanding. But Kames does not
+make any explicit use of this thesis in his chapter
+on "Gardening and Architecture," which is the
+penultimate chapter of the lengthy Elements; by
+this point in the book, he must assume that the
+reader understands what beauty is. Instead, his
+point is that gardens and buildings, and their var-
+ious components, "may be destined for use solely,
+for beauty solely, or for both," thus that build-
+ings in particular may be distinguished "into three
+kinds, namely, what are intended for utility solely,
+what for ornament solely, and what for both."13
+Thus, Kames does not suggest that each work of
+architecture must possess both utility and beauty,
+but he does suggest that these two are the sole
+merits of architecture. He also suggests that itis
+typically easy to design works that are intended
+to be either merely useful or merely beautiful,
+and that "[t]he great difficulty of contrivance, re-
+spects buildings that are intended to be beauti-
+ful as well as ornamental."14 The greater part of
+his discussion thus concerns how these two goals
+are to be conjointly realized in the same objects.
+Like Wolff, he begins his illustration of this point
+with windows, doors, and stairs, mentioning how
+various aspects of them are determined by util-
+ity-since human beings are all pretty much the
+same size, for example, whether in a large build-
+ing or a small building, "[t]he steps of a stair ought
+to be accommodated to the human figure, with-
+out regarding any other proportion"-but yet con-
+siderations of utility must also be combined with
+the requirements of freedom-for example, while
+Guyer Kant and the Philosophy ofArchitecture 9
+proceeds, Wolff makes itclear that the intention
+of an architect is always to produce a structure
+that is both formally beautiful as well as useful
+and comfortable, so the perfection of the inten-
+tion can only be realized through the perfection
+of both form and utility in the building itself. Thus,
+Wolff argues on the one hand that "[a] building is
+space that is enclosed by art in order that certain
+functions can proceed there securely and unhin-
+dered," and that "[a] building is comfortable if
+all necessary functions can proceed within itwith-
+out hindrance and vexation."10 These definitions
+form the basis for a requirement of perfection in
+the utility of a building. On the other hand, how-
+ever, Wolff also introduces his standard definition
+of beauty, namely, that "[bjeauty is perfection or
+the necessary appearance thereof, insofar as the
+former or the latter is perceived, and causes a
+pleasure in us," and then asserts that "[a] build-
+ing must be constructed beautifully and decora-
+tively."11 This is the basis for the requirement of
+formal rather than utilitarian perfection in a build-
+ing. Through the remainder of the treatise, both
+conceptions of perfection are at work. Thus, Wolff
+argues that the parts of buildings should exem-
+plify certain proportions simply because they are
+pleasing to the eye, and he gives a lengthy analy-
+sis of the proportions of the five canonical orders
+of columns that is based throughout on the as-
+sumption that certain proportions simply appear
+more harmonious to us than others-this is indeed
+the rationale for Wolffs inclusion of this trea-
+tise in his mathematical compendium.12 But Wolff
+gives equal time to considerations of utility, begin-
+ning with a (Vitruvian) discussion of the correct
+use of building materials, continuing through dis-
+cussions of structural matters, such as that lower
+stories of columns must be heavier than higher
+ones because they carry more weight and that the
+pitch of roofs must be determined by balancing
+the need to shed rain and snow (which points to-
+ward a steeper pitch) with the weight of the roof
+itself (which would argue for less pitch), and con-
+cluding with discussions of such matters as (once
+again) the proper sizing of windows for both illu-
+mination and the human pleasure of looking out
+on the passing scene, the location of staircases for
+proper circulation, and the construction of priv-
+ies with proper ventilation and seats that can re-
+main clean. Our overall pleasure in a building,
+in other words, depends on both its beauty and
+utility.
+We find exactly the same assumption in the
+comments on architecture in the Elements of Crit-
+icism published by the Scottish jurist and man of
+letters Henry Home, Lord Kames, in 1761. Kames,
+a cousin of David Hume whose lordship came
+from his seat on the highest court of Scotland,
+published numerous works of jurisprudence and
+history, but his Elements of Criticism was one of
+the most widely read works of the Scottish En-
+lightenment and was certainly the mostly widely
+read work of the Scottish school of aesthetics un-
+til well into the nineteenth century. The general
+premise of Karnes's work is that we enjoy the un-
+hindered motion of the mind along what he calls
+"ideas in a train," and that beauty and other aes-
+thetic qualities facilitate such motion in one way
+or another; this idea may be regarded as one of
+the forerunners of Kant's conception of our plea-
+sure in beauty as due to the free play of imag-
+ination and understanding. But Kames does not
+make any explicit use of this thesis in his chapter
+on "Gardening and Architecture," which is the
+penultimate chapter of the lengthy Elements; by
+this point in the book, he must assume that the
+reader understands what beauty is. Instead, his
+point is that gardens and buildings, and their var-
+ious components, "may be destined for use solely,
+for beauty solely, or for both," thus that build-
+ings in particular may be distinguished "into three
+kinds, namely, what are intended for utility solely,
+what for ornament solely, and what for both."13
+Thus, Kames does not suggest that each work of
+architecture must possess both utility and beauty,
+but he does suggest that these two are the sole
+merits of architecture. He also suggests that itis
+typically easy to design works that are intended
+to be either merely useful or merely beautiful,
+and that "[t]he great difficulty of contrivance, re-
+spects buildings that are intended to be beauti-
+ful as well as ornamental."14 The greater part of
+his discussion thus concerns how these two goals
+are to be conjointly realized in the same objects.
+Like Wolff, he begins his illustration of this point
+with windows, doors, and stairs, mentioning how
+various aspects of them are determined by util-
+ity-since human beings are all pretty much the
+same size, for example, whether in a large build-
+ing or a small building, "[t]he steps of a stair ought
+to be accommodated to the human figure, with-
+out regarding any other proportion"-but yet con-
+siderations of utility must also be combined with
+the requirements of freedom-for example, while
+This content downloaded from
+216.47.157.192 on Sun, 12 Apr 2026 18:43:16 UTC
+All use subject to https://about.jstor.org/terms
+-- 4 of 14 --
+10 The Aesthetics of Architecture
+"[t]he height of a room exceeding nine or ten feet,
+has little or no relation to utility," considerations
+of proportion, that is,beauty, will often require
+a greater height than that, indeed "proportion is
+the only rule for determining a greater height."15
+A great hall with a low ceiling would just appear
+mean and ugly even ifitwas as useful as one with
+a higher ceiling.16 Indeed, Karnes does acknowl-
+edge that architecture can strive for "grandeur"
+as well as utility-"Of all the emotions that can be
+raised by architecture, grandeur is that which has
+the greatest influence on the mind; and itought
+therefore to be the chief study of the artist, to
+raise this emotion in great buildings destined to
+please the eye"-and for Kames, grandeur is a dif-
+ferent property from beauty.17 But like beauty, as
+Karnes's words indicate, grandeur is "destined to
+please the eye," and so itcan be regarded as a
+purely aesthetic property distinct from utility. The
+point remains that for Kames the most complex
+works of architecture aim to combine utility on
+the one hand with more purely aesthetic proper-
+ties such as beauty and grandeur on the other.
+One point on which Kames seems to go be-
+yond both Vitruvius and Wolff and to point to-
+ward post-Kantian philosophies of architecture
+is his statement "[t]hat every building ought to
+have an expression corresponding to its destina-
+tion: A palace ought to be sumptuous and grand;
+a private dwelling, neat and modest; a play-house,
+gay and splendid; and a monument, gloomy and
+melancholy. ... A Christian church . . . ought ... to
+be decent and plain, without much ornament . . .
+because the congregation, during worship, ought
+to be humble, and disengaged from the world."18
+Here itmight seem as ifKames is supposing that
+buildings ought to express ideas or moods inde-
+pendently of both their utility and their beauty.
+But even though he uses the term 'expression,'
+which might be taken to imply such a conclusion,
+his point is rather that buildings must encourage
+certain moods in order properly to serve theirfunc-
+tions, in other words, for the sake of utility in a
+broad sense. Thus, he introduces the comments
+just quoted with these sentences:
+Regularity and proportion are essential inbuildings des-
+tined chiefly or solely to please theeye, because they
+produce intrinsic beauty. But a skilful artist will not con-
+finehis view to regularity and proportion; he will also
+studycongruity, which isperceived when the formand
+ornaments ofa structure are suited to thepurpose for
+which itisintended. The sense ofcongruity dictates the
+following rule,That every building have an expression
+corresponding to itsdestination.19
+In other words, having both structure and orna-
+ment that will produce a certain emotion or mood
+in its inhabitants or visitors is part of what is nec-
+essary for the utility of a building-a church that
+does not promote the feeling of humbleness is
+just not serving its intended purpose very well.
+Thus, in spite of recognizing the emotional aspect
+of the experience of architecture, Kames remains
+well within the Vitruvian paradigm that utility and
+beauty are its two goals.
+How different things look a few decades later,
+after Kant. Let us look at the views expressed
+about architecture by the three leading aestheti-
+cians of post-Kantian German idealism, namely,
+F. W. J. Schelling, Arthur Schopenhauer, and
+G. W. F. Hegel. In his System of Transcendental
+Philosophy (1800), Schelling famously described
+art (in general) as the "universal organ of phi-
+losophy," more truthful than philosophy itself,
+because it is the product and expression of the
+"identity of the conscious and the unconscious in
+the self, and consciousness of this identity."20 Two
+years later, in the winter semester of 1802-1803,
+Schelling gave a set of lectures on the philoso-
+phy of art at Jena, which he repeated in Würzburg
+in 1804-1805; these were only published posthu-
+mously in 1859, but they were widely enough re-
+ported to have been influential long before that.21
+In these lectures, Schelling replaced his earlier
+contrast between the conscious and the uncon-
+scious with a contrast between the real and the
+ideal, roughly the material and the mental, and ar-
+gued that both philosophy and art each combine
+both, though with an emphasis on the mental in
+philosophy and the material in art, although art
+is never merely material but uses the material to
+bring out the mental nature of reality. The arts
+differ in how real or material they are, with liter-
+ature obviously being the least dependent on the
+material media in which itis recorded and com-
+municated and architecture, needless to say, being
+intimately involved with and dependent upon the
+material realm. But in order to count as an art at
+all, architecture must de-emphasize its own ma-
+teriality and emphasize the ideal, or intellectual
+content. Schelling puts this point by radically de-
+parting from the Vitruvian paradigm: instead of
+combining utility and beauty, architecture must
+10 The Aesthetics of Architecture
+"[t]he height of a room exceeding nine or ten feet,
+has little or no relation to utility," considerations
+of proportion, that is,beauty, will often require
+a greater height than that, indeed "proportion is
+the only rule for determining a greater height."15
+A great hall with a low ceiling would just appear
+mean and ugly even ifitwas as useful as one with
+a higher ceiling.16 Indeed, Karnes does acknowl-
+edge that architecture can strive for "grandeur"
+as well as utility-"Of all the emotions that can be
+raised by architecture, grandeur is that which has
+the greatest influence on the mind; and itought
+therefore to be the chief study of the artist, to
+raise this emotion in great buildings destined to
+please the eye"-and for Kames, grandeur is a dif-
+ferent property from beauty.17 But like beauty, as
+Karnes's words indicate, grandeur is "destined to
+please the eye," and so itcan be regarded as a
+purely aesthetic property distinct from utility. The
+point remains that for Kames the most complex
+works of architecture aim to combine utility on
+the one hand with more purely aesthetic proper-
+ties such as beauty and grandeur on the other.
+One point on which Kames seems to go be-
+yond both Vitruvius and Wolff and to point to-
+ward post-Kantian philosophies of architecture
+is his statement "[t]hat every building ought to
+have an expression corresponding to its destina-
+tion: A palace ought to be sumptuous and grand;
+a private dwelling, neat and modest; a play-house,
+gay and splendid; and a monument, gloomy and
+melancholy. ... A Christian church . . . ought ... to
+be decent and plain, without much ornament . . .
+because the congregation, during worship, ought
+to be humble, and disengaged from the world."18
+Here itmight seem as ifKames is supposing that
+buildings ought to express ideas or moods inde-
+pendently of both their utility and their beauty.
+But even though he uses the term 'expression,'
+which might be taken to imply such a conclusion,
+his point is rather that buildings must encourage
+certain moods in order properly to serve theirfunc-
+tions, in other words, for the sake of utility in a
+broad sense. Thus, he introduces the comments
+just quoted with these sentences:
+Regularity and proportion are essential inbuildings des-
+tined chiefly or solely to please theeye, because they
+produce intrinsic beauty. But a skilful artist will not con-
+finehis view to regularity and proportion; he will also
+studycongruity, which isperceived when the formand
+ornaments ofa structure are suited to thepurpose for
+which itisintended. The sense ofcongruity dictates the
+following rule,That every building have an expression
+corresponding to itsdestination.19
+In other words, having both structure and orna-
+ment that will produce a certain emotion or mood
+in its inhabitants or visitors is part of what is nec-
+essary for the utility of a building-a church that
+does not promote the feeling of humbleness is
+just not serving its intended purpose very well.
+Thus, in spite of recognizing the emotional aspect
+of the experience of architecture, Kames remains
+well within the Vitruvian paradigm that utility and
+beauty are its two goals.
+How different things look a few decades later,
+after Kant. Let us look at the views expressed
+about architecture by the three leading aestheti-
+cians of post-Kantian German idealism, namely,
+F. W. J. Schelling, Arthur Schopenhauer, and
+G. W. F. Hegel. In his System of Transcendental
+Philosophy (1800), Schelling famously described
+art (in general) as the "universal organ of phi-
+losophy," more truthful than philosophy itself,
+because it is the product and expression of the
+"identity of the conscious and the unconscious in
+the self, and consciousness of this identity."20 Two
+years later, in the winter semester of 1802-1803,
+Schelling gave a set of lectures on the philoso-
+phy of art at Jena, which he repeated in Würzburg
+in 1804-1805; these were only published posthu-
+mously in 1859, but they were widely enough re-
+ported to have been influential long before that.21
+In these lectures, Schelling replaced his earlier
+contrast between the conscious and the uncon-
+scious with a contrast between the real and the
+ideal, roughly the material and the mental, and ar-
+gued that both philosophy and art each combine
+both, though with an emphasis on the mental in
+philosophy and the material in art, although art
+is never merely material but uses the material to
+bring out the mental nature of reality. The arts
+differ in how real or material they are, with liter-
+ature obviously being the least dependent on the
+material media in which itis recorded and com-
+municated and architecture, needless to say, being
+intimately involved with and dependent upon the
+material realm. But in order to count as an art at
+all, architecture must de-emphasize its own ma-
+teriality and emphasize the ideal, or intellectual
+content. Schelling puts this point by radically de-
+parting from the Vitruvian paradigm: instead of
+combining utility and beauty, architecture must
+This content downloaded from
+216.47.157.192 on Sun, 12 Apr 2026 18:43:16 UTC
+All use subject to https://about.jstor.org/terms
+-- 5 of 14 --
+Guyer Kant and the Philosophy ofArchitecture 11
+demote utility to a mere condition of its beauty,
+not a goal in its own right, and beauty in turn is
+understood as the expression of something intel-
+lectual. Schelling puts the firstpoint plainly:
+Architecture ... would not be fineartifitaddressed
+merely need and utility. For architecture as fineart,how-
+ever, utility and thereference to need are themselves
+onlycondition,not principle. Every mode ofartisbound
+toa specific form ofappearance existing more or less in-
+dependently ofit,and only thefactthatartputs into
+thisform theimpression and image ofbeauty elevates it
+tofineart.Hence, as regards architecture, precisely the
+expediency istheformoftheappearance, but not the
+essence.22
+The term 'form' has been used in a myriad of ways
+in the history of aesthetics and philosophy more
+generally, of course, but here, contrasted to 'es-
+sential,' itpretty clearly means inessential: serving
+some need (of a client or patron) is of course what
+ittakes to get a building from drawing board to
+construction, but itis not, in Schelling's view, what
+architecture is really about.
+Schelling's second point, that the primary pur-
+pose of architecture is intellectual, the expres-
+sion of some idea, is more obscurely put. He
+next says that "[i]t was earlier proved that na-
+ture, science, and art in their various stages ob-
+serve the sequence from the schematic to the al-
+legorical and from there to the symbolic," that
+"[t]he most primal sequence is numbers," and that
+"[architecture, as the music of the plastic arts, thus
+necessarily follows arithmetical relationships."23
+This suggests that what architecture should ex-
+press or symbolize is mathematical relationships.
+Thus, insofar as its beauty lies in its expression, its
+beauty lies in its expression of mathematical rela-
+tionships, and that should be the primary goal of
+the architect. In spite of the metaphysical route
+to this conclusion, the result would in fact be
+a version of formalism in an ordinary sense of
+that term. However, several pages later, Schelling
+states, with emphasis, that "[a]rchitecture, in or-
+der to be fine art,must portray the purposiveness
+within itself as an objective purposiveness, that is,
+as the objective identity between concept and thing,
+the subjective and objective." His "proof" for this
+assertion is merely the general statement that "art
+as such is merely the objective or real portrayal or
+representation of the identity of the universal and
+the particular, of the subjective and the objective
+such that these appear as one in the portrayed ob-
+ject itself," and itis certainly not clear how this
+leads to the claim that architecture must portray
+the "purposiveness within itself" or exactly what
+that conclusion is supposed to mean.24 One thing
+that itcould be taken to mean, however, is that
+a work of architecture should portray, symbolize,
+or otherwise express itsown purpose or intended
+function, thus that the functionality or utility of a
+work of architecture is not its primary goal and
+source of beauty, but that its expression of its own
+function is.Thus, each building type-a temple, a
+church, a palace, and so on-should not merely
+serve its function, but also should express its func-
+tion. In his metaphysical way, Schelling thus seems
+to state the premise that already informed the
+projects of such architects as Boullée and Ledoux.
+Arthur Schopenhauer was deeply influenced by
+Schelling's opposition of the conscious and the
+unconscious, but in his magnum opus The World
+as Will and Representation (1819), he gave ithis
+own unique twist: applying itto Kant's distinction
+between appearance and thing in itself, he identi-
+fied appearance with consciousness of the particu-
+lars and the in-itself with a single unconscious and
+nonrational will manifesting itself in the particu-
+lars of the phenomenal world. He then overlaid
+this metaphysics with an ethical doctrine accord-
+ing to which self-identification with the world of
+particulars is the source of nothing but misery and
+frustration, for in that world the satisfaction of
+one personal desire leads only to the emergence
+of another, not yet satisfied desire, and content-
+ment, ifnot exactly happiness, can be found only
+in detachment from the sensible world and self-
+identification instead with the common, underly-
+ing will, which makes everything personal seem
+meaningless. He then famously argued that aes-
+thetic experience is at least a preliminary step to
+such contentment, for in such experience the ordi-
+nary human subject becomes, at least momentar-
+ily,a "pure will-less, painless, timeless, subject of
+knowledge" because the object of such experience
+is not an "individual thing as such," part of the
+frustrating phenomenal world of particulars, "but
+the Idea, the eternal form, the immediate objec-
+tivity of the will at this grade." In aesthetic expe-
+rience, the particular thing at one stroke becomes
+"the Idea of its species, and the perceiving indi-
+vidual becomes the pure subject of knowing"25
+By contemplating the various forms in which the
+will manifests itself in particular things, the human
+Guyer Kant and the Philosophy ofArchitecture 11
+demote utility to a mere condition of its beauty,
+not a goal in its own right, and beauty in turn is
+understood as the expression of something intel-
+lectual. Schelling puts the firstpoint plainly:
+Architecture ... would not be fineartifitaddressed
+merely need and utility. For architecture as fineart,how-
+ever, utility and thereference to need are themselves
+onlycondition,not principle. Every mode ofartisbound
+toa specific form ofappearance existing more or less in-
+dependently ofit,and only thefactthatartputs into
+thisform theimpression and image ofbeauty elevates it
+tofineart.Hence, as regards architecture, precisely the
+expediency istheformoftheappearance, but not the
+essence.22
+The term 'form' has been used in a myriad of ways
+in the history of aesthetics and philosophy more
+generally, of course, but here, contrasted to 'es-
+sential,' itpretty clearly means inessential: serving
+some need (of a client or patron) is of course what
+ittakes to get a building from drawing board to
+construction, but itis not, in Schelling's view, what
+architecture is really about.
+Schelling's second point, that the primary pur-
+pose of architecture is intellectual, the expres-
+sion of some idea, is more obscurely put. He
+next says that "[i]t was earlier proved that na-
+ture, science, and art in their various stages ob-
+serve the sequence from the schematic to the al-
+legorical and from there to the symbolic," that
+"[t]he most primal sequence is numbers," and that
+"[architecture, as the music of the plastic arts, thus
+necessarily follows arithmetical relationships."23
+This suggests that what architecture should ex-
+press or symbolize is mathematical relationships.
+Thus, insofar as its beauty lies in its expression, its
+beauty lies in its expression of mathematical rela-
+tionships, and that should be the primary goal of
+the architect. In spite of the metaphysical route
+to this conclusion, the result would in fact be
+a version of formalism in an ordinary sense of
+that term. However, several pages later, Schelling
+states, with emphasis, that "[a]rchitecture, in or-
+der to be fine art,must portray the purposiveness
+within itself as an objective purposiveness, that is,
+as the objective identity between concept and thing,
+the subjective and objective." His "proof" for this
+assertion is merely the general statement that "art
+as such is merely the objective or real portrayal or
+representation of the identity of the universal and
+the particular, of the subjective and the objective
+such that these appear as one in the portrayed ob-
+ject itself," and itis certainly not clear how this
+leads to the claim that architecture must portray
+the "purposiveness within itself" or exactly what
+that conclusion is supposed to mean.24 One thing
+that itcould be taken to mean, however, is that
+a work of architecture should portray, symbolize,
+or otherwise express itsown purpose or intended
+function, thus that the functionality or utility of a
+work of architecture is not its primary goal and
+source of beauty, but that its expression of its own
+function is.Thus, each building type-a temple, a
+church, a palace, and so on-should not merely
+serve its function, but also should express its func-
+tion. In his metaphysical way, Schelling thus seems
+to state the premise that already informed the
+projects of such architects as Boullée and Ledoux.
+Arthur Schopenhauer was deeply influenced by
+Schelling's opposition of the conscious and the
+unconscious, but in his magnum opus The World
+as Will and Representation (1819), he gave ithis
+own unique twist: applying itto Kant's distinction
+between appearance and thing in itself, he identi-
+fied appearance with consciousness of the particu-
+lars and the in-itself with a single unconscious and
+nonrational will manifesting itself in the particu-
+lars of the phenomenal world. He then overlaid
+this metaphysics with an ethical doctrine accord-
+ing to which self-identification with the world of
+particulars is the source of nothing but misery and
+frustration, for in that world the satisfaction of
+one personal desire leads only to the emergence
+of another, not yet satisfied desire, and content-
+ment, ifnot exactly happiness, can be found only
+in detachment from the sensible world and self-
+identification instead with the common, underly-
+ing will, which makes everything personal seem
+meaningless. He then famously argued that aes-
+thetic experience is at least a preliminary step to
+such contentment, for in such experience the ordi-
+nary human subject becomes, at least momentar-
+ily,a "pure will-less, painless, timeless, subject of
+knowledge" because the object of such experience
+is not an "individual thing as such," part of the
+frustrating phenomenal world of particulars, "but
+the Idea, the eternal form, the immediate objec-
+tivity of the will at this grade." In aesthetic expe-
+rience, the particular thing at one stroke becomes
+"the Idea of its species, and the perceiving indi-
+vidual becomes the pure subject of knowing"25
+By contemplating the various forms in which the
+will manifests itself in particular things, the human
+This content downloaded from
+216.47.157.192 on Sun, 12 Apr 2026 18:43:16 UTC
+All use subject to https://about.jstor.org/terms
+-- 6 of 14 --
+12 The Aesthetics of Architecture
+being is supposed to be able to detach himself or
+herself from those particular things and his or her
+always frustrated desires for them, at least for a
+time. Schopenhauer then argues that different arts
+express different aspects or "Ideas" of reality as
+the objectification of the will. Architecture is the
+firstart because itexpresses "Ideas that are the
+lowest grades of the will's objectivity": because of
+his view that the function of art is to free us from
+all our concerns with the practical, he agrees with
+Schelling that the goal of architecture cannot be
+mere utility, but instead of inferring from this that
+works of architecture should express their own
+purposes, he instead holds that their function is to
+present the "Ideas" or express the nature of most
+elementary forces of the physical world. Thus, he
+writes,
+Now ifwe consider architecture merely as a fineartand
+apart fromitsprovision foruseful purposes, inwhich it
+serves thewilland not pure knowledge, and thus isno
+longer artinour sense, we can assign itno purpose other
+than thatofbringing to clearer perceptiveness some of
+those Ideas thatare the lowest grades of the will's objec-
+tivity. Such Ideas are gravity, cohesion, rigidity, hardness,
+those universal qualities of stone, those first, simplest,
+and dullest visibilities of the will,the fundamental bass-
+notes of nature; and along withthese, light,which is
+inmany respects theiropposite. Even at thislow stage
+ofthewill's objectivity, we see itsinner nature reveal-
+ing itself indiscord; for,properly speaking, theconflict
+between gravity and rigidity isthe sole aesthetic ma-
+terial ofarchitecture. ... From what has been said, it
+isabsolutely necessary foran understanding and aes-
+thetic enjoyment ofa work ofarchitecture to have direct
+knowledge through perception of itsmatter as regards
+itsweight, rigidity, and cohesion.26
+In other words, the conclusion that Schopenhauer
+draws from his complicated metaphysical and eth-
+ical argument is that works of architecture should
+express not their own function, but rather the na-
+ture of their own construction and the physical
+forces involved in and affecting that construction;
+by his own idiosyncratic route he reaches a con-
+clusion that we associate with Eugène-Emmanuel
+Viollet-le-Duc and John Ruskin later in the nine-
+teenth century and with classical modernists of
+the mid-twentieth century, such as Walter Gropius
+and Ludwig Mies van der Rohe.
+Yet another variant of an expressivist approach
+to architecture is found in Hegel. Hegel initially
+developed his philosophy in close contact with
+his former schoolmate Schelling, but he eventu-
+ally gave it his own terminology: for Hegel, re-
+ality and its history are constituted not by the
+struggle between the conscious and the uncon-
+scious but by "Spirit" coming to know itself; but
+unlike Schopenhauer, who despised him for this
+difference, for Hegel what thus gradually man-
+ifests itself in natural and human history is not
+nonrational will but reason itself: "the rational,
+which is synonymous with the Idea, becomes ac-
+tual by entering into external existence," where
+"it emerges in an infinite wealth of forms, appear-
+ances, and shapes and surrounds its core with a
+brightly colored covering in which consciousness
+at firstarises, but which only the concept can pen-
+etrate in order to find the inner pulse," and "[t]o
+recognize reason as the rose in the cross of the
+present and thereby to delight in the present-this
+rational insight is the reconciliation with actuality
+which philosophy grants to those who have re-
+ceived the inner call to comprehend."27 This view,
+which Hegel firstdeveloped in his Phenomenol-
+ogy of the Spirit (1807) and then elaborated in
+his Science of Logic (1812-1816) and Encyclope-
+dia of Philosophical Sciences (1817), became the
+foundation for the lectures on aesthetics that he
+gave from 1818 (in Heidelberg) to 1829 (in Berlin),
+which were edited, amplified, and posthumously
+published by his student H. G. Hotho in 1835.28
+Hegel's view is that "spirit alone is the true ... so
+that everything beautiful is truly beautiful only as
+sharing in this higher sphere and generated by it,"
+and that "[t]he beauty of art is beauty born of the
+spirit and born again" that is,all beauty is a man-
+ifestation of "spirit" in general but artistic beauty
+is the spirit in general made visible by spirit in par-
+ticular, that is,human artists with their particular
+mentalities and capabilities.29 By spirit in general,
+Hegel means both reason and its personification
+in the idea of the divine, and thus fine art
+only fulfils itssupreme task when ithas placed itselfin
+thesame sphere as religion and philosophy, and when it
+issimply one way ofbringing to our minds and express-
+ing the Divine,the deepest interests of mankind, and the
+most comprehensive truths of the spirit. ... Art shares
+thisvocation withreligion and philosophy, but ina spe-
+cial way,namely bydisplaying even the highest [reality]
+sensuously, bringing itthereby nearer to thesenses, to
+feeling, and to nature's mode ofoccurrence.30
+But the fact that art gives sensuous representation
+to the ideas of the spirit or the divine is both the
+12 The Aesthetics of Architecture
+being is supposed to be able to detach himself or
+herself from those particular things and his or her
+always frustrated desires for them, at least for a
+time. Schopenhauer then argues that different arts
+express different aspects or "Ideas" of reality as
+the objectification of the will. Architecture is the
+firstart because itexpresses "Ideas that are the
+lowest grades of the will's objectivity": because of
+his view that the function of art is to free us from
+all our concerns with the practical, he agrees with
+Schelling that the goal of architecture cannot be
+mere utility, but instead of inferring from this that
+works of architecture should express their own
+purposes, he instead holds that their function is to
+present the "Ideas" or express the nature of most
+elementary forces of the physical world. Thus, he
+writes,
+Now ifwe consider architecture merely as a fineartand
+apart fromitsprovision foruseful purposes, inwhich it
+serves thewilland not pure knowledge, and thus isno
+longer artinour sense, we can assign itno purpose other
+than thatofbringing to clearer perceptiveness some of
+those Ideas thatare the lowest grades of the will's objec-
+tivity. Such Ideas are gravity, cohesion, rigidity, hardness,
+those universal qualities of stone, those first, simplest,
+and dullest visibilities of the will,the fundamental bass-
+notes of nature; and along withthese, light,which is
+inmany respects theiropposite. Even at thislow stage
+ofthewill's objectivity, we see itsinner nature reveal-
+ing itself indiscord; for,properly speaking, theconflict
+between gravity and rigidity isthe sole aesthetic ma-
+terial ofarchitecture. ... From what has been said, it
+isabsolutely necessary foran understanding and aes-
+thetic enjoyment ofa work ofarchitecture to have direct
+knowledge through perception of itsmatter as regards
+itsweight, rigidity, and cohesion.26
+In other words, the conclusion that Schopenhauer
+draws from his complicated metaphysical and eth-
+ical argument is that works of architecture should
+express not their own function, but rather the na-
+ture of their own construction and the physical
+forces involved in and affecting that construction;
+by his own idiosyncratic route he reaches a con-
+clusion that we associate with Eugène-Emmanuel
+Viollet-le-Duc and John Ruskin later in the nine-
+teenth century and with classical modernists of
+the mid-twentieth century, such as Walter Gropius
+and Ludwig Mies van der Rohe.
+Yet another variant of an expressivist approach
+to architecture is found in Hegel. Hegel initially
+developed his philosophy in close contact with
+his former schoolmate Schelling, but he eventu-
+ally gave it his own terminology: for Hegel, re-
+ality and its history are constituted not by the
+struggle between the conscious and the uncon-
+scious but by "Spirit" coming to know itself; but
+unlike Schopenhauer, who despised him for this
+difference, for Hegel what thus gradually man-
+ifests itself in natural and human history is not
+nonrational will but reason itself: "the rational,
+which is synonymous with the Idea, becomes ac-
+tual by entering into external existence," where
+"it emerges in an infinite wealth of forms, appear-
+ances, and shapes and surrounds its core with a
+brightly colored covering in which consciousness
+at firstarises, but which only the concept can pen-
+etrate in order to find the inner pulse," and "[t]o
+recognize reason as the rose in the cross of the
+present and thereby to delight in the present-this
+rational insight is the reconciliation with actuality
+which philosophy grants to those who have re-
+ceived the inner call to comprehend."27 This view,
+which Hegel firstdeveloped in his Phenomenol-
+ogy of the Spirit (1807) and then elaborated in
+his Science of Logic (1812-1816) and Encyclope-
+dia of Philosophical Sciences (1817), became the
+foundation for the lectures on aesthetics that he
+gave from 1818 (in Heidelberg) to 1829 (in Berlin),
+which were edited, amplified, and posthumously
+published by his student H. G. Hotho in 1835.28
+Hegel's view is that "spirit alone is the true ... so
+that everything beautiful is truly beautiful only as
+sharing in this higher sphere and generated by it,"
+and that "[t]he beauty of art is beauty born of the
+spirit and born again" that is,all beauty is a man-
+ifestation of "spirit" in general but artistic beauty
+is the spirit in general made visible by spirit in par-
+ticular, that is,human artists with their particular
+mentalities and capabilities.29 By spirit in general,
+Hegel means both reason and its personification
+in the idea of the divine, and thus fine art
+only fulfils itssupreme task when ithas placed itselfin
+thesame sphere as religion and philosophy, and when it
+issimply one way ofbringing to our minds and express-
+ing the Divine,the deepest interests of mankind, and the
+most comprehensive truths of the spirit. ... Art shares
+thisvocation withreligion and philosophy, but ina spe-
+cial way,namely bydisplaying even the highest [reality]
+sensuously, bringing itthereby nearer to thesenses, to
+feeling, and to nature's mode ofoccurrence.30
+But the fact that art gives sensuous representation
+to the ideas of the spirit or the divine is both the
+This content downloaded from
+216.47.157.192 on Sun, 12 Apr 2026 18:43:16 UTC
+All use subject to https://about.jstor.org/terms
+-- 7 of 14 --
+Guyer Kant and the Philosophy ofArchitecture 13
+glory and also the doom of art, "[f]or precisely
+on account of its form, art is limited to a specific
+content." "Only one sphere and stage of truth is
+capable of being represented in the element of
+art," namely, an understanding of the nature of
+thought, reason, or divinity in physical imagery or
+symbolism that is ultimately incapable of compre-
+hending the true nature of spirit and thus must
+eventually give way to religion and even more so
+to philosophy, because religion also is still too de-
+pendent upon imagery and too tied up with art
+to yield "absolute knowing" of the spirit.31 This is
+why "art, considered in its highest vocation, is and
+remains for us a thing of the past," even though
+people will still go on building, painting, and poet-
+izing, but necessarily for lower "vocations."32 This
+is Hegel's notorious thesis of the "death of art."
+That art is necessarily an expression of ideas
+about the spirit but also necessarily an inadequate
+expression of an adequate conception of the spirit
+or at best an adequate expression of an inadequate
+conception of the spirit is particularly evident in
+Hegel's treatment of architecture. Hegel regards
+architecture as having begun with the crudely sym-
+bolic representation of crudely symbolic concep-
+tions of the spirit, as in "the constructions of older
+art in Babylonia, India, and Egypt," and as hav-
+ing reached its apogee in classical architecture, in
+the form of the Greek temple, where the temple
+serves as the housing for the representation of a
+god in the human form of the statue that sits at
+its heart.33 But such a representation of divinity,
+although better than the purely symbolic forms
+of earlier antiquity, is still inadequate to an ul-
+timately philosophical understanding of spirit as
+reason, and in any case in the classical temple
+"the spiritual meaning does not reside exclusively
+in the building . . . but in the fact that this mean-
+ing has already attained its existence in freedom
+outside architecture," that is,in the statue that
+the temple houses.34 Christian architecture, with
+its domes or Gothic arches, points toward a more
+adequate conception of spirit, but in so doing, it
+also begins to dissolve the "immediate" unity of
+classical architecture. Thus, architecture necessar-
+ily tries to express a profound, metaphysical idea,
+but is equally necessarily undermined by its in-
+escapable attempt to do so.
+In post-Kantian idealism, we thus find a uni-
+form acceptance of the view that the goal of archi-
+tecture is by no means simply to combine utility
+with beauty, but is rather to express some idea
+or ideas, with functionality being at most a nec-
+essary condition but not part of the achievement
+of the goal of the art and with beauty itself be-
+ing redefined as expression rather than anything
+more formal. This general view, as we have seen,
+takes different forms: in Schelling the thought is
+that a building should express its own function,
+in Schopenhauer that itshould express the nature
+of its own construction and the physical forces on
+which that depends, and in Hegel that itshould ex-
+press metaphysical ideas about divinity and spirit
+itself. All of these views have been prominent in
+later philosophy of architecture and architectural
+theory, but our question here is how such views
+so rapidly replaced the Vitruvian paradigm that
+dominated eighteenth-century philosophy of ar-
+chitecture. To see how this transition came about,
+we must now at last turn to Kant.
+II. kant's views about architecture
+As I said at the outset, architecture does not loom
+large in Kant's own exposition of his aesthetic the-
+ory. But his general philosophy of fine art would
+have profound implications for the subsequent
+philosophy of architecture, and architectural ex-
+amples, or the example of architecture in gen-
+eral, figure in significantly different ways at crucial
+stages in Kant's overall argument. So let us now
+see what Kant says explicitly about architecture
+as well as how his general philosophy of fine art
+bears on the philosophy of architecture.
+Kant expounds his aesthetic theory in the form
+of a "critique of taste" and begins his exposi-
+tion with the simplest form of judgments of taste,
+namely, judgments of beauty, paradigmatically the
+beauty of individual natural objects or works of
+decorative rather than fine art, that is,works of
+art that do not have content and meaning.35 He
+proposes firstthat our pleasure in beauty is dis-
+interested, thus that our pleasure in a beautiful
+object is not dependent upon the judgment that it
+serves any function in which we have an interest.
+Such a judgment would of course presuppose a
+concept of the function an object is supposed to
+serve, so Kant excludes any concept of the func-
+tion of an object from playing a role in the paradig-
+matic judgment of beauty. In the next step of his
+argument he generalizes this conclusion into the
+exclusion of any concept whatsoever from playing
+a role in a paradigmatic judgment of beauty. Yet
+Guyer Kant and the Philosophy ofArchitecture 13
+glory and also the doom of art, "[f]or precisely
+on account of its form, art is limited to a specific
+content." "Only one sphere and stage of truth is
+capable of being represented in the element of
+art," namely, an understanding of the nature of
+thought, reason, or divinity in physical imagery or
+symbolism that is ultimately incapable of compre-
+hending the true nature of spirit and thus must
+eventually give way to religion and even more so
+to philosophy, because religion also is still too de-
+pendent upon imagery and too tied up with art
+to yield "absolute knowing" of the spirit.31 This is
+why "art, considered in its highest vocation, is and
+remains for us a thing of the past," even though
+people will still go on building, painting, and poet-
+izing, but necessarily for lower "vocations."32 This
+is Hegel's notorious thesis of the "death of art."
+That art is necessarily an expression of ideas
+about the spirit but also necessarily an inadequate
+expression of an adequate conception of the spirit
+or at best an adequate expression of an inadequate
+conception of the spirit is particularly evident in
+Hegel's treatment of architecture. Hegel regards
+architecture as having begun with the crudely sym-
+bolic representation of crudely symbolic concep-
+tions of the spirit, as in "the constructions of older
+art in Babylonia, India, and Egypt," and as hav-
+ing reached its apogee in classical architecture, in
+the form of the Greek temple, where the temple
+serves as the housing for the representation of a
+god in the human form of the statue that sits at
+its heart.33 But such a representation of divinity,
+although better than the purely symbolic forms
+of earlier antiquity, is still inadequate to an ul-
+timately philosophical understanding of spirit as
+reason, and in any case in the classical temple
+"the spiritual meaning does not reside exclusively
+in the building . . . but in the fact that this mean-
+ing has already attained its existence in freedom
+outside architecture," that is,in the statue that
+the temple houses.34 Christian architecture, with
+its domes or Gothic arches, points toward a more
+adequate conception of spirit, but in so doing, it
+also begins to dissolve the "immediate" unity of
+classical architecture. Thus, architecture necessar-
+ily tries to express a profound, metaphysical idea,
+but is equally necessarily undermined by its in-
+escapable attempt to do so.
+In post-Kantian idealism, we thus find a uni-
+form acceptance of the view that the goal of archi-
+tecture is by no means simply to combine utility
+with beauty, but is rather to express some idea
+or ideas, with functionality being at most a nec-
+essary condition but not part of the achievement
+of the goal of the art and with beauty itself be-
+ing redefined as expression rather than anything
+more formal. This general view, as we have seen,
+takes different forms: in Schelling the thought is
+that a building should express its own function,
+in Schopenhauer that itshould express the nature
+of its own construction and the physical forces on
+which that depends, and in Hegel that itshould ex-
+press metaphysical ideas about divinity and spirit
+itself. All of these views have been prominent in
+later philosophy of architecture and architectural
+theory, but our question here is how such views
+so rapidly replaced the Vitruvian paradigm that
+dominated eighteenth-century philosophy of ar-
+chitecture. To see how this transition came about,
+we must now at last turn to Kant.
+II. kant's views about architecture
+As I said at the outset, architecture does not loom
+large in Kant's own exposition of his aesthetic the-
+ory. But his general philosophy of fine art would
+have profound implications for the subsequent
+philosophy of architecture, and architectural ex-
+amples, or the example of architecture in gen-
+eral, figure in significantly different ways at crucial
+stages in Kant's overall argument. So let us now
+see what Kant says explicitly about architecture
+as well as how his general philosophy of fine art
+bears on the philosophy of architecture.
+Kant expounds his aesthetic theory in the form
+of a "critique of taste" and begins his exposi-
+tion with the simplest form of judgments of taste,
+namely, judgments of beauty, paradigmatically the
+beauty of individual natural objects or works of
+decorative rather than fine art, that is,works of
+art that do not have content and meaning.35 He
+proposes firstthat our pleasure in beauty is dis-
+interested, thus that our pleasure in a beautiful
+object is not dependent upon the judgment that it
+serves any function in which we have an interest.
+Such a judgment would of course presuppose a
+concept of the function an object is supposed to
+serve, so Kant excludes any concept of the func-
+tion of an object from playing a role in the paradig-
+matic judgment of beauty. In the next step of his
+argument he generalizes this conclusion into the
+exclusion of any concept whatsoever from playing
+a role in a paradigmatic judgment of beauty. Yet
+This content downloaded from
+216.47.157.192 on Sun, 12 Apr 2026 18:43:16 UTC
+All use subject to https://about.jstor.org/terms
+-- 8 of 14 --
+14 The Aesthetics of Architecture
+Kant also holds that judgments of beauty speak
+with a "universal voice" or, like other judgments,
+do not purport merely to report the idiosyncratic
+response of one judge, but rather claim validity
+for all who would respond to the same object,
+at least under optimal circumstances.36 But even
+though a judgment of taste must be independent
+of any concept, in Kant's view, itcannot be in-
+dependent of our cognitive faculties altogether if
+itis legitimately to claim such universal validity;
+thus Kant introduces his famous hypothesis that
+our pleasure in beauty is due to the "free play"
+of the cognitive powers of imagination and under-
+standing in which the presentation of the "man-
+ifold" of experience as an object by the imagi-
+nation (any experience of a manifold of content
+that lasts more than a moment must involve the
+imagination, since that is involved in any tempo-
+rally extended experience that requires "repro-
+duction" of more than immediately current expe-
+rience) satisfies the understanding's general inter-
+est in cognition, namely, its interest in unity and
+coherence, but without any "determinate concept
+restricting the imagination] to a particular rule of
+cognition."37 Such a mental state of free play is
+particularly pleasurable precisely because itfeels
+to us as ifour general goal of cognition is being
+satisfied apart from the condition that would nor-
+mally guarantee it.38Kant then says that the qual-
+ityof an object by means of which itcan induce this
+pleasurable state of free play can be called "the
+mere form of purposiveness," and then he equates
+the "mere form of purposiveness" in an object
+with "the purposiveness of [its] form," where by
+"form" he now means what both aestheticians and
+artists have generally meant by form, namely, the
+spatial or temporal structure of objects, Gestalt or
+"figure," for example, "drawing" {Zeichnung, de-
+sign) rather than coloration in the case of painting
+or "composition" rather than instrumentation in
+the case of music.39 This last step in Kant's argu-
+ment, by which he reaches his famous and influ-
+ential "formalism," is a non sequitur, but as we
+shall see, itis not in fact fatal to Kant's ultimate
+theory of fine art, which turns on a much more
+liberal conception of what aspects of aesthetic
+objects can genuinely induce the mental state of
+the free play of the cognitive powers of imagina-
+tion, understanding, and, as itturns out, reason as
+well.40
+Kant offers as paradigmatic examples of the
+objects of the simple judgments of beauty that he
+initially analyzes such things as beautiful birds or
+crustacea, decorative patterns on wallpaper, and
+"fantasias" or "music without a text."41 But he
+does not exclude that purely formal beauty may
+be found in more complex works of human arti-
+fice, and indeed he uses an architectural example
+in his very firstillustration of what he means by a
+disinterested judgment or taste: I would be mak-
+ing an interested judgment, thus failing to make a
+genuine judgment of taste if,when "someone asks
+me whether I find the palace before me beauti-
+ful, I . . . say that I don't like that sort of thing,
+which is made merely to be gaped at, or ... in true
+Rousseauesque style, I . . . even vilify the vanity
+of the great who waste the sweat of the people
+on such superfluous things."42 This would seem
+to suggest that a properly aesthetic judgment of a
+work of architecture is made, so to speak, merely
+by gaping at it,that is,that the aesthetic judg-
+ment of architecture concerns only formal beauty,
+not utility or disutility, not social costs or benefits,
+not any function or dysfunction of the work. This
+might suggest that Kant departs from the Vitru-
+vian paradigm for architecture, not by adding a
+requirement of conceptual meaning and expres-
+sion to it,but rather by subtracting utility from
+the chief goals of architecture and reducing the
+goal of architecture to beauty alone.
+This would be a misleading conclusion, how-
+ever. For no sooner has Kant completed his initial
+analysis of simple judgments of taste and the for-
+mal beauty that is supposed to be their object than
+he complicates his model of aesthetic judgment by
+introducing a distinction between pure judgments
+of "free" and "self-subsisting" beauty that fitthe
+initial analysis and more complex judgments of
+"adherent" and "conditioned" beauty that go be-
+yond it; and the latter judgments are character-
+ized precisely by the fact that they do presuppose
+a "concept of what the object ought to be . . . and
+the perfection of the object in accordance with it."
+In particular, judgments of adherent beauty pre-
+suppose a concept of what the intended function
+or "particular end" of the object is,"by which the
+imagination, which is as itwere at play in the ob-
+servation of the shape" of the object, would be
+"restricted"-although apparently without the op-
+portunity for free "play" disappearing altogether,
+since Kant does after all call adherent beauty a
+kind of beauty.43 Kant then immediately illustrates
+his conception of adherent beauty with architec-
+tural examples: thus he says that "the beauty . . .
+14 The Aesthetics of Architecture
+Kant also holds that judgments of beauty speak
+with a "universal voice" or, like other judgments,
+do not purport merely to report the idiosyncratic
+response of one judge, but rather claim validity
+for all who would respond to the same object,
+at least under optimal circumstances.36 But even
+though a judgment of taste must be independent
+of any concept, in Kant's view, itcannot be in-
+dependent of our cognitive faculties altogether if
+itis legitimately to claim such universal validity;
+thus Kant introduces his famous hypothesis that
+our pleasure in beauty is due to the "free play"
+of the cognitive powers of imagination and under-
+standing in which the presentation of the "man-
+ifold" of experience as an object by the imagi-
+nation (any experience of a manifold of content
+that lasts more than a moment must involve the
+imagination, since that is involved in any tempo-
+rally extended experience that requires "repro-
+duction" of more than immediately current expe-
+rience) satisfies the understanding's general inter-
+est in cognition, namely, its interest in unity and
+coherence, but without any "determinate concept
+restricting the imagination] to a particular rule of
+cognition."37 Such a mental state of free play is
+particularly pleasurable precisely because itfeels
+to us as ifour general goal of cognition is being
+satisfied apart from the condition that would nor-
+mally guarantee it.38Kant then says that the qual-
+ityof an object by means of which itcan induce this
+pleasurable state of free play can be called "the
+mere form of purposiveness," and then he equates
+the "mere form of purposiveness" in an object
+with "the purposiveness of [its] form," where by
+"form" he now means what both aestheticians and
+artists have generally meant by form, namely, the
+spatial or temporal structure of objects, Gestalt or
+"figure," for example, "drawing" {Zeichnung, de-
+sign) rather than coloration in the case of painting
+or "composition" rather than instrumentation in
+the case of music.39 This last step in Kant's argu-
+ment, by which he reaches his famous and influ-
+ential "formalism," is a non sequitur, but as we
+shall see, itis not in fact fatal to Kant's ultimate
+theory of fine art, which turns on a much more
+liberal conception of what aspects of aesthetic
+objects can genuinely induce the mental state of
+the free play of the cognitive powers of imagina-
+tion, understanding, and, as itturns out, reason as
+well.40
+Kant offers as paradigmatic examples of the
+objects of the simple judgments of beauty that he
+initially analyzes such things as beautiful birds or
+crustacea, decorative patterns on wallpaper, and
+"fantasias" or "music without a text."41 But he
+does not exclude that purely formal beauty may
+be found in more complex works of human arti-
+fice, and indeed he uses an architectural example
+in his very firstillustration of what he means by a
+disinterested judgment or taste: I would be mak-
+ing an interested judgment, thus failing to make a
+genuine judgment of taste if,when "someone asks
+me whether I find the palace before me beauti-
+ful, I . . . say that I don't like that sort of thing,
+which is made merely to be gaped at, or ... in true
+Rousseauesque style, I . . . even vilify the vanity
+of the great who waste the sweat of the people
+on such superfluous things."42 This would seem
+to suggest that a properly aesthetic judgment of a
+work of architecture is made, so to speak, merely
+by gaping at it,that is,that the aesthetic judg-
+ment of architecture concerns only formal beauty,
+not utility or disutility, not social costs or benefits,
+not any function or dysfunction of the work. This
+might suggest that Kant departs from the Vitru-
+vian paradigm for architecture, not by adding a
+requirement of conceptual meaning and expres-
+sion to it,but rather by subtracting utility from
+the chief goals of architecture and reducing the
+goal of architecture to beauty alone.
+This would be a misleading conclusion, how-
+ever. For no sooner has Kant completed his initial
+analysis of simple judgments of taste and the for-
+mal beauty that is supposed to be their object than
+he complicates his model of aesthetic judgment by
+introducing a distinction between pure judgments
+of "free" and "self-subsisting" beauty that fitthe
+initial analysis and more complex judgments of
+"adherent" and "conditioned" beauty that go be-
+yond it; and the latter judgments are character-
+ized precisely by the fact that they do presuppose
+a "concept of what the object ought to be . . . and
+the perfection of the object in accordance with it."
+In particular, judgments of adherent beauty pre-
+suppose a concept of what the intended function
+or "particular end" of the object is,"by which the
+imagination, which is as itwere at play in the ob-
+servation of the shape" of the object, would be
+"restricted"-although apparently without the op-
+portunity for free "play" disappearing altogether,
+since Kant does after all call adherent beauty a
+kind of beauty.43 Kant then immediately illustrates
+his conception of adherent beauty with architec-
+tural examples: thus he says that "the beauty . . .
+This content downloaded from
+216.47.157.192 on Sun, 12 Apr 2026 18:43:16 UTC
+All use subject to https://about.jstor.org/terms
+-- 9 of 14 --
+Guyer Kant and the Philosophy ofArchitecture 15
+of a building (such as a church, a palace, an ar-
+senal, or a summer-house) presupposes a concept
+of the end that determines what the thing should
+be, hence a concept of its perfection, and is thus
+merely adherent beauty. . . . One would be able to
+add much to a building that would be pleasing in
+the intuition of itifonly itwere not supposed to
+be a church."44 Kant does not expand upon these
+comments, but presumably he has in mind such
+commonplace assumptions as that a palace must
+appear grand and imposing to project the author-
+ityof government, that an arsenal must have thick
+walls with few openings to serve as a secure bas-
+tion, that a summer house on the contrary must
+be light and airy,that a (Protestant) church must
+keep its decor simple to induce the proper mood of
+humbleness (as Kames had argued), and so forth.
+Thus, Kant seems to recur to the traditional Vi-
+truvian paradigm that a successful work of archi-
+tecture must be judged to have both utilitas and
+venustas.
+To be sure, Kant is not very specific about pre-
+cisely how utility and beauty or function and form
+are to be related to each other in the "adherent
+beauty" of a work of architecture. Some of the lan-
+guage that has just been quoted suggests that, like
+Schelling after him, he might think that the func-
+tionality of a building is just a precondition of our
+finding itbeautiful, that is,that our appreciation
+of the beauty of a building might be blocked ifwe
+found itdysfunctional but that its functionality is
+not a proper part of its beauty, which would then
+presumably lie only in its formal properties. How-
+ever, Kant's remarks that the rules that might be
+prescribed with regard to adherent beauty (unlike
+free beauty, which does not allow any rules at all)
+are "rules for the unification of taste with reason"
+and that "the entire faculty of the powers of rep-
+resentation gains ifboth states of mind"-the re-
+sponse to function and the response to form-"are
+in agreement" might seem to suggest that both
+functionality and formal beauty are proper parts
+of the judgment of architectural success.45 Indeed,
+such remarks might even be thought to suggest
+that architectural success requires some sort of in-
+timate interaction between function and form, that
+certain forms and functions be not merely compat-
+ible with each other but in some way enhance each
+other, thus that in such cases our pleasure in ob-
+jects is not so to speak just added but multiplied.46
+But this conclusion would only bring Kant back
+to the point of accepting the Vitruvian paradigm
+for architecture that he had initially seemed to re-
+ject. What basis do we find within his theory for the
+remarkable transformation of this paradigm that
+we found in the aesthetic theories of his imme-
+diate successors such as Schelling, Schopenhauer,
+and Hegel? We find this in Kant's theory of fine
+art, which comes only much later in the Critique
+of the Power ofJudgment (namely, §§43-53) than
+the opening "Analytic of the Beautiful" (§§1-22)
+to which our discussion has thus far been confined.
+Kant's theory of fine art is designed to solve the
+paradox that judgments of beauty must be inde-
+pendent of concepts, yet works of art are products
+of intentional and rational human activity, which
+is,of course, guided by concepts.47 Kant's resolu-
+tion of this potential paradox is that both the cre-
+ation and the experience of works of art are guided
+by and indeed aimed at the presentation of con-
+cepts, but, like the experience of natural beauty
+and the production and experience of decorative
+art, they are never fully determined by such con-
+cepts. Kant expounds this solution by offering a
+theory of both the production of works of fine art
+and of the contents of such works. His theory of
+the production of fine art is his theory of genius, ac-
+cording to which the production of successful art is
+guided by concepts, including technical rules, but
+depends upon an innate "originality," a "natural
+gift," that takes the artist beyond his own rules in
+ways that he cannot formulate and allows him to
+pass on exemplars of originality but not determi-
+nate rules to successive artists.48 His theory of the
+content of successful works of fine art is his theory
+of "aesthetic ideas." According to Kant, a beauti-
+ful work of art must have "spirit": "A poem can be
+quite pretty and elegant, but without spirit. A story
+is accurate and well organized, but without spirit."
+And spirit, "the animating principle in the mind,"
+comes from an "aesthetic idea," by which he
+means
+thatrepresentation oftheimagination thatoccasions
+much thinking though without itbeing possible forany
+determinate thought, i.e., concept,to be adequate to it,
+which, consequently, no language fullyattains or can
+make intelligible-One readily sees thatitisthecounter-
+part (pendant) ofan idea of reason, which is,conversely,
+a concept to which no intuition (representation ofthe
+imagination) can be adequate.49
+By this in turn Kant means that a work of art with
+spirit presents an intellectual idea, indeed in his
+Guyer Kant and the Philosophy ofArchitecture 15
+of a building (such as a church, a palace, an ar-
+senal, or a summer-house) presupposes a concept
+of the end that determines what the thing should
+be, hence a concept of its perfection, and is thus
+merely adherent beauty. . . . One would be able to
+add much to a building that would be pleasing in
+the intuition of itifonly itwere not supposed to
+be a church."44 Kant does not expand upon these
+comments, but presumably he has in mind such
+commonplace assumptions as that a palace must
+appear grand and imposing to project the author-
+ityof government, that an arsenal must have thick
+walls with few openings to serve as a secure bas-
+tion, that a summer house on the contrary must
+be light and airy,that a (Protestant) church must
+keep its decor simple to induce the proper mood of
+humbleness (as Kames had argued), and so forth.
+Thus, Kant seems to recur to the traditional Vi-
+truvian paradigm that a successful work of archi-
+tecture must be judged to have both utilitas and
+venustas.
+To be sure, Kant is not very specific about pre-
+cisely how utility and beauty or function and form
+are to be related to each other in the "adherent
+beauty" of a work of architecture. Some of the lan-
+guage that has just been quoted suggests that, like
+Schelling after him, he might think that the func-
+tionality of a building is just a precondition of our
+finding itbeautiful, that is,that our appreciation
+of the beauty of a building might be blocked ifwe
+found itdysfunctional but that its functionality is
+not a proper part of its beauty, which would then
+presumably lie only in its formal properties. How-
+ever, Kant's remarks that the rules that might be
+prescribed with regard to adherent beauty (unlike
+free beauty, which does not allow any rules at all)
+are "rules for the unification of taste with reason"
+and that "the entire faculty of the powers of rep-
+resentation gains ifboth states of mind"-the re-
+sponse to function and the response to form-"are
+in agreement" might seem to suggest that both
+functionality and formal beauty are proper parts
+of the judgment of architectural success.45 Indeed,
+such remarks might even be thought to suggest
+that architectural success requires some sort of in-
+timate interaction between function and form, that
+certain forms and functions be not merely compat-
+ible with each other but in some way enhance each
+other, thus that in such cases our pleasure in ob-
+jects is not so to speak just added but multiplied.46
+But this conclusion would only bring Kant back
+to the point of accepting the Vitruvian paradigm
+for architecture that he had initially seemed to re-
+ject. What basis do we find within his theory for the
+remarkable transformation of this paradigm that
+we found in the aesthetic theories of his imme-
+diate successors such as Schelling, Schopenhauer,
+and Hegel? We find this in Kant's theory of fine
+art, which comes only much later in the Critique
+of the Power ofJudgment (namely, §§43-53) than
+the opening "Analytic of the Beautiful" (§§1-22)
+to which our discussion has thus far been confined.
+Kant's theory of fine art is designed to solve the
+paradox that judgments of beauty must be inde-
+pendent of concepts, yet works of art are products
+of intentional and rational human activity, which
+is,of course, guided by concepts.47 Kant's resolu-
+tion of this potential paradox is that both the cre-
+ation and the experience of works of art are guided
+by and indeed aimed at the presentation of con-
+cepts, but, like the experience of natural beauty
+and the production and experience of decorative
+art, they are never fully determined by such con-
+cepts. Kant expounds this solution by offering a
+theory of both the production of works of fine art
+and of the contents of such works. His theory of
+the production of fine art is his theory of genius, ac-
+cording to which the production of successful art is
+guided by concepts, including technical rules, but
+depends upon an innate "originality," a "natural
+gift," that takes the artist beyond his own rules in
+ways that he cannot formulate and allows him to
+pass on exemplars of originality but not determi-
+nate rules to successive artists.48 His theory of the
+content of successful works of fine art is his theory
+of "aesthetic ideas." According to Kant, a beauti-
+ful work of art must have "spirit": "A poem can be
+quite pretty and elegant, but without spirit. A story
+is accurate and well organized, but without spirit."
+And spirit, "the animating principle in the mind,"
+comes from an "aesthetic idea," by which he
+means
+thatrepresentation oftheimagination thatoccasions
+much thinking though without itbeing possible forany
+determinate thought, i.e., concept,to be adequate to it,
+which, consequently, no language fullyattains or can
+make intelligible-One readily sees thatitisthecounter-
+part (pendant) ofan idea of reason, which is,conversely,
+a concept to which no intuition (representation ofthe
+imagination) can be adequate.49
+By this in turn Kant means that a work of art with
+spirit presents an intellectual idea, indeed in his
+This content downloaded from
+216.47.157.192 on Sun, 12 Apr 2026 18:43:16 UTC
+All use subject to https://about.jstor.org/terms
+-- 10 of 14 --
+16 The Aesthetics of Architecture
+view, ultimately a moral idea, but by means of
+an imaginative use of both form and material-
+whatever counts as material in a particular art
+form, perhaps images in the case of poetry, in-
+cidents in the case of the novel or drama, colors
+or pigments in the case of painting, ornament and
+rich materials in the ordinary sense in the case of
+architecture-that cannot be reduced to any rule
+and that stimulate a free play of the imagination
+with or between the content, the form, and the
+matter of the work of art. Ultimately, then, Kanťs
+conception of beauty in art is not the strictly for-
+mal beauty that he discussed in the firstfifteen
+sections of the "Analytic of the Beautiful"; his con-
+ception is rather that beautiful art always suggests
+some profound intellectual content, but does so
+by means of form and matter so rich that itcannot
+be reduced to any rule but instead triggers inex-
+haustible and pleasurable "motion" or free play
+in the mind of its audience. Of course, such a work
+must result from free play with an idea in the mind
+of the genius who produces it,but even the genius'
+conception of the object cannot fully determine
+the audience's response to it,for in that case the
+latter would not also be an instance of free play
+and would not be pleasurable.50
+Kant next offers a classification and hierarchy
+of the fine arts premised on the assumption that
+all of the fine arts-rhetoric, poetry, sculpture, ar-
+chitecture, painting, music (including opera), and
+dance-present intellectual ideas aesthetically, al-
+though of course some do itbetter or more fully
+than others.51 (Actually, Kant next claims that all
+beauty, whether of nature or art, involves aes-
+thetic ideas [ CPJ, §51, 5:320]; he fails to justify
+this claim, but neither does he rest anything on
+it.) Kant's position is thus that as a fine art, archi-
+tecture does contain aesthetic ideas and by their
+means presents intellectual ideas, although itdoes
+not do so as fully as poetry, but may do so more
+fully than, for example, its sister among the plastic
+arts, namely, sculpture.
+Kant's explicit discussion of architecture is
+brief. Kant divides the sphere of "pictorial arts"
+(bildende Künste, which could better be trans-
+lated as "formative arts" were "form" not already
+such an overworked term in Kant's aesthetics)
+into the two domains of "plastic" (Plastik) and
+the "art of painting" (Malerkunst), and he then
+subdivides the domain of "plastic" into sculpture
+and architecture (using the two German words
+Bildhauerkunst and Baukunst). His chief com-
+ment comes in the form of a comparison between
+sculpture and architecture:
+[Sculpture] presents corporeal concepts of things as they
+could existinnature (although, as a beautiful art,with
+regard to aesthetic purposiveness); [architecture] is the
+artof presenting, withthisintention but yetat thesame
+time inan aesthetically purposive way,concepts of things
+thatare possible only through art,and whose form has as
+itsdetermining ground not nature but a voluntary end.
+In thelatter a certain use of theartistic object isthemain
+thing, to which, as a condition, theaesthetic ideas are re-
+stricted. In theformer themere expression of aesthetic
+ideas is the chief aim. Thus statues ofhumans, gods, an-
+imals, etc.,are of thefirst sort;but temples, magnificent
+buildings forpublic gatherings, as well as dwellings, tri-
+umphal arches, columns, cenotaphs, and thelike,erected
+as memorials, belong to architecture. ... The appropri-
+ateness oftheproduct to a certain use isessential ina
+work of architecture,while bycontrast a mere picture,
+which ismade strictly forviewing and isto please for
+itself, is,as a corporeal presentation, a mere imitation
+of nature, though withrespect to aesthetic ideas; where,
+then,sensible truth should not go so farthatitstops
+looking like artand a product of thepower of choice.52
+This is a complex comparison that does not as-
+sert a straightforward superiority of one art to the
+other. It assumes that itis an essential aim of both
+arts not only to be beautiful but also to express
+aesthetic ideas, that is,rational ideas conveyed by
+aesthetic means, by their use of forms and materi-
+als: "Both make shapes in space into expressions
+of ideas."53 It also assumes (as any pre-twentieth-
+century theory would) that sculpture imitates nat-
+ural objects-even when itpresents something su-
+pernatural, such as a god, itdoes so by imitating
+natural forms, for example, by adding the wings
+of a bird to a human figure-while architecture
+does not imitate natural forms and is thus not
+limited to natural forms. In this regard architec-
+ture would seem to have less constricted means
+for presenting ideas and thus perhaps be able to
+present a wider range of ideas through the indef-
+inite number of forms and combinations of them
+available to it.However, any work of architecture
+also has a "voluntary end" or intended use that
+restricts it and, apparently, what aesthetic ideas
+it can present, and indeed this intended use is
+the "main thing," and in all architecture the "ap-
+propriateness of the product to a certain use is
+essential." Thus, the restriction on what or how
+16 The Aesthetics of Architecture
+view, ultimately a moral idea, but by means of
+an imaginative use of both form and material-
+whatever counts as material in a particular art
+form, perhaps images in the case of poetry, in-
+cidents in the case of the novel or drama, colors
+or pigments in the case of painting, ornament and
+rich materials in the ordinary sense in the case of
+architecture-that cannot be reduced to any rule
+and that stimulate a free play of the imagination
+with or between the content, the form, and the
+matter of the work of art. Ultimately, then, Kanťs
+conception of beauty in art is not the strictly for-
+mal beauty that he discussed in the firstfifteen
+sections of the "Analytic of the Beautiful"; his con-
+ception is rather that beautiful art always suggests
+some profound intellectual content, but does so
+by means of form and matter so rich that itcannot
+be reduced to any rule but instead triggers inex-
+haustible and pleasurable "motion" or free play
+in the mind of its audience. Of course, such a work
+must result from free play with an idea in the mind
+of the genius who produces it,but even the genius'
+conception of the object cannot fully determine
+the audience's response to it,for in that case the
+latter would not also be an instance of free play
+and would not be pleasurable.50
+Kant next offers a classification and hierarchy
+of the fine arts premised on the assumption that
+all of the fine arts-rhetoric, poetry, sculpture, ar-
+chitecture, painting, music (including opera), and
+dance-present intellectual ideas aesthetically, al-
+though of course some do itbetter or more fully
+than others.51 (Actually, Kant next claims that all
+beauty, whether of nature or art, involves aes-
+thetic ideas [ CPJ, §51, 5:320]; he fails to justify
+this claim, but neither does he rest anything on
+it.) Kant's position is thus that as a fine art, archi-
+tecture does contain aesthetic ideas and by their
+means presents intellectual ideas, although itdoes
+not do so as fully as poetry, but may do so more
+fully than, for example, its sister among the plastic
+arts, namely, sculpture.
+Kant's explicit discussion of architecture is
+brief. Kant divides the sphere of "pictorial arts"
+(bildende Künste, which could better be trans-
+lated as "formative arts" were "form" not already
+such an overworked term in Kant's aesthetics)
+into the two domains of "plastic" (Plastik) and
+the "art of painting" (Malerkunst), and he then
+subdivides the domain of "plastic" into sculpture
+and architecture (using the two German words
+Bildhauerkunst and Baukunst). His chief com-
+ment comes in the form of a comparison between
+sculpture and architecture:
+[Sculpture] presents corporeal concepts of things as they
+could existinnature (although, as a beautiful art,with
+regard to aesthetic purposiveness); [architecture] is the
+artof presenting, withthisintention but yetat thesame
+time inan aesthetically purposive way,concepts of things
+thatare possible only through art,and whose form has as
+itsdetermining ground not nature but a voluntary end.
+In thelatter a certain use of theartistic object isthemain
+thing, to which, as a condition, theaesthetic ideas are re-
+stricted. In theformer themere expression of aesthetic
+ideas is the chief aim. Thus statues ofhumans, gods, an-
+imals, etc.,are of thefirst sort;but temples, magnificent
+buildings forpublic gatherings, as well as dwellings, tri-
+umphal arches, columns, cenotaphs, and thelike,erected
+as memorials, belong to architecture. ... The appropri-
+ateness oftheproduct to a certain use isessential ina
+work of architecture,while bycontrast a mere picture,
+which ismade strictly forviewing and isto please for
+itself, is,as a corporeal presentation, a mere imitation
+of nature, though withrespect to aesthetic ideas; where,
+then,sensible truth should not go so farthatitstops
+looking like artand a product of thepower of choice.52
+This is a complex comparison that does not as-
+sert a straightforward superiority of one art to the
+other. It assumes that itis an essential aim of both
+arts not only to be beautiful but also to express
+aesthetic ideas, that is,rational ideas conveyed by
+aesthetic means, by their use of forms and materi-
+als: "Both make shapes in space into expressions
+of ideas."53 It also assumes (as any pre-twentieth-
+century theory would) that sculpture imitates nat-
+ural objects-even when itpresents something su-
+pernatural, such as a god, itdoes so by imitating
+natural forms, for example, by adding the wings
+of a bird to a human figure-while architecture
+does not imitate natural forms and is thus not
+limited to natural forms. In this regard architec-
+ture would seem to have less constricted means
+for presenting ideas and thus perhaps be able to
+present a wider range of ideas through the indef-
+inite number of forms and combinations of them
+available to it.However, any work of architecture
+also has a "voluntary end" or intended use that
+restricts it and, apparently, what aesthetic ideas
+it can present, and indeed this intended use is
+the "main thing," and in all architecture the "ap-
+propriateness of the product to a certain use is
+essential." Thus, the restriction on what or how
+This content downloaded from
+216.47.157.192 on Sun, 12 Apr 2026 18:43:16 UTC
+All use subject to https://about.jstor.org/terms
+-- 11 of 14 --
+Guyer Kant and the Philosophy ofArchitecture 17
+aesthetic ideas may be expressed that is supposed
+to follow from this is also essential to architec-
+ture. So sculpture is restricted in what aesthetic
+ideas it can represent or how it may represent
+them by its restriction to the imitation of natural
+forms, while architecture is restricted in its ex-
+pression of aesthetic ideas by its requirement of
+functionality, which is now apparently neither a
+mere precondition of its aesthetic value nor one
+component in its aesthetic value, but the primary
+component.
+Thus, Kant concludes that, in architecture, util-
+ity,or in his own terminology "objective purpo-
+siveness," is always essential, but that the presen-
+tation of aesthetic ideas is also always some part of
+its beauty. Aesthetic ideas are in turn the expres-
+sion of "rational" ideas, so Kant's position might
+seem to prepare the way for something closest
+to Hegel's position, that architecture, like other
+arts, always aims at the expression of metaphysi-
+cal ideas, although even with this addition, Kant
+clearly remains closer to the Vitruvian paradigm
+than do Schelling, Schopenhauer, or Hegel by ul-
+timately insisting that suitability to intended use
+is essential to the success of architecture. But in
+practice, Kant seems to restrict the ideas presented
+by art to moral or morally significant ideas, and in
+this regard, his conception of what sorts of ideas
+art, including architecture, can express seems nar-
+rower than or at least different from Hegel's. How-
+ever, what we should probably conclude here is
+that Kant does not offer any actual argument for
+why all art must express rational ideas, a fortiori
+specifically moral ideas, so what his theory actually
+does is open the door for the post-Vitruvian con-
+ception of architecture as expressing ideas with-
+out entailing any particular restriction on what
+ideas itcan represent. Thus, while himself assum-
+ing that architecture must express moral ideas,
+Kant prepares the way for the different ideas that
+architecture should express ideas of its own func-
+tion (Schelling), ideas of the nature of physical
+forces and its own construction (Schopenhauer),
+or metaphysical ideas (Hegel). Kant does cross
+the Jordan between pure Vitruvianism and post-
+Vitruvian expressionism in the philosophy of ar-
+chitecture, but once on the other side he does not
+conclusively specify what road should be taken
+further.
+Kant also mentions stock architectural exam-
+ples such as the Egyptian pyramids and St. Pe-
+ter's in Rome in his discussion of the sublime, but
+there is no room to pursue that complicated sub-
+ject here; itwill have to suffice that for Kant, un-
+like other authors such as Gerard and Kames, the
+experience of sublimity is only triggered by nature,
+and works of human architecture can at most be
+"colossal," which is "almost too great for all pre-
+sentation" and "which borders on the relatively
+monstrous," but not infinite or even apparently
+infinite enough to trigger the experience of the
+sublime.54 Without a discussion of the sublime, I
+will rest here with the conclusion that Kant at least
+cracked open the door to an architecture of ideas.
+In his theory of fine art as the expression of aes-
+thetic ideas he had already swung the gate to the
+expressivist philosophy of fine architecture wide
+open. Although Kant remained more committed
+to the primacy of function and thus to the Vi-
+truvian paradigm in the philosophy of architecture
+than his idealist successors were to be, itseems fair
+to conclude that his theory of fine art opened the
+way from the Vitruvian to the post-Vitruvian con-
+ception of architecture within philosophical aes-
+thetics. It also seems fair to conclude that the ab-
+sence of an argument for Kant's own specification
+of what kind of ideas fine art must express left the
+door open for the variety of expressivist theories
+of architecture that we find in German idealism
+and beyond.
+PAUL GUYER
+Department ofPhilosophy
+University ofPennsylvania
+Philadelphia, Pennsylvania 19104
+internet: pguyer@sas.upenn.edu
+1.For discussion ofthisterm, see Hanno-Walter Kruft,
+A History of Architectural Theory fromVitruvius tothe
+Present ,trans. Ronald Taylor, Elsie Callander, and Antony
+Wood (New York: Princeton Architectural Press,1994),
+pp.13-15.
+2. Hegel's famous statement about theowl ofMin-
+erva comes fromGeorg Wilhelm Friedrich Hegel, Ele-
+ments of thePhilosophy of Right , ed. Allen W.Wood,
+trans.H. B. Nisbet (Cambridge University Press,1991),
+Preface, p.23.For theclassical discussion and illustrations
+ofBoulée's and Ledoux's workand theexpressivist phi-
+losophy ofarchitecture, see Emil Kaufman, Architecture
+intheAge of Reason: Baroque and Post-Baroque inEng-
+land,Italy,and France (Harvard University Press,1955),
+especially chap. 12,pp.141-180; formore recent discussion,
+see Kruft, Architectural Theory ,chap. 13,pp.141-165, and
+Henry Francis Mailgrave, Modern Architectural Theory: A
+Guyer Kant and the Philosophy ofArchitecture 17
+aesthetic ideas may be expressed that is supposed
+to follow from this is also essential to architec-
+ture. So sculpture is restricted in what aesthetic
+ideas it can represent or how it may represent
+them by its restriction to the imitation of natural
+forms, while architecture is restricted in its ex-
+pression of aesthetic ideas by its requirement of
+functionality, which is now apparently neither a
+mere precondition of its aesthetic value nor one
+component in its aesthetic value, but the primary
+component.
+Thus, Kant concludes that, in architecture, util-
+ity,or in his own terminology "objective purpo-
+siveness," is always essential, but that the presen-
+tation of aesthetic ideas is also always some part of
+its beauty. Aesthetic ideas are in turn the expres-
+sion of "rational" ideas, so Kant's position might
+seem to prepare the way for something closest
+to Hegel's position, that architecture, like other
+arts, always aims at the expression of metaphysi-
+cal ideas, although even with this addition, Kant
+clearly remains closer to the Vitruvian paradigm
+than do Schelling, Schopenhauer, or Hegel by ul-
+timately insisting that suitability to intended use
+is essential to the success of architecture. But in
+practice, Kant seems to restrict the ideas presented
+by art to moral or morally significant ideas, and in
+this regard, his conception of what sorts of ideas
+art, including architecture, can express seems nar-
+rower than or at least different from Hegel's. How-
+ever, what we should probably conclude here is
+that Kant does not offer any actual argument for
+why all art must express rational ideas, a fortiori
+specifically moral ideas, so what his theory actually
+does is open the door for the post-Vitruvian con-
+ception of architecture as expressing ideas with-
+out entailing any particular restriction on what
+ideas itcan represent. Thus, while himself assum-
+ing that architecture must express moral ideas,
+Kant prepares the way for the different ideas that
+architecture should express ideas of its own func-
+tion (Schelling), ideas of the nature of physical
+forces and its own construction (Schopenhauer),
+or metaphysical ideas (Hegel). Kant does cross
+the Jordan between pure Vitruvianism and post-
+Vitruvian expressionism in the philosophy of ar-
+chitecture, but once on the other side he does not
+conclusively specify what road should be taken
+further.
+Kant also mentions stock architectural exam-
+ples such as the Egyptian pyramids and St. Pe-
+ter's in Rome in his discussion of the sublime, but
+there is no room to pursue that complicated sub-
+ject here; itwill have to suffice that for Kant, un-
+like other authors such as Gerard and Kames, the
+experience of sublimity is only triggered by nature,
+and works of human architecture can at most be
+"colossal," which is "almost too great for all pre-
+sentation" and "which borders on the relatively
+monstrous," but not infinite or even apparently
+infinite enough to trigger the experience of the
+sublime.54 Without a discussion of the sublime, I
+will rest here with the conclusion that Kant at least
+cracked open the door to an architecture of ideas.
+In his theory of fine art as the expression of aes-
+thetic ideas he had already swung the gate to the
+expressivist philosophy of fine architecture wide
+open. Although Kant remained more committed
+to the primacy of function and thus to the Vi-
+truvian paradigm in the philosophy of architecture
+than his idealist successors were to be, itseems fair
+to conclude that his theory of fine art opened the
+way from the Vitruvian to the post-Vitruvian con-
+ception of architecture within philosophical aes-
+thetics. It also seems fair to conclude that the ab-
+sence of an argument for Kant's own specification
+of what kind of ideas fine art must express left the
+door open for the variety of expressivist theories
+of architecture that we find in German idealism
+and beyond.
+PAUL GUYER
+Department ofPhilosophy
+University ofPennsylvania
+Philadelphia, Pennsylvania 19104
+internet: pguyer@sas.upenn.edu
+1.For discussion ofthisterm, see Hanno-Walter Kruft,
+A History of Architectural Theory fromVitruvius tothe
+Present ,trans. Ronald Taylor, Elsie Callander, and Antony
+Wood (New York: Princeton Architectural Press,1994),
+pp.13-15.
+2. Hegel's famous statement about theowl ofMin-
+erva comes fromGeorg Wilhelm Friedrich Hegel, Ele-
+ments of thePhilosophy of Right , ed. Allen W.Wood,
+trans.H. B. Nisbet (Cambridge University Press,1991),
+Preface, p.23.For theclassical discussion and illustrations
+ofBoulée's and Ledoux's workand theexpressivist phi-
+losophy ofarchitecture, see Emil Kaufman, Architecture
+intheAge of Reason: Baroque and Post-Baroque inEng-
+land,Italy,and France (Harvard University Press,1955),
+especially chap. 12,pp.141-180; formore recent discussion,
+see Kruft, Architectural Theory ,chap. 13,pp.141-165, and
+Henry Francis Mailgrave, Modern Architectural Theory: A
+This content downloaded from
+216.47.157.192 on Sun, 12 Apr 2026 18:43:16 UTC
+All use subject to https://about.jstor.org/terms
+-- 12 of 14 --
+18 The Aesthetics of Architecture
+Historical Survey, 1673-1968 (Cambridge University Press,
+2005), pp.36-43.
+3. See Kruft, Architectural Theory ,p.21.
+4. Marcus Vitruvius Pollio,TheTenBooks of Architec-
+ture,trans. Morris Hicky Morgan, ed. Herbert Langford
+Warren (Harvard University Press, 1914), p.13;fortheLatin
+terms, see Kruft, Architectural Theory ,p.25.
+5.Vitruvius, TenBooks,p.17;Kruft, Architectural The-
+ory,p.24.
+6. Vitruvius, TenBooks,p.16.
+7. Vitruvius, TenBooks,pp.13-14.
+8. Vitruvius, TenBooks,pp.14-15.
+9. Christian Freiherr von Woltl, ThePrinciples ofAr-
+chitecture, inAnfangsgründe aller mathematischen Wis-
+senschaften, new edition(Frankfurt, Leipzig, and Halle:
+Renger, 1750-1757, reprint, ed. J.E. Hofmann, Hildesheim:
+Georg Olms,1999), Division I,Vols.12-15, §1,p.305.
+10.Wolff, Foundations ofArchitecture, §4,p.306,and §7,
+p.307.
+11.Wolff, Foundations of Architecture, §8,p.307,and
+§18,p.309.
+12.Wolff, Foundations of Architecture, §§20-21, pp.
+310-311.
+13.Henry Home, Lord Kames, Elements of Criticism,
+sixthedition (Edinburgh: Bell and Creech, and London:
+Cadell and Robinson, 1785), modern edition byPeter Jones
+(Indianapolis: Liberty Fund, 2005), vol.II, chap. XXIV, pp.
+685,699.
+14.Kames, Elements, p.685.
+15.Kames, Elements, vol.II, chap. XXIV, pp.700,701.
+16.Of course, one might argue thatconsiderations of
+acoustics and HVAC as wellas bodily circulation affect the
+utility ofa room, and therefore also enter intodetermination
+ofitsheight, butthepointremains thatwhatever consider-
+ationsone enters onto theside ofutility, therewillstillbe
+room forfurther features ofdesign determined byconsider-
+ations ofbeauty alone.
+17.The quotation isfrom Kames, Elements, vol. II, chap.
+XXIV, p.709. For thedifference between grandeur and
+beauty forKames, see Kames, Elements, vol.I,chap. IV,
+pp.150-178.
+18.Kames, Elements, vol.II, chap. XXIV, pp.706-707.
+19.Kames, Elements, vol.II, chap. XXIV, pp.706-707.
+20.F.W.J.Schelling, System of Transcendental Idealism,
+trans. Peter Heath (University Press ofVirginia, 1978), p.
+219.
+21.F.W.J.Schelling, The Philosophy of Art,ed. and
+trans. Douglas W.Stott(University ofMinnesota Press,
+1989). For information about theoriginal presentation and
+laterpublication ofthelectures, see Translator's Introduc-
+tion,pp.xxvii, liii.
+22.Schelling, Philosophy ofArt,p.165.
+23.Schelling, Philosophy of Art,p.165.
+24.Schelling, Philosophy ofArt,p.168.
+25.Arthur Schopenhauer, TheWorld as Willand Rep-
+resentation, trans. E. F.J.Payne, 2vols.(Indian Hills,CO:
+Falcon's Wing, 1958), vol.I,§34,p.179.
+26.Schopenhauer, World as Willand Representation, vol.
+I,§43,pp.214-215.
+27.Hegel, Philosophy ofRight, Pretace, pp.20-22.
+28.The standard English version otthelectures isbased
+on Hotho's second edition of1842:G.W.F.Hegel, Aesthet-
+ics:Lectures on Fine Art,trans. T.M. Knox, 2 vols.(Oxford:
+Clarendon Press, 1975). In recent years, there has been much
+debate about theauthenticity ofHotho's edition, and some
+oftheoriginal transcriptions ofHegel's lecture courses, in-
+cluding Hotho's own,which turn outtobe much shorter than
+Hotho's published version, have been published (although
+notyettranslated intoEnglish). These include thecourse
+of1820-1821, G. W.F.Hegel, Vorlesung überÄsthetik, ed.
+Helmust Schneider (Bern: Peter Lang, 1996); thatof1823,
+G.W.F.Hegel, Vorlesungen überdie Philosophie derKunst,
+ed. Annemarie Gethmann-Seifert (Hamburg: Felix Meiner,
+2003); and thecourse of1826, G.W.F.Hegel, Philosophie der
+Kunst oder Ästhetik, ed. Annemarie Gethmann-Seifert and
+Bernadette Collenberg-Plotnikov (Munich: Wilhelm Fink,
+2004).
+29. Hegel, Aesthetics, vol.I,p.2.
+30.Hegel, Aesthetics, vol.I,pp.7-8.
+31.Hegel, Aesthetics, vol.I,p.9.
+32.Hegel, Aesthetics, vol.I,p.11.
+33.Hegel, Aesthetics, vol.II, p.636.
+34.Hegel, Aesthetics, vol.II, p.661.
+35.Immanuel Kant,Critique of thePower of Judgment,
+ed. Paul Guyer, trans. Paul Guyer and Eric Matthews (Cam-
+bridge University Press, 2000), §9,5:216. References tothis
+Critique (henceforth "CP/") willbe located byKant's sec-
+tionnumber and thenthevolume and page number ofthe
+textas itappears inKant's gesammelte Schriften, ed. Royal
+Prussian (later German, thenBerlin-Brandenurg) Academy
+ofSciences (Berlin: Georg Reimer, subsequently Walter de
+Gruyter, 1900-) (the so-called "Academy edition"), where
+itwas edited byWilhelm Windelband. The Academy edi-
+tionpagination appears inthemargins oftheCambridge
+edition, so references tothepage numbers ofthelatter itself
+are notgiven. The bestcontemporary edition oftheGerman
+textisImmanuel Kant, Kritik derUrteilskraft, ed. Heiner F.
+Klemme, notes byPiero Giordanetti, Philosophische Biblio-
+thek 507 (Hamburg: Felix Meiner, 2001), which also includes
+theAcademy edition pagination as wellas thepagination of
+the1793 second edition oftheKritik, thepreferred original
+edition.
+36.Kant, CPJ,§8,5:216.
+37.Kant, CPJ,§9,5:217.
+38.See CPJ, Introduction, section VI, 5:187-188.
+39.Kant, CPJ,§11,5:221; §13,5:223; and §14,5:225.
+40. For detailed support oftheinterpretation ofKant s
+argument offered inthisparagraph, see myKant and the
+Claims of Taste(Harvard University Press,1979; rev.ed.
+Cambridge University Press, 1997), chaps. 3-6, and among
+mymore recent writings, especially "The Harmony ofthe
+Faculties Revisited," inmyValues of Beauty: Historical Es-
+says inAesthetics (Cambridge University Press, 2005), chap.
+3,pp.77-109.
+41.Kant, CPJ, §16,5:229.
+42.Kant, CPJ, §2,5:204.
+43. Kant, CPJ,§16,5:229-230.
+44. Kant, CPJ,§16,5:230.
+45. Kant, CPJ,§16,5:230-231.
+46. For a fuller discussion ofthispoint, see myFree
+and Adherent Beauty: A Modest Proposal," TheBritish
+Journal ofAesthetics 42 (2002): 357-366, reprinted inValues
+of Beauty, chap. 5,pp.129-140.
+47. Kant, CPJ,§43,5:303-304.
+48.Kant, CPJ,§46,5:307-308. 1have discussed Kant's
+theory ofgenius indetail in"Autonomy and Integrity in
+18 The Aesthetics of Architecture
+Historical Survey, 1673-1968 (Cambridge University Press,
+2005), pp.36-43.
+3. See Kruft, Architectural Theory ,p.21.
+4. Marcus Vitruvius Pollio,TheTenBooks of Architec-
+ture,trans. Morris Hicky Morgan, ed. Herbert Langford
+Warren (Harvard University Press, 1914), p.13;fortheLatin
+terms, see Kruft, Architectural Theory ,p.25.
+5.Vitruvius, TenBooks,p.17;Kruft, Architectural The-
+ory,p.24.
+6. Vitruvius, TenBooks,p.16.
+7. Vitruvius, TenBooks,pp.13-14.
+8. Vitruvius, TenBooks,pp.14-15.
+9. Christian Freiherr von Woltl, ThePrinciples ofAr-
+chitecture, inAnfangsgründe aller mathematischen Wis-
+senschaften, new edition(Frankfurt, Leipzig, and Halle:
+Renger, 1750-1757, reprint, ed. J.E. Hofmann, Hildesheim:
+Georg Olms,1999), Division I,Vols.12-15, §1,p.305.
+10.Wolff, Foundations ofArchitecture, §4,p.306,and §7,
+p.307.
+11.Wolff, Foundations of Architecture, §8,p.307,and
+§18,p.309.
+12.Wolff, Foundations of Architecture, §§20-21, pp.
+310-311.
+13.Henry Home, Lord Kames, Elements of Criticism,
+sixthedition (Edinburgh: Bell and Creech, and London:
+Cadell and Robinson, 1785), modern edition byPeter Jones
+(Indianapolis: Liberty Fund, 2005), vol.II, chap. XXIV, pp.
+685,699.
+14.Kames, Elements, p.685.
+15.Kames, Elements, vol.II, chap. XXIV, pp.700,701.
+16.Of course, one might argue thatconsiderations of
+acoustics and HVAC as wellas bodily circulation affect the
+utility ofa room, and therefore also enter intodetermination
+ofitsheight, butthepointremains thatwhatever consider-
+ationsone enters onto theside ofutility, therewillstillbe
+room forfurther features ofdesign determined byconsider-
+ations ofbeauty alone.
+17.The quotation isfrom Kames, Elements, vol. II, chap.
+XXIV, p.709. For thedifference between grandeur and
+beauty forKames, see Kames, Elements, vol.I,chap. IV,
+pp.150-178.
+18.Kames, Elements, vol.II, chap. XXIV, pp.706-707.
+19.Kames, Elements, vol.II, chap. XXIV, pp.706-707.
+20.F.W.J.Schelling, System of Transcendental Idealism,
+trans. Peter Heath (University Press ofVirginia, 1978), p.
+219.
+21.F.W.J.Schelling, The Philosophy of Art,ed. and
+trans. Douglas W.Stott(University ofMinnesota Press,
+1989). For information about theoriginal presentation and
+laterpublication ofthelectures, see Translator's Introduc-
+tion,pp.xxvii, liii.
+22.Schelling, Philosophy ofArt,p.165.
+23.Schelling, Philosophy of Art,p.165.
+24.Schelling, Philosophy ofArt,p.168.
+25.Arthur Schopenhauer, TheWorld as Willand Rep-
+resentation, trans. E. F.J.Payne, 2vols.(Indian Hills,CO:
+Falcon's Wing, 1958), vol.I,§34,p.179.
+26.Schopenhauer, World as Willand Representation, vol.
+I,§43,pp.214-215.
+27.Hegel, Philosophy ofRight, Pretace, pp.20-22.
+28.The standard English version otthelectures isbased
+on Hotho's second edition of1842:G.W.F.Hegel, Aesthet-
+ics:Lectures on Fine Art,trans. T.M. Knox, 2 vols.(Oxford:
+Clarendon Press, 1975). In recent years, there has been much
+debate about theauthenticity ofHotho's edition, and some
+oftheoriginal transcriptions ofHegel's lecture courses, in-
+cluding Hotho's own,which turn outtobe much shorter than
+Hotho's published version, have been published (although
+notyettranslated intoEnglish). These include thecourse
+of1820-1821, G. W.F.Hegel, Vorlesung überÄsthetik, ed.
+Helmust Schneider (Bern: Peter Lang, 1996); thatof1823,
+G.W.F.Hegel, Vorlesungen überdie Philosophie derKunst,
+ed. Annemarie Gethmann-Seifert (Hamburg: Felix Meiner,
+2003); and thecourse of1826, G.W.F.Hegel, Philosophie der
+Kunst oder Ästhetik, ed. Annemarie Gethmann-Seifert and
+Bernadette Collenberg-Plotnikov (Munich: Wilhelm Fink,
+2004).
+29. Hegel, Aesthetics, vol.I,p.2.
+30.Hegel, Aesthetics, vol.I,pp.7-8.
+31.Hegel, Aesthetics, vol.I,p.9.
+32.Hegel, Aesthetics, vol.I,p.11.
+33.Hegel, Aesthetics, vol.II, p.636.
+34.Hegel, Aesthetics, vol.II, p.661.
+35.Immanuel Kant,Critique of thePower of Judgment,
+ed. Paul Guyer, trans. Paul Guyer and Eric Matthews (Cam-
+bridge University Press, 2000), §9,5:216. References tothis
+Critique (henceforth "CP/") willbe located byKant's sec-
+tionnumber and thenthevolume and page number ofthe
+textas itappears inKant's gesammelte Schriften, ed. Royal
+Prussian (later German, thenBerlin-Brandenurg) Academy
+ofSciences (Berlin: Georg Reimer, subsequently Walter de
+Gruyter, 1900-) (the so-called "Academy edition"), where
+itwas edited byWilhelm Windelband. The Academy edi-
+tionpagination appears inthemargins oftheCambridge
+edition, so references tothepage numbers ofthelatter itself
+are notgiven. The bestcontemporary edition oftheGerman
+textisImmanuel Kant, Kritik derUrteilskraft, ed. Heiner F.
+Klemme, notes byPiero Giordanetti, Philosophische Biblio-
+thek 507 (Hamburg: Felix Meiner, 2001), which also includes
+theAcademy edition pagination as wellas thepagination of
+the1793 second edition oftheKritik, thepreferred original
+edition.
+36.Kant, CPJ,§8,5:216.
+37.Kant, CPJ,§9,5:217.
+38.See CPJ, Introduction, section VI, 5:187-188.
+39.Kant, CPJ,§11,5:221; §13,5:223; and §14,5:225.
+40. For detailed support oftheinterpretation ofKant s
+argument offered inthisparagraph, see myKant and the
+Claims of Taste(Harvard University Press,1979; rev.ed.
+Cambridge University Press, 1997), chaps. 3-6, and among
+mymore recent writings, especially "The Harmony ofthe
+Faculties Revisited," inmyValues of Beauty: Historical Es-
+says inAesthetics (Cambridge University Press, 2005), chap.
+3,pp.77-109.
+41.Kant, CPJ, §16,5:229.
+42.Kant, CPJ, §2,5:204.
+43. Kant, CPJ,§16,5:229-230.
+44. Kant, CPJ,§16,5:230.
+45. Kant, CPJ,§16,5:230-231.
+46. For a fuller discussion ofthispoint, see myFree
+and Adherent Beauty: A Modest Proposal," TheBritish
+Journal ofAesthetics 42 (2002): 357-366, reprinted inValues
+of Beauty, chap. 5,pp.129-140.
+47. Kant, CPJ,§43,5:303-304.
+48.Kant, CPJ,§46,5:307-308. 1have discussed Kant's
+theory ofgenius indetail in"Autonomy and Integrity in
+This content downloaded from
+216.47.157.192 on Sun, 12 Apr 2026 18:43:16 UTC
+All use subject to https://about.jstor.org/terms
+-- 13 of 14 --
+Guyer Kant and the Philosophy ofArchitecture 19
+Kant's Aesthetics," Monist 66(1983): 167-188, reprinted
+under thetitle"Genius and theCanon ofArt" inmyKant
+and theExperience of Beauty (Cambridge University Press,
+1993), chap.8,pp.275-303, and "Exemplary Originality:
+Genius, Universality, and Individuality," inTheCreation of
+Art:New Essays inPhilosophical Aesthetics ,ed. Berys Gaut
+and Paisley Livingston (Cambridge University Press, 2003),
+pp.116-137, reprinted inValues of Beauty , chap. 10,pp.
+242-262.
+49.Kant, CP/, §49,5:313-314.
+50.For further detail, see my"Kant's Conception ofFine
+Art,"The Journal ofAesthetics and ArtCriticism 52 (1994):
+175-185, reprinted as chap. 12oftherevised edition ofKant
+and theClaims of Taste, pp.351-366.
+51.Kant,CPJ,§§51-52, 5:321-326.
+52.Kant,CPJ,§5:322.
+53.Kant,CPJ,§5:322.
+54.Kant,CPJ,§26,5:253.
+Guyer Kant and the Philosophy ofArchitecture 19
+Kant's Aesthetics," Monist 66(1983): 167-188, reprinted
+under thetitle"Genius and theCanon ofArt" inmyKant
+and theExperience of Beauty (Cambridge University Press,
+1993), chap.8,pp.275-303, and "Exemplary Originality:
+Genius, Universality, and Individuality," inTheCreation of
+Art:New Essays inPhilosophical Aesthetics ,ed. Berys Gaut
+and Paisley Livingston (Cambridge University Press, 2003),
+pp.116-137, reprinted inValues of Beauty , chap. 10,pp.
+242-262.
+49.Kant, CP/, §49,5:313-314.
+50.For further detail, see my"Kant's Conception ofFine
+Art,"The Journal ofAesthetics and ArtCriticism 52 (1994):
+175-185, reprinted as chap. 12oftherevised edition ofKant
+and theClaims of Taste, pp.351-366.
+51.Kant,CPJ,§§51-52, 5:321-326.
+52.Kant,CPJ,§5:322.
+53.Kant,CPJ,§5:322.
+54.Kant,CPJ,§26,5:253.
+This content downloaded from
+216.47.157.192 on Sun, 12 Apr 2026 18:43:16 UTC
+All use subject to https://about.jstor.org/terms
+-- 14 of 14 --

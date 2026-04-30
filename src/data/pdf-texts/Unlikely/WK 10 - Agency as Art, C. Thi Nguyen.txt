@@ -1,0 +1,893 @@
+Games. C. Thi Nguyen, Oxford University Press (2020). © Oxford University Press.
+DOI: 10.1093/oso/9780190052089.001.0001
+1
+Agency as Art
+Games can seem like an utterly silly way to spend one’s time. We struggle and
+strain and sweat— and for what? The goals of games seem so arbitrary. Game
+players burn energy and effort, not on curing cancer or saving the environ-
+ment, but on trying to beat each other at some unnecessary, invented activity.
+Why not spend that time on something real?
+But the goals of a game aren’t actually arbitrary at all. They only seem arbi-
+trary when we look in the wrong place. In the rest of life, we are used to justi-
+fying our goals by looking at the value of the goals themselves or by looking
+forward, to what follows from those goals. But with the goals of games, we
+often need to look backward. We need to look at the value of the activity of
+pursuing those goals. In ordinary practical life, we usually take the means for
+the sake of the ends. But in games, we can take up an end for the sake of the
+means. Playing games can be a motivational inversion of ordinary life.
+Seeing this motivational structure will also help us to understand the
+essential nature of games. A game tells us to take up a particular goal. It
+designates abilities for us to use in pursuing that goal. It packages all that up
+with a set of obstacles, crafted to fit those goals and abilities. A game uses all
+these elements to sculpt a form of activity. And when we play games, we take
+on an alternate form of agency. We take on new goals and accept different
+sets of abilities. We give ourselves over to different—and focused—ways of
+inhabiting our own agency. Goals, ability, and environment: these are the
+means by which game designers practice their art. And we experience the
+game designer’s art by flexing our own agency to fit.
+Games, then, are a unique social technology. They are a method for
+inscribing forms of agency into artifactual vessels: for recording them, pre-
+serving them, and passing them around. And we possess a special ability: we
+can be fluid with our agency; we can submerge ourselves in alternate agencies
+designed by another. In other words, we can use games to communicate
+forms of agency.
+Games turn out to be part of the human practices of inscription. Painting
+lets us record sights, music lets us record sounds, stories let us record
+-- 1 of 23 --
+2 Games
+narratives, and games let us record agencies. That can be useful as part of our
+development. Just as novels let us experiences lives we have not lived, games
+let us experience forms of agency we might not have discovered on our own.
+But those shaped experiences of agency can be valuable in themselves, as art.
+Consider Sign, a product of the avant-garde wing of role-playing games,
+by designers Kathryn Hymes and Hakan Seyalioglu. It’s a live-action role-
+playing game about inventing language. The game is based on a true story.
+In the 1970s, Nicaragua had no sign language; deaf children were deeply
+isolated. Eventually, the government brought together deaf children from
+across the country to form an experimental school, whose goal was to teach
+those children to lip-read. Instead, the children collectively and spontane-
+ously invented their own sign language. In the game Sign, the players take
+up the roles of those children. The game assigns every player a backstory
+and an inner truth each has always wanted to communicate. For example,
+“I’m afraid one day I’ll be like my parents,” and “I’m afraid [my cat] Whiskers
+thinks I’ve left her.”
+The game is played in total silence. The only way to communicate is
+through a new sign language, which the players must invent during the
+game. There are three rounds. In every round, each player invents a single
+sign and teaches it to the other players. Then all the players attempt to have
+a free- form conversation, desperately struggling to communicate through
+their tiny inventory of signs. Invented signs get used and modified; new signs
+evolve spontaneously from old signs. Communication happens painfully
+and slowly, with the occasional rare and luminous breakthrough. And every
+time you feel that you are misunderstood, or do not understand somebody
+else, you must take a marker and make a “compromise mark” on your hand.
+The experience of the game is utterly marvelous. It is intense, absorbing,
+frustrating, and surprisingly emotional. But to have that experience, the
+players must commit, temporarily, to the goal of communicating their par-
+ticular inner truths. And that commitment, combined with the particular
+rules of the game, leads to a very concentrated practical experience. To play
+Sign is to become entirely absorbed in the practical details of inventing lan-
+guage and stabilizing meanings.
+Here, then, is the particular motivational state of game playing which
+I wish to investigate. The rules of the game tell us to care about something and
+we start caring about it. A board game instructs us to care about collecting
+one color of token. A video game tells us to care about stomping on little
+mushroom people. A sport tells us to get a ball in a net. In order to achieve
+-- 2 of 23 --
+Agency as Art 3
+that cherished state of absorbed play, we let that goal occupy our conscious-
+ness, for a while. And the fact that the game designer specifies goals and abil-
+ities for the player to take on—that is precisely what makes games distinctive
+as an art form.1
+Frameworks and Approaches
+My interest here is in uncovering the unique potential and the special value
+of games. There have been, in recent years, many arguments for the value
+and importance of games. In many cases, however, these arguments tend to
+avoid looking at some of the more unique qualities of games. Instead, they
+assimilate games into some other, more respectable category of human prac-
+tice. We’ve seen arguments that games are art because they are a type of fic-
+tion (Tavinor 2009). We’ve seen arguments that games are a type of cinema,
+one that adds a new technique—interactivity—to the familiar lexicon of cin-
+ematic techniques (Gaut 2010). We’ve seen arguments that games are a kind
+of conceptual art, which is valuable when it offers social critique (Flanagan
+2013). We’ve seen arguments that games can be a special way of making
+arguments, which can criticize economic and political systems by simulating
+them (Frasca 2003; Bogost 2010). And surely, games can function in these
+ways. Many modern video games are, indeed, a kind of fiction and a kind of
+interactive cinema. And games can, as Ian Bogost puts it, function as a kind
+of procedural rhetoric, making arguments by modeling causal systems in the
+world. But I worry that overemphasizing these sorts of approaches may also
+suppress our appreciation and understanding of the truly unique potential of
+games.2,3
+Over in the philosophy of sport, the value of game playing is usually
+spelled out in terms of skills, excellences, and achievements. But notice that
+this also cashes out the value of games in some very familiar currency. For
+example, Tom Hurka argues that games are valuable because they enable
+1 For simplicity’s sake, I will speak as if there is a single game designer, when in actuality, games are
+often designed in large teams.
+2 My account is moderately aligned, in spirit, with those scholars who call themselves ludologists,
+who argue that games are a unique category and should be studied as such. For surveys of ludology,
+and of the debate between narratology and ludology, see Nguyen (2017c) and Kirkpatrick (2011, 48–
+86). For key texts of ludology, see Aarseth (1997); Frasca (1999); and Eskelinen (2001). I differ from
+some of the classic positions in ludology in many of the details. In particular, see Chapters 3–6.
+3 Much of the remainder of this chapter has been adapted from material that originally appeared in
+Nguyen (2019d).
+-- 3 of 23 --
+4 Games
+difficult achievements. But difficult achievements are, obviously, not con-
+fined to games. Curing cancer and inventing a better mousetrap would also
+be difficult achievements, and they would give us something useful besides.
+This leads Hurka to conclude that playing games is generally less valuable
+than engaging in more useful non-game activities. Science and philosophy
+are valuable in the same way as games in offering difficult achievements, but
+they are also valuable in other ways. They give us truth and understanding,
+or at least some useful tools, as well as difficulty. Games can offer us only dif-
+ficulty (Hurka 2006). Games might truly come into their own, says Hurka,
+once we’ve solved all our practical problems and entered some sort of
+techno- futurist Utopia. But in the meantime, we’re probably better off doing
+something more useful with our lives. Notice that Hurka’s conclusion arises
+precisely because he thinks games are valuable in virtue of something rather
+commonplace—difficulty—rather than in virtue of something unique. Thus,
+the value of games is easily superseded by the value of other, equally difficult
+but more practical activities.
+All these approaches miss much of what’s special about games. Games,
+I will argue, are a distinctive art form. They offer us access to a unique ar-
+tistic horizon and a distinctive set of social goods. They are special as an art
+because they engage with human practicality—with our ability to decide and
+to do. And they are special as a practical activity precisely because they are
+an art. In ordinary life, we have to struggle to deal with whatever the world
+throws at us, with whatever means we happen to have lying around. In ordi-
+nary life, the form of our struggle is usually forced on us by an indifferent and
+arbitrary world. In games, on the other hand, the form of our practical en-
+gagement is intentionally and creatively configured by the game’s designers.
+In ordinary life, we have to desperately fit ourselves to the practical demands
+of the world. In games, we can engineer the world of the game, and the agency
+we will occupy, to fit us and our desires. Struggles in games can be carefully
+shaped in order to be interesting, fun, or even beautiful for the struggler.
+This is enabled, in significant part, by the peculiar nature of our in-game
+ends. Games ends are extremely different from the sorts of ends we stand
+behind in ordinary life. Our values, in ordinary life, are largely recalci-
+trant. Much of what we value seems universal and immoveable. We value
+life, freedom, and happiness. Even with our personal values, there’s typically
+little short- term flex. I care about art, creativity, and philosophy. Changing
+my core values would take, at the very least, significant time and effort. My
+core values are thick and recalcitrant. But game activity is different. We can
+-- 4 of 23 --
+Agency as Art 5
+change our in-game ends easily and fluidly. We can adopt new ends, which
+will guide our actions for the duration of the game, and then drop them in an
+instant. When we play games, we take on temporary agencies—temporary
+sets of abilities and constraints, along with temporary ends. We have a signif-
+icant capacity for agential fluidity, and games make full use of that capacity.
+Suits and Striving
+Why think we have this strange capacity for agential fluidity? The best place
+to start is Bernard Suits’s analysis of games. Let’s start with what Suits calls the
+“portable version” of his definition:
+Playing a game is the voluntary attempt to overcome unnecessary
+obstacles. (Suits [1978] 2014, 43)
+In a marathon, the point isn’t simply to get to the finish line. Usually, we
+don’t actually care about being at that particular spot, in and of itself. We
+know because we don’t try to get there as efficiently as possible. We don’t take
+shortcuts, and we don’t take a taxi. The whole point is to get there within cer-
+tain limitations. Suits contrasts game playing with what he calls “technical
+activity.” In technical activity, there is some end that we value, and we pursue
+it because of the value of that end. Since that end is genuinely valuable, we
+try to pursue it as efficiently as we can. But in games, we don’t take the most
+efficient route to our in-game ends. In game playing, we try to achieve some
+specified end under certain specified inefficiencies. The end is largely valu-
+able only when achieved inside those constraints. We can tell that this is our
+motivational structure, precisely because we are willing to set up blockades
+to that end. By itself, getting a ball through a stupid little basket has no inde-
+pendent value on its own. I don’t go to the basketball court late at night with
+a ladder and spend hours passing the ball through the hoop; nor do I pull
+out my Monopoly set by myself, and roll myself around in heaps of Monopoly
+money, glorying in all that I command. Getting the ball through the hoop or
+holding Monopoly money in my hand is worthless outside of the constraints
+and structure of the game.
+We must distinguish carefully here between the goals of a game and our
+purpose in playing a game. The goal of a game is the target we aim at during
+the game: getting to the finish line first, making more baskets, maximizing
+-- 5 of 23 --
+6 Games
+points. Our purpose with a game, on the other hand, is our reason for playing
+the game in the first place. Our purpose in playing a game might be to have
+some fun, to get some exercise, to de-stress, to develop our skills, to van-
+quish our opponents, to achieve some difficult task, or even to experience the
+beauty of our own skilled action.
+For some game players, goal and purpose can be one and the same. A pro-
+fessional poker player is just in it for the money; an Olympic sprinter just
+wants to win, period—for these players, the goal is the purpose. Winning is
+genuinely valuable for them. For other game players, the goal and purpose
+are distinct, but achieving the purpose follows from achieving the goal in a
+straightforward way. This basketball player wants to win for the sake of fame
+and status; this Starcraft 2 professional wants to win the tournament for the
+prize money. For these types of players, winning is only a means to their true
+purpose, but winning is still genuinely valuable to them.
+What Suits exposes, however, is another, entirely different motivational
+structure: that our goal and purpose in a game might be entirely skew to one
+another. When I play a party game with my friends, my goal is to win, but my
+purpose is to have fun. The way to have fun is to try, during the game, to win.
+But I don’t really care if I win or not—not in any lasting way. I have to chase
+the goal of winning to fulfill my purpose, but I don’t actually need to win in
+order to have fun. Winning, in this case, is rather incidental to my true pur-
+pose. In fact, if I start up a game of Charades for the sake of having a little fun,
+but I am so aggressive and competitive that I make everybody else miser-
+able, then I may have succeeded in achieving the goals of the game, but I have
+failed entirely in my purpose.
+Suits took himself to be offering a complete account of games and game
+playing. For this he has been roundly criticized. There are, as many have
+pointed out, aspects of game playing that do not conform to Suits’s theory.
+Some games involve no real struggle against obstacles at all, such as certain
+children’s games of make-believe. Certain narratively oriented tabletop role-
+playing games, like Fiasco, and narrative computer games, like The Stanley
+Parable, also don’t seem oriented around struggles and obstacles. I agree with
+these criticisms. I do not think Suits has provided a complete account of all
+forms of game playing.4 But we should not throw away Suits’s analysis en-
+tirely, just because he failed in his stated goal. Let us adapt Suits’s analysis and
+4 Criticism of Suits on this point is a common refrain; see Upton (2015, 2016) for a representative
+example. I provide an extended analysis of the relationship between make-believe play and striving
+play, and an argument against Suits’s account of games being a complete one, in Nguyen (2019b).
+-- 6 of 23 --
+Agency as Art 7
+treat it, instead, as an exceedingly insightful description of one particular—
+but very important—form of game play. For the remainder of this book, I will
+focus on understanding those games and playings that fit the Suitsian defini-
+tion.5 For the sake of brevity, whenever I simply use the bare term game, I can
+be taken to be referring to Suitsian games.
+A more significant worry is that Suitsian play is necessarily immature
+and unworthy of serious attention. Suitsian games always involve practical
+struggles. We become absorbed in the instrumental activity of overcoming
+obstacles and achieving seemingly arbitrary goals. And it is precisely these
+aspects that can make game playing seem like a lesser activity. For example,
+media critic Andrew Darley condemns video games for offering only “sur-
+face play” and “direct sensorial stimulation.” Says Darley: “Computer games
+are machine-like: they solicit intense concentration from the player who is
+caught up in their mechanisms . . . leaving little room for reflection other
+than an instrumental type of thinking that is more or less commensurate
+with their own workings” (Darley 2000; as quoted in Lopes 2010, 117). The
+same worry recurs in the new wave of games scholarship, even among some
+of games’ most ardent defenders. These scholars often argue for the worth
+of games by pointing out how games can offer us rich content, beyond mere
+instrumental challenges. Such arguments often proceed by highlighting the
+capacity of games to represent. For example, Ian Bogost argues for the value
+of games by showing that games can be a form of rhetoric, making arguments
+via their ability to simulate the world. Bogost points to games like McDonald’s
+Video Game. In that game, you run the McDonald’s corporation. Your goal is
+to maximize profits while protecting the environment. But when you play
+the game, you quickly discover that you actually pull off both of these goals.
+The game argues, through its simulation, that the goals of capitalism and the
+goals of environmentalism are essentially at odds (Bogost 2010, 28–31). John
+Sharp reserves his highest praise for those games that move beyond the “her-
+metically sealed” experiences of merely solving the game, and instead rep-
+resent and comment on the world. Sharp highlights Mary Flanagan’s game
+Career Moves, which resembles that old family game The Game of Life, but
+5 Some readers may agree with me that Suitsian games are only one type of game; others might
+think that all games are Suitsian games. My argument should be palatable to both. Even those
+Wittgensteinians who maintain that the term game is essentially indefinable should be able to find
+my analysis somewhat palatable, by treating the category of “Suitsian games” as an artificial stipula-
+tion. I am not interested in debating whether or not the category of Suitsian games does or does not
+match up with some bit of natural language; I am interested in the fact that the category is clearly
+specified and useful, and applies to a broad range of human activities.
+-- 7 of 23 --
+8 Games
+forces players to make stereotypically gendered career choices for their fe-
+male character in order to cause them to reflect on gender biases in the work-
+place (Sharp 2015, 77–97). Flanagan herself praises Gonzolo Frasca’s game
+September 12th: A Toy World, a pointedly political game in which one plays
+the United States, dropping bombs by drone on an unnamed Middle Eastern
+locale, attempting to kill terrorists, only to find that all their efforts only de-
+stroy innocent civilians and increase the number of terrorists (Flanagan
+2013, 239– 240).
+Notice that these sorts of accountings pick out a very particular type
+of game as genuinely respectable. September 12th, Career Moves, and
+McDonald’s Video Game may not present very interesting instrumental
+challenges, but that lack is unimportant by these lights. These games are good
+in virtue of what they represent. Underneath all these approaches seems to
+be the presumption that Suitsian play—the play of skills and clearly defined
+goals—cannot be valuable in any really deep or fulfilling way. These accounts
+seem motivated by the need to find some other footing from which to estab-
+lish the value of games.
+But I think we ought not dismiss instrumental play so quickly. That dis-
+missal arises, I think, from misunderstanding the richly varied motiva-
+tional structures involved in game playing. Let’s return to the distinction
+between goals and purposes. This distinction helps us see that there are
+two very different modes of play. First, you might be playing for the sake of
+winning. You want the win either for its own sake or for the sake of some-
+thing that follows from winning, such as goods and money.6 Let’s call this
+achievement play. Professional poker players who play for money, Olympic
+athletes who play for honor, and people who simply play to win are all
+achievement players. In achievement play, goal and purpose are aligned.
+Alternately, you might be pursuing the win for the sake of the struggle.
+6 It should be noted that the term winning here is slightly imprecise. There are many other sorts of
+states we can pursue in games. For example, one might have lost the opportunity to actually win in
+particular chess match, but one can still play on, aiming to achieve a stalemate rather than an out-
+right loss. For another, as Suits points out, many games don’t have victory condition, but only loss
+conditions. For example: a ping-pong volley, where we try to keep the ball going as long as possible,
+has no win condition, only a loss condition, and the goal of the activity is to stave off the loss for as
+long as possible. Technically, what I should be discussing here is not “winning” but the pursuit of
+the lusory goal, in its various shades and forms. However, I will use the term winning loosely, from
+here on out, to refer to the larger notion of the pursuits of lusory goals, and use the terms achieving
+a victory and winning proper to refer to the narrower notion. I do not use the term success because
+I think its natural use is ambiguous between win-related concepts and our larger purposes for playing
+a game. My spouse will say that our playing of a party game was “successful” if it was fun for all in-
+volved, regardless of whether she did well by the internal standard of the game.
+-- 8 of 23 --
+Agency as Art 9
+Let’s call that striving play. In striving play, goal and purpose are skew. An
+achievement player plays to win. A striving player acquires, temporarily, an
+interest in winning for the sake of the struggle. Thus, striving play involves
+a motivational inversion from ordinary life. In ordinary practical life, we
+pursue the means for the sake of the ends. But in striving play, we pursue
+the ends for the sake of the means. We take up a goal for the sake of the ac-
+tivity of struggling for it.
+This motivational inversion is, in my eyes, the most interesting possibility
+raised by the Suitsian analysis. I will largely focus my analysis on striving
+play, not because I think it is the superior form of play, but because I think
+it is the more convoluted, more fascinating, and most frequently misunder-
+stood form of play. Thinking about striving play will teach us something re-
+markable about ourselves, as rational agents who are capable of entering into
+such motivational inversions.
+But first, let’s take a step back. Does striving play really exist? I think it
+is quite commonplace, in fact. For example: my spouse and I took up rac-
+quetball in order to keep fit in a moderately entertaining way. When we play
+racquetball, I try with all my might to win. And my trying to win—my actu-
+ally caring about winning, during the course of the game—is quite useful.
+Wanting to win helps my fitness by getting me to try harder during the
+game; it also helps the process to be engaging and compelling. In order to
+obtain those benefits, I need to induce in myself an interest in winning. But
+that interest is only temporary, and disconnected from my larger and more
+enduring ends.
+We can see how disconnected and short-term that interest is by looking
+at how I strategically manipulate my ability to win in the long term. Suppose
+somebody were to offer me free racquetball lessons. Taking these lessons
+would cause me to jump far ahead of my spouse in skill. If I were an achieve-
+ment player, I should certainly take them. But, as a matter of fact, I wouldn’t
+actually take those lessons. If either my spouse or myself pulled substantially
+ahead of the other in skill, the game would turn quite unpleasant for both of
+us. Our matches would lose their interest and sparkle. We’d probably end up
+giving up racquetball altogether. In other words: in my long-term life, I make
+strategic decisions that keep my skill in check and prevent me from win-
+ning too many games. I manipulate my capacity to win, with an eye toward
+maintaining a desirable sort of struggle. But during the game itself, I play all
+out to win. If my decision to forego those lessons is comprehensible, then
+striving play is a real motivational possibility.
+-- 9 of 23 --
+10 Games
+Consider, also, what we might call “stupid games.” Stupid games have the
+following characteristics: first, they are only fun if you try to win; and second,
+the fun part is when you fail. There are a great many stupid games, including
+many drinking games and party games. Take the game Twister, in which you
+try to keep in balance as long as you can, but the funniest part is when every-
+body collapses on top of each other. My own favorite stupid game is Bag on
+Your Head, a ludicrous party game in which everybody puts a brown paper
+grocery bag on their head. The goal of the game is to try to take the bags off
+other people’s heads. When somebody takes the bag off your head, you’re out,
+and you have to go to the side of the room and leave play. The game, of course,
+involves lots of stumbling and tripping and flailing around by people with
+bags on their heads. And the best vantage point from to watch all this is that
+of the losers, watching from the side. And, at some point, there will be only
+one person still stumbling blindly around the room with a bag on their head,
+fumbling around for the other nonexistent opponents, while everybody else
+gets to watch, desperately trying not to laugh. That last person is the winner,
+and the very best part of the game is seeing how long it takes them to figure
+out that they have, in fact, won.
+The children’s game of Telephone is also a stupid game. You may remember
+the game from your childhood. To play, everybody sits in a circle. The
+starting player thinks of a message and then whispers it to the next person in
+the circle. Each player passes the message on, whispering it to the next player,
+until the message makes its way all around the circle. Then the players com-
+pare the original version with the circulated version. The circulated version
+is, inevitably, wildly distorted, much to everybody’s amusement. We play the
+game because it’s funny, and the funny part is failing, but it’s only funny if
+our attempts to communicate really are failures. And that failure is real only
+if the players really did earnestly try to communicate clearly. Imagine if we
+played Telephone, but we intentionally tried to distort the message. There
+would be no actual failure, and thus no hilarity. In Twister and Telephone, to
+have the desired experience—a funny failure—the players must pursue suc-
+cess. But success isn’t the point. Stupid games cannot be properly played by
+achievement players, only by striving players. Stupid games make sense only
+if striving play is possible.
+And if striving play is possible, it must also be that we have a further ca-
+pacity. We must be able to submerge ourselves in the temporary agency of the
+game. In order to engage in striving play, I must be able to take on a dispos-
+able end. That is, I must be able to bring myself to temporarily care about an
+-- 10 of 23 --
+Agency as Art 11
+end, and for that end to appear to me as final. But I also must be able to dis-
+pose of that end afterward. Why must submersion in a temporary agency be
+possible? Why must we be able to take on disposable ends?
+Imagine what it would be like if we could not submerge ourselves in this
+way. Imagine a striving player who can only pursue game ends in the normal,
+transparently instrumental fashion—who cannot become submerged in an
+alternate agency. The purpose of such players in play is having a struggle, and
+that purpose is perpetually before their minds and active in their reasoning.
+This striving player, then, can’t really pursue the game end wholeheartedly. If
+we are always constantly aware of, and fully motivated by, our broader pur-
+pose in striving play, then our struggles to achieve victory would curiously
+be undercut. In any game without a time limit, if victory were in our grasp, it
+would be entirely reasonable to delay the victory in order to have more of the
+activity of striving.7 But this would be very odd behavior, and would defeat
+much of the point of striving play.
+A friend of mine relates the following story: his ten-year- old son was
+beating my friend badly at Monopoly. The son was very much enjoying the
+experience. My friend discovered that every time he was about to lose, his
+son would sneak him some extra cash just to keep the game going. The son
+just wanted to extend the experience, to keep on beating his father forever.
+The story is funny precisely because the son is missing something crucial
+about how game playing works. In order to be absorbed in a game, we must
+behave as if winning were a final end. That end must phenomenally engulf
+us, if we are to be gripped by the game and if its thrills and threats are to have
+emotional punch for us. We must pursue the goals of the game wholeheart-
+edly, putting our larger purpose out of mind. In other words, we must sub-
+merge ourselves in a temporary agency.
+Aesthetic Experiences of One’s Own Activity
+Stupid games are not the point of our inquiry; they are merely a blunt example
+to show the possibility of striving play. I’m interested in showing that games
+can be an art form. So, let’s start by thinking about how games can support
+aesthetic experiences. (I do not mean to imply that aim of art is exclusively
+to provide aesthetic experiences, but only that it is one of the characteristic
+7 This excellent point was originally raised to me by Christopher Yorke.
+-- 11 of 23 --
+12 Games
+functions of art to do so.) The recent discussion of game aesthetics has largely
+focused on thinking about games as a form of fiction (Tavinor 2017, 2009;
+Robson and Meskin 2016). What we lack is an aesthetics of Suitsian play.
+So: consider the category of aesthetic striving play— that is, game play en-
+gaged in for the sake of the aesthetic quality of the struggle. Can striving re-
+ally give rise to aesthetic qualities, and what would those be like? Let’s start
+with some paradigmatically aesthetic qualities: those of gracefulness and el-
+egance. We obviously attribute such aesthetic qualities to particular playings
+of games, especially from the spectators’ perspective. Sports spectatorship,
+for example, is full of talk of the beauty and elegance of athletic motion. But
+the spectator’s perspective is not the end of the story. There are distinctive
+aesthetic qualities available primarily to the causally active game player.
+These are aesthetic qualities of acting, deciding, and solving.
+And those aesthetic qualities can arise, not just for our actions in isolation,
+but also for our actions as practically functional. Some actions are beautiful
+because of what they get done. Consider the difference between two super-
+ficially similar activities: dancing freely and rock climbing. Dancing freely—
+as I do by myself with my headphones on—can be an aesthetic experience.
+My own movements can feel to me expressive, dramatic, and, once in a rare
+while, even a bit graceful. I also rock climb, and rock climbing is full of aes-
+thetic experiences. Climbers praise particular climbs for having interesting
+movement or beautiful flow. But, unlike many traditional forms of dance,
+climbing aims at overcoming obstacles. The climbing experiences that linger
+most potently in my mind are experiences of movement as the solution to
+a problem— of my deliberateness and gracefulness that got me through a
+delicate sequence of holds (Nguyen 2017a). Dancing may occasionally be a
+game, but climbing is essentially a game. It is unnecessary obstacles, taken on
+for the activity of trying to overcome them.
+Take another paradigmatically aesthetic property: harmony. When chess
+players discover a move that elegantly escapes a trap, the harmony of the
+move— the lovely fit between the challenge and the solution—is available
+both to themselves and to outsiders. But something more is available espe-
+cially to players: a special experience of harmony between their abilities and
+the challenges of the world. When your abilities are pushed to their max-
+imum, when your mind or body is just barely able to do what’s required, when
+your abilities are just barely enough to cope with the situation at hand—that
+is an experience of harmony available primarily to the players themselves. It
+is a harmony between self and challenge, between the practical self and the
+-- 12 of 23 --
+Agency as Art 13
+obstacles of its world. It is a harmony of a practical fit between your whole self
+and the world.
+This, it seems to me, is a paradigmatic aesthetic experience of playing
+games. Once we’ve seen it, we can see that aesthetic experiences with this
+character exist outside of games. I value philosophy because I value truth,
+but I also savor the feel of that beautiful moment of epiphany, when I finally
+find that argument that I was groping for. Games can provide consciously
+sculpted versions of those everyday experiences. There is a natural aesthetic
+pleasure to working through a difficult math proof; chess seems designed,
+at least in part, to concentrate and refine that pleasure for its own sake. In
+ordinary practical life, we catch momentary glimpses, when we are lucky, of
+harmony between our abilities and our tasks. But often, there is no such har-
+mony. Our abilities fall far short of the tasks; or, the tasks are horribly dull.
+But we can design games for the sake of this harmony of practical fit. In our
+games, the obstacles are designed to be solved by the human mind and the
+human body— unlike, say, the tasks of curing cancer or grading. John Dewey
+suggested that many of the arts are crystallizations of ordinary human expe-
+rience (Dewey [1934] 2005). Fiction is the crystallization of telling people
+about what happened; visual arts are the crystallization of looking around
+and seeing; music is the crystallization of listening. Games, I claim, are the
+crystallization of practicality. Aesthetic experiences of action are natural and
+occur outside of games all the time. Fixing a broken car engine, figuring out
+a math proof, managing a corporation, even getting into a bar fight—each
+can have its own particular interest and beauty. These include the satisfaction
+of finding an elegant solution to an administrative problem, of dodging per-
+fectly around an unexpected obstacle. These experiences are wonderful—but
+in the wild, they are far too rare. Games can concentrate those experiences.
+When we design games, we can sculpt the shape of the activity to make beau-
+tiful action more likely. And games can intensify and refine those aesthetic
+qualities, just as a painting can intensify and refine the aesthetic qualities we
+find in the natural sights and sounds of the world.
+Aesthetic striving games, then, are games designed primarily for the pur-
+pose of providing aesthetic experiences of practicality to their players. Notice
+that the categories of aesthetic striving games and aesthetic striving players
+do not quite always align. A game could have been originally designed to pro-
+mote achievement, but certain players might take it up for aesthetic striving.
+Or an achievement player could take up an aesthetic striving game simply
+because they wanted to win, but be led by the game’s design into having
+-- 13 of 23 --
+14 Games
+aesthetic experiences along the way. But, in most cases, aesthetic striving
+games seem made for aesthetic striving players.
+Let’s return to Sign. Sign is distinctive in several ways. In many other
+role- playing games, such as Fiasco, the relationship of player to char-
+acter is theatrical. Players may choose to have their characters act
+counterproductively—against that character’s goals—because it would be
+narratively meaningful. In such a game, I might choose to act out how my
+character, a sad-sack con man, unwisely confesses his crimes to a pretty
+stranger in a bar. It is an idiotic choice for my character, and works against
+all his goals, but I made the choice because I thought it would make for a
+satisfying narrative arc. Sign, on the other hand, is a striving game. Each
+player must take up the goal of communicating their inner truth, pursuing
+it wholeheartedly in order to have the desired experience. But the players
+themselves aren’t really interested in winning in any enduring sense. Their
+larger purpose is to experience the precise texture of struggling, flailing,
+and barely managing to communicate. But one will only be gripped by these
+experiences if one genuinely tries to win during the game.
+The fact that Sign is an aesthetic striving game is particularly clear to me
+now that I have added my own house rule. I have decreed that, at the end of
+the game, nobody will explain what their inner truth was; nor will they say
+what they thought anybody else’s truth was. Nobody ever gets to find out if,
+in fact, we have successfully communicated with each other, even though we
+pursued that goal during the game. My players and I all agree that this house
+rule improves the strange potency of the game, and that it is very much in the
+spirit of the thing. This house rule would be absurd if we actually cared about
+winning in any enduring way. But it is perfectly comprehensible if winning
+is only a temporarily adopted interest, taken up for the aesthetic qualities of
+the pursuit.
+The Artistic Medium of Games
+So how do game designers fashion these aesthetically rich struggles? It
+will be useful here to think in terms of the artistic medium of games. Let’s
+follow Joseph Margolis’s suggestion and distinguish between a physical
+medium and an artistic medium (Margolis 1980, 1–42; Davies 2003, 183).
+Or, as Dominic Lopes puts it, an artistic medium is not merely a certain set
+of materials, but a set of “technical resources” (Lopes 2014, 133–139). For
+-- 14 of 23 --
+Agency as Art 15
+example, in paintings, the physical medium consists of pigments applied to
+a surface, while the artistic medium includes various techniques, including
+brushstrokes.
+So: is there some sort of artistic medium in common to all aesthetic
+striving games? What is the medium of games? The medium, whatever it is,
+must be quite abstract if it is to cover the wide variety of Suitsian games—
+which includes video games, board games, role-playing games, card games,
+sports, and party games. The medium couldn’t be something as specific as,
+say, software, interactive video, or boards and pieces.8
+First, it is tempting to say that the medium of games is constraints and
+obstacles. Certainly, that’s part of the story, but it doesn’t capture the full rich-
+ness of the game designer’s efforts. That view might seem plausible if we nar-
+rowly focus on only physical games, such as traditional sports. Traditional
+sports are played in the physical world with our actual bodies. Thus, the rules
+of a sport usually start with our physical bodies, with our full range of abili-
+ties, and then selectively restricts our use of those abilities. For example, we
+might disallow the use of hands in soccer, or the use of punching and kicking
+in basketball. But game designers actually create new sorts of actions and
+possibilities all the time.9 This is clearest in video games such as Portal, where
+I am given a gun that can shoot the ends of a wormhole into the world to
+create space- bending passageways. But we need not focus solely on such rad-
+ically new abilities. Most games create new actions. “Taking a piece” in Chess
+and “a home run” in baseball are new actions that arise only within the con-
+text of a particular rule set.
+In that case, we might be tempted to say, instead, that the artistic medium
+of games is rules. And perhaps this is right, if we have a sufficiently loose no-
+tion of “rule.” But under most standard uses of the term, this proposal doesn’t
+work either. Say that you mean by “rule” an explicit, stated principle for ac-
+tion that is mentally upheld by the players. First, as many computer-game
+scholars have pointed out, much of what computer-game designers do is de-
+sign the virtual environment through software manipulations. The software
+environment is not a set of rules consciously held by a player; it has some inde-
+pendent existence (Leino 2012). Of course, you might think that the software
+8 If the reader has a particular theory of medium here that forbids such abstraction, please sub-
+stitute the term “artistic resource,” as borrowed from Riggle (2010). For a useful discussion of how
+abstract a medium might be, see Elisabeth Schellekens’s discussion of ideas as the medium of concep-
+tual art (Schellekens 2007).
+9 Cardona-Rivera and Young (2014) offer a useful survey of work on game affordances.
+-- 15 of 23 --
+16 Games
+code itself is a set of rules, just rules that run on a computer rather than on a
+human brain. But even so, there’s more to game design than rules. The case is
+clearest with physical games. Think, for example, about obstacle courses and
+artificial rock climbs. What fills out the experience are the physical details
+of the material object, and how that particular physicality interacts with the
+specified rules and the goals of the game. The physicality of games extends
+even to video games. A rule might tell you to use a particular game-console
+controller, but the physicality of the controller itself partially conditions the
+gaming experience.10 The video game PewPewPewPewPewPewPewPewPew
+illustrates this quite nicely. In the game, two people together control a single
+avatar, who has a jetpack and a ray gun. Both players have microphones. One
+player controls the jetpack by shouting “Shhhh!” into the microphone; the
+other player controls the gun by shouting “Pew! Pew! Pew!” into the micro-
+phone. Imagine the different texture of practical experience if the game were
+played with buttons instead. And even when played with microphones, so
+much depends on the physical details—the sensitivity of the microphones,
+the acoustics of the room. These aren’t just rules—they are environmental
+features. What unites software environments and physical environments is
+their relationship to challenge. We might say, then, that part of the medium is
+the practical environment— the environment conceived of in its opposition to
+our goals and abilities.
+This points us toward the last key element of game design—the goal.
+Reiner Knizia, elder statesman of German board-game design, has said that
+the central tool in his game-design arsenal is the scoring system. The scoring
+system creates the motivation, says Knizia (Knizia, quoted in Chalkey 2008).
+The scoring system tells you whether you need to collaborate or compete
+with the other players. And the scoring system helps shape how that interac-
+tion will go. The goals, combined with the game’s mechanics, tell us whether
+we are to manipulate our opponents or bargain with them, whether we are to
+cleverly profit off their actions or simply attack them. A game’s goals tell us
+what to care about during the game. When we play a game, we simply take on
+the goals it indicates, and acquire the motivations that the game wishes us to
+acquire.
+Think about a board-game night between friends. We sit around the table
+and pull out a new board game that has just arrived in the mail, taking off the
+10 For a study of the aesthetics of our physical interaction with video-game controllers, see
+Kirkpatrick (2011, 87–116).
+-- 16 of 23 --
+Agency as Art 17
+shrink wrap. We pop out the cardboard tokens into a great heap on the table
+and begin to sort them into neat piles of green tokens, blue tokens, and gold
+tokens. We don’t know what these tokens will represent; the physical tokens
+themselves have no particular importance. If, for instance, my dog eats all
+the blue tokens, we can replace them with pennies and still be able to play
+the game. Now we open the rule book, which tells us that the gold tokens are
+money, and that they are useful for buying various resources during the game
+but don’t count toward victory at the end. The winner will be the person who
+has collected the most green tokens. Notice that before the game starts, we
+have no interest in collecting green tokens. But during the game, we acquire
+a hearty interest in the green tokens, to the point where an insufficiency of
+tokens may inspire armpit sweats, jitters, and a surge of adrenaline at the
+prospect of pulling off a last-ditch plan to get more. And once the game is fin-
+ished, we lose our interest in the green tokens entirely, shove all of them into
+a messy pile, and scoop them into a Ziploc plastic bag.
+What the Suitsian analysis suggests is that games are structures of practical
+reason, practical action, and practical possibility, conjoined with a partic-
+ular world in which that practicality will operate. A game designer designates
+this as the goal of the game player, and those as the permitted abilities, and
+that as the landscape of obstacles. The designer creates, not only the world in
+which players will act, but the skeleton of the players’ practical agency within
+that world. The designer designates players’ abilities and goals in the game.
+The designer’s control over the nature of the players’ agency is part of how
+the game designer sculpts the game’s activity. Games can offer us more finely
+tuned practical harmonies because the designers have control over both
+world and agent.
+We now have an answer to the question of artistic medium. The common
+artistic medium of aesthetic striving games—the technical resources by
+which the game designer sculpts practical experience—are the goals, the
+rules, and the environment that these various parts animate into a system
+of constraints. The game designer crafts for players a very particular form
+of struggle, and does so by crafting both a temporary practical agency for
+us to inhabit and a practical environment for us to struggle against. In other
+words, the medium of the game designer is agency. If you want a slogan, try
+this one: games are the art of agency.
+Note that I haven’t offered anything like a definition of agency. This is in-
+tentional. I do not take there to be a settled account of agency in general, and
+that literature is currently undergoing a number of upheavals. Much of this
+-- 17 of 23 --
+18 Games
+change is due to challenges regarding the possible existence of group agents
+and collective agents, such as companies and corporations, and other edge
+cases, including animal agency, robot agency, and the agency of algorithms
+(Barandiaran, Di Paolo, and Rohde 2009; List and Pettit 2011; Gilbert 2013).
+When I speak of agency, I am generally thinking in terms of a fairly tradi-
+tional conception—in which agency involves intentional action, or action for
+a reason. I am in no way presuming that this is a complete account of agency.
+I don’t think we need a full definition or metaphysical account of “paper”
+to usefully say that origami uses the medium of paper folding, and I don’t
+think we need to settle on a particular philosophical account of “agency” to
+usefully say that games use the medium of agency. In fact, I think that investi-
+gating how games work in the medium of agency will actually teach us some-
+thing about the nature of our agency.
+But this basic idea— that games work in the medium of agency—reveals
+something quite profound about the role games can play in human life, es-
+pecially in our social lives. Games turn out to be a way of writing down forms
+of agency, of inscribing them in an artifact. Games are one of our techniques
+for inscribing and recording bits of human experience. We have devel-
+oped methods for recording stories: novels, poetry, film, and other kinds
+of narrative. We have developed methods for capturing sights: drawing,
+painting, photography, and film. We have developed methods for capturing
+sounds: written music, recording technologies, and wooden duck calls.
+We have even developed methods for capturing sequences of action to be
+performed—cookbook directions, dance choreography, and stage directions.
+Games are a method for capturing forms of agency. And these techniques
+and technologies enable all sorts of interactions and modifications. Once we
+can write something down, that enables us to more easily study and refine it.
+And this suggests another possibility: that games can be a way that we col-
+laborate in the project of developing our agency and autonomy. If games can
+record and transmit forms of agency, then I can learn new modes of agency
+from a game. And you may write down a useful form of agency and pass it
+to me through a game. This may, in the abstract, seem slightly insane. But
+I think it is, in fact, quite plausible, especially when we think of what we ac-
+tually learn from games. I am not alone in thinking that I acquired a cer-
+tain focused, logical, and tactical mindset from playing chess. Rock climbing
+taught me to focus precisely on my balance and precision of motion. Tetris
+gave me the mental state required to pack my trunk optimally for a trip. My
+suggestion here is more than the familiar old saw that games teach us skills
+-- 18 of 23 --
+Agency as Art 19
+and develop our abilities. My claim is that games can teach us the agential
+mindsets behind those skills—the pairings of a particular kind of interest
+with a focus on a particular set of abilities. And the practice of striving play
+itself teaches us how to be flexible with our agency—how to pick up and set
+aside interests for a moment. That flexibility is of great use outside of game.
+We use our agential flexibility when we switch between our various roles,
+such as parent, professional, and friend, and adopt the different frames of
+mind that go with such roles.
+As it turns out, the development of our agency and autonomy is not a
+solitary project. As with many of our other aspects—our scientific under-
+standing, our logical capacities, our morality—we can help each other in the
+project of personal self-development, and we often do so, not just in person,
+but through artifactual vessels. And games are an artifactual vessel with
+which we can communicate modes of agency. The games that we have made
+constitute a vast library of agency, in which we have recorded a wide variety
+of different forms of agencies and which we can use to explore different ways
+of being an agent. And it is our capacity to submerge ourselves in alternate
+agencies that makes it possible for us to use this library.
+Games and Artificiality
+But games also offer one more promise. They can function as a refuge from
+the inhospitality of ordinary life. In practical life, the world is mostly fixed,
+and our values, relatively inflexible. Most of us cannot help but desire com-
+pany, food, success. The recalcitrant world and our inflexible values generate
+certain obstacles. These are not the obstacles we wanted to struggle against,
+but they are the ones we must overcome in order to get what we want. So we
+must try to sculpt ourselves and our abilities to fit the needs of the world. The
+world tells us we must eat, so we must find a job and pretend to ourselves that
+we enjoy it. The world tells us that we must find romantic partners, so we
+learn to be witty, or at least to make to make a decent online dating profile.
+The world tells us that if we wish to be professional philosophers, we must
+grade an endless sea of student papers, no matter how mind-numbing we
+find the task. So we put nose to grindstone and force our way through.
+In games, on the other hand, we sculpt for ourselves exactly the kind
+of practical activity we wish to engage in. We pick the goals, abilities, and
+the world. In games, our abilities can precisely suit the challenges we are
+-- 19 of 23 --
+20 Games
+presented with. In Super Mario Brothers, we are given the ability to run and
+jump, and a world full of chasms to jump over and monsters to jump upon.
+What’s more, our jumping abilities and speed in Super Mario Brothers are
+just barely enough to cope with the chasms and monsters we face. The chess
+knight’s strange leaping movement is just what we need to break through our
+opponent’s defenses. In games, we are given the right kinds of abilities, but
+just barely enough of them— which creates drama and interest. And not only
+do the abilities fit, but their exercise is often pleasurable and interesting and
+exciting, at least when we’ve found the right game for our tastes.
+How unlike our own dreary world this is! Our abilities sometimes fit our
+goals in the world, but so often they do not. We want to invent a cure for
+cancer, but lack the capacities to do it. We wish to help students learn to write
+better, but the process is boring and mind-numbing and provokes occa-
+sional thoughts of suicide—or at least of throwing it all in and becoming a
+lawyer instead. We do not fit this world comfortably. The obstacles in our
+path are often intractable, exhausting, or miserable. Games can be an exis-
+tential balm for our practical unease with the world. In games, the problems
+can be right-sized for our capacities; our in-game selves can be right-sized
+for the problems; and the arrangement of self and world can make solving the
+problems pleasurable, satisfying, interesting, and beautiful.
+Even with our opponents, there is a harmony. In a good game, our
+opponent’s attempts to harm us may, in the right circumstances, actually be
+channeled so as to create experiences we value. In ordinary life, social attacks
+and financial attacks are usually painful and unpleasant. They can be survived
+and gotten over, but rarely can they be enjoyed. But games are often designed
+such that your attacks on me are channeled into interesting obstacles for me
+to overcome. Even our motivations can be curiously harmonized, even if we
+are at each other’s throats. Outside of games, much of the pain and difficulty
+of social life with others arises from the dizzying plurality of values. Each
+of us cares about different things; trying to mesh the plurality of disparate
+values into livable communities is incredibly difficult.
+In games, values are usually singular and shared. In games, each person
+is a simplified agent. And in most cases, competing agents are pursuing the
+same goal. When we are playing tennis, I do not have to cope with subtle
+differences between your and my view of the good. You and I are after ex-
+actly the same thing: points and victory. It is not that we are cooperating,
+exactly—but we are motivationally coherent to one another. In some sense,
+the motivational world described by traditional economics—one in which
+-- 20 of 23 --
+Agency as Art 21
+identically motivated rational actors compete with one another—is false in
+the actual world, but true in game worlds. When games work, they can some-
+times present us with the world as we wish it could be. The worlds of games
+are harmonious and interesting worlds, where even our worst impulses are
+transformed into the pleasure of others. In ordinary life, we must build prac-
+tical activities and relationships from gears that were never made to fit. But in
+games, we can machine all the gears to fit from the start.
+And this, I suspect, is both the great promise and the great threat of
+games. Games can offer us a clarifying balm against the vast, compli-
+cated, ever-shifting social world of pluralistic values, and an existential
+balm against our internal sense that our values are slippery and unclear.
+In games, values are clear, well-delineated, and typically uniform among
+all agents. But this also creates a significant moral danger—not just from
+graphically violent games, but from all games. This is the danger of ex-
+porting back to the world a false expectation: that values should be clear,
+well-delineated, and uniform in all circumstances. Games threaten us with
+a fantasy of moral clarity.
+The positive part of my view might seem rather familiar. Jane McGonigal
+makes a similar point in her argument for making our lives more game-
+like. The world wasn’t made to fit us, she says, but games can be made to fit.
+Playing games is far more pleasurable; our motivations in games are more
+potent. Thus, concludes McGonigal, we should try to make life more like
+a game, by gamifying our work, our chores, and our education. We should
+fill our lives with leaderboards, rankings, and badges, and fill our work with
+carefully engineered gamified systems, in order to make our work and educa-
+tional lives more pleasant (McGonigal 2011).
+But this mistakes how peculiar game values are. We can tailor our struggles
+in games precisely because our game ends are disposable. But when we try to
+make the rest of life like a game, we will need to adapt our enduring ends to
+make the struggle more pleasurable and satisfying. When we do that—when
+we instrumentalize our enduring ends as if our lives are a game—we court
+disaster. When we gamify our ordinary lives, we will be tempted to shift and
+simplify our ends for the sake of the struggle—but then we are no longer be
+aiming at the same target. Games can be safely tailored precisely because they
+are games.
+Games involve taking on temporary ends and submerging ourselves in
+alternate agencies. And, like any other form of art, exactly the features that
+make games potentially valuable also make them potentially dangerous.
+-- 21 of 23 --
+22 Games
+Games are the art form of agency, and it is in their use of agency where we
+will find both a great promise and a significant threat.
+I have sketched here the broad strokes of my view. The rest of the book will
+explore, in greater detail, these arguments and possibilities.
+In Part I, I focus on the motivational structure of game play. First, in
+Chapter 2, I defend the possibility of striving play against skeptics. In
+Chapter 3, I explore our capacity for submerging ourselves in alternate
+agencies and our ability to forget our enduring ends for the span of the game.
+And I draw lessons for philosophical agency and practical reasoning from
+the fact that we can play games. Together, these two chapters are the core of
+my theoretical account of the motivational structure of game play. They are
+the philosophically densest chapters, but also the heart of the story.
+In Chapter 4, I argue that games can play a special role in the develop-
+ment of our own agency and autonomy. Games can communicate modes of
+agency. And when we play games, we can learn new modes of agency. Games
+can constitute a library of agencies, and we can use that library to grow.
+In Part II, I focus on games as an art form. In Chapter 5, I explore the aes-
+thetics of agency. Beauty is not just confined to sunsets and symphonies; our
+own actions, choices, and decisions can also have their own kind of beauty.
+I also defend the aesthetics of agency against the worries that aesthetic ex-
+perience is essentially incompatible with practical and instrumental states
+of mind.
+In Chapter 6, I argue that games are like traditional art works in some
+very significant ways. Most importantly, games involve socially maintained
+prescriptions for attention—they are a way of framing certain parts of the
+world for our appreciation. Games are a way of aesthetically framing our own
+practical activity.
+In Chapter 7, I look at how games are distinctive as an art form. Unlike
+most traditional arts, the aesthetic qualities of a game arise, not in the artifact
+itself, but in the activity of the player. Thus, the aesthetic qualities of games
+are significantly distanced from the designer and the game itself. Game
+designers must cope with a distinctive artistic difficulty: they must achieve
+their aesthetic effects through the agency of the player.
+In Part III, I focus the social and moral consequences of the agential
+manipulations of games. In Chapter 8, I argue that games work not only in
+the medium of agency but also in the medium of sociality. Games arrange so-
+cial relationships and create social patterns through their use of the agential
+-- 22 of 23 --
+Agency as Art 23
+medium. And in doing so, they can achieve some very remarkable effects,
+such as transforming competition into cooperation.
+In Chapter 9, I worry about a distinctive danger of the agential medium.
+Games might threaten our autonomy if we do not properly manage the tran-
+sition back to non-game life. Games may foster the expectation that values be
+clear, simple, and easily stated—that our goals be obvious and measurable.
+Games may present a fantasy of moral clarity. And in Chapter 10, I argue that
+aesthetic striving play might offer us some protection against the fantasy of
+moral clarity.
+One last word of warning: my discussion involves a fairly large number of
+in-depth case studies of particular games—far more than one might usually
+find in a work of academic philosophy, even one in aesthetics. This is due,
+in part, to the relative novelty of trying to present a unified account of the
+art form across a broad range of games. My account will include computer
+games, team sports, solo sports, board games, card games, party games, ta-
+bletop role-playing games, and live-action role- playing games. Much of the
+recent discussion of games as an art form has focused fairly narrowly on a
+very small set of games: computer games, and mostly single-player computer
+games, often with a strong narrative component. I wish to broaden the focus.
+Unfortunately, there is no established canon of games that I can depend on
+the reader to be familiar with. My case for depends on the reader seeing the
+extraordinary variety of ways that games make use of the medium of agency.
+So, if you’ll bear with me, I think it very important to describe, in loving de-
+tail, a fair number of games. And I hope that the reader, if sufficiently inter-
+ested, will also seek out and play some of these games. I have played all of the
+games I mention and have chosen to discuss those I think are exemplars of
+game design, with a few exceptions as noted. My hope is to develop, through
+both argument and examples, a compelling picture of games as a very special
+type of human artifact and as a unique art form.
+-- 23 of 23 --

@@ -1,0 +1,661 @@
+“Panopticism” from Discipline & Punish: The Birth of the
+Prison
+Michel Foucault
+Race/Ethnicity: Multidisciplinary Global Contexts, Volume 2, Number
+1, Autumn 2008, pp. 1-12 (Article)
+Published by Indiana University Press
+For additional information about this article
+https://muse.jhu.edu/article/252435
+[208.59.56.252] Project MUSE (2026-04-04 20:08 GMT)
+-- 1 of 13 --
+autumn 2008 1
+Panopticism from
+Discipline & Punish:
+The Birth of the Prison
+Michel Foucault
+he following, according to an order published at the
+end of the seventeenth century, were the measures to
+be taken when the plague appeared in a town.1
+First, a strict spatial partitioning: the closing of the town and
+its outlying districts, a prohibition to leave the town on pain of
+death, the killing of all stray animals; the division of the town
+into distinct quarters, each governed by an intendant. Each
+street is placed under the authority of a syndic, who keeps it
+under surveillance; if he leaves the street, he will be con-
+demned to death. On the appointed day, everyone is ordered to
+stay indoors: it is forbidden to leave on pain of death. The syn-
+dic himself comes to lock the door of each house from the out-
+side; he takes the key with him and hands it over to the inten-
+dant of the quarter; the intendant keeps it until the end of the
+quarantine. Each family will have made its own provisions;
+but, for bread and wine, small wooden canals are set up be-
+tween the street and the interior of the houses, thus allowing
+each person to receive his ration without communicating with
+the supplier and other residents; meat, fish and herbs will be
+hoisted up into the houses with pulleys and baskets. If it is ab-
+solutely necessary to leave the house, it will be done in turn,
+avoiding any meeting. Only the intendants, syndics and guards
+will move about the streets and also, between the infected
+houses, from one corpse to another, the ‘crows’, who can be left
+to die: these are ‘people of little substance who carry the sick,
+bury the dead, clean and do many vile and abject offices’. It is a
+segmented, immobile, frozen space. Each individual is fixed in
+his place. And, if he moves, he does so at the risk of his life,
+contagion or punishment.
+T
+© 2008 The Ohio State University/Office
+of Minority Affairs/The Kirwan Institute
+“Panopticism” excerpt from DISCIPLINE AND PUNISH by Michel Fou-
+cault. English Translation copyright © 1977 by Alan Sheridan (New York:
+Pantheon). Originally published in French as Surveiller et Punir. Copyright
+© 1975 by Editions Gallimard. Reprinted by permission of Georges Bor-
+chardt, Inc. for Editions Gallimard.
+[208.59.56.252]
+Project MUSE (2026-04-04 20:08 GMT)
+-- 2 of 13 --
+Inspection functions ceaselessly. The gaze is alert everywhere:
+‘A considerable body of militia, commanded by good officers
+and men of substance’, guards at the gates, at the town hall and
+in every quarter to ensure the prompt obedience of the people
+and the most absolute authority of the magistrates, ‘as also to
+observe all disorder, theft and extortion’. At each of the town
+gates there will be an observation post; at the end of each street
+sentinels. Every day, the intendant visits the quarter in his charge,
+inquires whether the syndics have carried out their tasks,
+whether the inhabitants have anything to complain of; they ‘ob-
+serve their actions’. Every day, too, the syndic goes into the
+street for which he is responsible; stops before each house: gets
+all the inhabitants to appear at the windows (those who live
+overlooking the courtyard will be allocated a window looking
+onto the street at which no one but they may show themselves);
+he calls each of them by name; informs himself as to the state of
+each and every one of them—‘in which respect the inhabitants
+will be compelled to speak the truth under pain of death’; if
+someone does not appear at the window, the syndic must ask
+why: ‘In this way he will find out easily enough whether dead
+or sick are being concealed.’ Everyone locked up in his cage,
+everyone at his window, answering to his name and showing
+himself when asked—it is the great review of the living and the
+dead.
+This surveillance is based on a system of permanent regis-
+tration: reports from the syndics to the intendants, from the in-
+tendants to the magistrates or mayor. At the beginning of the
+‘lock up’, the role of each of the inhabitants present in the town
+is laid down, one by one; this document bears ‘the name, age,
+sex of everyone, notwithstanding his condition’: a copy is sent
+to the intendant of the quarter, another to the office of the town
+hall, another to enable the syndic to make his daily roll call. Ev-
+erything that may be observed during the course of the visits—
+deaths, illnesses, complaints, irregularities—is noted down and
+transmitted to the intendants and magistrates. The magistrates
+have complete control over medical treatment; they have ap-
+pointed a physician in charge; no other practitioner may treat,
+no apothecary prepare medicine, no confessor visit a sick per-
+son without having received from him a written note ‘to pre-
+vent anyone from concealing and dealing with those sick of the
+contagion, unknown to the magistrates’. The registration of the
+pathological must be constantly centralized. The relation of
+each individual to his disease and to his death passes through
+the representatives of power, the registration they make of it,
+the decisions they take on it.
+Five or six days after the beginning of the quarantine, the
+process of purifying the houses one by one is begun. All the in-
+habitants are made to leave; in each room ‘the furniture and
+goods’ are raised from the ground or suspended from the air;
+perfume is poured around the room; after carefully sealing the
+windows, doors and even the keyholes with wax, the perfume
+is set alight. Finally, the entire hose is closed while the perfume
+race /ethnicity vol. 2 / no. 1 2
+michel foucault
+-- 3 of 13 --
+is consumed; those who have carried out the work are searched,
+as they were on entry, ‘in the presence of the residents of the
+house, to see that they did not have something on their persons
+as they left that they did not have on entering’. Four hours later,
+the residents are allowed to re-enter their homes.
+This enclosed, segmented space, observed at every point, in
+which the individuals are inserted in a fixed place, in which
+the slightest movements are supervised, in which all events are
+recorded, in which an uninterrupted work of writing links the
+centre and periphery, in which power is exercised without di-
+vision, according to a continuous hierarchical figure, in which
+each individual is constantly located, examined and distribut-
+ed among the living beings, the sick and the dead—all this
+constitutes a compact model of the disciplinary mechanism.
+The plague is met by order; its function is to sort out every
+possible confusion: that of the disease, which is transmitted
+when bodies are mixed together; that of the evil, which is in-
+creased when fear and death overcome prohibitions. It lays
+down for each individual his place, his body, his disease and
+his death, his well-being, by means of an omnipresent and om-
+niscient power that subdivides itself in a regular, uninter-
+rupted way even to the ultimate determination of the individ-
+ual, of what characterizes him, of what belongs to him, of what
+happens to him. Against the plague, which is a mixture, disci-
+pline brings into play its power, which is one of analysis. A
+whole literary fiction of the festival grew up around the
+plague: suspended laws, lifted prohibitions, the frenzy of pass-
+ing time, bodies mingling together without respect, individu-
+als unmasked, abandoning their statutory identity and the fig-
+ure under which they had been recognized, allowing a quite
+different truth to appear. But there was also a political dream
+of the plague, which was exactly its reverse: not the collective
+festival, but strict division; not laws transgressed, but the pen-
+etration of regulation into even the smallest details of every-
+day life through the mediation of the complete hierarchy that
+assured the capillary functioning of power; not masks that
+were put on and taken off, but the assignment to each individ-
+ual of his ‘true’ name, his ‘true’ place, his ‘true’ body, his ‘true’
+disease. The plague as a form, at once real and imaginary, of
+disorder had as its medical and political correlative discipline.
+Behind the disciplinary mechanisms can be read the haunting
+memory of ‘contagions’, of the plague, of rebellions, crimes,
+vagabondage, desertions, people who appear and disappear,
+live and die in disorder.
+If it is true that the leper gave rise to rituals of exclusion,
+which to a certain extent provided the model for and general
+form of the great Confinement, then the plague gave rise to
+disciplinary projects. Rather than the massive, binary division
+between one set of people and another, it called for multiple
+separations, individualizing distributions, and organization in
+depth of surveillance and control, an intensification and a ram-
+ification of power. The leper was caught up in a practice of re-
+autumn 2008 3
+panopticism
+[208.59.56.252]
+Project MUSE (2026-04-04 20:08 GMT)
+-- 4 of 13 --
+jection, of exile-enclosure; he was left to his doom in a mass
+among which it was useless to differentiate; those sick of the
+plague were caught up in a meticulous tactical partitioning in
+which individual differentiations were the constricting effects
+of a power that multiplied, articulated and subdivided itself;
+the great confinement on the one hand; the correct training on
+the other. The leper and his separation; the plague and its seg-
+mentations. The first is marked; the second analysed and dis-
+tributed. The exile of the leper and the arrest of the plague do
+no bring with them the same political dream. The first is that
+of a pure community, the second that of a disciplined society.
+Two ways of exercising power over men, of controlling their
+relations, of separating out their dangerous mixtures. The
+plague-stricken town, traversed throughout with hierarchy,
+surveillance, observation, writing; the town immobilized by
+the functioning of an extensive power that bears in a distinct
+way over all individual bodies—this is the utopia of the per-
+fectly governed city. The plague (envisaged as a possibility at
+least) is the trial in the course of which one may define ideally
+the exercise of disciplinary power. In order to make rights and
+laws function according to pure theory, the jurists place them-
+selves in imagination in the state of nature; in order to see
+perfect disciplines functioning, rulers dreamt of the state of
+plague. Underlying disciplinary projects the image of the plague
+stands for all forms of confusion and disorder; just as the image
+of the leper, cut off from all human contact, underlies projects
+of exclusion.
+They are different projects, then, but not incompatible ones.
+We see them coming slowly together, and it is the peculiarity of
+the nineteenth century that it applied to the space of exclusion
+of which the leper was the symbolic inhabitant (beggars,
+vagabonds, madmen and the disorderly formed the real popu-
+lation) the technique of power proper to disciplinary partition-
+ing. Treat ‘lepers’ as ‘plague victims’, project the subtle segmen-
+tations of discipline onto the confused space of internment,
+combine it with the methods of analytical distribution proper to
+power, individualize the excluded, but use procedures of indi-
+vidualization to mark exclusion—this is what was operated
+regularly by disciplinary power from the beginning of the nine-
+teenth century in the psychiatric asylum, the penitentiary, the
+reformatory, the approved school and, to some extent, the hos-
+pital. General speaking all the authorities exercising individual
+control function according to a double mode; that of binary di-
+vision and branding (mad/sane; dangerous/harmless; nor-
+mal/abnormal); and that of coercive assignment, of differential
+distribution (who he is; where his must be; how he is to be
+characterized; how he is to be recognized; how a constant
+surveillance is to be exercised over him in an individual way,
+etc.). On the one hand, the lepers are treated as plague victims;
+the tactics of individualizing disciplines are imposed on the ex-
+cluded; and, on the other hand, the universality of disciplinary
+controls makes it possible to brand the ‘leper’ and to bring into
+race /ethnicity vol. 2 / no. 1 4
+michel foucault
+-- 5 of 13 --
+play against him the dualistic mechanisms of exclusion. The
+constant division between the normal and the abnormal, to
+which every individual is subjected, brings us back to our own
+time, by applying the binary branding and the exile of the leper
+to quite different objects; the existence of a whole set of tech-
+niques and institutions for measuring, supervising and correct-
+ing the abnormal brings into play the disciplinary mechanisms
+to which the fear of the plaque gave rise. All the mechanisms of
+power which, even today, are disposed around the abnormal
+individual, to brand him and to alter him, are composed of
+those two forms from which they distantly derive.
+Bentham’s Panopticon is the architectural figure of this com-
+position. We know the principle on which it was based: at the
+periphery, an annular building; at the centre, a tower; this
+tower is pierced with wide windows that open onto the inner
+side of the ring; the peripheric building is divided into cells,
+each of which extends the whole width of the building; they
+have two windows, one on the inside, corresponding to the
+windows of the tower; the other, on the outside, allows the
+light to cross the cell from one end to the other. All that is
+needed, then, is to place a supervisor in a central tower and to
+shut up in each cell a madman, a patient, a condemned man, a
+worker or a schoolboy. By the effect of backlighting, one can ob-
+serve from the tower, standing out precisely against the light,
+the small captive shadows in the cells of the periphery. They are
+like so many cages, so many small theatres, in which each actor
+is alone, perfectly individualized and constantly visible. The
+panoptic mechanism arranges spatial unities that make it pos-
+sible to see constantly and to recognize immediately. In short, it
+reverses the principle of the dungeon; or rather of its three
+functions—to enclose, to deprive of light and to hide—it pre-
+serves only the first and eliminates the other two. Full lighting
+and the eye of a supervisor capture better than darkness, which
+ultimately protected. Visibility is a trap.
+To begin with, this made it possible—as a negative effect—to
+avoid those compact, swarming, howling masses that were to
+be found in places of confinement, those painted by Goya or de-
+scribed by Howard. Each individual, in his place, is securely
+confined to a cell from which he is seen from the front by the su-
+pervisor; but the side walls prevent him from coming into con-
+tact with his companions. He is seen, but he does not see; he is
+the object of information, never a subject in communication.
+The arrangement of his room, opposite the central tower, im-
+poses on him an axial visibility; but the divisions of the ring,
+those separated cells, imply a lateral invisibility. And this invis-
+ibility is a guarantee of order. If the inmates are convicts, there
+is no danger of a plot, and attempt at collective escape, the plan-
+ning of new crimes for the future, bad reciprocal influences; if
+they are patients, there is no danger of contagion; if they are
+madmen there is no risk of their committing violence upon one
+another; if they are schoolchildren, there is no copying, no
+autumn 2008 5
+panopticism
+[208.59.56.252]
+Project MUSE (2026-04-04 20:08 GMT)
+-- 6 of 13 --
+noise, no chatter, no waste of time; if they are workers, there are
+no disorders, no theft, no coalitions, none of those distractions
+that slow down the rate of work, make it less perfect or cause
+accidents. The crowd, a compact mass, a locus of multiple ex-
+changes, individualities merging together, a collective effect, is
+abolished and replaced by a collection of separated individuali-
+ties. From the point of view of the guardian, it is replaced by a
+multiplicity that can be numbered and supervised; from the
+point of view of the inmates, by a sequestered and observed
+solitude (Bentham, 60–64).
+Hence the major effect of the Panopticon: to induce in the in-
+mate a state of conscious and permanent visibility that assures
+the automatic functioning of power. So to arrange things that
+the surveillance is permanent in its effects, even if it is discon-
+tinuous in its action; that the perfection of power should tend
+to render its actual exercise unnecessary; that this architectural
+apparatus should be a machine for creating and sustaining a
+power relation independent of the person who exercises it; in
+short, that the inmates should be caught up in a power situa-
+tion of which they are themselves the bearers. To achieve this, it
+is at once too much and too little that the prisoner should be
+constantly observed by an inspector: too little, for what matters
+is that he knows himself to be observed; too much, because he
+has no need in fact of being so. In view of this, Bentham laid
+down the principle that power should be visible and unverifi-
+able. Visible: the inmate will constantly have before his eyes the
+tall outline of the central tower from which he is spied upon.
+Unverifiable: the inmate must never know whether he is being
+looked at at any one moment; but he must be sure that he may
+always be so. In order to make the presence or absence of the
+inspector unverifiable, so that the prisoners, in their cells, can-
+not even see a shadow, Bentham envisaged not only venetian
+blinds on the windows of the central observation hall, but, on
+the inside, partitions that intersected the hall at right angles
+and, in order to pass from one quarter to the other, not doors
+but zig-zag openings; for the slightest noise, a gleam of light, a
+brightness in a half-opened door would betray the presence of
+the guardian. 2 The Panopticon is a machine for dissociating the
+see/being seen dyad: in the peripheric ring, one is totally seen,
+without ever seeing; in the central tower, one sees everything
+without ever being seen.3
+It is an important mechanism, for it automatizes and disin-
+dividualizes power. Power has its principle not so much in a
+person as in a certain concerted distribution of bodies, surfaces,
+lights, gazes; in an arrangement whose internal mechanisms
+produce the relation in which individuals are caught up. The
+ceremonies, the rituals, the marks by which the sovereign’s sur-
+plus power was manifested are useless. There is a machinery
+that assures dissymmetry, disequilibrium, difference. Conse-
+quently, it does not matter who exercises power. Any individ-
+ual, taken almost at random, can operate the machine: in the
+absence of the director, his family, his friends, his visitors, even
+race /ethnicity vol. 2 / no. 1 6
+michel foucault
+-- 7 of 13 --
+his servants (Bentham, 45). Similarly, it does not matter what
+motive animates him: the curiosity of the indiscreet, the malice
+of a child, the thirst for knowledge of a philosopher who
+wishes to visit this museum of human nature, or the perversity
+of those who take pleasure in spying and punishing. The more
+numerous those anonymous and temporary observers are, the
+greater the risk for the inmate of being surprised and the
+greater his anxious awareness of being observed. The Panopti-
+con is a marvelous machine which, whatever use one may wish
+to put it to, produces homogeneous effects of power.
+A real subjection is born mechanically from a fictitious rela-
+tion. So it is not necessary to use force to constrain the convict
+to good behaviour, the madman to calm, the worker to work,
+the schoolboy to application, the patient to the observation of
+the regulations. Bentham was surprised that panoptic institu-
+tions could be so light: there were no more bars, no more
+chains, no more heavy locks; all that was needed was that the
+separations should be clear and the openings well arranged.
+The heaviness of the old ‘houses of security’, with their fortress-
+like architecture, could be replaced by the simple, economic ge-
+ometry of a ‘house of certainty’. The efficiency of power, its
+constraining force have, in a sense, passed over to the other
+side—to the side of its surface of application. He who is sub-
+jected to a field of visibility, and who knows it, assumes respon-
+sibility for the constraints of power; he makes them play spon-
+taneously upon himself; he inscribes in himself the power
+relation in which he simultaneously plays both roles; he be-
+comes the principle of his own subjection. By this very fact, the
+external power may throw off its physical weight; it tends to
+the non-corporal; and, the more it approaches this limit, the
+more constant, profound and permanent are its effects: it is a
+perpetual victory that avoids any physical confrontation and
+which is always decided in advance.
+Bentham does not say whether he was inspired, in his pro-
+ject, by Le Vaux’s menagerie at Versailles: the first menagerie in
+which the different elements are not, as they traditionally were,
+distributed in a park (Loisel, 104–7). At the centre was an octag-
+onal pavilion which, on the first floor, consisted of only a single
+room, the king’s salon; on every side large windows looked out
+onto seven cages (the eighth side was reserved for the en-
+trance), containing different species of animals. By Bentham’s
+time, this menagerie had disappeared. But one finds in the pro-
+gramme of the Panopticon a similar concern with individualiz-
+ing observation, with characterization and classification, with
+the analytical arrangement of space. The Panopticon is a royal
+menagerie; the animal is replaced by man, individual distribu-
+tion by specific grouping and the king by the machinery of a
+furtive power. With this exception, the Panopticon also does the
+work of a naturalist. It makes it possible to draw up differences:
+among patients, to observe the symptoms of each individual,
+without the proximity of beds, the circulation of miasmas, the
+effects of contagion confusing the clinical tables; among
+autumn 2008 7
+panopticism
+[208.59.56.252]
+Project MUSE (2026-04-04 20:08 GMT)
+-- 8 of 13 --
+schoolchildren, it makes it possible to observe performances
+(without there being any imitation or copying), to map apti-
+tudes, to assess characters, to draw up rigorous classifications,
+and, in relation to normal development, to distinguish ‘laziness
+and stubbornness’ from ‘incurable imbecility’; among workers,
+it makes it possible to note the aptitudes of each worker, com-
+pare the time he takes to perform a task, and if they are paid by
+the day, to calculate their wages (Bentham, 60–64).
+So much for the question of observation. But the Panopticon
+was also a laboratory; it could be used as a machine to carry out
+experiments, to alter behaviour, to train or correct individuals.
+To experiment with medicines and monitor their effects. To
+try out different punishments on prisoners, according to their
+crimes and character, and to seek the most effective ones. To
+teach different techniques simultaneously to the workers, to de-
+cide which is the best. To try out pedagogical experiments—
+and in particular to take up once again the well-debated prob-
+lem of secluded education, by using orphans. One would see
+what would happen when, in their sixteenth or eighteenth year,
+they were presented with other boys or girls; one could verify
+whether, as Helvetius thought, anyone could learn anything;
+one would follow ‘the genealogy of every observable idea’; one
+could bring up different children according to different systems
+of thought, making certain children believe that two and two
+do not make four or that the moon is a cheese, then put them
+together when they are twenty or twenty-five years old; one
+would then have discussions that would be worth a great deal
+more than the sermons or lectures on which so much money is
+spent; one would have at least an opportunity of making dis-
+coveries in the domain of metaphysics. The Panopticon is a
+privileged place for experiments on men, and for analyzing
+with complete certainty the transformations that may be ob-
+tained from them. The Panopticon may even provide an appa-
+ratus for supervising its own mechanisms. In this central tower,
+the director may spy on all the employees that he has under his
+orders: nurses, doctors, foremen, teachers, warders; he will be
+able to judge them continuously, alter their behaviour, impose
+upon them the methods he thinks best; and it will even be pos-
+sible to observe the director himself. An inspector arriving un-
+expectedly at the centre of the Panopticon will be able to judge
+at a glance, without anything being concealed from him, how
+the entire establishment is functioning. And, in any case, en-
+closed as he is in the middle of this architectural mechanism, is
+not the director’s own fate entirely bound up with it? The in-
+competent physician who has allowed contagion to spread, the
+incompetent prison governor or workshop manager will be the
+first victims of an epidemic or a revolt. ‘”By every tie I could
+devise”, said the master of the Panopticon, “my own fate had
+been bound up by me with theirs”’ (Bentham, 177). The Panop-
+ticon functions as a kind of laboratory of power. Thanks to its
+mechanisms of observation, it gains in efficiency and in the
+ability to penetrate into men’s behaviour; knowledge follows
+race /ethnicity vol. 2 / no. 1 8
+michel foucault
+-- 9 of 13 --
+the advances of power, discovering new objects of knowledge
+over all the surfaces on which power is exercised.
+The plague-stricken town, the panoptic establishment—the
+differences are important. They mark, at a distance of a century
+and a half, the transformations of the disciplinary programme.
+In the first case, there is an exceptional situation: against an ex-
+traordinary evil, power is mobilized; it makes itself everywhere
+present and visible; it invents new mechanisms; it separates, it
+immobilizes, it partitions; it constructs for a time what is both a
+counter-city and the perfect society; it imposes an ideal func-
+tioning, but one that is reduced, in the final analysis, like the
+evil that it combats, to a simple dualism of life and death: that
+which moves brings death, and one kills that which moves.
+The Panopticon, on the other hand, must be understood as a
+generalizable model of functioning; a way of defining power
+relations in terms of the everyday life of men. No doubt Ben-
+tham presents it as a particular institution, closed in upon itself.
+Utopias, perfectly closed in upon themselves, are common
+enough. As opposed to the ruined prisons, littered with mech-
+anisms of torture, to be seen in Piranese’s engravings, the Pan-
+opticon presents a cruel, ingenious cage. The fact that it should
+have given rise, even in our own time, to so many variations,
+projected or realized, is evidence of the imaginary intensity
+that it has possessed for almost two hundred years. But the
+Panopticon must not be understood as a dream building: it is
+the diagram of a mechanism of power reduced to its ideal
+form; its functioning, abstracted from any obstacle, resistance
+or friction, must be represented as a pure architectural and op-
+tical system: it is in fact a figure of political technology that
+may and must be detached from any specific use.
+It is polyvalent in its applications; it serves to reform pris-
+oners, but also to treat patients, to instruct schoolchildren, to
+confine the insane, to supervise workers, to put beggars and
+idlers to work. It is a type of location of bodies in space, of dis-
+tribution of individuals in relation to one another, of hierarchi-
+cal organization, of disposition of centres and channels of
+power, of definition of the instruments and modes of interven-
+tion of power, which can be implemented in hospitals, work-
+shops, schools, prisons. Whenever one is dealing with a multi-
+plicity of individuals on whom a task or a particular form of
+behaviour must be imposed, the panoptic schema may be used.
+It is—necessary modifications apart—applicable ‘to all estab-
+lishments whatsoever, in which, within a space not too large to
+be covered or commanded by buildings, a number of persons
+are meant to be kept under inspection’ (Bentham, 40; although
+Bentham takes the penitentiary house as his prime example, it
+is because it has many different functions to fulfil—safe cus-
+tody, confinement, solitude, forced labour and instruction).
+In each of its applications, it makes it possible to perfect the
+exercise of power. It does this in several ways: because it can re-
+duce the number of those who exercise it, while increasing the
+number of those on whom it is exercised. Because it is possible
+autumn 2008 9
+panopticism
+[208.59.56.252]
+Project MUSE (2026-04-04 20:08 GMT)
+-- 10 of 13 --
+to intervene at any moment and because the constant pressure
+acts even before the offences, mistakes or crimes have been
+committed. Because, in these conditions, its strength is that it
+never intervenes, it is exercised spontaneously and without
+noise, it constitutes a mechanism whose effects follow from one
+another. Because, without any physical instrument other than
+architecture and geometry, it acts directly on individuals; it
+gives ‘power of mind over mind’. The panoptic schema makes
+any apparatus of power more intense: it assures its economy (in
+material, in personnel, in time); it assures its efficacity by its
+preventative character, its continuous functioning and its auto-
+matic mechanisms. It is a way of obtaining from power ‘in hith-
+erto unexampled quantity’, ‘a great and new instrument of gov-
+ernment…; its great excellence consists in the great strength it is
+capable of giving to any institution it may be thought proper to
+apply it to’ (Bentham, 66).
+It’s a case of ‘it’s easy once you’ve thought of it’ in the polit-
+ical sphere. It can in fact be integrated into any function (educa-
+tion, medical treatment, production, punishment); it can in-
+crease the effect of this function, by being linked closely with it;
+it can constitute a mixed mechanism in which relations of
+power (and of knowledge) may be precisely adjusted, in the
+smallest detail, to the processes that are to be supervised; it can
+establish a direct proportion between ‘surplus power’ and ‘sur-
+plus production’. In short, it arranges things in such a way that
+the exercise of power is not added on from the outside, like a
+rigid, heavy constraint, to the functions it invests, but is so sub-
+tly present in them as to increase their efficiency by itself in-
+creasing its own points of contact. The panoptic mechanism is
+not simply a hinge, a point of exchange between a mechanism
+of power and a function; it is a way of making power relations
+function in a function, and of making a function function
+through these power relations. Bentham’s Preface to Panopticon
+opens with a list of the benefits to be obtained from his ‘inspec-
+tion-house’: ‘Morals reformed—health preserved—industry invigo-
+rated—instruction diffused—public burthens lightened—Economy
+seated, as it were, upon a rock—the gordian knot of the Poor-
+Laws not cut, but untied—all by a simple idea in architecture!’
+(Bentham, 39).
+Furthermore, the arrangement of this machine is such that
+its enclosed nature does not preclude a permanent presence
+from the outside: we have seen that anyone may come and ex-
+ercise in the central tower the functions of surveillance, and
+that, this being the case, he can gain a clear idea of the way in
+which the surveillance is practised. In fact, any panoptic insti-
+tution, even if it is as rigorously closed as a penitentiary, may
+without difficulty be subjected to such irregular and constant
+inspections: and not only by the appointed inspectors, but also
+by the public; any member of society will have the right to
+come and see with his own eyes how the schools, hospitals,
+factories, prisons function. There is no risk, therefore, that the
+increase of power created by the panoptic machine may degen-
+race /ethnicity vol. 2 / no. 1 10
+michel foucault
+-- 11 of 13 --
+erate into tyranny; the disciplinary mechanism will be demo-
+cratically controlled, since it will be constantly accessible ‘to the
+great tribunal committee of the world’. 4 This Panopticon, sub-
+tly arranged so that an observer may observe, at a glance, so
+many different individuals, also enables everyone to come and
+observe any of the observers. The seeing machine was once a
+sort of dark room into which individuals spied; it has become a
+transparent building in which the exercise of power may be su-
+pervised by society as a whole.
+The panoptic schema, without disappearing as such or los-
+ing any of its properties, was destined to spread throughout the
+social body; its vocation was to become a generalized function.
+The plague-stricken town provided an exceptional disciplinary
+model: perfect, but absolutely violent; to the disease that
+brought death, power opposed its perpetual threat of death; life
+inside it was reduced to its simplest expression; it was, against
+the power of death, the meticulous exercise of the right of the
+sword. The Panopticon, on the other hand, has a role of ampli-
+fication; although it arranges power, although it is intended to
+make it more economic and more effective, it does so not for
+power itself, nor for the immediate salvation of a threatened so-
+ciety: its aim is to strengthen the social forces—to increase pro-
+duction, to develop the economy, spread education, raise the
+level of public morality; to increase and multiply.
+How is power to be strengthened in such a way that, far
+from impeding progress, far from weighing upon it with its
+rules and regulations, it actually facilitates such progress? What
+intensificator of power will be able at the same time to be a
+multiplicator of production? How will power, by increasing its
+forces, be able to increase those of society instead of confiscat-
+ing them or impeding them? The Panopticon’s solution to this
+problem is that the productive increase of power can be assured
+only if, on the one hand, it can be exercised continuously in the
+very foundations of society, in the subtlest possible way, and if,
+one the other hand, it functions outside these sudden, violent,
+discontinuous forms that are bound up with the exercise of
+sovereignty. The body of the king, with its strange material and
+physical presence, with the force that he himself deploys or
+transmits to some few others, is at the opposite extreme of this
+new physics of power represented by panopticism; the domain
+of panopticism is, on the contrary, that whole lower region, that
+region of irregular bodies, with their details, their multiple
+movements, their heterogeneous forces, their spatial relations;
+what are required are mechanisms that analyse distributions,
+gaps, series, combinations, and which use instruments that ren-
+der visible, record, differentiate and compare: a physics of a re-
+lational and multiple power, which has its maximum intensity
+not in the person of the king, but in the bodies that can be indi-
+vidualized by these relations. At the theoretical level, Bentham
+defines another way of analysing the social body and the
+power relations that traverse it; in terms of practice, he defines
+a procedure of subordination of bodies and forces that must in-
+autumn 2008 11
+panopticism
+-- 12 of 13 --
+crease the utility of power while practising the economy of the
+prince. Panopticism is the general principle of a new ‘political
+anatomy’ whose object and end are not the relations of sov-
+ereignty but the relations of discipline.
+The celebrated, transparent, circular cage, with its high tower,
+powerful and knowing, may have been for Bentham a project
+of a perfect disciplinary institution; but he also set out to show
+how one may ‘unlock’ the disciplines and get them to function
+in a diffused, multiple, polyvalent way throughout the whole
+social body. These disciplines, which the classical age had elab-
+orated in specific, relatively enclosed places—barracks, schools,
+workshops—and whose total implementation had been imag-
+ined only at the limited and temporary scale of a plague-strick-
+en town, Bentham dreamt of transforming into a network of
+mechanisms that would be everywhere and always alert, run-
+ning through society without interruption in space or in time.
+The panoptic arrangement provides the formula for this gener-
+alization. It programmes, at the level of an elementary and eas-
+ily transferable mechanism, the basic functioning of a society
+penetrated through and through with disciplinary mechanisms.
+Endnotes
+1. Archives militaires de Vincennes, A 1,516 91 sc. Pièce. This regu-
+lation is broadly similar to a whole series of others that date from the
+same period and earlier.
+2. In the Postscript to the Panopticon, 1791, Bentham adds dark in-
+spection galleries painted in black around the inspector’s lodge, each
+making it possible to observe two storeys of cells.
+3. In his first version of the Panopticon, Bentham had also imagined
+an acoustic surveillance, operated by means of pipes leading from the
+cells to the central tower. In the Postscript he abandoned the idea, per-
+haps because he could not introduce into it the principle of dissymme-
+try and prevent the prisoners from hearing the inspector as well as the
+inspector hearing them. Julius tried to develop a system of dissym-
+metrical listening (Julius, 18).
+4. Imaging this continuous flow of visitors entering the central
+tower by an underground passage and then observing the circular
+landscape of the Panopticon, was Bentham aware of the Panoramas
+that Barker was constructing at exactly the same period (the first
+seems to have dated from 1787) and in which the visitors, occupying
+the central place, saw unfolding around them a landscape, a city or a
+battle. The visitors occupied exactly the place of the sovereign gaze.
+Works Cited
+Archives militaires de Vincennes, A 1,516 91 sc.
+Bentham, J., Works, ed. Bowring, IV, 1843.
+Julius, N. H. Leçons sur les prisons, I, 1831 (Fr. trans.).
+Loisel, G. Histoire des menageries, II, 1912.
+race /ethnicity vol. 2 / no. 1 12
+michel foucault
+-- 13 of 13 --

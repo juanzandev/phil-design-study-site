@@ -1,0 +1,564 @@
+Social science fiction?
+In this chapter we argue for the idea that networked computer tech-
+nology effectuates a real and delimiting form of determinism.That is to
+say, intensive and extensive computer networks that pervade our lives
+shape and ‘determine’ those lives in ways that would not occur either
+at all, or to the extent that they do, in the absence of computers in
+such networked abundance. We are at the beginning of this process,
+but the digital ‘category error’ that we made in the post-war period,
+and implemented under the market guise of ‘efficiency’ in the 1970s,
+has blinded us to the negative effect of the digital upon the analogue.
+This has made any serious scholarship on the subject of technological
+determinism easy to dismiss as the stuff of sci-fi movies or books.
+We don’t argue that an army of HAL-type computers is emerging to
+outsmart and enslave us. Nor do we suggest that analogue is ‘good’
+and digital is ‘bad’ in any comprehensive and prescriptive sense. We
+do argue that computers change fundamentally the human–technology
+relationship. We have always been dependent upon technology for our
+survival, but the relationship was one where humans had an active role.
+With computers the dependency has increased, but our function is no
+longer so active; it is more passive – and where computers lead (and
+they do lead in highly specific directions), we tend to follow.
+In the social sciences in particular, to refer to the work of someone
+as being ‘technologically determinist’ is often enough on its own to
+confine the work (and its author) to the margins of seriousness, as
+the paranoia of a Luddite, or as an embarrassing, insufficiently nuanced
+articulation of the complexities of modern life. Beyond the fixing of the
+appellation, nothing more usually needs to be said.The noun ‘determin-
+ism’ can be especially damning, betraying a seemingly rigid mindset on
+the part of the author, someone relentlessly dour and whose politics,
+if not personality, probably verge on the authoritarian. Referring to
+8 Technological determinism
+Downloaded by [University of California, San Diego] at 05:14 16 January 2017
+-- 1 of 14 --
+Technological determinism 145
+computing technologies in particular, theorists in the social shaping of
+technology (SST) discipline such as Judy Wajcman argue instead for an
+analytical stress upon the more dominant and interesting human quali-
+ties such as autonomy, diversity and potential (and avoiding any hint of
+pessimism) as a ‘richer’ approach that would best ‘highlight this mutual
+shaping relationship’ between humans and information technologies
+(2010: 143, 150). By definition, then, to be a ‘determinist’ is to exhibit
+a ‘poverty of philosophy’ as Marx put it in another context, and to
+be one-dimensional in respect of the inexhaustible and irrepressible
+potential in the human–technological path towards progress.
+It has to be said that many of the works that do stress the power of
+information technologies as decisive in determining the lives of indi-
+viduals and societies often do their case no good by over-determining
+it. We see this in the ‘dromological’ work of Paul Virilio who, although
+rightly celebrated for his philosophical exuberance, often pushes his
+central analysis of the effects of speed to the boundary. For exam-
+ple, his 1995 essay on the temporal nature of cyberspace, although
+prescient in many respects, lapses often into what Wajcman (2008)
+has criticized as ‘social science fiction’ when he states that ‘what lies
+ahead’ in our relationship with computers is a ‘mental concussion’
+due to their growing accelerative and informational effects upon our
+lives. As just noted, Virilio’s work is full of insight, but it is equally
+crowded by sweeping claims and assertions that go badly with the
+more sober-minded sections of the scholarly community, especially
+many SST advocates.
+If Virilio can sometimes get ahead of himself, others (in fear of the
+academic ducking stool, perhaps) can hedge or equivocate and thus
+weaken (by paradoxically over-determining) their argument as a conse-
+quence. We see this in Wolfgang Hofkirchner, emissary of the so-called
+‘Salzburg Approach’:
+The spread of ICTs brings about a change in the very sphere of using and
+creating technology. Technology itself changes. By coupling with the com-
+puter which mechanizes certain abilities of the human brain the machine
+of the industrial age which only mechanized abilities of the human body
+turns into an automaton.
+(2007: 32)
+This short passage actually articulates two useful points, which echo
+(though far too strongly) the concerns we raised in the previous chap-
+ters: that machines and bodies, and computers and society, represent
+Downloaded by [University of California, San Diego] at 05:14 16 January 2017
+-- 2 of 14 --
+146 The new age of digital reason
+two distinct technological phases in our modernity and postmodernity.
+However, Hofkirchner sees these simply as cumulative technological
+disasters, resulting in the human finally becoming ‘an automaton’. This
+kind of technological determinism leaves humanity (and theory) with
+nowhere to go, because if we were already automatonic, then there
+would be no way of resolving the problem of human freedom anyway.
+We don’t argue that determinism drives us all either to ‘mental con-
+cussion’ or to spend life as ‘an automaton’. Computer logic and its
+networking emerges from, and still works in conjunction with, earlier
+analogue forms of technology. The key point is not so much specific
+‘effects’, which is rather like seeking specific effects of global warming,
+which is difficult if not impossible, but the human–technology relation-
+ship itself and how we are to understand it. Only if we appreciate the
+nature of the relationship are we more able to gauge the effects upon
+humans and whether or not determination takes place.
+First we should say some more about the SST approach that domi-
+nates these questions in the social sciences. The idea of ‘mutuality’ or
+‘social shaping’ is central to the SST critique and began to be developed
+in the mid-1980s when the emergence of mass-consumer computing
+provoked a fresh questioning of the human–technology relationship
+(e.g. Bijker et al. 1987). Judy Wajcman takes this connection up most
+directly, and more recently, when she re-emphasises the SST position
+that ‘technological change is a contingent and heterogeneous process
+in which technology and society are mutually constituted’ (2007: 293).
+This is on the face of it a fairly reasonable statement. But as a precept
+it would be useful (and more acceptable) if as an element of ‘mutuality’
+there were examples that show that sometimes technology can con-
+stitute society in a negative way, in a way that could even be described
+as determining of it. Logically, one would think, the example and out-
+come of a negative process would enhance the power of the positive
+argument. The point about a good deal of SST and related work is that
+one confronts difficulty in finding a critique of discrete technology or
+systems of technology. Mutuality is often stated, but it is always the
+human who does the shaping, who dominates the process, and event-
+ually achieves the ends that are positive for humans, thereby proving
+their individual and social mastery over technology (e.g. Green 2002).
+This is anthropocentrism, or humanism, at its most academically
+seductive. Yes, they say, there are problems with the technological
+society and harmful effects may come from some technologies
+that are poorly or instrumentally designed. But in an ironic echo of
+Downloaded by [University of California, San Diego] at 05:14 16 January 2017
+-- 3 of 14 --
+Technological determinism 147
+Tim O’Reilly’s advocating of ‘collective intelligence shaping’ through
+Web 2.0 (2012b), much SST research in effect argues that individuals
+and society will reject the bad technologies and reshape those with
+potential in ways that are more positive. This is a humanism freely
+proclaimed by theorists such as Wajcman (2007: 289) and she is
+blurbed for it in praise of her more recent work (2014). The problem
+with humanism, however, is its species-arrogance and its roots in the
+Christian and Enlightenment worldview that places humans at the top
+of the ecological pile (and apart from that pile in terms of ontological
+classification). Humanism and the technology relationship have more
+recent and consequential pedigrees in the dogmas of twentieth-
+century communism and the environmental catastrophes in the USSR
+and China; this is to say nothing of liberal-capitalism’s record in this
+respect. The philosopher John Gray is one who seeks to draw our
+attention to the need to see our actual place in the biosphere we
+share. In Straw Dogs he writes that:
+Humans think they are free, conscious beings, when in truth they are
+deluded animals. […] Their religions are attempts to be rid of a free-
+dom they have never possessed. In the twentieth century, the utopias of
+Right and Left served the same function. Today, when politics is uncon-
+vincing even as entertainment, science has taken on the role of mankind’s
+deliverer.
+(2002: 120)
+Indeed one does not need to be so philosophical about the cause
+and effect of twenty-first century humanism and its confidence in sci-
+ence and technology. We see a Christian- and Enlightenment-derived
+ideology that finds consonance with the more workaday thinking of
+Silicon Valley in technocratic libertarianism. Computers serve human
+purposes, it is argued; humans also make computers ‘smart’ in order
+to serve our needs. But this libertarianism goes further, towards a kind
+of democracy via the marketplace where smart users, bug-fixers and
+ordinary users will go on to change or fine-tune and smooth out the
+rough edges of the code or the application. Determination doesn’t
+come into this view, because there are people who make and there are
+markets and users who shape and improve. Being naturally superior
+to the technologies we produce and having social institutions such as
+the market to oversee this domination means that either technolo-
+gies will be rejected or they will be shaped in ways that suit us better.
+Downloaded by [University of California, San Diego] at 05:14 16 January 2017
+-- 4 of 14 --
+148 The new age of digital reason
+What exactly gives us this power is never discussed, but implicitly it
+seems that it is a creative mix of humanism and market-forces, and
+where the needs of society will find a way to prevail over any incipi-
+ent determinisms in technology. Again, implicitly at least, humans are
+special and our creation of tools and the shape that we collectively give
+them contribute to human evolution or ‘gradual change’ which in the
+SST sense invariably means ‘human progress’ (Mackenzie & Wajcman
+1985: 10).We saw a good example of this as a typology in the previous
+chapter in danah boyd, whose research sees kids making and shaping
+social media to help them in their lives; but she also sits at the supply-
+side of the technology equation by working for Microsoft.
+Automation and the broken circle of action
+The mutuality (which is in fact an anthropocentric humanism) that
+SST sees as its ground zero for the human–technology relationship
+elides a deeper-seated problem with computer technology. Previously
+we touched on the idea that humans are actually dependent upon
+technology – a relationship that goes back to the very origin of our
+evolutionary drift as Homo sapiens.
+The key to this dynamic relationship as we also saw is Gehlen’s
+concept of the ‘circle of action’.This allows us to theorize the human–
+technology relationship and it enables us to render as problematic
+our current relationship with the specific logic and capacities of
+computers. Gehlen’s circle of action enabled humans to ameliorate
+the state of dependency into one that is more truly mutual – albeit
+in a constantly provisional way that cannot efface our deep-down
+dependency. For Gehlen, the circle of action is what enabled humans
+to engage with the world and create the technologically derived
+reality by means of ‘facilitation’, or the augmenting of our physical
+and cognitive capacities through technique (1980: 18). Reflecting on
+this Robert John wrote that:
+The ‘circle of action’, or the ability to monitor the effects of our actions
+and change our actions in order to achieve the desired results, com-
+pensates for the lack of an immediate harmonious relationship with the
+environment. Because human existence is characterised by the ‘open-
+endedness of arrangements’ (Gehlen, 1980: 33) humans seek to achieve
+a stable ordered existence.
+(1981: 106)
+Downloaded by [University of California, San Diego] at 05:14 16 January 2017
+-- 5 of 14 --
+Technological determinism 149
+The achieving of desired results, however, has a cost, and this entails
+the progressive narrowing, through technological development, of the
+‘open-endedness of arrangements’ that would be the optimal state for
+the functioning of the circle of action. To express ourselves through the
+labour we expend in technology use is, for Gehlen, to at least partly
+objectify that labour, and therefore to diminish a corresponding part
+of human subjectivity, the realm where our autonomy and freedom
+may potentially reside. Moreover, our active monitoring role of check-
+ing and balancing the effects of our technology development and use
+is also lessened because the objectified functions and effects of the
+labour-technology process reside ‘out there’ in the world where we
+have less control, individually or collectively, over them. This ‘object-
+ification’ process is progressive and historically has produced three
+distinct relationships between humans and technology and, as a direct
+consequence, humans and nature. Gehlen (1980: 19) writes of the
+relationship:
+In the first, that of the tool, the physical energy necessary for labour and
+the required intellectual input still depended upon the subject. In the sec-
+ond, that of the machine, physical energy becomes objectified by means
+of technique. Finally, in the third stage, that of automata, technical means
+make dispensable input from the subject.
+Gehlen argues that our ‘fascination with automatisms is a prerational
+and transpractical impulse, which previously, for millennia, found
+expression in magic’ (p. 14). In other words the orientation towards
+automation is a rudimentary human trait and is expressed through
+our ‘tendency toward facilitation’ – or the augmentation of human
+power through technique and the subsequent relief from demanding
+physical and cognitive effort that technique enables (p. 18). One could
+deduce from this that we are fundamentally indolent, constantly look-
+ing for ways to make life easier. But another way to think about it is
+that to automate is also to be able to wield a certain power in nature
+(and over nature). And so, functioning as a kind of ‘magic’, automation
+touches that impulse that Gehlen speaks of, where machines secure
+our position of supremacy in nature – the one that SST continually
+revalidates – and where automation grows and improves to become
+the fullest expression of human power (Ashworth 1996). This per-
+spective is reflected in the broad social attitude to computing which
+many see as a solution to every problem. But what we miss in this con-
+fidence, both in ourselves and technology, is that the more we make
+Downloaded by [University of California, San Diego] at 05:14 16 January 2017
+-- 6 of 14 --
+150 The new age of digital reason
+processes automatic, the more we actually exclude ourselves from the
+circle of action and, as a consequence, the more deeply automaticity
+severs the link from us to technology and nature.
+The concept of automation that has fired the imagination as a kind of
+magical power has been with us since classical antiquity. It still resides
+deep in the cultural psyche. As Arthur C. Clarke wrote a generation
+ago: ‘Any sufficiently advanced technology is indistinguishable from
+magic’ (1973: 21). And capitalism, from the time of Jacquard and his
+loom, has pursued the automation of its productive forces with implac-
+able zeal. This followed the realization (beginning at least with Adam
+Smith (Aspromourgos 2012: 483)) that it would be a certain path to
+profitability through ‘efficiency’, where faster means cheaper and taking
+the human ‘out of the loop’ – a telling computer science phrase that
+is very apposite to our argument – as the optimal way to achieve this.
+Historically, the arguments against automation have always resided at
+the economic level of capitalism itself – concerns about the elimination
+of jobs and the extinction of skills – and not as an assault upon the
+fundamental human–technology relationship. However, to see comput-
+ing and automation in the way we argue enables the realization that
+the subject has become incredibly vulnerable – a susceptibility that
+grows in proportion to the scale and ubiquity of these processes in
+our world. Automated computing, we must remember, is no longer
+primarily engineered for the processing for us of the dull and rou-
+tine administrative tasks that were its 1960s raison d’être. In our Web
+2.0 postmodernity, computing is engineered precisely to not leave us
+alone, somewhere safely out of the loop, but to exploit that susceptible
+isolation, to ‘reach out’ to us as Robert MacBride noted (1967: 4), and
+to persistently ‘speak to our vulnerabilities’ as Sherry Turkle added
+(2011: 230) because computing is oriented almost wholly towards the
+needs of capitalism.
+In summary: We have always been dependent upon technology.
+Something like mutuality occurred in Gehlen’s circle of action where, in
+the earliest phase of our species’ emergence as tool-using creatures,
+a tentative stability in the relationship could be said to have existed.
+However, as machines began to create the basis for our modern world,
+they also diminished our role by objectifying the human labour power
+that was a key element of the technology relationship. Machines of
+increasing precision and power also made capitalism possible, and the
+dialectic began to change from that between human and technology
+to that between technology and efficiency. With automation emerging
+Downloaded by [University of California, San Diego] at 05:14 16 January 2017
+-- 7 of 14 --
+Technological determinism 151
+as the inevitable outcome of capitalist competition in commodity pro-
+duction, the loop within which we began our ancient journey with
+technology closes to us still further. Today it is our vulnerability to
+automated networked systems, an autonomous logic and system that
+cannot ignore us, that places us at the threshold of what might be more
+properly termed network determinism. This is a postmodern form of
+technological determinism in that it feels so natural that it appears that
+we express our free will in our networked lives. But this principally is
+the power of automation. It is the exercise of ‘magic’ upon ‘facilitation’.
+It is a force that has a kind of awing quality, so much so that it seems
+to effortlessly come to us, effacing, seemingly, our dependency (because
+it’s now automatic). Moreover, it enhances the feeling that we must be
+shaping this network to our needs and wants, because we are the users
+and it does not feel like we are being forced (much) into anything – so
+how can it be ‘determining’?
+Network determinism: accept cookies?
+In November 1994 Microsoft launched a global advertising campaign
+titled ‘Where do you want to go today?’ for its new Windows software.
+Microsoft was then at the forefront of the massification of personal
+computers and it was also at the forefront of the hyperbole that was
+beginning to fuel a tech bubble that would pop a few years hence. Their
+flagship ad, still viewable on YouTube and elsewhere online, looks dull
+and clunky today, but the intent then was to inspire a sense of global
+freedom for the user where the world was opening up to all kinds of
+new experience, virtual places and virtual people for you to discover,
+with Microsoft supplying the digital vehicle to take you there. The
+choice is yours. As we saw earlier, however, around 1994 choices were
+in fact very limited. Connection speeds were slow and unreliable, and
+the software itself was not quite sure what its point was: was it a busi-
+ness tool, was it for research or was it for fun? Users were working it
+out for themselves at this still analogue-inflected stage, and doing it in
+ways that left the internet start-up companies that helped inflate the
+bubble spectacularly wrong about where they thought people might
+actually want to go. The late twentieth-century network was unable to
+determine very much.
+Post-crash, twenty-first-century Web 2.0, however, was able to
+answer the question that Microsoft posed, and the answer was not
+a multiple-choice one but a pre-determined (or default) answer, which
+was that the user had to go in the direction of the digital marketplace,
+Downloaded by [University of California, San Diego] at 05:14 16 January 2017
+-- 8 of 14 --
+152 The new age of digital reason
+to businesses with goods and services to sell, and for ‘content’ to be
+created by millions of users from whom businesses could either buy
+or appropriate; it was either that, or they could not have a cheap and
+fast and ubiquitous network at all (Fuchs 2014: 51–65). Disingenuously
+or not, Microsoft was asking the wrong question in 1994. By providing
+the new determinedly business orientation, Web 2.0 asked the only
+question and provided the only possible answer. The new internet fun-
+damentally shifted the orientation of users’ experience. What many
+called ‘true interactivity’ was in fact a networked capitalism coming for
+you. The ideological manoeuvre was critical and it was camouflaged as
+‘efficiency’ and ‘connectivity’ and simplicity itself; and with the burgeon-
+ing of social media and the app economy as unanticipated consequences,
+a dense commercial interactivity of goods and services – and ready
+credit for millions – had never been so close and so easy. The new
+internet seemed to open up all kinds of possibility. A key objective for
+making the internet work second time around was, as Tim O’Reilly and
+John Battelle (2009) put it, ‘once-difficult tasks become automated’.
+Once this had spread far enough (and it still spreads every day) then
+a certain deterministic logic began to assert itself. Automated digital
+networks now had the capacity to conceive, signpost and direct where
+we ‘go’ in our networked lives. But is this really ‘determinism’ and, if so,
+what kind is it?
+In an essay titled ‘A Life Lived in Media’, Mark Deuze et al. proffer
+an answer, one that is avowedly determinist, though not exactly in the
+sense that we mean. They write: ‘media […] make us lose ourselves
+[…] in our technology to the extent that it generates our lives on
+the basis of a specific set of rules, codes and protocols’ (2012: 2).
+What this suggests is a process of pre-programmed automaticity;
+having our analogue essence coded, being ourselves programmed and
+fashioned as automatons in the manner of Hofkirchner’s Salzburg
+determinism. Again, this is to over-determine determinism and so
+neglect the changes in the human–technology relationship that is at
+the heart of what network determinism is able to enact in us. We are
+not and could never foreseeably be autonomic – this is science fiction.
+Our analogue essence lies in our relation to nature; it is biological,
+not digital, and although it is certainly suppressible it is ultimately
+in eradicable. What is to be done? As Bruno Latour suggests, we must
+think and act ‘beyond the dichotomies of man and nature, subject and
+object, modes of production and the environment’ (2004: 1). The aim,
+which is a political one, is to break through those dichotomies that are
+Downloaded by [University of California, San Diego] at 05:14 16 January 2017
+-- 9 of 14 --
+Technological determinism 153
+artificially reinforced by networked automation and that leave us vul-
+nerable and growingly isolated (‘alone together’ in Turkle’s excellent
+description).
+The political dimension of the network society is to us a key one, and
+in Chapter 10 we discuss in some detail the travails of the political in our
+digital age. For now it may be insightful to bring the shaping of the political
+subject within the neoliberal and networked context to the fore – and
+to consider the effects of the new power of digital technologies over
+networked lives. A central principle of both classic liberalism and neolib-
+eralism is the autonomy of the individual. During the 1980s British Prime
+Minister Margaret Thatcher spearheaded the neoliberal revolution at
+the popular-political level. For Thatcher, society was ideally comprised
+of ‘individual men and women, and […] families’ acting as the very bed-
+rock of the free society. She was also fond of thinking of politics at the
+‘household level’ as she termed it, where in the home political economy
+merged with the moral economy, to produce the liberal individual as
+the basic unit of society. A concomitant of this is that of privacy – the
+right of the free individual to be left alone by the state. However, as
+Hannah Arendt, quoted in Dawes (2014), has argued, the classical liberal
+conceptions of privacy, of autonomy and individuality, are abstractions
+that serve to separate people from public life (the polis or res publica)
+and from other individuals. The term ‘privacy’, she reminds us, ‘meant
+literally being deprived of something’ (Arendt, cited in Dawes 2014: 32).
+The private realm where a person was able to be authentically individual
+was, since the time of the Romans, intended only to be a ‘temporary ref-
+uge from the business of res publica’ (ibid.). Modern notions of privacy,
+she notes (writing in 1958), had become ‘sharply opposed to the social
+realm’ (ibid.). Extending Arendt’s thesis to our postmodern age, the
+more individual we become, and the more we fetishize the concepts of
+privacy, then the more we withdraw from, or are drawn away from, an
+active and participatory political life. With the supposed naturalness of
+people wishing to follow their own interests first, we find a correspond-
+ing individualism and a sanctification of the private sphere that finds its
+postmodern articulation in neoliberal globalization. To the extent that
+these abstractions actually exist they constitute an autonomous indi-
+vidualism made possible by information technologies. Arendt’s theory
+of ‘deprivation’ is useful for those who would seek a disconnected and
+pliant citizenry. To anaesthetize this deprivation with the ideology of
+‘individualism’, together with the easements of the consumer society,
+and the legislated ‘protection’ of our private online data, is not only to
+Downloaded by [University of California, San Diego] at 05:14 16 January 2017
+-- 10 of 14 --
+154 The new age of digital reason
+create weaker political subjects, but also – as lone users gazing into a
+screen – to increase our vulnerability to networked computing.
+For the generation of the 1980s and 1990s the introduction of com-
+puting to the workplace was a fait accompli. Not many then demanded
+email, or queued to learn new-fangled applications, or suggested that
+workplace-connected computers be allowed to colonize the privacy
+of their home. It was a sign of our collective political weakness that
+our digital future contained so little popular involvement. We went
+along with it and soon we couldn’t imagine life without computers.
+As in so many other realms the needs of business trumped any social
+and cultural considerations. A political ‘lack’ that merged with a grow-
+ing technological ‘lack’ brought about by automation, ensured that our
+exposure to the logic of digital capitalism left the ‘individual’ at a clear
+disadvantage.
+The determinism of the network is not primarily a particulariza-
+tion of the effect of computers, but rather a generalized orientation
+towards commercialism and the widening sphere of digital capitalism.
+It is an orientation towards infantilization by apps that fill our non-
+working time with mindlessness or frustration; an orientation towards
+a life spent ‘naturally’ as a consumer or client or user; an orientation
+towards the expectation of an immediacy in all things digitally gener-
+ated, an expectation that would have been unimaginable (and often
+morally and ethically questionable) in our analogue world; an orienta-
+tion towards the cash nexus that shadows every connection and every
+relationship; an orientation towards advertising everywhere we look,
+and advertising itself being a natural and taken-for-granted presence
+in all realms of network life and beyond. These are broad orientations
+that describe aspects of a network-determining life and are by no
+means exhaustive. Examples continue to proliferate in proportion to
+the growth and sophistication of a network engineered to serve com-
+modity production, both informational and traditional.
+The 1994 Microsoft slogan ‘Where do you want to go today?’ did,
+after a fashion, and with lip service or not, ‘exalt’ the consumer as an
+individual who has choices to make and the agency to make them.
+Today Apple Inc., now the most powerful and profitable seller of com-
+puter products, feels no such obligation. In 2011 the slogan for one
+of its flagship products, iCloud, where the user can remotely store
+data from their computer, was: ‘This is the cloud the way it should be:
+automatic and effortless.’ Gone is any perceived need to blandish the
+user about freedom and choice. Indeed, with the further separation
+Downloaded by [University of California, San Diego] at 05:14 16 January 2017
+-- 11 of 14 --
+Technological determinism 155
+of the user from his or her work and life, any concept of digital life
+as a kind of open-ended journey or unfolding project is no longer
+worthy of consideration or even pretence. This is because there is no
+longer any need to tempt users to the network – we do not have a
+choice. What is promoted is simply ‘efficiency’ in life and in business,
+and there’s hardly any difference between these any more. We must
+all be ‘efficient’ and, even though we cannot recognize its analogue in
+nature, iCloud, despite its name, we must take on trust as a vague
+kind of magic provided to help us. It’s automatic and it’s effortless and
+therefore, as the history of our relationship with technology since
+Jacquard’s loom shows, it must therefore be progress and it must
+therefore be good.
+The network determines us in particular ways too, though these are
+even more subtle, even more psychological, and their growing com-
+plexity and finesse act as the ultimately determining tools that are the
+Holy Grail for those like O’Reilly who see capitalism and people as
+finding their quintessence only in the networked computer. Much has
+been written recently about algorithmic computing. Eli Pariser caused
+a small storm in internet circles in 2010 with his book The Filter Bubble.
+In it he showed how Google’s algorithmic software monitors user
+behaviour through more than 50 different digital sensors to build a
+profile of the user’s wants, needs, interests, patterns of buying and so
+on – this number has doubtlessly increased. It is the user profile that
+enables Google to exist; it constitutes the value that it attracts adver-
+tisers with. Pariser’s experiments showed that Google’s search engines
+tailor their suggestions in response to all queries, including those that
+have political aspects. He showed, for example, that if a user’s search
+pattern indicates she has left-leaning (as profiled by the algorithm)
+views and interests, Google will ‘personalize’ her search results to
+show sites that would fit with her political profile. This has obvious
+consequences for the necessary unfettered exposure to a diversity of
+political opinion that is the basis of the democratic process. However,
+techno-enthusiasts, and even those more sceptical theorists, like to
+argue that Google actually provides a useful service; making use of
+an otherwise chaotic internet and its clever algorithms are able to
+give you what you want, like and expect. What Google calls ‘person-
+alization’, no matter the extent of it – and this has been debated
+in the wake of Pariser’s book by theorists such as Jonathan Zittrain
+(see Weisberg 2011) – constitutes a form of determinism. The indi-
+vidual as user is cut out of the decision-making process and it is the
+Downloaded by [University of California, San Diego] at 05:14 16 January 2017
+-- 12 of 14 --
+156 The new age of digital reason
+algorithm that ‘anticipates’ the user, creating what Cass Sunstein had
+earlier identified as the ‘echo-chamber effect’ (2001). This is where, in
+your daily information diet in politics, in news, in arts and entertain-
+ment, etc., there will be fewer surprises, less to upset or unnerve or
+to take one outside one’s comfort zone, or to give cause to reflect
+upon a subject or an issue through exposure to differing perspectives
+or arguments. This is determinism because the worldview becomes
+inevitably narrowed. It does so not because of any political conspiracy
+or market ideology, but as an unintended effect of pervasive automa-
+tion oriented towards market efficiency. It does so through a network
+model dominated by commercial imperatives that determine that any
+other outcome in the filtering process of information production and
+consumption is highly unlikely because, to be itself ‘efficient’, the net-
+work and its advertising needs specifically to target you.
+What we describe as networked determinism thus becomes the
+sum of our postmodern vulnerabilities. Living inside the network
+we are outside the growingly automated circle of action where our
+labour, our sociality and our political practices become objectified
+and commodified. Immersed and isolated in ubiquitous automation
+we make relatively easy subjects (and targets) for determination. This
+is not to be automated according to the ‘codes and protocols’ of
+computers, but to follow where these codes and protocols lead: to be
+oriented in our billions to the commodified virtual spaces on network
+capitalism that were unimaginable to most of us even a decade ago.
+To argue that this greatest ever migration of humanity to the same
+places for largely the same reasons is a form of ‘mutual constitution’
+in our relationship with technology is itself a kind of science fiction, a
+particularly unimaginative kind at that, which says nothing about the
+potential of humans or technologies beyond the banalities of a digital
+capitalism whose logic is singular and is rendering us and our techno-
+logical futures singular as well.
+We are not automata. We have, however, been left isolated and
+exposed to a logic that is antithetical to our analogue essence.
+Automation denies us our ancient and active role with technology
+and the mutualistic dimensions of ‘facilitation’ that enabled our sur-
+vival as a species and, more, the ability to create cultures, civilizations
+and, since the eighteenth century, forms of modernity which lasted
+until only recently. This determinism is more like a form of oppression,
+because its root causes lie in political choices made in the 1970s and
+1980s to solve economic crises. Political choices to solve economic
+Downloaded by [University of California, San Diego] at 05:14 16 January 2017
+-- 13 of 14 --
+Technological determinism 157
+problems brought computers from the university and military labs to
+the masses. It is therefore to politics that we must look for solutions
+to the oppression of automation. Media and politics will take up a
+good deal of the rest of the book. In Chapter 10 we will consider
+their digitally derived problematic in the context of democracy as
+being essentially a modern and analogue process in a postmodern and
+digital world. In the final chapter we will focus these broad arguments
+to questions of temporality and ethics to show how and why we must
+reconnect with the dynamics of technological development and of the
+natural world that formed the human–technology relationship that has
+become estranged.
+But to continue: the nature of our transformed politics is central if
+we as individuals as part of a polity wish to find the keys to unlock our
+digital cage. But politics is communication, and communication through
+technology, as we saw in Chapter 1, is mediation. And networked dig-
+ital communication as the means of expressing ourselves as active
+and positive political beings, as this chapter would suggest, is difficult.
+Nonetheless, to enable us to think more clearly about remedies for
+the postmodern political malaise, we need first to consider the digitally
+derived symptoms of our global media society.
+Downloaded by [University of California, San Diego] at 05:14 16 January 2017
+-- 14 of 14 --

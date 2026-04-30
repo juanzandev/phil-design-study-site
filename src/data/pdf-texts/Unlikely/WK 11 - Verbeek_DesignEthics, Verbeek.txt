@@ -1,0 +1,819 @@
+Materializing Morality: Design Ethics and Technological Mediation
+Author(s): Peter-Paul Verbeek
+Source:
+Science, Technology, & Human Values, Vol. 31, No. 3, Ethics and Engineering
+Design (May, 2006), pp. 361-380
+Published by: Sage Publications, Inc.
+Stable URL: http://www.jstor.org/stable/29733944
+Accessed: 15-11-2016 12:45 UTC
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content in a trusted
+digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship. For more information about
+JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+http://about.jstor.org/terms
+Sage Publications, Inc. is collaborating with JSTOR to digitize, preserve and extend access to
+Science,
+Technology, & Human Values
+This content downloaded from 152.14.136.96 on Tue, 15 Nov 2016 12:45:27 UTC
+All use subject to http://about.jstor.org/terms
+-- 1 of 21 --
+Materializing Morality
+Design Ethics and
+Technological Mediation
+Peter-Paul Verbeek
+University of Twente
+During the past decade, the "script" concept, indicating how technologies
+prescribe human actions, has acquired a central place in STS. Until now, the
+concept has mainly functioned in descriptive settings. This article will deploy
+it in a normative setting. When technologies coshape human actions, they give
+material answers to the ethical question of how to act. This implies that engi?
+neers are doing "ethics by other means": they materialize morality. The article
+will explore the implications of this insight for engineering ethics. It first
+augments the script concept by developing the notion of technological medi?
+ation. After this, it investigates how the concept of mediation could be made
+fruitful for design ethics. It discusses how the ambition to design behavior
+influencing technologies raises moral questions itself and elaborates two
+methods for anticipating technological mediation in the design process: per?
+forming mediation analyses and using an augmented version of constructive
+technology assessment.
+Keywords: philosophy of technology; ethics; engineering ethics; technology
+assessment; design
+Conceptualizing the Moral Dimension of Technologies
+The ethics of engineering design aims to analyze the moral aspects of
+technology design in a systematic way. One of the things that should be
+taken into account in such analyses is the social impact that the technology
+in design will have as soon as it enters society. As recent research in science
+and technology studies and the philosophy of technology has shown, tech?
+nologies profoundly influence the behavior and experiences of users. This
+charges the ethics of engineering design with the task to conceptualize this
+influence and to anticipate it in design.
+A commonsense vision of the role of technologies in society is guided
+by the concept of functionality. Technologies are designed to function.
+361
+This content downloaded from 152.14.136.96 on Tue, 15 Nov 2016 12:45:27 UTC
+All use subject to http://about.jstor.org/terms
+-- 2 of 21 --
+362 Science, Technology, & Human Values
+They should solve a problem or fill a need. In this view, the criteria by
+which technologies are to be assessed primarily concern their ability to
+realize the ends to which they were designed. From this perspective, the
+focus of engineering ethics can concern only the normative aspects of the
+goals for which technologies are designed or the quality of the way in
+which the technologies function (risk assessment).
+The script concept, as developed about a decade ago by Madeleine
+Akrich (1992) and Bruno Latour (1992), challenges this strictly functional
+vision of technology. Akrich and Latour introduced this concept to describe
+the manifold roles technological artifacts play in their use contexts. Like
+a theater play or a movie, they hold, technologies possess a "script" in the sense
+that they can prescribe the actions of the actors involved. Technologies are
+able to evoke certain kinds of behavior: a speed bump can invite drivers to
+drive slowly because of its ability to damage a car's shock absorbers, a car
+can demand from a driver that he or she wear the safety belt by refusing to
+start if the belt is not used, and a plastic coffee cup has the script "throw me
+away after use," whereas a porcelain cup "asks" to be cleaned and used again.
+Technological artifacts can influence human behavior, and this influence
+can be understood in terms of scripts.
+Scripts, according to Akrich (1992) and Latour (1992), are the products
+of "inscriptions" by designers. Designers anticipate how users will interact
+with the product they are designing and, implicitly or explicitly, build pre?
+scriptions for use into the materiality of the product. Latour describes this
+inscription process in terms of "delegation": designers delegate specific
+responsibilities to artifacts, such as the responsibility to make sure nobody
+drives too fast, which is delegated to a speed bump.
+Conceptualizing technological artifacts in terms of scripts shows that
+functionality is too limited a concept for engineering ethics. Scripts tran?
+scend functionality: they form a surplus to it, which occurs once the tech?
+nology is functioning. When technologies fulfill their functions, they also
+help to shape the actions of their users. For this reason, the script concept
+lays bare ethical questions regarding technology design that transcend the
+commonsense idea that technologies need to be morally evaluated only in
+terms of the goals for which they are designed or of the quality of their
+functioning. The script approach opens up a new way to morally assess
+technologies with respect to the role they play in their use contexts. In
+doing so, it also reveals a specific responsibility of the designer, who can be
+seen as the inscriber of scripts.
+Until now, the script concept has mainly functioned in descriptive set?
+tings: in analyses of the role of technologies in their use contexts. In this
+This content downloaded from 152.14.136.96 on Tue, 15 Nov 2016 12:45:27 UTC
+All use subject to http://about.jstor.org/terms
+-- 3 of 21 --
+Verbeek / Materializing Morality 363
+article, I investigate how the concept can be deployed in a normative
+setting. To cover all relevant aspects of the role of technological artifacts in
+their use contexts and to provide a vocabulary for describing these aspects,
+I will first develop the notion of technological mediation and show that
+scripts can be seen as a specific aspect of mediation. After this, I will inves?
+tigate how the concept of mediation can be made fruitful for design ethics.
+The concept provides designers with an explicit link with the use context in
+which their products will be functioning, making it possible to identify and
+answer new normative questions during the design process.
+Integrating mediation in engineering ethics is a complex task, however.
+First, the ambition to design technologies with the explicit aim to influence
+human actions raises moral questions itself. It is not self-evident, after all, that
+all attempts to steer human behavior are morally justified, and steering human
+beings with the help of technology raises associations with the totalitarian
+technocracy of Orwell's Big Brother. Second, if some forms of behavior
+steering technologies can be seen as morally acceptable?and I think such
+technologies do exist?it is very complicated to design them since there is no
+linear connection between the activities of designers and the mediating role
+of the artifacts they are designing. As I will make clear, this mediating role
+also depends on the unpredictable ways in which the technologies are used.
+For this reason, I will suggest two ways to cope with this unpredictability.
+Technological Mediation1
+For analyzing the role of technologies in the daily lives of human beings,
+the concept of technological mediation is a helpful tool, especially in the
+way it was developed in postphenomenological philosophy of technology
+(cf. Verbeek 2005). Phenomenology?in my elementary definition?is the
+philosophical analysis of the structure of the relations between humans and
+their life-world. From such a phenomenological perspective, the influence
+of technology on human behavior can be analyzed systematically, in terms
+of the role technology plays in human-world relations. Technological medi?
+ation then concerns the role of technology in human action (conceived as
+the ways in which human beings are present in their world) and human
+experience (conceived as the ways in which their world is present to them).
+Human-Technology Relationships
+A good starting point for understanding technological mediation is
+Martin Heidegger's (1927) classical analysis of the role of tools in the
+This content downloaded from 152.14.136.96 on Tue, 15 Nov 2016 12:45:27 UTC
+All use subject to http://about.jstor.org/terms
+-- 4 of 21 --
+364 Science, Technology, & Human Values
+everyday relation between humans and their world. According to Heidegger,
+tools should be understood as connections or linkages between humans and
+reality. Heidegger indicated the way in which tools are present to human
+beings when they are used as "readiness-to-hand." Tools that are used for
+doing something typically withdraw from people's attention; the attention
+of, for example, a person who drives a nail into a wall is not directed at the
+hammer but at the nail. A person's involvement with reality takes place
+through the ready-to-hand artifact. Only when it breaks down does it ask
+attention for itself again. The artifact is then, in Heidegger's words, "present
+at-hand" and is not able to facilitate a relationship between a user and his
+or her world anymore.
+Although ready-to-hand artifacts withdraw from people's attention, they
+do play a constitutive role in the human-world relation that arises around
+them. When a technological artifact is used, it facilitates people's involve?
+ment with reality, and in doing so, it coshapes how humans can be present
+in their world and their world for them. In this sense, things-in-use can be
+understood as mediators of human-world relationships. Technological arti?
+facts are not neutral intermediaries but actively coshape people's being in
+the world: their perceptions and actions, experience, and existence.
+The positions of the North American philosopher Don Ihde and the
+French philosopher and anthropologist Bruno Latour offer concepts for
+building a vocabulary to gain a closer understanding of this mediating role
+of technologies. To build this vocabulary, I discern two perspectives of
+mediation: one that focuses on perception and another one on praxis. Each
+of these perspectives approaches the human-world relationship from a dif?
+ferent side. The hermeneutic or experience-oriented perspective starts from
+the side of world and directs itself at the ways reality can be interpreted and
+present for people. The main category here is perception. The pragmatic or
+praxis-oriented perspective approached human-world relations from the
+human side. Its central question is how human beings act in their world and
+shape their existence. The main category here is action.
+Mediation of Perception
+The central hermeneutic question for a philosophy of mediation is how
+artifacts mediate human experiences and interpretations of reality. Don
+Ihde's (1990) philosophy of technology is a good starting point for answer?
+ing this question because of its focus on the technological mediation of per?
+ception. Ihde elaborated Heidegger's tool analysis into an analysis of the
+This content downloaded from 152.14.136.96 on Tue, 15 Nov 2016 12:45:27 UTC
+All use subject to http://about.jstor.org/terms
+-- 5 of 21 --
+Verbeek / Materializing Morality 365
+relationships between humans and technological artifacts. He discerned
+several relationships human beings can have with technologies. Two of
+these can be indicated as relations of mediation.2
+First, Ihde discerns the embodiment relation, which is his equivalent
+to Heidegger's readiness-to-hand. In the embodiment relation, technolo?
+gies are incorporated by their users, establishing a relationship between
+humans and their world through the technological artifact. This embodi?
+ment relation, for instance, occurs when looking through a pair of glasses;
+the artifact is not perceived itself, but it helps to perceive the environment.
+Technological artifacts become extensions of the human body here, as it
+were. Second, Ihde discerns the hermeneutic relation. In this relation, tech?
+nologies do not provide access to reality because they are incorporated but
+because they provide a representation of reality, which requires interpreta?
+tion (hence the name "hermeneutic relation"). A thermometer, for instance,
+establishes a relationship between humans and reality in terms of temper?
+ature. Reading off a thermometer does not result in a direct sensation of
+heat or cold but gives a value that requires interpretation to tell something
+about reality.
+Ihde shows that technologies, when mediating our sensory relationship
+with reality, transform what we perceive. According to Ihde, the transfor?
+mation of perception always has a structure of amplification and reduction.
+Mediating technologies amplify specific aspects of reality while reducing
+other aspects. When looking at a tree with an infrared camera, for instance,
+most aspects of the tree that are visible to the naked eye get lost, but at the
+same time, a new aspect of the tree becomes visible: one can now see
+whether it is healthy. Ihde calls this transforming capacity of technology
+"technological intentionality": technologies have "intentions," they are not
+neutral instruments but play an active role in the relationship between
+humans and their world.
+These intentionalities are not fixed properties of artifacts, however. They
+get shape within the relationship humans have with these artifacts. Within
+different relationships, technologies can have a different identity. The tele?
+phone and the typewriter, for instance, were not developed as communica?
+tion and writing technologies but as equipment for the blind and the hard of
+hearing to help those individuals hear and write. In their use contexts, they
+were interpreted quite differently, however. This phenomenon is what Ihde
+calls "multistability": a technology can have several stabilities, depending
+on the way it is embedded in a use context. Technological intentionalities,
+therefore, are always dependent on the specific stabilities that come about.
+This content downloaded from 152.14.136.96 on Tue, 15 Nov 2016 12:45:27 UTC
+All use subject to http://about.jstor.org/terms
+-- 6 of 21 --
+366 Science, Technology, & Human Values
+Ihde's analysis of the transformation of perception has important
+hermeneutic implications. In fact, it shows that mediating artifacts help
+to determine how reality can be present for and interpreted by people.
+Technologies help to shape what counts as "real." This hermeneutic role of
+things has important ethical consequences since it implies that technologies
+can actively contribute to the moral decisions human beings make. Medical
+imaging technologies, such as magnetic resonance imaging and ultrasound,
+are good examples of this. Such technologies make visible parts of the
+human body, or of a living fetus in the womb, that cannot be seen without
+them. But the specific way in which these technologies represent what they
+"see" helps to shape how the body or a fetus is perceived and interpreted
+and what decisions are made. In this way, technologies fundamentally
+shape people's experience of disease, pregnancy, or their unborn children.
+Ultrasound, for instance, makes it quite easy to determine the thickness of
+the nape of the neck of a fetus, which gives an indication of the risk that the
+unborn child will suffer from Down's syndrome. The very fact of having an
+ultrasound scan made, therefore, lets the fetus be present in terms of health
+and disease and in terms of our ability to prevent children with this disease
+from being born (cf. Verbeek 2002).
+Mediation of Action
+Within the praxis perspective, the central question is how artifacts medi?
+ate people's actions and the way they live their lives. While perception,
+from a phenomenological point of view, consists in the way the world is
+present for humans, praxis can be seen as the way humans are present in
+their world. The work of Bruno Latour offers many interesting concepts for
+analyzing how artifacts mediate action (cf. Latour 1992, 1994). Latour
+pointed out that what humans do is in many cases coshaped by the things
+they use. Actions are the result not only of individual intentions and the
+social structures in which human beings find themselves (the classical
+agency-structure dichotomy) but also of people's material environment.
+The concept introduced by Latour and Akrich to describe the influence of
+artifacts on human actions is "script." Like the script of a movie or a theater
+play, artifacts prescribe their users how to act when they use them. A speed
+bump, for instance, has the script "slow down when you approach me" and
+a plastic coffee cup "throw me away after use."
+This influence of artifacts on human actions is of a specific nature. When
+scripts are at work, things mediate action as material things, not as immaterial
+This content downloaded from 152.14.136.96 on Tue, 15 Nov 2016 12:45:27 UTC
+All use subject to http://about.jstor.org/terms
+-- 7 of 21 --
+Verbeek / Materializing Morality 367
+signs. A traffic sign makes people slow down because of what it signifies,
+not because of its material presence in the relation between humans and
+world. And we do not discard a plastic coffee cup because its user's manual
+tells us to do so but because it simply is physically not able to survive being
+cleaned several times. The influence of technological artifacts on human
+actions can be of a nonlingual kind. Things are able to exert influence as
+material things, not only as signs or carriers of meaning.
+As is the case with perception, in the mediation of action, transforma?
+tions occur. Following Latour, within the domain of action, these transfor?
+mations can be indicated as "translations" of "programs of action." Latour
+attributed programs of actions to all entities, human and nonhuman. When
+an entity enters a relationship with another entity, the original programs
+of action of both are translated into a new one. When somebody's action
+program is to "prepare meals quickly," and this program is added to that
+of a microwave oven ("heating food quickly"), the action program of
+the resulting, composite actor might be "regularly eating instant meals
+individually."
+In the translation of action, a similar structure can be discerned as in
+the transformation of perception. Just as in the mediation of perception,
+some aspects of reality are amplified and others are reduced, in the media?
+tion of action, one could say that specific actions are invited while others are
+inhibited. The scripts of artifacts suggest specific actions and discourage
+others.
+The nature of this invitation-inhibition structure is as context dependent
+as the amplification-reduction structure of perception. Ihde's concept of
+multistability also applies within the context of the mediation of action. The
+telephone has had a major influence on the separation of people's geo?
+graphical and social context, by making it possible to maintain social rela?
+tionships outside our immediate living environment. But it could have this
+influence only because it is used as a communication technology, not as the
+hearing aid it was originally supposed to be.
+An important difference with respect to the mediation of perception,
+however, is the way in which action-mediating artifacts are present.
+Artifacts mediate action not only from a ready-to-hand position but also
+from a present-at-hand position. A gun, to mention an unpleasant example,
+mediates action from a ready-to-hand position, translating "express my
+anger" or "take revenge" into "kill that person." A speed bump, however,
+cannot be embodied. It will never be ready-to-hand; it exerts influence on
+people's actions from a present-at-hand position.
+This content downloaded from 152.14.136.96 on Tue, 15 Nov 2016 12:45:27 UTC
+All use subject to http://about.jstor.org/terms
+-- 8 of 21 --
+368 Science, Technology, & Human Values
+Table 1
+A Vocabulary for Technological Mediation
+Experience Praxis
+Mediation of perception Mediation of action
+Technological intentionality Script
+Transformation of perception Translation of action
+Amplification and reduction Invitation and inhibition
+Delegation: deliberate inscription of scripts and intentionalities
+Multistability: context dependency of scripts and intentionalities
+Vocabulary
+The STS concept of scripts, indicating the influence of technological
+artifacts on human actions, can be seen as part of a more encompassing
+framework for understanding the role of technologies in the relation
+between humans and reality. The main concepts of this framework together
+form a vocabulary for technological mediation (see Table 1), which could
+be helpful to analyze the role of technologies in their use contexts. Artifacts
+mediate perception by means of technological intentionalities: the active
+and intentional influence of technologies. They mediate action by means of
+scripts, which prescribe how to act when using the artifact. This latter form
+of mediation is most important for the ethics of engineering design since it
+concerns human actions whereas ethics is about the moral question of how
+to act. Technological mediation appears to be context dependent and always
+entails a translation of action and a transformation of perception. The trans?
+lation of action has a structure of invitation and inhibition, the transforma?
+tion of perception a structure of amplification and reduction.
+Mediation and Engineering Ethics
+The phenomenon of technological mediation creates a specific responsi?
+bility for designers. The brief overview of technical mediation in the previ?
+ous section in fact shows that engineering design is an inherently moral
+activity. The fact that technologies-in-use inevitably play a constitutive
+This content downloaded from 152.14.136.96 on Tue, 15 Nov 2016 12:45:27 UTC
+All use subject to http://about.jstor.org/terms
+-- 9 of 21 --
+Verbeek / Materializing Morality 369
+role in the actions of their users places mediation at the heart of ethics.
+Ethics, after all, is about the question of how to act, and technologies appear
+to give material answers to this question. Ethical questions regarding the
+design of technologies are thus not limited to questions about the goals
+for which technologies are designed and applied or to the quality of their
+functioning.
+When technologies are inherently moral entities, this implies that designers
+are doing "ethics by other means": they materialize morality. Usually, this
+"doing ethics" happens in an implicit way. Engineers design a new tech?
+nology with specific functionalities in mind, without explicitly aiming to
+influence the actions and behavior of users. The question, therefore, is how
+considerations regarding the mediating role that the technology-in-design
+will eventually play in society could be integrated in the design process.
+There are two possible ways to take technological mediation into account
+during the design process. A first, minimal option is that designers try to assess
+whether the product they are designing will have undesirable mediating capac?
+ities. A second possibility goes much further: designers could also explicitly
+try to build in specific forms of mediation, which are considered desirable.
+Morality then, in a sense, becomes part of the functionality of the product.
+Moralizing Technologies
+The latter direction was taken by the Dutch philosopher Hans Achterhuis
+(1995, 1998), who translated Latour's analysis of scripts into a plea for an
+explicit "moralization of technology." Instead of moralizing only other people
+("do not shower too long," "buy a ticket before you enter the subway"),
+humans should also moralize their material environment. To a water-saving
+showerhead, the task could be delegated to see to it that not too much water
+is used when showering, and to a turnstile, the task to make sure that only
+people with a ticket can enter the train.
+Achterhuis's plea for a moralization of technology received severe criti?
+cism (cf. Achterhuis 1998, 28-31). In the debate that arose around this issue
+in the Netherlands, two types of arguments were brought in against his
+ideas. First, human freedom was thought to be attacked when human
+actions are explicitly and consciously steered with the help of technology.
+This reduction of human freedom was even perceived as a threat to human
+dignity; if human actions are not a result of deliberate decisions but of
+steering technologies, then people were thought to be deprived of what
+makes them human. Moreover, if they are not acting in freedom, their
+This content downloaded from 152.14.136.96 on Tue, 15 Nov 2016 12:45:27 UTC
+All use subject to http://about.jstor.org/terms
+-- 10 of 21 --
+370 Science, Technology, & Human Values
+actions cannot be called moral. Human beings then simply show a type of
+behavior that was desired by the designers of the technology, rather than
+explicitly choosing to act this way. Second, Achterhuis was accused of jet?
+tisoning the democratic principles of our society because his plea for devel?
+oping behavior-steering technology was considered an implicit propagation
+of technocracy. When moral issues are solved by the technological activi?
+ties of designers instead of democratic activities of politicians, these critics
+hold, not humans but technology will be in control.
+These arguments can be countered, though. Anticipating the mediating
+role of technologies during the design process?either to assess possible
+undesired forms of mediation or to explicitly moralize technologies?does
+not need to be as immoral as it might seem to be. First, human dignity is
+not necessarily attacked when limitations of freedom occur. Our legal con?
+stitution implies a major limitation of freedom, after all, but this does not
+make it a threat to our dignity. Human behavior is determined in many
+ways, and human freedom is limited in many ways. Few people will protest
+against the legal prohibition of murder, so why protest to the material inhi?
+bition imposed by a speed bump to drive too fast at places where children
+are often playing on the pavement?
+Second, the analysis of technological mediation above shows that
+technologies always help to shape human actions. Seen from this perspec?
+tive, paying explicit attention to the mediating role of technologies should
+be seen as taking the responsibility that the analysis of technological medi?
+ation implies. When technologies are always influencing human actions,
+we had better try to give this influence a desirable form. Besides, as will
+become clear below in the example of a Dutch industrial design initiative,
+the moralizing role of technologies does not necessarily have the form of
+exerting force on human beings to act in specific ways. Technologies can
+also seduce people to do certain things; they can invite specific actions
+without forcefully exacting them.
+These counterarguments, however, do not take away the anxiety that a
+technocracy would come about when technologies are explicitly moralized.
+It might be true that technologies do not differ from laws in limiting human
+freedom, but laws come about in a democratic way, and the moralization of
+technology does not. Yet this does not justify the conclusion that it is better
+to refrain from paying explicit attention to technological mediation during
+the design process. If technologies are not moralized explicitly, after all, the
+responsibility for technological mediation is left to the designers only.
+Precisely, this would amount to a form of technocracy. A better conclusion
+This content downloaded from 152.14.136.96 on Tue, 15 Nov 2016 12:45:27 UTC
+All use subject to http://about.jstor.org/terms
+-- 11 of 21 --
+Verbeek / Materializing Morality 371
+would be that it is important to find a democratic way to moralize technology.
+In the following, I will elaborate a way to do this.
+Designing Mediations
+The moral impediments to the moralization of technology can be
+countered much more easily than the practical impediments. The moraliza?
+tion of technological artifacts is not as easy as it might seem to be. To build
+in specific forms of mediation in technologies, designers need to anticipate
+the future mediating role of the technologies they are designing. And this is
+a complex task since there is no direct relationship between the activities of
+designers and the mediating role of the technologies they are designing. As
+became clear above, the mediating role of technologies comes about in a
+complex interplay between technologies and their users.
+Technologies are multistable, as Ihde calls it. They have no fixed iden?
+tity but get defined only in their context of use. Technologies have to be
+interpreted and appropriated by their users to be more than just objects
+lying around. Only when human beings use them, artifacts become artifacts
+for doing something. And this "for doing something" is determined not
+entirely by the properties of the artifact itself but also by the ways users deal
+with them, as became clear in the example of the telephone that was origi?
+nally designed as a hearing aid. If this were not the case, accepting the idea
+of technological mediation would take us back to technological determin?
+ism; technologies would then be able to determine the behavior of their
+users all by themselves instead of being part of a sociotechnical network.
+This multistability of technologies makes it very difficult to predict the
+ways in which technologies will influence human actions and accordingly
+to evaluate this influence in ethical terms. Technologies can be used in
+unforeseen ways and therefore have an unforeseen influence on human
+actions. Besides this, unforeseen forms of mediation can also emerge when
+technologies are indeed used as the designer intended. Revolving doors, for
+example, were designed to make it possible to enter a building while keep?
+ing the draught outside. Once they were used, they also appeared to inhibit
+people in a wheelchair to enter a building.
+Designers thus help to shape the mediating roles of technologies, but
+these roles also depend on the ways in which the technologies are used and
+on the ways in which the technologies in question allow unforeseen medi?
+ations to emerge. The suggestion that scripts are a result of inscriptions
+(Akrich) or delegations (Latour) therefore does not do enough justice to the
+This content downloaded from 152.14.136.96 on Tue, 15 Nov 2016 12:45:27 UTC
+All use subject to http://about.jstor.org/terms
+-- 12 of 21 --
+372 Science, Technology, & Human Values
+Figure 1
+Sources of Mediation
+User
+(interpretation, "
+appropriation)
+Designer
+(delegation, inscription) '
+Technology
+(emergence) "
+-> Mediation ;
+Technological intentionality
+(transformation of perception)
+Scripts
+(translation of action)
+complex way in which mediation comes about. Designers cannot simply
+inscribe a desired form of morality into an artifact. The mediating role of
+technologies is not only the result of the activities of the designers, who
+inscribe scripts or delegate responsibilities, but also depends on the users,
+who interpret and appropriate technologies, and on the technologies them?
+selves, which can evoke emergent forms of mediation. Figure 1 draws
+together these factors in the coming about of mediation.
+To cope with this complexity, designers should try to establish a con?
+nection between the context of design and the context of use. Designers
+could try to formulate product specifications not only on the basis of the
+desired functionality of the product but also on the basis of an informed
+prediction of its future mediating role and a moral assessment of this role.
+Such a prediction could be indicated as a mediation analysis: an analysis of
+the future role of the technology-in-design in terms of the vocabulary that
+was elaborated in the Technological Mediation section.
+Mediation analyses could be carried out in two different ways. The first
+is simply prediction by the imagination of the designer. Imagination can
+create a link between the designer and the technology in its future use
+context. When designers attempt to imagine what mediating role the tech?
+nology they are designing might play in the behavior of its users, they could
+feed these anticipations back into the design process. As an example of
+this approach, I will briefly discuss the work done by the Dutch indus?
+trial designers collective Eternally Yours. A second way to formulate
+an informed prediction of the future mediating role of technologies is
+a more systematic one. It consists in an augmentation of the existing design
+methodology of constructive technology assessment in such a way that
+This content downloaded from 152.14.136.96 on Tue, 15 Nov 2016 12:45:27 UTC
+All use subject to http://about.jstor.org/terms
+-- 13 of 21 --
+Verbeek / Materializing Morality 373
+it becomes an instrument for a democratically organized moralization of
+technology.
+Anticipation by Imagination: Eternally Yours
+An interesting example of anticipating mediation by imagination is the
+work of the Dutch industrial designers collective Eternally Yours. Eternally
+Yours is engaged in ecodesign but in an unorthodox way (cf. van Hinte
+1997; Verbeek 2005). It does not want to address the issue of sustainability
+in only the usual terms of reducing pollution in production, consumption,
+and waste. The actual problem, Eternally Yours holds, is that most of our
+products are thrown away far before actually being worn out. Meeting this
+problem could be much more effective than reducing pollution in the dif?
+ferent stages of products' life cycles. For this reason, Eternally Yours
+focuses on developing ways to create product longevity. It does so by inves?
+tigating how the coming about of attachment between products and their
+users could be stimulated and enhanced.
+To stimulate longevity, Eternally Yours seeks to design things that invite
+people to use and cherish them as long as possible. "It is time for a new
+generation of products, that can age slowly and in a dignified way, that can
+become our partners in life and support our memories," as Eternally Yours
+approvingly quoted the Italian designer Ezio Manzini in its letterhead.
+Eternally Yours investigates what characteristics of products are able to
+evoke a bond with their users. According to Eternally Yours, three dimen?
+sions can be discerned in the life span of products. Things have a technical,
+an economical, and a psychological life span. Products can turn into waste
+because they simply are broken and cannot be repaired anymore, because
+they are outdated by newer models that have appeared in the market, and
+because they no longer fit people's preferences and taste. For Eternally
+Yours, the psychological life span is the most important. The crucial ques?
+tion for sustainable design is therefore, How can the psychological lifetime
+of products be prolonged?
+Eternally Yours developed many ideas to answer this question. For
+instance, it searched for forms and materials that could stimulate longevity.
+Materials were investigated that do not get unattractive when aging but
+have "quality of wear." Leather, for instance, is mostly found more beauti?
+ful when it has been used for some time, whereas a shiny polished
+chromium surface looks worn out with the first scratch. An interesting
+example of a design in this context is the upholstery of a couch that was
+This content downloaded from 152.14.136.96 on Tue, 15 Nov 2016 12:45:27 UTC
+All use subject to http://about.jstor.org/terms
+-- 14 of 21 --
+374 Science, Technology, & Human Values
+designed by Sigrid Smits. In the velour that was used for it, a pattern was
+stitched that is initially invisible. When the couch has been used for a while,
+the pattern gradually becomes visible. Instead of aging in an unattractive
+way, this couch renews itself when getting old. Eternally Yours not only
+pays attention to materials and product surfaces, however. It also investi?
+gated the ways in which services around products can influence their life
+span. The availability of repair and upgrading services can prevent people
+from discarding products prematurely.
+The most important way to stimulate longevity that should be mentioned
+in the context of this article, however, consists in designing products that
+evoke a bond with their users by engaging users in their functioning. Most
+technologies ask as little attention for themselves as possible when people
+are using them. Technologies, after all, are often designed to disburden
+people: a central heating system liberates us from the necessity to gather
+wood, chop it, fill the hearth, clean it, and so forth. We need only to switch
+a button and our house gets warm. But this disburdening character also cre?
+ates a loss of engagement with technological products. Ever fewer interac?
+tions are needed to use them (cf. Borgmann 1992). One of the downsides
+of this development is that this also affects the attachment between human
+beings and technological products. The product as a material entity has
+become less important than the function it fulfills. In many cases, human
+beings are not invited to interact with the technological artifact they are
+using but only to consume the commodity it procures.
+The work of Eternally Yours shows that this loss of engagement can be
+countered in a playful way. Technological products could invite users to
+interact with them without being so demanding that nobody would be pre?
+pared to use them. An interesting example in this direction is an engaging
+electric/ceramic heater that was designed by Sven Adolph. It consists of a
+heating element with several concentric, cylindrically shaped ceramic
+shells of different height around it, which all have a vertical aperture. The
+shells can be arranged in several ways, so that they radiate their warmth in
+specific directions. This artifact is not a purely functional heater that with?
+draws into pure functionality like common radiators, which are hidden
+under the windowsill and are only turned on and off. It is an engaging prod?
+uct that asks for attention and involvement in its functioning, much like a
+campfire. You cannot hide it under the windowsill but have to put it in the
+middle of the room. You cannot escape it if you need warmth: you have to
+sit around it. Its shells have to be arranged if you want it to function. Simply
+turning the heater on and off is not enough: you actually have to be involved
+in its functioning if you want it to work.
+This content downloaded from 152.14.136.96 on Tue, 15 Nov 2016 12:45:27 UTC
+All use subject to http://about.jstor.org/terms
+-- 15 of 21 --
+Verbeek / Materializing Morality 375
+The activities of Eternally Yours can be seen as a form of anticipating
+mediation by imagination. Sigrid Smits's couch and Sven Adolph's heater
+were designed explicitly from the perspective of their possible mediating
+role in the interactions and affective relationships their owners will have
+with them. They mediate the behavior of their users in such a way that the
+users are likely to get attached more to these artifacts than to other couches
+or heaters. These products were designed not only as functional objects
+but also as artifacts that actively mediate the behavior of their users. The
+products of Eternally Yours embody an environmental ethics: they seduce
+their users to cherish them rather than throwing them away prematurely.
+Augmenting Constructive Technology Assessment
+A second way to make an informed prediction about the mediating role of
+a technology-in-design is a more systematic one. To establish a connection
+between the context of use and the context of design, designers could also
+employ a method that was developed precisely for making such a connection:
+the method of constructive technology assessment (CTA; cf. Schot 1992; Rip,
+Misa, and Schot 1995). CTA creates a link between the contexts of design
+and use in a practical way: it aims to involve all relevant stakeholders in the
+design of technologies. To make use of the CTA methodology within the con?
+text of technological mediation, it needs to be augmented, though.
+CTA is based on an evolutionary view of technology development. The
+process of technology development is seen as generating variations that are
+exposed to a selection environment, which is formed by entities such as
+the market and government regulations. In this selection environment, only the
+fittest variations will survive. There is an important difference between the
+generation of technologies and the generation of biological species, though.
+Contrary to biological evolution, in technology development, there is a con?
+nection or nexus between variation and selection. After all, designers can
+anticipate the selection environment when they are designing technologies,
+to prevent that much effort is put into developing technologies that will not
+be accepted by consumers or by government regulations.
+CTA is a method to employ this nexus in a systematic way, by feeding
+back assessments of the technology-in-design by all relevant actors, such as
+users, pressure groups, designers, companies, and so forth, into the design
+process. It does so by organizing meetings of all relevant actors in which
+the aim is to reach consensus about the design of the technology that is con?
+structively assessed. This form of technology assessment is called "con?
+structive" because it does not assess technologies after they have been
+This content downloaded from 152.14.136.96 on Tue, 15 Nov 2016 12:45:27 UTC
+All use subject to http://about.jstor.org/terms
+-- 16 of 21 --
+376 Science, Technology, & Human Values
+developed but during their development, so that these assessments can be
+used to modify the original design. Besides this, CTA can be seen as a
+democratization of the designing process. When a CTA design methodology
+is followed, not only designers determine what a technology will look like
+but all relevant social actors. Following this method, therefore, could take
+away the fear for technocracy that was discussed above.
+Seen from the perspective of technological mediation, however, CTA
+also has limitations that need to be overcome. CTA primarily focuses on
+human actors and pays too little attention to the actively mediating role of
+the nonhuman actor that is at the center of all activity: the technology-in
+design. CTA claims to open the black box of technology by analyzing the
+complex dynamics of technology development. It bases itself on the con
+structivist notion that technologies are not given but rather the outcome of
+a process in which many actors are involved. Other interactions between the
+actors might have resulted in a different technology. But by analyzing the
+dynamics of technology development, the black box of technology is
+opened only half way. It reveals how technologies emerge from their design
+context, but their role in their use context remains black boxed. Therefore,
+organizing a democratic, domination-free discussion between all relevant
+actors is not enough to lay bare all relevant aspects of the technology in
+question. The mediating role of the technology-in-design is likely to remain
+hidden during the entire CTA process if it is not put explicitly and system?
+atically on the agenda.
+For this reason, participants in the CTA process should be invited not
+only to integrate assessments of users and pressure groups in product spec?
+ifications but also to anticipate possible mediating roles of the technology
+in-design. The vocabulary for analyzing mediation, as presented in the
+Technological Mediation section of this article, could be helpful for doing
+this. As Figure 2 illustrates, approaching the artifact-in-design in terms of
+mediation offers a perspective that can be used when creating a nexus
+between the contexts of design and use.
+When the CTA method is augmented in this way, the method of antici?
+pation by imagination is given a more systematic character. Creating space
+for all relevant stakeholders to anticipate the possible mediating role of the
+technology-in-design enhances the chance that as many mediating roles as
+possible are taken into account. To be sure, this augmentation of the CTA
+methodology does not guarantee that all mediating roles of the technology
+in-design will be predicted. It creates a connection between the inscriptions
+within the context of design and the interpretations or appropriations within
+This content downloaded from 152.14.136.96 on Tue, 15 Nov 2016 12:45:27 UTC
+All use subject to http://about.jstor.org/terms
+-- 17 of 21 --
+Verbeek / Materializing Morality 377
+Figure 2
+Mediation and the Nexus between Design and Use
+User
+Context of design
+Inscription / Delegation
+Artifact
+Mediation
+- emergent
+- intended
+Environment
+Nexus:
+anticipation
+of mediation
+? by imagination
+? augmenting CTA
+-? Context
+of use
+Interpretation / Appropriation
+Mediation:
+? technological
+intentionality
+? scripts
+the context of use, but this cannot possibly cover all emergent mediating
+roles of the technology. Yet it might be a fruitful way to give shape to
+the responsibility of designers that becomes visible from the analysis of
+technical mediation.
+Conclusion
+The analyses of technological mediation, which have been elaborated
+over the past years in STS and philosophy of technology, have major impli?
+cations for the ethics of engineering design. The insight that technologies
+inevitably play a mediating role in the actions of users makes the work of
+designers an inherently moral activity. Ethics is about the question of how
+to act, and technologies appear to be able to give material answers to this
+question by inviting or even exacting specific forms of action when they are
+used. This implies that technological mediation could play an important
+role in the ethics of engineering design. Designers should focus not only on
+This content downloaded from 152.14.136.96 on Tue, 15 Nov 2016 12:45:27 UTC
+All use subject to http://about.jstor.org/terms
+-- 18 of 21 --
+378 Science, Technology, & Human Values
+the functionality of technologies but also on their mediating roles. The fact
+that technologies always mediate human actions charges designers with the
+responsibility to anticipate these mediating roles.
+This anticipation is a complex task, however, since the mediating role of
+technologies is not entirely predictable. But even though the future cannot
+be predicted with full accuracy, ways do exist to develop well-informed and
+rationally grounded conjectures. To cope with the uncertainty regarding the
+future role of technologies in their use contexts, designers should try to
+bridge the gap between the context of use and the context of design.
+One way to do so is by carrying out a mediation analysis with the help
+of the designer's imagination, which can be facilitated by the vocabulary
+developed in this article. Such an analysis will not allow designers to pre?
+dict entirely how the technology they are designing will actually be used,
+but it will help to identify possible use practices and the forms of mediation
+that might emerge alongside it.
+Designers could also make use of an augmented form of constructive
+technology assessment, in which the connection between design and use is
+made not only in imagination but also in practice. In this case, a mediation
+analysis is carried out not by the designer individually but by all stake?
+holders together, who engage in a democratically organized debate to
+decide how to feed back the outcomes of this analysis into the design
+process. Following this method could take away part of the fear that delib?
+erately designing behavior-steering technology would lead to technocracy
+since the inevitable mediating role of technology is made subject to demo?
+cratic decision making here.
+To be sure, this anticipation of technological mediation introduces new
+complexities in the design process. Designers, for instance, might have to
+deal with trade-offs: in some cases, designing a product with specific desir?
+able mediating characteristics might have negative consequences for the
+usefulness or attractiveness of the product. Introducing automatic speed
+influencing in cars will make sure that drivers keep to the speed limit but at
+the cost of the experience of freedom, which appears to be rather important
+to some car drivers, judging by the fierce societal resistance against speed
+limiting measures. Also, when anticipating the mediating role of technolo?
+gies, prototypes might be developed and rejected because they are likely to
+bring about undesirable mediations. Dealing with such trade-offs and unde?
+sirable spin-offs requires a separate moral decision-making process.
+Technology design appears to entail more than inventing functional prod?
+ucts. The perspective of technological mediation, which has been developed
+This content downloaded from 152.14.136.96 on Tue, 15 Nov 2016 12:45:27 UTC
+All use subject to http://about.jstor.org/terms
+-- 19 of 21 --
+Verbeek / Materializing Morality 379
+in STS and in the philosophy of technology, reveals that designing should
+be regarded as a form of materializing morality. This implies that the ethics
+of engineering design should take more seriously the moral charge of
+technological products and rethink the moral responsibility of designers
+accordingly.
+Notes
+1. The text of this section is a reworked version of a section in P. P. Verbeek (forthcoming).
+It can be seen as a summary of the analysis of technological mediation as developed in
+Verbeek (2005).
+2. Ihde (1990) also distinguished two relations that do not directly concern mediation.
+First, he identified the "alterity relation," in which technologies are the terminus of our expe?
+rience. This relation, which mirrors Heidegger's "presence at hand," occurs when interacting
+with a device as if it were another living being, for instance, when buying a train ticket at an
+automatic ticket dispenser. Second, Ihde discerned the "background relation." In this relation,
+technologies play a role at the background of our experience, creating a context for it. An
+example of this relation is the automatic switching on and off of the refrigerator.
+References
+Achterhuis, H. 1995. De moralisering van de apparaten. Socialisme en D?mocratie 52 (1): 3-12.
+-. 1998. De erfenis van de utopie. Amsterdam: Ambo.
+Akrich, M. 1992. The de-scription of technological objects. In Shaping technology/building
+society, ed. W. E. Bijker and J. Law, 205-24. Cambridge: MIT Press.
+Borgmann, A. 1992. Technology and the character of contemporary life. Chicago: University
+of Chicago Press.
+Heidegger, M. 1927. Sein und Zeit. T?bingen, Germany: Max Niemeyer Verlag.
+Ihde, D. 1990. Technology and the lifeworld. Bloomington: Indiana University Press.
+Latour, B. 1992. Where are the missing masses? The sociology of a few mundane artifacts. In
+Shaping technology/building society, ed. W. E. Bijker and J. Law, 225-58. Cambridge:
+MIT Press
+-. 1994. On technical mediation: Philosophy, sociology, genealogy. Common
+Knowledge 3:29-64.
+Rip, A., T. Misa, and j. Schot, eds. 1995. Managing technology in society: The approach of
+constructive technology assessment. London: Pinter.
+Schot, J. 1992. Constructive technology assessment and technology dynamics: The case of
+clean technologies. Science, Technology, & Human Values 17:36-56.
+van Hinte, E. 1997. Eternally Yours: Visions on product endurance. Rotterdam, the
+Netherlands: 010 Publishers.
+Verbeek, P. P. 2002. Pragmatism and pragmata: Bioethics and the technological mediation of
+experience. In Pragmatist ethics for a technological culture, ed. J. Keulartz, M. Schermer,
+M. Korthals, and T. Swierstra, 119-23. Dordrecht, the Netherlands: Kluwer.
+This content downloaded from 152.14.136.96 on Tue, 15 Nov 2016 12:45:27 UTC
+All use subject to http://about.jstor.org/terms
+-- 20 of 21 --
+380 Science, Technology, & Human Values
+-. 2005. What things do: Philosophical reflections on technology, agency, and design.
+University Park: Pennsylvania State University Press.
+-. Forthcoming. Acting artifacts: The technological mediation of action. In User behav?
+ior and technology design: Shaping sustainable relations between consumers and tech?
+nologies, ed. P. P. Verbeek and A. Slob. Dordrecht, the Netherlands: Kluwer.
+Peter-Paul Verbeek is an assistant professor of philosophy of technology at the University of
+Twente, the Netherlands. His current research concerns the morality of technological artifacts
+and its implications for ethical theory and design practices. For more information, see
+http://www.gw.utwente.nl/wjsb/medewerkers/verbeek.
+This content downloaded from 152.14.136.96 on Tue, 15 Nov 2016 12:45:27 UTC
+All use subject to http://about.jstor.org/terms
+-- 21 of 21 --

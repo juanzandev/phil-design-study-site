@@ -1,8 +1,8 @@
 import fs from "node:fs/promises";
 import path from "node:path";
-import { PDFParse } from "pdf-parse";
 
 const ROOT = path.resolve("..", "Philosophy of Design", "Phil Design");
+const TXT_ROOT = path.resolve("src", "data", "pdf-texts");
 const OUT_FILE = path.resolve("src", "data", "readings.json");
 
 const CATEGORY_ORDER = [
@@ -65,6 +65,10 @@ function toId(text) {
 
 function cleanText(raw) {
   return raw
+    .replace(/â|â/g, '"')
+    .replace(/â|â/g, "'")
+    .replace(/â/g, "-")
+    .replace(/Â/g, "")
     .replace(/\r/g, "\n")
     .replace(/[ \t]+/g, " ")
     .replace(/\n{2,}/g, "\n")
@@ -73,10 +77,20 @@ function cleanText(raw) {
 }
 
 function splitSentences(text) {
-  return text
+  const raw = text
+    .replace(/([a-zA-Z])-\s+([a-zA-Z])/g, "$1$2")
     .split(/(?<=[.!?])\s+/)
     .map((s) => s.trim())
     .filter((s) => s.length > 70 && s.length < 320);
+  const seen = new Set();
+  const deduped = [];
+  for (const sentence of raw) {
+    const key = sentence.toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
+    if (seen.has(key)) continue;
+    seen.add(key);
+    deduped.push(sentence);
+  }
+  return deduped;
 }
 
 function parseReadingMeta(fileName) {
@@ -150,14 +164,25 @@ function buildParagraph(candidates, minSentences = 4) {
   return chosen.map((item) => item.sentence).join(" ");
 }
 
+function buildKeyPoints(scoredSentences) {
+  const selected = [...scoredSentences]
+    .sort((a, b) => b.score - a.score || a.index - b.index)
+    .filter((item) => item.sentence.length > 80 && item.sentence.length < 240)
+    .slice(0, 4)
+    .sort((a, b) => a.index - b.index)
+    .map((item) => item.sentence);
+  return selected;
+}
+
 function makeSummary(text, title) {
   const clean = sanitizeForSummary(text);
   const sentences = splitSentences(clean);
   if (sentences.length < 8) {
-    return [
+    const fallbackParagraphs = [
       `${title} examines core questions in philosophy of design by focusing on how form, medium, and interpretation shape meaning. The reading develops conceptual distinctions and uses examples to show how design decisions influence aesthetic and social understanding.`,
       `The text follows a structured argument that clarifies key terms, compares competing positions, and identifies implications for how we evaluate artifacts. Its central contribution is a detailed account of how design frameworks influence perception, judgment, and the relation between practice and theory.`,
     ];
+    return { paragraphs: fallbackParagraphs, keyPoints: fallbackParagraphs };
   }
 
   const weights = keywordWeights(clean);
@@ -179,7 +204,11 @@ function makeSummary(text, title) {
 
   const firstParagraph = buildParagraph(firstPool, 4);
   const secondParagraph = buildParagraph(secondPool, 4);
-  return [firstParagraph, secondParagraph];
+  const keyPoints = buildKeyPoints(scored);
+  return {
+    paragraphs: [firstParagraph, secondParagraph],
+    keyPoints,
+  };
 }
 
 function makeFlashcards(title, summaryParagraphs) {
@@ -219,11 +248,10 @@ function categoryWeight(category) {
   return idx === -1 ? 999 : idx;
 }
 
-async function readPdfText(filePath) {
-  const parser = new PDFParse({ data: await fs.readFile(filePath) });
-  const result = await parser.getText();
-  await parser.destroy();
-  return cleanText(result.text ?? "");
+async function readTxtFromExtraction(category, fileName) {
+  const txtPath = path.join(TXT_ROOT, category, fileName.replace(/\.pdf$/i, ".txt"));
+  const raw = await fs.readFile(txtPath, "utf-8");
+  return cleanText(raw);
 }
 
 function buildGivenQuestionAnswers(readings) {
@@ -278,10 +306,9 @@ async function main() {
 
     const files = (await fs.readdir(catPath)).filter((f) => f.toLowerCase().endsWith(".pdf"));
     for (const fileName of files) {
-      const filePath = path.join(catPath, fileName);
-      const text = await readPdfText(filePath);
+      const text = await readTxtFromExtraction(category, fileName);
       const meta = parseReadingMeta(fileName);
-      const summary = makeSummary(text, `${meta.textName} by ${meta.author}`);
+      const summaryObj = makeSummary(text, `${meta.textName} by ${meta.author}`);
       readings.push({
         id: toId(`${category}-${meta.displayTitle}`),
         title: meta.displayTitle,
@@ -290,8 +317,9 @@ async function main() {
         week: meta.week,
         category,
         fileName,
-        summary,
-        flashcards: makeFlashcards(meta.textName, summary),
+        summary: summaryObj.paragraphs,
+        keyPoints: summaryObj.keyPoints,
+        flashcards: makeFlashcards(meta.textName, summaryObj.paragraphs),
       });
     }
   }

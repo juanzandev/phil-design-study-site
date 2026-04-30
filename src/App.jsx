@@ -63,6 +63,16 @@ function ReadingPage() {
           <p>{reading.summary[0]}</p>
           <p>{reading.summary[1]}</p>
         </div>
+        {reading.keyPoints?.length ? (
+          <div className="keyPoints">
+            <h3>Key Points</h3>
+            <ul>
+              {reading.keyPoints.map((point, index) => (
+                <li key={index}>{point}</li>
+              ))}
+            </ul>
+          </div>
+        ) : null}
       </section>
     </Layout>
   );
