@@ -373,7 +373,6 @@ function CarModePage() {
   }, []);
 
   const [index, setIndex] = useState(0);
-  const [isPlaying, setIsPlaying] = useState(false);
   const [rate, setRate] = useState("1");
   const audioRef = useRef(null);
   const shouldAutoPlayNext = useRef(false);
@@ -395,19 +394,8 @@ function CarModePage() {
     if (!audioRef.current) return;
     if (!shouldAutoPlayNext.current) return;
     shouldAutoPlayNext.current = false;
-    audioRef.current.play().then(() => setIsPlaying(true)).catch(() => setIsPlaying(false));
+    audioRef.current.play().catch(() => {});
   }, [index]);
-
-  const togglePlay = async () => {
-    if (!audioRef.current) return;
-    if (audioRef.current.paused) {
-      await audioRef.current.play();
-      setIsPlaying(true);
-    } else {
-      audioRef.current.pause();
-      setIsPlaying(false);
-    }
-  };
 
   return (
     <Layout>
@@ -432,15 +420,11 @@ function CarModePage() {
             shouldAutoPlayNext.current = true;
             setIndex((currentIndex) => (currentIndex + 1) % playlist.length);
           }}
-          onPlayStateChange={setIsPlaying}
         />
 
         <div className="carControls">
           <button type="button" className="carBtn" onClick={goPrev}>
             ◀◀
-          </button>
-          <button type="button" className="carBtn carPrimary" onClick={togglePlay}>
-            {isPlaying ? "Pause" : "Play"}
           </button>
           <button type="button" className="carBtn" onClick={goNext}>
             ▶▶

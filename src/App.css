@@ -427,7 +427,7 @@ select option {
 .carControls {
   margin-top: 0.75rem;
   display: grid;
-  grid-template-columns: 1fr 1.2fr 1fr 140px;
+  grid-template-columns: 1fr 1fr 140px;
   gap: 0.5rem;
   align-items: center;
 }
@@ -440,12 +440,6 @@ select option {
   padding: 0.6rem 0.8rem;
   font-size: 0.95rem;
   cursor: pointer;
-}
-
-.carPrimary {
-  background: linear-gradient(135deg, rgba(93, 85, 202, 0.8), rgba(125, 89, 233, 0.8));
-  border: 1px solid rgba(176, 158, 255, 0.5);
-  font-weight: 700;
 }
 
 .carQueue {
@@ -552,7 +546,7 @@ select option {
   }
 
   .carControls {
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
   }
 
   .customAudioButtons {
@@ -561,10 +555,6 @@ select option {
 
   .customAudioTimeline {
     grid-template-columns: 38px 1fr 38px;
-  }
-
-  .carPrimary {
-    grid-column: span 2;
   }
 
   .carQueue {
